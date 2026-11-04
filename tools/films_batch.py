@@ -67,9 +67,12 @@ EVENT = re.compile(r'\b9/11\b|september 11|terroris|al-qaeda|hijack|bombing|mass
 # The categories that exist and hold films about architecture itself, as the harvest report lists them. Fiction
 # inside them is already gone by then, because Wikidata says whether a film is a documentary. "Architecture film
 # festivals" is left out: a festival is not a film.
+# "tmdb-core:" is TMDB's own documentary genre crossed with a word that means architecture and nothing else
+# (see TMDB_KEYWORDS_CORE in harvest_films.py). "tmdb-wide:" is deliberately absent: those words also reach
+# fashion and product design, so those candidates still have to pass the text check below.
 TRUSTED = re.compile(r'wikipedia:(Documentary films about architecture|Films about architecture|'
                      r'Films about architects|Documentary films about urban studies)'
-                     r'|tmdb-keyword:', re.I)
+                     r'|tmdb-core:', re.I)
 
 
 def relevant(c):
@@ -86,6 +89,18 @@ def relevant(c):
     if TRUSTED.search(src) or 'architect-subject' in src or 'seed-title' in src:
         return True
     return bool(ARCH.search(text))
+
+
+def cmd_count():
+    """How many candidates are left, counted the way cmd_next hands them out.
+
+    The old sum subtracted the whole reviewed list from the relevant one, which counted films already in the seed
+    twice and reviewed keys that were never relevant at all. It reported 16 left when there was 1.
+    """
+    cands = [c for c in load(CANDS, []) if relevant(c)]
+    seen = set(load(REVIEWED, [])) | {key_of(f['title'], f.get('year')) for f in load(SEED, [])}
+    left = {key_of(c['title'], c.get('year')) for c in cands} - seen
+    print(f'{len(cands)} relevant candidates; {len(left)} still unreviewed')
 
 
 def cmd_next(n):
@@ -149,8 +164,12 @@ def cmd_add(path):
                 errors.append(f'{tag}: a free watch link needs a checked date')
         if f.get('trailer') and not re.fullmatch(r'[A-Za-z0-9_-]{11}', f['trailer']):
             errors.append(f'{tag}: trailer must be an 11-character YouTube id')
-        if f.get('id') in have_ids or any(x['id'] == f.get('id') for x in new):
-            errors.append(f'{tag}: id already used')
+        if f.get('id') in have_ids:
+            # a duplicate under a different year slips the key check below, so this is the one that catches it
+            was = next((x for x in seed if x['id'] == f['id']), {})
+            errors.append(f'{tag}: already on the shelf as {was.get("title", "?")!r} ({was.get("year") or "no year"})')
+        elif any(x['id'] == f.get('id') for x in new):
+            errors.append(f'{tag}: two films in this batch share the id')
         if key_of(f.get('title', ''), f.get('year')) in have_keys:
             errors.append(f'{tag}: already on the shelf')
         # A film whose year no source gives keeps y = 0 and an empty year, rather than being given a guessed one.
@@ -167,7 +186,8 @@ def cmd_add(path):
                     'genres': f.get('genres', []), 'topics': f.get('topics', []), 'movements': f.get('movements', []),
                     'featured': f.get('featured'), 'ratings': f.get('ratings', []), 'imdb': f.get('imdb'), 'letterboxd': f.get('letterboxd'), 'qid': f.get('qid'),
                     'tags': f.get('tags', []), 'sources': f.get('sources', []), 'watch': f.get('watch', []),
-                    'trailer': f.get('trailer'), 'image': f.get('image'), 'tmdb': f.get('tmdb')})
+                    'trailer': f.get('trailer'), 'image': f.get('image'), 'tmdb': f.get('tmdb'),
+                    'tmdb_kind': f.get('tmdb_kind')})
     if errors:
         print('Batch refused, nothing added:\n  ' + '\n  '.join(errors)); sys.exit(1)
     seed += new
@@ -192,5 +212,4 @@ def cmd_stats():
 if __name__ == '__main__':
     a = sys.argv[1:]
     {'next': lambda: cmd_next(int(a[1]) if len(a) > 1 else 40), 'add': lambda: cmd_add(a[1]), 'stats': cmd_stats,
-     'count': lambda: print(sum(1 for c in load(CANDS, []) if relevant(c)), 'relevant candidates;',
-                            len([c for c in load(CANDS, []) if relevant(c)]) - len(load(REVIEWED, [])), 'still unreviewed')}[a[0] if a else 'stats']()
+     'count': cmd_count}[a[0] if a else 'stats']()

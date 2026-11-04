@@ -13,6 +13,9 @@ enough. Prints a report and exits non-zero if anything failed, so a bad draft ca
 import json, re, sys, unicodedata
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import films_ref
+
 GENRES = ['Portrait of an architect', 'Building story', 'City & urbanism', 'Housing & social',
           'Design process', 'Movement & history', 'Landscape & sustainability']
 KINDS = ['feature', 'series', 'episode', 'lecture']
@@ -27,18 +30,18 @@ def norm(s):
 
 
 def main(cand_path, draft_paths):
-    cands = {c['qid']: c for c in json.loads(Path(cand_path).read_text()) if c.get('qid')}
+    cands = films_ref.index(json.loads(Path(cand_path).read_text()))
     rows, bad = [], []
     for dp in draft_paths:
         for d in json.loads(Path(dp).read_text()):
-            qid, title = d.get('qid'), d.get('title', '?')
+            title = d.get('title', '?')
             where = f'{Path(dp).name} {title[:40]}'
             if d.get('verdict') == 'reject':
                 rows.append(('reject', title, d.get('why', '')))
                 continue
-            c = cands.get(qid)
+            c = films_ref.find(cands, d)
             if not c:
-                bad.append(f'{where}: qid {qid!r} is not in the candidates'); continue
+                bad.append(f'{where}: ref {d.get("ref") or d.get("qid")!r} is not in the candidates'); continue
             # the source is the Wikipedia opening paragraph, or for a film that came from TMDB, its overview
             q, extract = d.get('summary_quote'), (c.get('extract') or '') + '\n' + (c.get('overview') or '')
             if not q:

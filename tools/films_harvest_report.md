@@ -1,6 +1,6 @@
 # Films harvest
 
-Candidates: **389**
+Candidates: **1249**
 
 | Source | Films |
 |---|---|
@@ -16,11 +16,11 @@ Candidates: **389**
 | wikipedia · Architecture film festivals | 5 |
 | wikipedia · Films about architects | 45 |
 | wikipedia · Documentary films about urban studies | 80 |
-| tmdb | 1 (key set) |
+| tmdb | 886 (key set) |
 
 - Naming an architect on the wall: 15
-- With a year: 345
+- With a year: 1160
 - With a runtime: 235
 - With an English Wikipedia page: 272
 - With an opening paragraph to quote: 271
-- Documentary by Wikidata (not fiction): 263
+- Documentary by Wikidata (not fiction): 1124

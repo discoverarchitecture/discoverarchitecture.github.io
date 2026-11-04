@@ -13,10 +13,14 @@ Two rules this file keeps:
     streaming services; the page offers four plain links instead and says so plainly. The title and description
     promise only what the page delivers.
   * A page too thin to be worth a visit is marked noindex and kept out of the sitemap: a film with no summary, or
-    with neither a director nor a year, is a stub, and sending Google to a stub costs the whole site.
+    with neither a director nor a year, is a stub, and sending Google to a stub costs the whole site. On top of
+    that, only the films listed in tools/films/index_keep.txt are offered to Google at all, so the shelf can grow
+    without a hundred new pages arriving at once while Google is still re-judging the site.
 """
-import json, re
+import functools, json, re
 from pathlib import Path
+
+KEEP_FILE = Path(__file__).resolve().parent / 'films' / 'index_keep.txt'
 
 FOLDER = 'documentaries'
 COUNTRY_NAMES = {'US': 'the United States', 'GB': 'the United Kingdom', 'DE': 'Germany', 'FR': 'France',
@@ -30,9 +34,29 @@ def films(bp):
     return bp.read_js('films.js', 'FILMS') or []
 
 
+@functools.lru_cache(maxsize=1)
+def index_keep():
+    """The film ids whose pages may be offered to Google. A missing file means every page may be."""
+    if not KEEP_FILE.exists():
+        return None
+    return frozenset(ln.strip() for ln in KEEP_FILE.read_text().splitlines()
+                     if ln.strip() and not ln.lstrip().startswith('#'))
+
+
+def thin(f):
+    """Too little on the page to send a searcher to, whatever the release list says."""
+    return not (f.get('summary') and (f.get('director') or f.get('year')))
+
+
 def indexable(f):
-    """Worth sending a searcher to: it says what it is about, and names a director or a year."""
-    return bool(f.get('summary')) and bool(f.get('director') or f.get('year'))
+    """Worth sending a searcher to: it says what it is about, names a director or a year, and is released.
+
+    "Released" is the gate in tools/films/index_keep.txt. A film outside it is still on the wall, still linked
+    from everywhere, and still has its page for anyone who follows a link; the page just carries noindex and
+    stays out of the sitemap until someone adds its id.
+    """
+    keep = index_keep()
+    return not thin(f) and (keep is None or f['id'] in keep)
 
 
 def title_for(bp, f):
@@ -263,6 +287,8 @@ def build(bp, items):
                 x.unlink()
             d.rmdir()
     urls = [f'{bp.BASE}{FOLDER}/'] + [f'{bp.BASE}{FOLDER}/{f["slug"]}/' for f in all_films if indexable(f)]
-    thin = sum(1 for f in all_films if not indexable(f))
-    print(f'  {len(all_films)} documentary pages; {len(urls) - 1} in the sitemap, {thin} too thin to index')
+    stubs = sum(1 for f in all_films if thin(f))
+    held = sum(1 for f in all_films if not thin(f) and not indexable(f))
+    print(f'  {len(all_films)} documentary pages; {len(urls) - 1} in the sitemap, {stubs} too thin to index'
+          + (f', {held} held back by films/index_keep.txt' if held else ''))
     return urls

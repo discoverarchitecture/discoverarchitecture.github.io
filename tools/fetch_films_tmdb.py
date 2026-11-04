@@ -96,11 +96,24 @@ def fold(s):
 
 
 def find(f, key):
-    """The film's TMDB record: the id Wikidata gave, else a title search that must match the title closely."""
+    """The film's TMDB record: a stored id, else a title search that must match the title closely.
+
+    TMDB numbers films and series in separate spaces, so id 70177 is one thing under /movie and another under
+    /tv. A stored id is therefore only ever fetched under the kind it was stored with. Where no kind was stored
+    (the older entries, whose id came from Wikidata's film property) the record has to answer to the title
+    before it is accepted, so a collision in the other space cannot pass itself off as the film.
+    """
+    if f.get('tmdb') and f.get('tmdb_kind'):
+        d = get(f'{TMDB}/{f["tmdb_kind"]}/{f["tmdb"]}', key)
+        if d and d.get('id'):
+            return f['tmdb_kind'], d
+        return None, None            # the id is wrong, and guessing the other space would be worse
+
     for kind in (['tv'] if f.get('kind') == 'series' else ['movie', 'tv']):
         if f.get('tmdb'):
             d = get(f'{TMDB}/{kind}/{f["tmdb"]}', key)
-            if d and d.get('id'):
+            titles = {fold(d.get(k)) for k in ('title', 'name', 'original_title', 'original_name')} if d else set()
+            if d and d.get('id') and fold(f['title']) in titles:
                 return kind, d
         q = urllib.parse.quote(f['title'])
         d = get(f'{TMDB}/search/{kind}?query={q}' + (f'&year={f["y"]}' if f.get('y') else ''), key)

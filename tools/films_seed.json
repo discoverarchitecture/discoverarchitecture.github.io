@@ -5507,5 +5507,2181 @@
    "credit": "TMDB",
    "source": "https://www.themoviedb.org/movie/39786"
   }
+ },
+ {
+  "id": "grand-designs",
+  "title": "Grand Designs",
+  "year": "1999",
+  "y": 1999,
+  "kind": "series",
+  "director": [],
+  "runtime_min": null,
+  "language": null,
+  "summary": "A British television series on unusual and elaborate architectural homebuilding projects.",
+  "about": {
+   "architects": [],
+   "buildings": []
+  },
+  "genres": [
+   "Building story"
+  ],
+  "topics": [],
+  "movements": [],
+  "featured": null,
+  "ratings": [],
+  "imdb": null,
+  "letterboxd": null,
+  "qid": null,
+  "tags": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/tv/1831",
+    "quote": "British television series which features unusual and often elaborate architectural homebuilding projects."
+   }
+  ],
+  "watch": [],
+  "trailer": null,
+  "image": null,
+  "tmdb": 1831,
+  "tmdb_kind": "tv"
+ },
+ {
+  "id": "the-world-s-most-extraordinary-homes",
+  "title": "The World's Most Extraordinary Homes",
+  "year": "2017",
+  "y": 2017,
+  "kind": "series",
+  "director": [],
+  "runtime_min": null,
+  "language": null,
+  "summary": "Architect Piers Taylor and Caroline Quentin explore extraordinary homes built in unusual locations around the world.",
+  "about": {
+   "architects": [],
+   "buildings": []
+  },
+  "genres": [
+   "Building story"
+  ],
+  "topics": [],
+  "movements": [],
+  "featured": null,
+  "ratings": [],
+  "imdb": null,
+  "letterboxd": null,
+  "qid": null,
+  "tags": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/tv/71796",
+    "quote": "Award-winning architect Piers Taylor and actress and property enthusiast Caroline Quentin explore extraordinary homes built in mountain, forest, coast and underground locations around the world."
+   }
+  ],
+  "watch": [],
+  "trailer": null,
+  "image": null,
+  "tmdb": 71796,
+  "tmdb_kind": "tv"
+ },
+ {
+  "id": "architecton",
+  "title": "Architecton",
+  "year": "2024",
+  "y": 2024,
+  "kind": "feature",
+  "director": [],
+  "runtime_min": null,
+  "language": null,
+  "summary": "A journey through concrete and stone, the materials that make up our habitat.",
+  "about": {
+   "architects": [],
+   "buildings": []
+  },
+  "genres": [
+   "Building story"
+  ],
+  "topics": [],
+  "movements": [],
+  "featured": null,
+  "ratings": [],
+  "imdb": null,
+  "letterboxd": null,
+  "qid": null,
+  "tags": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/1234597",
+    "quote": "An extraordinary journey through the material that makes up our habitat: concrete and its ancestor, stone."
+   }
+  ],
+  "watch": [],
+  "trailer": null,
+  "image": null,
+  "tmdb": 1234597,
+  "tmdb_kind": "movie"
+ },
+ {
+  "id": "brooklyn-bridge",
+  "title": "Brooklyn Bridge",
+  "year": "1981",
+  "y": 1981,
+  "kind": "feature",
+  "director": [
+   "Ken Burns"
+  ],
+  "runtime_min": 58,
+  "language": null,
+  "summary": "A documentary on the history of the Brooklyn Bridge.",
+  "about": {
+   "architects": [],
+   "buildings": []
+  },
+  "genres": [
+   "Building story"
+  ],
+  "topics": [],
+  "movements": [],
+  "featured": null,
+  "ratings": [],
+  "imdb": "tt0082106",
+  "letterboxd": null,
+  "qid": "Q929432",
+  "tags": [],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Brooklyn_Bridge_(film)",
+    "quote": "Brooklyn Bridge is a documentary film on the history of the Brooklyn Bridge and the directorial debut of Ken Burns."
+   }
+  ],
+  "watch": [],
+  "trailer": null,
+  "image": null,
+  "tmdb": 67079,
+  "tmdb_kind": "movie"
+ },
+ {
+  "id": "the-human-scale",
+  "title": "The Human Scale",
+  "year": "2012",
+  "y": 2012,
+  "kind": "feature",
+  "director": [],
+  "runtime_min": null,
+  "language": null,
+  "summary": "Danish architect Jan Gehl has studied how people behave in cities for forty years.",
+  "about": {
+   "architects": [],
+   "buildings": []
+  },
+  "genres": [
+   "City & urbanism"
+  ],
+  "topics": [],
+  "movements": [],
+  "featured": null,
+  "ratings": [],
+  "imdb": null,
+  "letterboxd": null,
+  "qid": null,
+  "tags": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/176182",
+    "quote": "The Danish architect and professor Jan Gehl has studied human behavior in cities through 40 years."
+   }
+  ],
+  "watch": [],
+  "trailer": null,
+  "image": null,
+  "tmdb": 176182,
+  "tmdb_kind": "movie"
+ },
+ {
+  "id": "brasilia-contradictions-of-a-new-city",
+  "title": "Brasilia, Contradictions of a New City",
+  "year": "1968",
+  "y": 1968,
+  "kind": "feature",
+  "director": [],
+  "runtime_min": null,
+  "language": null,
+  "summary": "A 1968 documentary on the new Brazilian capital, Brasília.",
+  "about": {
+   "architects": [],
+   "buildings": []
+  },
+  "genres": [
+   "City & urbanism"
+  ],
+  "topics": [],
+  "movements": [],
+  "featured": null,
+  "ratings": [],
+  "imdb": null,
+  "letterboxd": null,
+  "qid": null,
+  "tags": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/258071",
+    "quote": "produce a documentary on the new Brazilian capital city of Brasília"
+   }
+  ],
+  "watch": [],
+  "trailer": null,
+  "image": null,
+  "tmdb": 258071,
+  "tmdb_kind": "movie"
+ },
+ {
+  "id": "citizen-jane-battle-for-the-city",
+  "title": "Citizen Jane: Battle for the City",
+  "year": "2017",
+  "y": 2017,
+  "kind": "feature",
+  "director": [],
+  "runtime_min": null,
+  "language": null,
+  "summary": "Urban activist Jane Jacobs fights to save historic New York City from redevelopment in the 1960s.",
+  "about": {
+   "architects": [],
+   "buildings": []
+  },
+  "genres": [
+   "City & urbanism"
+  ],
+  "topics": [],
+  "movements": [],
+  "featured": null,
+  "ratings": [],
+  "imdb": null,
+  "letterboxd": null,
+  "qid": null,
+  "tags": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/411013",
+    "quote": "Writer and urban activist Jane Jacobs fights to save historic New York City during the ruthless redevelopment era of urban planner Robert Moses in the 1960s."
+   }
+  ],
+  "watch": [],
+  "trailer": null,
+  "image": null,
+  "tmdb": 411013,
+  "tmdb_kind": "movie"
+ },
+ {
+  "id": "the-city",
+  "title": "The City",
+  "year": "1939",
+  "y": 1939,
+  "kind": "feature",
+  "director": [],
+  "runtime_min": null,
+  "language": null,
+  "summary": "A 1939 documentary on city planning that presents suburbs as a solution to inner-city decay.",
+  "about": {
+   "architects": [],
+   "buildings": []
+  },
+  "genres": [
+   "City & urbanism"
+  ],
+  "topics": [],
+  "movements": [],
+  "featured": null,
+  "ratings": [],
+  "imdb": null,
+  "letterboxd": null,
+  "qid": null,
+  "tags": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/163093",
+    "quote": "A prescient documentary about city planning, which presents idyllic suburbs and nuclear families as a solution to the chaos, poverty and social decay of industrialized inner cities."
+   }
+  ],
+  "watch": [],
+  "trailer": null,
+  "image": null,
+  "tmdb": 163093,
+  "tmdb_kind": "movie"
+ },
+ {
+  "id": "bauhaus-spirit-100-years-of-bauhaus",
+  "title": "Bauhaus Spirit: 100 Years of Bauhaus",
+  "year": "2018",
+  "y": 2018,
+  "kind": "feature",
+  "director": [],
+  "runtime_min": null,
+  "language": null,
+  "summary": "A film on the Bauhaus, founded in 1919 by Walter Gropius to unite the arts and architecture.",
+  "about": {
+   "architects": [
+    "Walter Gropius"
+   ],
+   "buildings": []
+  },
+  "genres": [
+   "Movement & history"
+  ],
+  "topics": [],
+  "movements": [],
+  "featured": null,
+  "ratings": [],
+  "imdb": null,
+  "letterboxd": null,
+  "qid": null,
+  "tags": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/514215",
+    "quote": "Founded in 1919 by Walter Gropius, Bauhaus was supposed to unite sculpture, painting, design and architecture into a single combined constructive discipline."
+   }
+  ],
+  "watch": [],
+  "trailer": null,
+  "image": null,
+  "tmdb": 514215,
+  "tmdb_kind": "movie"
+ },
+ {
+  "id": "the-untold-story-of-the-vatican",
+  "title": "The Untold Story of the Vatican",
+  "year": "2020",
+  "y": 2020,
+  "kind": "feature",
+  "director": [],
+  "runtime_min": null,
+  "language": null,
+  "summary": "A history of the Vatican as an architectural masterpiece and its extensions.",
+  "about": {
+   "architects": [],
+   "buildings": []
+  },
+  "genres": [
+   "Building story"
+  ],
+  "topics": [],
+  "movements": [],
+  "featured": null,
+  "ratings": [],
+  "imdb": null,
+  "letterboxd": null,
+  "qid": null,
+  "tags": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/772796",
+    "quote": "a true understanding of the history of this architectural masterpiece and its extensions"
+   }
+  ],
+  "watch": [],
+  "trailer": null,
+  "image": null,
+  "tmdb": 772796,
+  "tmdb_kind": "movie"
+ },
+ {
+  "id": "big-time",
+  "title": "Big Time",
+  "year": "2017",
+  "y": 2017,
+  "kind": "feature",
+  "director": [],
+  "runtime_min": null,
+  "language": null,
+  "summary": "Follows architect Bjarke Ingels for six years as he struggles to complete his largest projects, including W57 and Two World Trade Center.",
+  "about": {
+   "architects": [
+    "BIG (Bjarke Ingels Group)"
+   ],
+   "buildings": []
+  },
+  "genres": [
+   "Portrait of an architect"
+  ],
+  "topics": [],
+  "movements": [],
+  "featured": null,
+  "ratings": [],
+  "imdb": null,
+  "letterboxd": null,
+  "qid": null,
+  "tags": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/463593",
+    "quote": "Big Time gets up close with Danish architectural prodigy Bjarke Ingels over a period of six years while he is struggling to complete his largest projects yet, the Manhattan skyscraper W57 and Two World Trade Center"
+   }
+  ],
+  "watch": [],
+  "trailer": null,
+  "image": null,
+  "tmdb": 463593,
+  "tmdb_kind": "movie"
+ },
+ {
+  "id": "petra-secrets-of-the-ancient-builders",
+  "title": "Petra: Secrets of the Ancient Builders",
+  "year": "2019",
+  "y": 2019,
+  "kind": "feature",
+  "director": [],
+  "runtime_min": null,
+  "language": null,
+  "summary": "Asks how the architectural wonder of Petra in the Jordanian desert was created over 2,000 years ago.",
+  "about": {
+   "architects": [],
+   "buildings": []
+  },
+  "genres": [
+   "Building story"
+  ],
+  "topics": [],
+  "movements": [],
+  "featured": null,
+  "ratings": [],
+  "imdb": null,
+  "letterboxd": null,
+  "qid": null,
+  "tags": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/756985",
+    "quote": "In the heart of the Jordanian desert, the ancient city of Petra is full of mysteries. How was this architectural wonder created over 2,000 years ago?"
+   }
+  ],
+  "watch": [],
+  "trailer": null,
+  "image": null,
+  "tmdb": 756985,
+  "tmdb_kind": "movie"
+ },
+ {
+  "id": "eiffel-s-race-to-the-top",
+  "title": "Eiffel's Race to the Top",
+  "year": "2023",
+  "y": 2023,
+  "kind": "feature",
+  "director": [],
+  "runtime_min": null,
+  "language": null,
+  "summary": "The story of the challenge to erect the Eiffel Tower, a thousand-foot tower.",
+  "about": {
+   "architects": [],
+   "buildings": [
+    "eiffel-tower"
+   ]
+  },
+  "genres": [
+   "Building story"
+  ],
+  "topics": [],
+  "movements": [],
+  "featured": null,
+  "ratings": [],
+  "imdb": null,
+  "letterboxd": null,
+  "qid": null,
+  "tags": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/1203493",
+    "quote": "Behind the iconic Eiffel Tower lies the story of an incredible challenge to erect a thousand-foot tower"
+   }
+  ],
+  "watch": [],
+  "trailer": null,
+  "image": null,
+  "tmdb": 1203493,
+  "tmdb_kind": "movie"
+ },
+ {
+  "id": "going-attractions-the-definitive-story-of-the-movie-palace",
+  "title": "Going Attractions: The Definitive Story of the Movie Palace",
+  "year": "2019",
+  "y": 2019,
+  "kind": "feature",
+  "director": [],
+  "runtime_min": null,
+  "language": null,
+  "summary": "Tracks the eventual decline of the movie palaces.",
+  "about": {
+   "architects": [],
+   "buildings": []
+  },
+  "genres": [
+   "Building story"
+  ],
+  "topics": [],
+  "movements": [],
+  "featured": null,
+  "ratings": [],
+  "imdb": null,
+  "letterboxd": null,
+  "qid": null,
+  "tags": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/636474",
+    "quote": "The film also tracks the eventual decline of the palaces"
+   }
+  ],
+  "watch": [],
+  "trailer": null,
+  "image": null,
+  "tmdb": 636474,
+  "tmdb_kind": "movie"
+ },
+ {
+  "id": "secrets-of-the-parthenon",
+  "title": "Secrets of the Parthenon",
+  "year": "2008",
+  "y": 2008,
+  "kind": "feature",
+  "director": [],
+  "runtime_min": null,
+  "language": null,
+  "summary": "A modern restoration team tries to uncover how the ancient Greeks built the Parthenon, to save it from collapse.",
+  "about": {
+   "architects": [],
+   "buildings": []
+  },
+  "genres": [
+   "Building story"
+  ],
+  "topics": [],
+  "movements": [],
+  "featured": null,
+  "ratings": [],
+  "imdb": null,
+  "letterboxd": null,
+  "qid": null,
+  "tags": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/395779",
+    "quote": "To save it from collapse, the modern restoration team must uncover the secrets of how the ancient Greeks built this icon of western civilization"
+   }
+  ],
+  "watch": [],
+  "trailer": null,
+  "image": null,
+  "tmdb": 395779,
+  "tmdb_kind": "movie"
+ },
+ {
+  "id": "the-stone-carvers",
+  "title": "The Stone Carvers",
+  "year": "1984",
+  "y": 1984,
+  "kind": "feature",
+  "director": [],
+  "runtime_min": null,
+  "language": null,
+  "summary": "Follows some of the last stone carvers in the United States, completing sculptures on the Washington National Cathedral.",
+  "about": {
+   "architects": [],
+   "buildings": []
+  },
+  "genres": [
+   "Building story"
+  ],
+  "topics": [],
+  "movements": [],
+  "featured": null,
+  "ratings": [],
+  "imdb": null,
+  "letterboxd": null,
+  "qid": null,
+  "tags": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/244656",
+    "quote": "A look at some of the last stone carvers working in the United States, those completing the sculptures adorning the Washington National Cathedral"
+   }
+  ],
+  "watch": [],
+  "trailer": null,
+  "image": null,
+  "tmdb": 244656,
+  "tmdb_kind": "movie"
+ },
+ {
+  "id": "building-the-gherkin",
+  "title": "Building the Gherkin",
+  "year": "2005",
+  "y": 2005,
+  "kind": "feature",
+  "director": [],
+  "runtime_min": null,
+  "language": null,
+  "summary": "A 40-storey steel and glass tower sparks controversy as it is built.",
+  "about": {
+   "architects": [
+    "Norman Foster"
+   ],
+   "buildings": [
+    "30-st-mary-axe"
+   ]
+  },
+  "genres": [
+   "Building story"
+  ],
+  "topics": [],
+  "movements": [],
+  "featured": null,
+  "ratings": [],
+  "imdb": null,
+  "letterboxd": null,
+  "qid": null,
+  "tags": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/357857",
+    "quote": "The 40-storey steel and glass tower sparks further controversy"
+   }
+  ],
+  "watch": [],
+  "trailer": null,
+  "image": null,
+  "tmdb": 357857,
+  "tmdb_kind": "movie"
+ },
+ {
+  "id": "high-steel",
+  "title": "High Steel",
+  "year": "1965",
+  "y": 1965,
+  "kind": "feature",
+  "director": [],
+  "runtime_min": null,
+  "language": null,
+  "summary": "Follows Mohawk ironworkers from Kahnawake, famed for erecting the steel frames of skyscrapers.",
+  "about": {
+   "architects": [],
+   "buildings": []
+  },
+  "genres": [
+   "Building story"
+  ],
+  "topics": [],
+  "movements": [],
+  "featured": null,
+  "ratings": [],
+  "imdb": null,
+  "letterboxd": null,
+  "qid": null,
+  "tags": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/242508",
+    "quote": "They are the Mohawk Indians from Kahnawake, near Montréal, famed for their skill in erecting the steel frames of skyscrapers"
+   }
+  ],
+  "watch": [],
+  "trailer": null,
+  "image": null,
+  "tmdb": 242508,
+  "tmdb_kind": "movie"
+ },
+ {
+  "id": "maillart-s-bridges",
+  "title": "Maillart's Bridges",
+  "year": "2001",
+  "y": 2001,
+  "kind": "feature",
+  "director": [],
+  "runtime_min": null,
+  "language": null,
+  "summary": "A film on the Swiss architect Robert Maillart and his renowned concrete bridges.",
+  "about": {
+   "architects": [
+    "Robert Maillart"
+   ],
+   "buildings": []
+  },
+  "genres": [
+   "Design process"
+  ],
+  "topics": [],
+  "movements": [],
+  "featured": null,
+  "ratings": [],
+  "imdb": null,
+  "letterboxd": null,
+  "qid": null,
+  "tags": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/310734",
+    "quote": "Famed Swiss architect and artist Robert Maillart was renowned for his concrete bridges"
+   }
+  ],
+  "watch": [],
+  "trailer": null,
+  "image": null,
+  "tmdb": 310734,
+  "tmdb_kind": "movie"
+ },
+ {
+  "id": "sagrada-familia-le-defi-de-gaudi",
+  "title": "Sagrada Familia, le défi de Gaudi",
+  "year": "2022",
+  "y": 2022,
+  "kind": "feature",
+  "director": [
+   "Marc Jampolsky"
+  ],
+  "runtime_min": 92,
+  "language": null,
+  "summary": "Traces the history of the Sagrada Familia, a spectacular and unfinished work.",
+  "about": {
+   "architects": [
+    "Antoni Gaudi"
+   ],
+   "buildings": [
+    "sagrada-familia"
+   ]
+  },
+  "genres": [
+   "Building story"
+  ],
+  "topics": [],
+  "movements": [],
+  "featured": null,
+  "ratings": [],
+  "imdb": "tt19718560",
+  "letterboxd": null,
+  "qid": "Q115156577",
+  "tags": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/960477",
+    "quote": "this unseen documentary traces the history of this spectacular and unfinished work"
+   }
+  ],
+  "watch": [],
+  "trailer": null,
+  "image": null,
+  "tmdb": 960477,
+  "tmdb_kind": "movie"
+ },
+ {
+  "id": "st-peter-s-and-the-papal-basilicas-of-rome-3d",
+  "title": "St. Peter's and the Papal Basilicas of Rome 3D",
+  "year": "2016",
+  "y": 2016,
+  "kind": "feature",
+  "director": [],
+  "runtime_min": null,
+  "language": null,
+  "summary": "A film tour of Rome's Papal Basilicas, shot from previously unseen points of view.",
+  "about": {
+   "architects": [],
+   "buildings": []
+  },
+  "genres": [
+   "Building story"
+  ],
+  "topics": [],
+  "movements": [],
+  "featured": null,
+  "ratings": [],
+  "imdb": null,
+  "letterboxd": null,
+  "qid": null,
+  "tags": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/396151",
+    "quote": "A film tour shot from previously unseen points of view"
+   }
+  ],
+  "watch": [],
+  "trailer": null,
+  "image": null,
+  "tmdb": 396151,
+  "tmdb_kind": "movie"
+ },
+ {
+  "id": "architecture-of-infinity",
+  "title": "Architecture of Infinity",
+  "year": "2019",
+  "y": 2019,
+  "kind": "feature",
+  "director": [],
+  "runtime_min": null,
+  "language": null,
+  "summary": "Asks how structures can make us feel transcendence.",
+  "about": {
+   "architects": [
+    "Peter Zumthor",
+    "Peter Märkli",
+    "Álvaro Siza Vieira"
+   ],
+   "buildings": []
+  },
+  "genres": [
+   "Building story"
+  ],
+  "topics": [],
+  "movements": [],
+  "featured": null,
+  "ratings": [],
+  "imdb": null,
+  "letterboxd": null,
+  "qid": null,
+  "tags": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/607302",
+    "quote": "How can structures, which take up defined, rigid portions of space, make us feel transcendence?"
+   }
+  ],
+  "watch": [],
+  "trailer": null,
+  "image": null,
+  "tmdb": 607302,
+  "tmdb_kind": "movie"
+ },
+ {
+  "id": "the-real-thing",
+  "title": "The Real Thing",
+  "year": "2018",
+  "y": 2018,
+  "kind": "feature",
+  "director": [],
+  "runtime_min": null,
+  "language": null,
+  "summary": "A journey across three continents to see the architecture of imitation and the fake.",
+  "about": {
+   "architects": [],
+   "buildings": [
+    "eiffel-tower"
+   ]
+  },
+  "genres": [
+   "Building story"
+  ],
+  "topics": [],
+  "movements": [],
+  "featured": null,
+  "ratings": [],
+  "imdb": null,
+  "letterboxd": null,
+  "qid": null,
+  "tags": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/549990",
+    "quote": "a journey over three continents to see the architecture of imitation, the uncanny world of the fake"
+   }
+  ],
+  "watch": [],
+  "trailer": null,
+  "image": null,
+  "tmdb": 549990,
+  "tmdb_kind": "movie"
+ },
+ {
+  "id": "vilanova-artigas-the-architect-and-the-light",
+  "title": "Vilanova Artigas: The Architect and the Light",
+  "year": "2015",
+  "y": 2015,
+  "kind": "feature",
+  "director": [],
+  "runtime_min": null,
+  "language": null,
+  "summary": "A documentary that rebuilds the life of Brazilian architect João Batista Vilanova Artigas.",
+  "about": {
+   "architects": [
+    "Vilanova Artigas"
+   ],
+   "buildings": []
+  },
+  "genres": [
+   "Portrait of an architect"
+  ],
+  "topics": [],
+  "movements": [],
+  "featured": null,
+  "ratings": [],
+  "imdb": null,
+  "letterboxd": null,
+  "qid": null,
+  "tags": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/347098",
+    "quote": "The documentary rebuilds the life of the Brazilian architect João Batista Vilanova Artigas."
+   }
+  ],
+  "watch": [],
+  "trailer": null,
+  "image": null,
+  "tmdb": 347098,
+  "tmdb_kind": "movie"
+ },
+ {
+  "id": "bamboo-theatre",
+  "title": "Bamboo Theatre",
+  "year": "2019",
+  "y": 2019,
+  "kind": "feature",
+  "director": [],
+  "runtime_min": null,
+  "language": null,
+  "summary": "A film on a theatrical architecture in Hong Kong, a Chinese tradition more than a century old.",
+  "about": {
+   "architects": [],
+   "buildings": []
+  },
+  "genres": [
+   "Building story"
+  ],
+  "topics": [],
+  "movements": [],
+  "featured": null,
+  "ratings": [],
+  "imdb": null,
+  "letterboxd": null,
+  "qid": null,
+  "tags": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/657147",
+    "quote": "Hong Kong preserves a unique theatrical architecture, a Chinese tradition that has lasted more than a century"
+   }
+  ],
+  "watch": [],
+  "trailer": null,
+  "image": null,
+  "tmdb": 657147,
+  "tmdb_kind": "movie"
+ },
+ {
+  "id": "futuro-a-new-stance-for-tomorrow",
+  "title": "Futuro – A New Stance for Tomorrow",
+  "year": "1998",
+  "y": 1998,
+  "kind": "feature",
+  "director": [],
+  "runtime_min": null,
+  "language": null,
+  "summary": "A documentary on the rise and fall of the Finnish plastic Futuro house.",
+  "about": {
+   "architects": [],
+   "buildings": [
+    "futuro-house"
+   ]
+  },
+  "genres": [
+   "Building story"
+  ],
+  "topics": [],
+  "movements": [],
+  "featured": null,
+  "ratings": [],
+  "imdb": null,
+  "letterboxd": null,
+  "qid": null,
+  "tags": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/594638",
+    "quote": "A documentary film about the rise and fall of a Finnish plastic house."
+   }
+  ],
+  "watch": [],
+  "trailer": null,
+  "image": null,
+  "tmdb": 594638,
+  "tmdb_kind": "movie"
+ },
+ {
+  "id": "gaudi-le-genie-visionnaire-de-barcelone",
+  "title": "Gaudí, le génie visionnaire de Barcelone",
+  "year": "2022",
+  "y": 2022,
+  "kind": "feature",
+  "director": [],
+  "runtime_min": null,
+  "language": null,
+  "summary": "A film on Antoni Gaudí through his Casa Batlló in Barcelona.",
+  "about": {
+   "architects": [
+    "Antoni Gaudi"
+   ],
+   "buildings": [
+    "casa-batllo"
+   ]
+  },
+  "genres": [
+   "Portrait of an architect",
+   "Building story"
+  ],
+  "topics": [],
+  "movements": [],
+  "featured": null,
+  "ratings": [],
+  "imdb": null,
+  "letterboxd": null,
+  "qid": null,
+  "tags": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/978970",
+    "quote": "In Barcelona, the Casa Batlló alone sums up the genius of Antoni Gaudí."
+   }
+  ],
+  "watch": [],
+  "trailer": null,
+  "image": null,
+  "tmdb": 978970,
+  "tmdb_kind": "movie"
+ },
+ {
+  "id": "house-after-five-years-of-living",
+  "title": "House: After Five Years of Living",
+  "year": "1955",
+  "y": 1955,
+  "kind": "feature",
+  "director": [],
+  "runtime_min": null,
+  "language": null,
+  "summary": "A film that explores the Eames House and Studio through a series of slides.",
+  "about": {
+   "architects": [],
+   "buildings": [
+    "eames-house"
+   ]
+  },
+  "genres": [
+   "Building story"
+  ],
+  "topics": [],
+  "movements": [],
+  "featured": null,
+  "ratings": [],
+  "imdb": null,
+  "letterboxd": null,
+  "qid": null,
+  "tags": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/310270",
+    "quote": "The Eames House and Studio is explored via a series of slides."
+   }
+  ],
+  "watch": [],
+  "trailer": null,
+  "image": null,
+  "tmdb": 310270,
+  "tmdb_kind": "movie"
+ },
+ {
+  "id": "kevin-roche-the-quiet-architect",
+  "title": "Kevin Roche – The Quiet Architect",
+  "year": "2017",
+  "y": 2017,
+  "kind": "feature",
+  "director": [],
+  "runtime_min": null,
+  "language": null,
+  "summary": "A feature documentary on the 70 year career of Pritzker Prize winning architect Kevin Roche.",
+  "about": {
+   "architects": [
+    "Kevin Roche"
+   ],
+   "buildings": []
+  },
+  "genres": [
+   "Portrait of an architect"
+  ],
+  "topics": [],
+  "movements": [],
+  "featured": null,
+  "ratings": [],
+  "imdb": null,
+  "letterboxd": null,
+  "qid": null,
+  "tags": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/497588",
+    "quote": "through the 70 year career of Pritzker Prize winning Irish-American architect Kevin Roche"
+   }
+  ],
+  "watch": [],
+  "trailer": null,
+  "image": null,
+  "tmdb": 497588,
+  "tmdb_kind": "movie"
+ },
+ {
+  "id": "maestro-plecnik",
+  "title": "Maestro Plecnik",
+  "year": "1953",
+  "y": 1953,
+  "kind": "feature",
+  "director": [],
+  "runtime_min": null,
+  "language": null,
+  "summary": "A documentary showing buildings by architect Joze Plecnik in Prague, Wien and Ljubljana.",
+  "about": {
+   "architects": [
+    "Jože Plečnik"
+   ],
+   "buildings": []
+  },
+  "genres": [
+   "Portrait of an architect"
+  ],
+  "topics": [],
+  "movements": [],
+  "featured": null,
+  "ratings": [],
+  "imdb": null,
+  "letterboxd": null,
+  "qid": null,
+  "tags": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/483401",
+    "quote": "Documentary showing buildings made by great architect Joze Plecnik in Prague, Wien, Ljubljana"
+   }
+  ],
+  "watch": [],
+  "trailer": null,
+  "image": null,
+  "tmdb": 483401,
+  "tmdb_kind": "movie"
+ },
+ {
+  "id": "moriyama-san",
+  "title": "Moriyama-San",
+  "year": "2017",
+  "y": 2017,
+  "kind": "feature",
+  "director": [],
+  "runtime_min": null,
+  "language": null,
+  "summary": "A film about the Moriyama house in Tokyo, built in 2005 by Ryue Nishizawa (SANAA).",
+  "about": {
+   "architects": [
+    "Ryue Nishizawa"
+   ],
+   "buildings": [
+    "moriyama-house"
+   ]
+  },
+  "genres": [
+   "Building story"
+  ],
+  "topics": [],
+  "movements": [],
+  "featured": null,
+  "ratings": [],
+  "imdb": null,
+  "letterboxd": null,
+  "qid": null,
+  "tags": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/450488",
+    "quote": "the Moriyama house, built in Tokyo in 2005 by Pritzker-prize winner Ryue Nishizawa (SANAA)"
+   }
+  ],
+  "watch": [],
+  "trailer": null,
+  "image": null,
+  "tmdb": 450488,
+  "tmdb_kind": "movie"
+ },
+ {
+  "id": "no-further-instructions",
+  "title": "No Further Instructions",
+  "year": "2016",
+  "y": 2016,
+  "kind": "feature",
+  "director": [],
+  "runtime_min": null,
+  "language": null,
+  "summary": "A team of Mexican constructors accepts a building project that nobody knew how to build.",
+  "about": {
+   "architects": [
+    "Toyo Ito"
+   ],
+   "buildings": []
+  },
+  "genres": [
+   "Building story"
+  ],
+  "topics": [],
+  "movements": [],
+  "featured": null,
+  "ratings": [],
+  "imdb": null,
+  "letterboxd": null,
+  "qid": null,
+  "tags": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/512613",
+    "quote": "Nobody knew how to build this project until a team of Mexican constructors accepted the challenge"
+   }
+  ],
+  "watch": [],
+  "trailer": null,
+  "image": null,
+  "tmdb": 512613,
+  "tmdb_kind": "movie"
+ },
+ {
+  "id": "palace-for-the-people",
+  "title": "Palace for the People",
+  "year": "2018",
+  "y": 2018,
+  "kind": "feature",
+  "director": [
+   "Boris Misirkov",
+   "Georgi Bogdanov"
+  ],
+  "runtime_min": null,
+  "language": null,
+  "summary": "A documentary on the life and death of socialist architectural monsters.",
+  "about": {
+   "architects": [],
+   "buildings": []
+  },
+  "genres": [
+   "Building story"
+  ],
+  "topics": [],
+  "movements": [],
+  "featured": null,
+  "ratings": [],
+  "imdb": "tt8524146",
+  "letterboxd": null,
+  "qid": "Q74458715",
+  "tags": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/562002",
+    "quote": "The life and death of socialist architectural monsters."
+   }
+  ],
+  "watch": [],
+  "trailer": null,
+  "image": null,
+  "tmdb": 562002,
+  "tmdb_kind": "movie"
+ },
+ {
+  "id": "paris-the-mystery-of-the-disappeared-palace",
+  "title": "Paris, the Mystery of the Disappeared Palace",
+  "year": "2023",
+  "y": 2023,
+  "kind": "feature",
+  "director": [],
+  "runtime_min": null,
+  "language": null,
+  "summary": "A vanished architectural masterpiece is rebuilt in 3D by a trio of experts.",
+  "about": {
+   "architects": [],
+   "buildings": []
+  },
+  "genres": [
+   "Building story"
+  ],
+  "topics": [],
+  "movements": [],
+  "featured": null,
+  "ratings": [],
+  "imdb": null,
+  "letterboxd": null,
+  "qid": null,
+  "tags": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/1175245",
+    "quote": "Over the centuries, this architectural masterpiece has almost completely disappeared. A trio of experts will resurrect it in 3D."
+   }
+  ],
+  "watch": [],
+  "trailer": null,
+  "image": null,
+  "tmdb": 1175245,
+  "tmdb_kind": "movie"
+ },
+ {
+  "id": "the-creators-of-the-shopping-worlds",
+  "title": "The Creators of the Shopping Worlds",
+  "year": "2001",
+  "y": 2001,
+  "kind": "feature",
+  "director": [],
+  "runtime_min": null,
+  "language": null,
+  "summary": "A look at how mall producers design malls to maximise traffic and sales.",
+  "about": {
+   "architects": [],
+   "buildings": []
+  },
+  "genres": [
+   "Design process"
+  ],
+  "topics": [],
+  "movements": [],
+  "featured": null,
+  "ratings": [],
+  "imdb": null,
+  "letterboxd": null,
+  "qid": null,
+  "tags": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/157676",
+    "quote": "A look at how mall producers design malls in order to maximise traffic and sales."
+   }
+  ],
+  "watch": [],
+  "trailer": null,
+  "image": null,
+  "tmdb": 157676,
+  "tmdb_kind": "movie"
+ },
+ {
+  "id": "two-museums",
+  "title": "Two Museums",
+  "year": "2014",
+  "y": 2014,
+  "kind": "feature",
+  "director": [],
+  "runtime_min": null,
+  "language": null,
+  "summary": "A film comparing two museums: Samuel Bickels's 1948 museum in Ein Harod, Israel, and Renzo Piano's Menil Collection in Houston.",
+  "about": {
+   "architects": [
+    "Renzo Piano"
+   ],
+   "buildings": []
+  },
+  "genres": [
+   "Building story"
+  ],
+  "topics": [],
+  "movements": [],
+  "featured": null,
+  "ratings": [],
+  "imdb": null,
+  "letterboxd": null,
+  "qid": null,
+  "tags": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/318322",
+    "quote": "The film juxtaposes/compares two museums: The Museum of Art, Ein Harod, Israel, which Samuel Bickels (1909-1975) built there in 1948, and The Menil Collection in Houston, Texas, built by Renzo Piano (b. 1937) 1986"
+   }
+  ],
+  "watch": [],
+  "trailer": null,
+  "image": null,
+  "tmdb": 318322,
+  "tmdb_kind": "movie"
+ },
+ {
+  "id": "years-of-construction",
+  "title": "Years of Construction",
+  "year": "2019",
+  "y": 2019,
+  "kind": "feature",
+  "director": [],
+  "runtime_min": null,
+  "language": null,
+  "summary": "A film on the demolition of the old Kunsthalle in Mannheim and the building of its replacement, 2013 to 2018.",
+  "about": {
+   "architects": [],
+   "buildings": []
+  },
+  "genres": [
+   "Building story"
+  ],
+  "topics": [],
+  "movements": [],
+  "featured": null,
+  "ratings": [],
+  "imdb": null,
+  "letterboxd": null,
+  "qid": null,
+  "tags": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/577066",
+    "quote": "Demolition of the old and building of the new Kunsthalle in Mannheim in the years 2013 to 2018."
+   }
+  ],
+  "watch": [],
+  "trailer": null,
+  "image": null,
+  "tmdb": 577066,
+  "tmdb_kind": "movie"
+ },
+ {
+  "id": "a-city-at-chandigarh",
+  "title": "A City at Chandigarh",
+  "year": "1966",
+  "y": 1966,
+  "kind": "feature",
+  "director": [],
+  "runtime_min": null,
+  "language": null,
+  "summary": "A documentary on the construction of Chandigarh, planned by Albert Mayer and Le Corbusier.",
+  "about": {
+   "architects": [
+    "Le Corbusier"
+   ],
+   "buildings": []
+  },
+  "genres": [
+   "City & urbanism"
+  ],
+  "topics": [],
+  "movements": [],
+  "featured": null,
+  "ratings": [],
+  "imdb": null,
+  "letterboxd": null,
+  "qid": null,
+  "tags": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/453052",
+    "quote": "Documentary on the construction of Chandigarh, the new capital of the Indian Punjab region, planned by Albert Mayer and Swiss architect Le Corbusier."
+   }
+  ],
+  "watch": [],
+  "trailer": null,
+  "image": null,
+  "tmdb": 453052,
+  "tmdb_kind": "movie"
+ },
+ {
+  "id": "alhambra-the-treasure-of-the-last-sultanate-of-spain",
+  "title": "Alhambra, the treasure of the last sultanate of Spain",
+  "year": "2024",
+  "y": 2024,
+  "kind": "feature",
+  "director": [],
+  "runtime_min": null,
+  "language": null,
+  "summary": "A film on the Alhambra, a palatial city built between the 13th and 15th centuries.",
+  "about": {
+   "architects": [],
+   "buildings": [
+    "alhambra"
+   ]
+  },
+  "genres": [
+   "Building story"
+  ],
+  "topics": [],
+  "movements": [],
+  "featured": null,
+  "ratings": [],
+  "imdb": null,
+  "letterboxd": null,
+  "qid": null,
+  "tags": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/1382480",
+    "quote": "The Alhambra is a unique site in the world: a palatial city built between the 13th and 15th centuries"
+   }
+  ],
+  "watch": [],
+  "trailer": null,
+  "image": null,
+  "tmdb": 1382480,
+  "tmdb_kind": "movie"
+ },
+ {
+  "id": "amancio-williams",
+  "title": "Amancio Williams",
+  "year": "2013",
+  "y": 2013,
+  "kind": "feature",
+  "director": [],
+  "runtime_min": null,
+  "language": null,
+  "summary": "A biography documentary of Argentine modernist architect Amancio Williams.",
+  "about": {
+   "architects": [
+    "Amancio Williams"
+   ],
+   "buildings": []
+  },
+  "genres": [
+   "Portrait of an architect"
+  ],
+  "topics": [],
+  "movements": [],
+  "featured": null,
+  "ratings": [],
+  "imdb": null,
+  "letterboxd": null,
+  "qid": null,
+  "tags": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/266522",
+    "quote": "A biography documentary of the Argentine modernist architect Amancio Williams."
+   }
+  ],
+  "watch": [],
+  "trailer": null,
+  "image": null,
+  "tmdb": 266522,
+  "tmdb_kind": "movie"
+ },
+ {
+  "id": "brief-city",
+  "title": "Brief City",
+  "year": "1952",
+  "y": 1952,
+  "kind": "feature",
+  "director": [],
+  "runtime_min": null,
+  "language": null,
+  "summary": "Shows the styles of architecture used at the 1951 South Bank Exhibition in London.",
+  "about": {
+   "architects": [],
+   "buildings": []
+  },
+  "genres": [
+   "Movement & history"
+  ],
+  "topics": [],
+  "movements": [],
+  "featured": null,
+  "ratings": [],
+  "imdb": null,
+  "letterboxd": null,
+  "qid": null,
+  "tags": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/335854",
+    "quote": "Styles of architecture used in the 1951 South Bank Exhibition, London."
+   }
+  ],
+  "watch": [],
+  "trailer": null,
+  "image": null,
+  "tmdb": 335854,
+  "tmdb_kind": "movie"
+ },
+ {
+  "id": "brooklyn-bridge-an-engineering-masterpiece",
+  "title": "Brooklyn Bridge: An Engineering Masterpiece",
+  "year": "2023",
+  "y": 2023,
+  "kind": "feature",
+  "director": [],
+  "runtime_min": null,
+  "language": null,
+  "summary": "Tells the story of the Roebling family and the history of the Brooklyn Bridge.",
+  "about": {
+   "architects": [],
+   "buildings": []
+  },
+  "genres": [
+   "Building story"
+  ],
+  "topics": [],
+  "movements": [],
+  "featured": null,
+  "ratings": [],
+  "imdb": null,
+  "letterboxd": null,
+  "qid": null,
+  "tags": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/1133089",
+    "quote": "The film tells the amazing story of the Roebling family and the spectacular history of the Brooklyn Bridge."
+   }
+  ],
+  "watch": [],
+  "trailer": null,
+  "image": null,
+  "tmdb": 1133089,
+  "tmdb_kind": "movie"
+ },
+ {
+  "id": "building-giants",
+  "title": "Building Giants",
+  "year": "2018",
+  "y": 2018,
+  "kind": "series",
+  "director": [],
+  "runtime_min": null,
+  "language": null,
+  "summary": "A documentary series on how technology lets giant superstructures be built.",
+  "about": {
+   "architects": [],
+   "buildings": []
+  },
+  "genres": [
+   "Design process"
+  ],
+  "topics": [],
+  "movements": [],
+  "featured": null,
+  "ratings": [],
+  "imdb": null,
+  "letterboxd": null,
+  "qid": null,
+  "tags": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/tv/76593",
+    "quote": "This documentary series showcases how key technological innovations enable giant superstructures to be built."
+   }
+  ],
+  "watch": [],
+  "trailer": null,
+  "image": null,
+  "tmdb": 76593,
+  "tmdb_kind": "tv"
+ },
+ {
+  "id": "chambord-the-castle-the-king-and-the-architect",
+  "title": "Chambord: The Castle, the King and the Architect",
+  "year": "2015",
+  "y": 2015,
+  "kind": "feature",
+  "director": [],
+  "runtime_min": null,
+  "language": null,
+  "summary": "A documentary on Chambord, the Loire Valley castle that has been an enigma to historians.",
+  "about": {
+   "architects": [],
+   "buildings": []
+  },
+  "genres": [
+   "Building story"
+  ],
+  "topics": [],
+  "movements": [],
+  "featured": null,
+  "ratings": [],
+  "imdb": null,
+  "letterboxd": null,
+  "qid": null,
+  "tags": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/371511",
+    "quote": "Chambord, the most impressive castle in the Loire Valley, in France, a truly Renaissance treasure, has always been an enigma to generations of historians."
+   }
+  ],
+  "watch": [],
+  "trailer": null,
+  "image": null,
+  "tmdb": 371511,
+  "tmdb_kind": "movie"
+ },
+ {
+  "id": "chambord-the-leonardo-da-vinci-mystery",
+  "title": "Chambord: The Leonardo Da Vinci Mystery",
+  "year": "2018",
+  "y": 2018,
+  "kind": "feature",
+  "director": [],
+  "runtime_min": null,
+  "language": null,
+  "summary": "Explores the mysteries of Chambord, including the identity of its architect and Leonardo da Vinci's influence.",
+  "about": {
+   "architects": [],
+   "buildings": []
+  },
+  "genres": [
+   "Building story"
+  ],
+  "topics": [],
+  "movements": [],
+  "featured": null,
+  "ratings": [],
+  "imdb": null,
+  "letterboxd": null,
+  "qid": null,
+  "tags": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/731641",
+    "quote": "The majestic monument has its share of mysteries: identity of its architect, influence of the Florentine painter Leonardo da Vinci in its design"
+   }
+  ],
+  "watch": [],
+  "trailer": null,
+  "image": null,
+  "tmdb": 731641,
+  "tmdb_kind": "movie"
+ },
+ {
+  "id": "coast-modern",
+  "title": "Coast Modern",
+  "year": "2012",
+  "y": 2012,
+  "kind": "feature",
+  "director": [],
+  "runtime_min": null,
+  "language": null,
+  "summary": "Looks at the architects who built inspired homes along the West Coast, from Vancouver to LA.",
+  "about": {
+   "architects": [],
+   "buildings": []
+  },
+  "genres": [
+   "Movement & history"
+  ],
+  "topics": [],
+  "movements": [],
+  "featured": null,
+  "ratings": [],
+  "imdb": null,
+  "letterboxd": null,
+  "qid": null,
+  "tags": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/273921",
+    "quote": "A core group of architects embraced the West Coast from Vancouver to LA with its particular geography and values and left behind a legacy of inspired dwellings."
+   }
+  ],
+  "watch": [],
+  "trailer": null,
+  "image": null,
+  "tmdb": 273921,
+  "tmdb_kind": "movie"
+ },
+ {
+  "id": "czechoslovak-architecture-5889",
+  "title": "Czechoslovak Architecture 58–89",
+  "year": "2024",
+  "y": 2024,
+  "kind": "feature",
+  "director": [],
+  "runtime_min": null,
+  "language": null,
+  "summary": "A feature-length film exploring Czech and Slovak architecture.",
+  "about": {
+   "architects": [],
+   "buildings": []
+  },
+  "genres": [
+   "Movement & history"
+  ],
+  "topics": [],
+  "movements": [],
+  "featured": null,
+  "ratings": [],
+  "imdb": null,
+  "letterboxd": null,
+  "qid": null,
+  "tags": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/1301895",
+    "quote": "the eagerly anticipated feature-length film which, through its fascinating and impressive exploration of Czech and Slovak architecture of t"
+   }
+  ],
+  "watch": [],
+  "trailer": null,
+  "image": null,
+  "tmdb": 1301895,
+  "tmdb_kind": "movie"
+ },
+ {
+  "id": "eero-saarinen-the-architect-who-saw-the-future",
+  "title": "Eero Saarinen: The Architect Who Saw the Future",
+  "year": "2016",
+  "y": 2016,
+  "kind": "feature",
+  "director": [],
+  "runtime_min": null,
+  "language": null,
+  "summary": "Looks at the work of Eero Saarinen, who also designed the TWA Flight Center at JFK airport.",
+  "about": {
+   "architects": [
+    "Eero Saarinen"
+   ],
+   "buildings": [
+    "gateway-arch",
+    "twa-flight-center"
+   ]
+  },
+  "genres": [
+   "Portrait of an architect"
+  ],
+  "topics": [],
+  "movements": [],
+  "featured": null,
+  "ratings": [],
+  "imdb": null,
+  "letterboxd": null,
+  "qid": null,
+  "tags": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/432026",
+    "quote": "Saarinen also designed New York’s TWA Flight Center at John F. Kennedy International Airport"
+   }
+  ],
+  "watch": [],
+  "trailer": null,
+  "image": null,
+  "tmdb": 432026,
+  "tmdb_kind": "movie"
+ },
+ {
+  "id": "frank-lloyd-wright-phoenix-from-the-ashes",
+  "title": "Frank Lloyd Wright: Phoenix From the Ashes",
+  "year": "2020",
+  "y": 2020,
+  "kind": "feature",
+  "director": [],
+  "runtime_min": null,
+  "language": null,
+  "summary": "A portrait of Frank Lloyd Wright, a modern architect whose life passed between glory, scandal and tragedy.",
+  "about": {
+   "architects": [
+    "Frank Lloyd Wright"
+   ],
+   "buildings": []
+  },
+  "genres": [
+   "Portrait of an architect"
+  ],
+  "topics": [],
+  "movements": [],
+  "featured": null,
+  "ratings": [],
+  "imdb": null,
+  "letterboxd": null,
+  "qid": null,
+  "tags": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/768442",
+    "quote": "A portrait of Frank Lloyd Wright (1867-1959), a genius of modern architecture, whose life passed between glory, scandal and tragedy."
+   }
+  ],
+  "watch": [],
+  "trailer": null,
+  "image": null,
+  "tmdb": 768442,
+  "tmdb_kind": "movie"
+ },
+ {
+  "id": "fred-dibnah-s-building-of-britain",
+  "title": "Fred Dibnah's Building of Britain",
+  "year": "2002",
+  "y": 2002,
+  "kind": "series",
+  "director": [],
+  "runtime_min": null,
+  "language": null,
+  "summary": "A six-episode series on Britain's architectural heritage.",
+  "about": {
+   "architects": [],
+   "buildings": []
+  },
+  "genres": [
+   "Movement & history"
+  ],
+  "topics": [],
+  "movements": [],
+  "featured": null,
+  "ratings": [],
+  "imdb": null,
+  "letterboxd": null,
+  "qid": null,
+  "tags": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/tv/109443",
+    "quote": "All six episodes look at Britain's architectural heritage."
+   }
+  ],
+  "watch": [],
+  "trailer": null,
+  "image": null,
+  "tmdb": 109443,
+  "tmdb_kind": "tv"
+ },
+ {
+  "id": "koolhaas-houselife",
+  "title": "Koolhaas Houselife",
+  "year": "2008",
+  "y": 2008,
+  "kind": "feature",
+  "director": [],
+  "runtime_min": null,
+  "language": null,
+  "summary": "Portrays one of the masterpieces of contemporary architecture.",
+  "about": {
+   "architects": [],
+   "buildings": []
+  },
+  "genres": [
+   "Building story"
+  ],
+  "topics": [],
+  "movements": [],
+  "featured": null,
+  "ratings": [],
+  "imdb": null,
+  "letterboxd": null,
+  "qid": null,
+  "tags": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/224000",
+    "quote": "Koolhaas Houselife portrays one of the masterpieces of contemporary architecture."
+   }
+  ],
+  "watch": [],
+  "trailer": null,
+  "image": null,
+  "tmdb": 224000,
+  "tmdb_kind": "movie"
+ },
+ {
+  "id": "orsay-les-grandes-metamorphoses",
+  "title": "Orsay, les grandes métamorphoses",
+  "year": "2020",
+  "y": 2020,
+  "kind": "feature",
+  "director": [],
+  "runtime_min": null,
+  "language": null,
+  "summary": "Follows the museum's projects to modernize Orsay while preserving its historic character.",
+  "about": {
+   "architects": [],
+   "buildings": [
+    "musee-d-orsay"
+   ]
+  },
+  "genres": [
+   "Building story"
+  ],
+  "topics": [],
+  "movements": [],
+  "featured": null,
+  "ratings": [],
+  "imdb": null,
+  "letterboxd": null,
+  "qid": null,
+  "tags": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/746936",
+    "quote": "Project after project, the museum has been transformed to modernize and welcome more visitors, while preserving its historic character."
+   }
+  ],
+  "watch": [],
+  "trailer": null,
+  "image": null,
+  "tmdb": 746936,
+  "tmdb_kind": "movie"
+ },
+ {
+  "id": "sauver-notre-dame",
+  "title": "Sauver Notre-Dame",
+  "year": "2020",
+  "y": 2020,
+  "kind": "feature",
+  "director": [],
+  "runtime_min": null,
+  "language": null,
+  "summary": "After the 2019 fire, a race against time begins to save Notre-Dame de Paris.",
+  "about": {
+   "architects": [],
+   "buildings": []
+  },
+  "genres": [
+   "Building story"
+  ],
+  "topics": [],
+  "movements": [],
+  "featured": null,
+  "ratings": [],
+  "imdb": null,
+  "letterboxd": null,
+  "qid": null,
+  "tags": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/693247",
+    "quote": "In the aftermath of the fire that struck Notre-Dame de Paris in 2019, the cathedral is in danger of collapsing. A race against time begins for a hundred men and women who will face danger, the unknown, and toxic lead dust for a year to save this world heritage site."
+   }
+  ],
+  "watch": [],
+  "trailer": null,
+  "image": null,
+  "tmdb": 693247,
+  "tmdb_kind": "movie"
+ },
+ {
+  "id": "soviet-bus-stops",
+  "title": "Soviet Bus Stops",
+  "year": "2024",
+  "y": 2024,
+  "kind": "feature",
+  "director": [],
+  "runtime_min": null,
+  "language": null,
+  "summary": "A photography project on whimsical bus stops across the former Soviet Bloc.",
+  "about": {
+   "architects": [],
+   "buildings": []
+  },
+  "genres": [
+   "Movement & history"
+  ],
+  "topics": [],
+  "movements": [],
+  "featured": null,
+  "ratings": [],
+  "imdb": null,
+  "letterboxd": null,
+  "qid": null,
+  "tags": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/1031050",
+    "quote": "the bus stops Herwig discovers on his journeys criss-crossing the vast former Soviet Bloc are something else entirely: whimsical, eccentric, flamboyantly artistic, audacious, colourful"
+   }
+  ],
+  "watch": [],
+  "trailer": null,
+  "image": null,
+  "tmdb": 1031050,
+  "tmdb_kind": "movie"
+ },
+ {
+  "id": "the-new-apartment",
+  "title": "The New Apartment",
+  "year": "1930",
+  "y": 1930,
+  "kind": "feature",
+  "director": [],
+  "runtime_min": null,
+  "language": null,
+  "summary": "A film made for a Basel architecture exhibition to show innovative aspects of modern architecture.",
+  "about": {
+   "architects": [],
+   "buildings": []
+  },
+  "genres": [
+   "Movement & history"
+  ],
+  "topics": [],
+  "movements": [],
+  "featured": null,
+  "ratings": [],
+  "imdb": null,
+  "letterboxd": null,
+  "qid": null,
+  "tags": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/233976",
+    "quote": "A commissioned film for Schweizerischer Werkbund (SWB), Die neue Wohnung was produced for the Basel architectural and interior design exhibition, WOBA, to demonstrate innovative aspects of modern architecture"
+   }
+  ],
+  "watch": [],
+  "trailer": null,
+  "image": null,
+  "tmdb": 233976,
+  "tmdb_kind": "movie"
+ },
+ {
+  "id": "the-social-life-of-small-urban-spaces",
+  "title": "The Social Life of Small Urban Spaces",
+  "year": "1980",
+  "y": 1980,
+  "kind": "feature",
+  "director": [],
+  "runtime_min": null,
+  "language": null,
+  "summary": "A film on why some city open spaces work for people and others do not.",
+  "about": {
+   "architects": [],
+   "buildings": []
+  },
+  "genres": [
+   "City & urbanism"
+  ],
+  "topics": [],
+  "movements": [],
+  "featured": null,
+  "ratings": [],
+  "imdb": null,
+  "letterboxd": null,
+  "qid": null,
+  "tags": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/177599",
+    "quote": "This witty and original film is about the open spaces of cities and why some of them work for people while others don't."
+   }
+  ],
+  "watch": [],
+  "trailer": null,
+  "image": null,
+  "tmdb": 177599,
+  "tmdb_kind": "movie"
+ },
+ {
+  "id": "valldaura-a-quarantine-cabin",
+  "title": "Valldaura: A Quarantine Cabin",
+  "year": "2022",
+  "y": 2022,
+  "kind": "feature",
+  "director": [],
+  "runtime_min": null,
+  "language": null,
+  "summary": "Young architects confined to a Barcelona forest during COVID explore the problems of wanting to be self-sufficient.",
+  "about": {
+   "architects": [],
+   "buildings": []
+  },
+  "genres": [
+   "Design process"
+  ],
+  "topics": [],
+  "movements": [],
+  "featured": null,
+  "ratings": [],
+  "imdb": null,
+  "letterboxd": null,
+  "qid": null,
+  "tags": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/996978",
+    "quote": "A group of young architects, confined to a forest in Barcelona during the COVID crisis, explore the problems generated by the ambition of wanting to be completely self-sufficient."
+   }
+  ],
+  "watch": [],
+  "trailer": null,
+  "image": null,
+  "tmdb": 996978,
+  "tmdb_kind": "movie"
  }
 ]

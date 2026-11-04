@@ -15,6 +15,8 @@ import json, re, sys, unicodedata
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(ROOT / 'tools'))
+import films_ref
 
 
 def fold(s):
@@ -29,6 +31,15 @@ def key_of(title, year):
     return f"{' '.join(w)}|{year or ''}"
 
 
+def norm(s):
+    """The same folding films_check_draft.py uses, so both agree on whether a page holds the quote."""
+    s = unicodedata.normalize('NFKC', s or '')
+    for a, b in (('\u2018', "'"), ('\u2019', "'"), ('\u201c', '"'), ('\u201d', '"'),
+                 ('\u2013', '-'), ('\u2014', '-'), ('\u2212', '-'), ('\xa0', ' ')):
+        s = s.replace(a, b)
+    return re.sub(r'\s+', ' ', s).strip().lower()
+
+
 def words(s):
     return [w for w in re.sub(r'[^a-z0-9 ]+', ' ', unicodedata.normalize('NFKD', s or '').encode('ascii', 'ignore').decode().lower()).split()
             if w not in ('the', 'of', 'a', 'an', 'and', 'museum', 'institute', 'centre', 'center', 'building', 'house')]
@@ -39,7 +50,10 @@ def wall():
     B = json.loads(t[t.index('['):t.rindex(']') + 1])
     names = {a.strip() for b in B for a in b['by'].split(',')}
     by_fold = {}
-    for n in names:
+    # The wall splits a credit on the comma, so one architect can appear both whole and with a stray bracket
+    # ("Ryue Nishizawa" and "Ryue Nishizawa)"). Both fold alike, so take the balanced, shorter one first,
+    # or the good name loses to the broken one and the link is dropped for nothing.
+    for n in sorted(names, key=lambda n: (n.count('(') != n.count(')'), len(n), n)):
         by_fold.setdefault(fold(n), n)
     builds = {}
     for b in B:
@@ -62,7 +76,7 @@ ALIASES = json.loads((ROOT / 'tools' / 'films' / 'aliases.json').read_text())
 
 
 def main(cand_path, out_path, drafts):
-    cands = {c['qid']: c for c in json.loads(Path(cand_path).read_text()) if c.get('qid')}
+    cands = films_ref.index(json.loads(Path(cand_path).read_text()))
     names, by_fold, builds = wall()
     by_fold_raw, builds_raw = wall_raw()
     add, reject, dropped_links, near = [], [], [], []
@@ -74,8 +88,9 @@ def main(cand_path, out_path, drafts):
 
     for dp in drafts:
         for d in json.loads(Path(dp).read_text()):
-            c = cands.get(d.get('qid'))
+            c = films_ref.find(cands, d)
             if not c:
+                print(f"  no candidate for {d.get('title', '?')[:40]!r}", file=sys.stderr)
                 continue
             key = key_of(c['title'], c.get('year'))
             if d.get('verdict') != 'keep':
@@ -107,13 +122,18 @@ def main(cand_path, out_path, drafts):
                     for n in near_misses(raw, builds_raw):
                         near.append(f"{c['title'][:30]}: building {raw!r} ~ {n!r}")
 
-            entry = {'key': key, 'qid': c['qid'], 'title': c['title'], 'year': c.get('year'), 'kind': d.get('kind'),
+            url = films_ref.source_url(c, d.get('summary_quote'), norm)
+            if not url:
+                dropped_links.append(f"no source page holds the quote for {c['title'][:34]!r}, left out")
+                continue
+            entry = {'key': key, 'title': c['title'], 'year': c.get('year'), 'kind': d.get('kind'),
                      'genres': d.get('genres') or [], 'summary': d.get('summary'),
                      'about': {'architects': arch, 'buildings': bld},
-                     'sources': [{'url': 'https://en.wikipedia.org/wiki/' + (c.get('enwiki') or '').replace(' ', '_'),
-                                  'quote': d.get('summary_quote')}]}
-            for field, src in (('director', c.get('director')), ('runtime_min', c.get('runtime_min')),
-                               ('language', d.get('language')), ('imdb', c.get('imdb')), ('tmdb', c.get('tmdb'))):
+                     'sources': [{'url': url, 'quote': d.get('summary_quote')}]}
+            for field, src in (('qid', c.get('qid')), ('director', c.get('director')),
+                               ('runtime_min', c.get('runtime_min')),
+                               ('language', d.get('language')), ('imdb', c.get('imdb')),
+                               ('tmdb', c.get('tmdb')), ('tmdb_kind', c.get('tmdb_kind'))):
                 if src:
                     entry[field] = src
             add.append(entry)

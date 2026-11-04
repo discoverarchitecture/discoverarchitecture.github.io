@@ -84,10 +84,24 @@ TITLE_SEEDS = [
 # Words TMDB's editors tag films with. A keyword is resolved to its id, then /discover asks for documentaries
 # carrying it. This is the fix for the first attempt, which called /search/movie: that matches TITLES, so asking
 # it for "architecture documentary" looked for films actually called that and found one.
-TMDB_KEYWORDS = ['architecture', 'architect', 'urban planning', 'bauhaus', 'brutalism', 'skyscraper',
-                 'modernism', 'city planning', 'building', 'urbanism', 'landscape architecture', 'housing']
+# Core words: a documentary tagged with one of these is about architecture almost by definition, so the batch
+# tool trusts it (the source reads "tmdb-core:<word>") and sends it straight to a reviewer.
+TMDB_KEYWORDS_CORE = ['architecture', 'architect', 'urban planning', 'bauhaus', 'brutalism', 'skyscraper',
+                      'modernism', 'city planning', 'building', 'urbanism', 'landscape architecture', 'housing']
+# Wider words: they reach real architecture films, but also fashion, graphics and product design. Their source
+# reads "tmdb-wide:<word>", which the batch tool does NOT trust: each one still has to pass the text check.
+TMDB_KEYWORDS_WIDE = ['architectural', 'city', 'cathedral', 'monument', 'construction', 'infrastructure',
+                      'historic preservation', 'public housing', 'urban renewal', 'interior design',
+                      'sustainable architecture', 'gothic architecture', 'suburbia', 'megacity',
+                      'gentrification', 'design']
+TMDB_KEYWORDS = TMDB_KEYWORDS_CORE + TMDB_KEYWORDS_WIDE
+# TMDB phrases that end in one of our words but mean something else entirely. Without these, asking for
+# "architecture" also brings back ship hulls and server diagrams.
+TMDB_NOT_OURS = ('naval architecture', 'software architecture', 'computer architecture', 'system architecture',
+                 'systems architecture', 'information architecture', 'network architecture',
+                 'sound design', 'game design', 'intelligent design')
 TMDB_DOC_GENRE = 99          # TMDB's own genre id for a documentary, for films and series alike
-TMDB_PAGES = 5               # per keyword and kind, ordered by how many people have voted
+TMDB_PAGES = 8               # per keyword and kind, ordered by how many people have voted
 
 
 def get(url, timeout=90):
@@ -292,15 +306,24 @@ def tmdb_get(url, key):
 
 
 def tmdb_keyword_ids(key):
-    """Each word's id on TMDB, so /discover can ask for the films its editors tagged with it."""
+    """Each word's id on TMDB, so /discover can ask for the films its editors tagged with it.
+
+    Returns {id: source label}, the label saying whether the word is a core one (trusted downstream) or a
+    wide one (still has to pass the text check). A word found in both lists keeps the core label.
+    """
     out = {}
-    for word in TMDB_KEYWORDS:
+    for word in reversed(TMDB_KEYWORDS):          # wide first, so a core word overwrites it
+        tag = 'tmdb-core:' if word in TMDB_KEYWORDS_CORE else 'tmdb-wide:'
         d = tmdb_get(f'{TMDB}/search/keyword?query={urllib.parse.quote(word)}', key)
         for k in (d or {}).get('results', [])[:3]:
-            # only the word itself, or a phrase built around it: "architecture" must not drag in "naval architecture"
-            if k['name'].lower() == word or k['name'].lower().startswith(word + ' ') or k['name'].lower().endswith(' ' + word):
-                out[k['id']] = k['name']
-    print(f'tmdb keywords: {len(out)} ids -> {sorted(out.values())}')
+            name = k['name'].lower()
+            if name in TMDB_NOT_OURS:
+                continue
+            # the word itself, or a phrase built around it: "roman architecture" counts, "naval architecture" does not
+            if name == word or name.startswith(word + ' ') or name.endswith(' ' + word):
+                out[k['id']] = tag + k['name']
+    core = sum(1 for v in out.values() if v.startswith('tmdb-core:'))
+    print(f'tmdb keywords: {len(out)} ids ({core} core, {len(out) - core} wide) -> {sorted(out.values())}')
     return out
 
 
@@ -310,7 +333,7 @@ def from_tmdb(key):
     if not ids:
         print('tmdb: no keyword ids, nothing to discover', file=sys.stderr)
         return []
-    for kid, word in ids.items():
+    for kid, label in ids.items():
         for kind in ('movie', 'tv'):
             for page in range(1, TMDB_PAGES + 1):
                 d = tmdb_get(f'{TMDB}/discover/{kind}?with_genres={TMDB_DOC_GENRE}&with_keywords={kid}'
@@ -319,7 +342,7 @@ def from_tmdb(key):
                 for x in rows:
                     k = (kind, x['id'])
                     if k in found:
-                        found[k]['sources'].append('tmdb-keyword:' + word)
+                        found[k]['sources'].append(label)
                         continue
                     found[k] = {'tmdb': x['id'], 'tmdb_kind': kind,
                                 'title': x.get('title') or x.get('name'),
@@ -327,7 +350,7 @@ def from_tmdb(key):
                                 'overview': (x.get('overview') or '')[:600], 'poster': x.get('poster_path'),
                                 'votes': x.get('vote_count'), 'score': x.get('vote_average'),
                                 'is_doc': True,      # TMDB's own documentary genre
-                                'sources': ['tmdb-keyword:' + word]}
+                                'sources': [label]}
                 if page >= ((d or {}).get('total_pages') or 0):
                     break
     print(f'tmdb: {len(found)} documentaries across {len(ids)} keywords')

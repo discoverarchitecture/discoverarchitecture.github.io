@@ -48,6 +48,23 @@ Leave a link out rather than bending a name to fit. A wrong link is worse than a
 - `watch[]`: provider, country, type (`free`, `subscription`, `rent`, `buy`), url, and a `checked` date. A **free**
   link always needs that date, because free links go stale faster than any other fact here.
 
+## Naming the candidate you are judging
+
+Each draft entry must point back at the candidate it came from, with `ref`:
+
+- a Wikidata candidate: its `qid`, for example `"ref": "Q1026781"`
+- a TMDB candidate, which has no qid: `"ref": "tmdb:movie:12345"` or `"tmdb:tv:12345"`, from its `tmdb_kind`
+  and `tmdb` fields
+
+An entry with a `ref` nothing matches is reported and left out, never guessed at.
+
+## Where the quote must come from
+
+The quote in `summary_quote` is checked character for character against the text saved with that candidate: its
+Wikipedia opening paragraph (`extract`) or, for a film TMDB found, TMDB's own `overview`. Quote from whichever one
+is in front of you, and copy it, do not retype it. The source url on the finished entry is chosen from whichever
+text holds the words, so a quote from TMDB is credited to TMDB and never to Wikipedia.
+
 ## What a batch looks like
 
 ```json
