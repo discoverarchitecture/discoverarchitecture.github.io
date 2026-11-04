@@ -202,18 +202,45 @@
   }
   // A film tile is set in the site's own type: there are no posters until a TMDB key exists, and a borrowed
   // still would be somebody's copyright. The genre sits under the title, the way a book shows its shelf.
+  const scoreOf = f => (f.ratings || []).find(r => r.source === 'TMDB');
   function filmTileEl(f) {
     const el = document.createElement('div');
-    el.className = 'ft';
+    el.className = 'ft' + (f.poster ? ' has-poster' : '');
     el.dataset.id = f.id;
     const meta = [f.year, (f.director || [])[0]].filter(Boolean).join(' · ');
-    el.innerHTML = `<button type="button" class="open" aria-label="${esc(f.title)}${meta ? ', ' + esc(meta) : ''}">` +
-      `<span class="fg">${esc((f.genres || [])[0] || '')}</span>` +
-      `<span class="ftt">${esc(f.title)}</span>` +
-      `<span class="fsum">${esc(f.summary || '')}</span>` +
-      `<span class="fmeta">${esc(meta)}</span></button>`;
+    const s = scoreOf(f);
+    const badge = s ? `<span class="fscore">${s.value}%</span>` : '';
+    const body = f.poster
+      ? `<span class="fpos"><img src="${esc(f.poster.thumb)}" alt="" loading="lazy" decoding="async">${badge}</span>` +
+        `<span class="fcap"><b>${esc(f.title)}</b><span class="fmeta">${esc(meta)}</span></span>`
+      : `<span class="fg">${esc((f.genres || [])[0] || '')}</span><span class="ftt">${esc(f.title)}</span>` +
+        `<span class="fsum">${esc(f.summary || '')}</span><span class="fmeta">${esc(meta)}${s ? ' · ' + s.value + '%' : ''}</span>`;
+    el.innerHTML = `<button type="button" class="open" aria-label="${esc(f.title)}${meta ? ', ' + esc(meta) : ''}">${body}</button>`;
     el.querySelector('.open').addEventListener('click', () => openFilm(f.id, false, el, false, null));
     return el;
+  }
+
+  /* ---------- where to watch ----------
+     TMDB's streaming data comes from JustWatch, and both are credited wherever it is shown. The country follows
+     the visitor's own, because a service they cannot use is worse than none; US is the fallback, and every other
+     country the film has is one tap away. */
+  const COUNTRY_NAMES = { US: 'United States', GB: 'United Kingdom', DE: 'Germany', FR: 'France', CA: 'Canada', AU: 'Australia', IN: 'India' };
+  const WATCH_WORDS = { free: 'Free', subscription: 'Stream', rent: 'Rent', buy: 'Buy' };
+  function homeCountry(have) {
+    const langs = navigator.languages || [navigator.language || ''];
+    for (const l of langs) {
+      const cc = (String(l).split('-')[1] || '').toUpperCase();
+      if (cc && have.includes(cc)) return cc;
+    }
+    return have.includes('US') ? 'US' : have[0];
+  }
+  function watchHtml(f, cc) {
+    const rows = (f.watch || {})[cc] || [];
+    return rows.map(p =>
+      `<a href="${esc(p.url)}" target="_blank" rel="noopener">` +
+      (p.logo ? `<img class="plogo" src="https://image.tmdb.org/t/p/w92${esc(p.logo)}" alt="" loading="lazy">` : '<span class="plogo"></span>') +
+      `<span class="pname">${esc(p.provider)}</span>` +
+      `<span class="pway">${esc(p.types.map(t => WATCH_WORDS[t] || t).join(' · '))}</span></a>`).join('');
   }
   function tileEl(b) {
     let el = tiles.get(keyOf(b));
@@ -608,6 +635,7 @@
     state.lastTile = fromEl || tiles.get(b.id) || null;
     card.classList.remove('book');
     $('where').hidden = false; $('pageLink').hidden = false; $('shopNote').hidden = true;
+    $('links').className = 'links';
     $('linksTitle').textContent = 'Go deeper';
 
     $('strip').innerHTML = stripHtml(b);
@@ -788,7 +816,14 @@
     // credited like every other photo on the site (v35 · 13). Otherwise the title stands in, as a coverless book does.
     $('stage').innerHTML = `<span class="standin"><span class="tt">${esc(f.title)}</span><span class="au">${esc((f.director || []).join(', '))}</span></span>`;
     $('gCap').innerHTML = '<span class="l">No free picture of this film yet</span>';
-    const shot = filmBuildings(f).find(x => (x.images || [])[0]);
+    if (f.poster) {
+      $('stage').innerHTML = `<img src="${esc(f.poster.thumb)}" alt="Poster for ${esc(f.title)}">`;
+      $('gCap').innerHTML = `<span class="c">Poster</span><span class="l">From <a href="${esc(f.poster.source || 'https://www.themoviedb.org/')}" target="_blank" rel="noopener">TMDB</a></span>`;
+      const big = new Image();
+      big.onload = () => { const i = $('stage').querySelector('img'); if (i && i.getAttribute('src') === f.poster.thumb) i.src = f.poster.full; };
+      big.src = f.poster.full;
+    }
+    const shot = !f.poster && filmBuildings(f).find(x => (x.images || [])[0]);
     if (shot) {
       $('stage').innerHTML = `<img src="${esc(shot.images[0].thumb)}" alt="${esc(shot.name)}">`;
       $('gCap').innerHTML = `<span class="c">${esc(shot.name)}, in the film</span><span class="l">Loading the photo credit…</span>`;
@@ -803,7 +838,9 @@
     }
     $('strip').innerHTML = '';
     $('gPrev').hidden = $('gNext').hidden = true;
-    $('bKicker').textContent = [(f.genres || [])[0], f.kind === 'series' ? 'Series' : null].filter(Boolean).join(' · ');
+    const sc = scoreOf(f);
+    $('bKicker').innerHTML = esc([(f.genres || [])[0], f.kind === 'series' ? 'Series' : null].filter(Boolean).join(' · ')) +
+      (sc ? ` <span class="tmdb-chip" title="TMDB score from ${esc(sc.votes)} votes">TMDB ${sc.value}%</span>` : '');
     $('bName').textContent = f.title;
     const dir = (f.director || []).join(', ');
     $('byline').innerHTML = dir ? `<div class="by-row"><div class="by-link"><span class="by-text"><i>directed by</i><b>${esc(dir)}</b></span></div></div>` : '';
@@ -813,14 +850,30 @@
     $('bStudy').innerHTML = `<span>What it is about</span>${esc(f.summary || '')}`;
     $('pageLink').hidden = true;
     // Until TMDB data exists there are no services to list, so the card points at the places a student can look.
-    $('linksTitle').textContent = f.watch && f.watch.length ? 'Where to watch' : 'Find it';
+    const have = Object.keys(f.watch || {});
     $('linksMore').hidden = true; $('gKinds').hidden = true; $('bChips').classList.remove('rows'); $('chipsNote').hidden = true;
-    const rows = (f.watch && f.watch.length)
-      ? f.watch.map(w => [w.type, w.provider, w.url])
-      : (f.find || []);
-    $('links').innerHTML = rows.map(([kind, n, u]) =>
-      `<a href="${esc(u)}" target="_blank" rel="noopener"><span>${esc(kind)}</span>${esc(n)} ↗</a>`).join('');
-    $('shopNote').hidden = true;
+    const links = $('links'), note = $('shopNote');
+    if (have.length) {
+      const cc = state.watchCC && have.includes(state.watchCC) ? state.watchCC : homeCountry(have);
+      state.watchCC = cc;
+      $('linksTitle').textContent = 'Where to watch';
+      links.className = 'links watch';
+      links.innerHTML = watchHtml(f, cc);
+      const pick = have.length > 1
+        ? `<label class="cc">Country <select>${have.map(c => `<option value="${esc(c)}"${c === cc ? ' selected' : ''}>${esc(COUNTRY_NAMES[c] || c)}</option>`).join('')}</select></label>`
+        : `<span class="cc">In ${esc(COUNTRY_NAMES[cc] || cc)}</span>`;
+      note.hidden = false;
+      note.innerHTML = `${pick} <span class="jw">Services from JustWatch, through TMDB${f.watch_checked ? ' · checked ' + esc(f.watch_checked) : ''}</span>`;
+      const sel = note.querySelector('select');
+      if (sel) sel.addEventListener('change', e => { state.watchCC = e.target.value; links.innerHTML = watchHtml(f, e.target.value); });
+    } else {
+      $('linksTitle').textContent = 'Find it';
+      links.className = 'links';
+      links.innerHTML = (f.find || []).map(([kind, n, u]) =>
+        `<a href="${esc(u)}" target="_blank" rel="noopener"><span>${esc(kind)}</span>${esc(n)} ↗</a>`).join('');
+      note.hidden = false;
+      note.innerHTML = '<span class="jw">No streaming service lists this one, so these go to the places that track it.</span>';
+    }
     const built = filmBuildings(f), who = (f.architects || [])[0];
     $('byArch').hidden = !built.length;
     $('byArchTitle').textContent = who ? `On the wall · by ${who}` : 'On the wall';
@@ -870,6 +923,7 @@
     $('bMeta').innerHTML = `First published ${esc(k.year)}${k.isbn ? ` · ISBN ${esc(k.isbn)}` : ''}`;
     $('bStudy').innerHTML = `<span>Why read it</span>${esc(k.why)}`;
     $('pageLink').hidden = true;
+    $('links').className = 'links';
     $('linksTitle').textContent = 'Get it';
     $('linksMore').hidden = true; $('gKinds').hidden = true; $('bChips').classList.remove('rows'); $('chipsNote').hidden = true;
     $('links').innerHTML = bookLinks(k).map(([kind, n, u]) => `<a href="${esc(u)}" target="_blank" rel="noopener"><span>${esc(kind)}</span>${esc(n)} ↗</a>`).join('');
@@ -1321,11 +1375,6 @@
     qTimer = setTimeout(() => { state.q = fold(e.target.value.trim()); render(true); }, 160);
   });
 
-  const counts = key => {
-    const c = new Map();
-    ALL.forEach(b => values(b, key).forEach(v => c.set(v, (c.get(v) || 0) + 1)));
-    return c;
-  };
   function renderIdeas() {
     if (state.mode === 'films') {
       const n = new Map(); FILMS.forEach(f => (f.genres || []).forEach(g => n.set(g, (n.get(g) || 0) + 1)));
@@ -1339,11 +1388,10 @@
         `<button type="button" class="idea" aria-pressed="${state.shelf === v}" data-shelf="${esc(v)}">${esc(v)} <small>${n.get(v)}</small></button>`).join('');
       return;
     }
-    const c = counts('concepts');
-    const top = [...c.entries()].filter(([, n]) => n >= 3).sort((a, b) => b[1] - a[1]).map(([v]) => v);
-    const on = state.filters.concepts;
-    $('ideasList').innerHTML = `<span class="lead">Browse by idea</span>` + top.map(v =>
-      `<button type="button" class="idea" aria-pressed="${on.has(v)}" data-v="${esc(v)}">${esc(v)}</button>`).join('');
+    // The buildings wall's idea keywords left this row (owner, 3 Nov 2026): the wall starts right under the tabs,
+    // and every idea is one tap away in the Filter panel, which already lists them grouped and counted. Books keep
+    // their shelves here and Documentaries their genres, because those are each wall's only way to browse.
+    $('ideasList').innerHTML = '';
   }
   $('ideas').addEventListener('click', e => {
     const t = e.target.closest('.idea'); if (!t) return;

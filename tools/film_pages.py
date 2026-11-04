@@ -19,6 +19,9 @@ import json, re
 from pathlib import Path
 
 FOLDER = 'documentaries'
+COUNTRY_NAMES = {'US': 'the United States', 'GB': 'the United Kingdom', 'DE': 'Germany', 'FR': 'France',
+                 'CA': 'Canada', 'AU': 'Australia', 'IN': 'India'}
+WATCH_WORDS = {'free': 'Free', 'subscription': 'Stream', 'rent': 'Rent', 'buy': 'Buy'}
 GENRES = ['Portrait of an architect', 'Building story', 'City & urbanism', 'Housing & social',
           'Design process', 'Movement & history', 'Landscape & sustainability']
 
@@ -93,6 +96,20 @@ def buildings_of(bp, f, by_id, by_arch):
     return out
 
 
+def score_chip(f):
+    """TMDB's score, the only one shown as a number: IMDb's data is licensed for non-commercial use."""
+    s = next((r for r in f.get('ratings') or [] if r.get('source') == 'TMDB'), None)
+    return f' <span class="tmdb-chip">TMDB {s["value"]}%</span>' if s else ''
+
+
+def poster_html(f):
+    p = f.get('poster')
+    if not p:
+        return ''
+    return (f'<figure class="fp-poster"><img src="{p["thumb"]}" alt="Poster for {f["title"]}" loading="eager" width="342" height="513">'
+            f'<figcaption>Poster from <a href="{p.get("source") or "https://www.themoviedb.org/"}">TMDB</a></figcaption></figure>')
+
+
 def page(bp, f, all_films, by_id, by_arch):
     e, up = bp.e, '../../'
     url = f'{bp.BASE}{FOLDER}/{f["slug"]}/'
@@ -111,14 +128,27 @@ def page(bp, f, all_films, by_id, by_arch):
     director = ', '.join(f.get('director') or [])
     byline = f'<p class="fp-by"><i>directed by</i> <b>{e(director)}</b></p>' if director else ''
 
-    # Where to watch, once there is TMDB data; until then the four places a student can look, named honestly.
-    if f.get('watch'):
-        rows = ''.join(f'<a href="{e(w["url"])}"><span>{e(w.get("type", ""))}</span>{e(w.get("provider", ""))} ↗</a>' for w in f['watch'])
-        watch = f'<h2>Where to watch</h2><div class="fp-links">{rows}</div><p class="fp-note">Streaming data from JustWatch, through TMDB.</p>'
+    # Where to watch. A page is one file for every reader, so it shows one country: the United States where the
+    # film is there, else the first. The others are named, and the wall picks the reader's own country itself.
+    have = list((f.get('watch') or {}).keys())
+    if have:
+        cc = 'US' if 'US' in have else have[0]
+        rows = ''.join(
+            f'<a href="{e(w["url"])}">'
+            + (f'<img class="plogo" src="https://image.tmdb.org/t/p/w92{e(w["logo"])}" alt="" loading="lazy" width="30" height="30">' if w.get('logo') else '')
+            + f'<span class="pname">{e(w["provider"])}</span>'
+              f'<span class="pway">{e(" · ".join(WATCH_WORDS.get(t, t) for t in w["types"]))}</span></a>'
+            for w in f['watch'][cc])
+        others = [COUNTRY_NAMES.get(c, c) for c in have if c != cc]
+        more = f' Also on services in {e(", ".join(others))}.' if others else ''
+        watch = (f'<h2>Where to watch</h2><p class="fp-where">In {e(COUNTRY_NAMES.get(cc, cc))}.{more}</p>'
+                 f'<div class="fp-links watch">{rows}</div>'
+                 f'<p class="fp-note">Services from JustWatch, through TMDB'
+                 + (f' · checked {e(f["watch_checked"])}' if f.get('watch_checked') else '') + '.</p>')
     else:
         rows = ''.join(f'<a href="{e(u)}"><span>{e(kind)}</span>{e(name)} ↗</a>' for kind, name, u in f.get('find') or [])
         watch = (f'<h2>Find it</h2><div class="fp-links">{rows}</div>'
-                 f'<p class="fp-note">This shelf does not list streaming services yet, so these go straight to the places that do.</p>')
+                 f'<p class="fp-note">No streaming service lists this one, so these go to the places that track it.</p>')
 
     inflm = ''
     if bs:
@@ -148,7 +178,9 @@ def page(bp, f, all_films, by_id, by_arch):
 
     return (head + '<main class="fp">\n'
             f'<nav class="crumbs"><a href="{up}">Find Great Architecture</a> · <a href="{up}{FOLDER}/">Documentaries</a></nav>\n'
-            f'<header class="fp-head"><p class="fp-kick">{e((f.get("genres") or [""])[0])}{" · Series" if f.get("kind") == "series" else ""}</p>'
+            f'<header class="fp-head"><p class="fp-kick">{e((f.get("genres") or [""])[0])}{" · Series" if f.get("kind") == "series" else ""}'
+            f'{score_chip(f)}</p>'
+            f'{poster_html(f)}'
             f'<h1>{e(f["title"])}</h1>{byline}'
             f'<p class="fp-meta">{e(meta)}</p>'
             f'<div class="fp-tags">{genres}</div></header>\n'

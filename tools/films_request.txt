@@ -1,2 +1,2 @@
-python -u tools/harvest_films.py
-# run 5, 26 Oct: exact film titles, strict name matching
+python -u tools/fetch_films_tmdb.py
+# run 7, 3 Nov: posters, TMDB scores and where-to-watch for the 46 films on the shelf

@@ -89,7 +89,7 @@
 "wikipedia:Films about architecture",
 "wikipedia:seed-title"
 ],
-"extract": "Antonio Gaudí (アントニー・ガウディー) is a 1984 Japanese documentary film by Hiroshi Teshigahara about the works of Antoni Gaudí. In the film the director visits the buildings including houses in Barcelona and the Sagrada Família."
+"extract": "Antonio Gaudí (アントニー・ガウディー) is a 1984 Japanese documentary film by Hiroshi Teshigahara about the works of Antoni Gaudí. In the film the director visits the buildings including houses in Barcelona and the Sagrada Família.\n\n"
 },
 {
 "qid": "Q124154502",
@@ -204,8 +204,8 @@
 "architects": [
 "Peter Zumthor"
 ],
-"imdb": null,
-"tmdb": null,
+"imdb": "tt43704808",
+"tmdb": "1355885",
 "enwiki": null,
 "wd_desc": "2026 documentary film by Wim Wenders",
 "sources": [
@@ -458,6 +458,18 @@
 ]
 },
 {
+"tmdb": 1322590,
+"tmdb_kind": "movie",
+"title": "Documentary: Architect Abdelwahed El-Wakil",
+"year": 2021,
+"overview": "in the documentary \"Architect Abdelwahed El-Wakil,\" the architect discusses the relationship between architecture and identity, emphasizing the importance of preserving cultural heritage and embracing unique building styles. El-Wakil shares his personal experiences growing up in Egypt during political change and his quest to create authentic Egyptian architecture. He also introduces Islamic archit",
+"poster": "/7JRrANDr8WYHLuVDqjeYPa8pJFI.jpg",
+"votes": 1,
+"sources": [
+"tmdb:architect"
+]
+},
+{
 "qid": "Q2720116",
 "title": "102 Minutes That Changed America",
 "year": 2008,
@@ -484,7 +496,7 @@
 "sources": [
 "wikipedia:Films about architecture"
 ],
-"extract": "102 Minutes That Changed America is an American television special documentary film that was produced by the History Channel and premiered commercial-free on Thursday, September 11, 2008, marking the seventh anniversary of the September 11 attacks. The film serves as a compilation of amateur footage taken by numerous people filming the attacks, edited together to present the film in real time."
+"extract": "102 Minutes That Changed America is an American television special documentary film that was produced by the History Channel and premiered commercial-free on Thursday, September 11, 2008, marking the seventh anniversary of the September 11 attacks. The film serves as a compilation of amateur footage taken by numerous people filming the attacks, edited together to present the film in real time.\n\n"
 },
 {
 "qid": "Q19903043",
@@ -514,7 +526,7 @@
 "sources": [
 "structure-subject"
 ],
-"extract": "12 Angry Lebanese: The Documentary is a 2009 Lebanese documentary film directed, written and produced by Zeina Daccache, which chronicles efforts to stage an adaptation of Reginald Rose's 1954 teleplay Twelve Angry Men with inmates inside Beirut's Roumieh Prison It premiered at the 2009 Dubai International Film Festival."
+"extract": "12 Angry Lebanese: The Documentary is a 2009 Lebanese documentary film directed, written and produced by Zeina Daccache, which chronicles efforts to stage an adaptation of Reginald Rose's 1954 teleplay Twelve Angry Men with inmates inside Beirut's Roumieh Prison It premiered at the 2009 Dubai International Film Festival.\n\n"
 },
 {
 "qid": "Q2811296",
@@ -598,10 +610,9 @@
 "enwiki": "5B (film)",
 "wd_desc": "2019 documentary film by Paul Haggis and Dan Krauss",
 "sources": [
-"building-subject",
 "structure-subject"
 ],
-"extract": "5B is a 2018 American documentary film directed by Dan Krauss and Paul Haggis about the efforts of a group of nurses and caregivers who opened the first AIDS ward in the world at San Francisco General Hospital and changed the way patients were cared for in the 1980s AIDS epidemic.\nVerizon Media, with the help of Johnson & Johnson and Academy Award winner Julianne Moore, announced during its Newfront event in New York City on April 30, 2019, that it had acquired and planned to release the documentary.\nThe film first premiered at the 2018 San Francisco Doc Stories film festival and was later screened at the 2019 Cannes Film Festival on May 16, 2019, and at LA Pride on June 7, 2019. It was released nationwide June 14, 2019 in select theaters, presented by RYOT, a Verizon Media company."
+"extract": "5B is a 2018 American documentary film directed by Dan Krauss and Paul Haggis about the efforts of a group of nurses and caregivers who opened the first AIDS ward in the world at San Francisco General Hospital and changed the way patients were cared for in the 1980s AIDS epidemic.\nVerizon Media, with the help of Johnson & Johnson and Academy Award winner Julianne Moore, announced during its Newfront event in New York City on April 30, 2019, that it had acquired and planned to release the documentary.\nThe film first premiered at the 2018 San Francisco Doc Stories film festival and was later screened at the 2019 Cannes Film Festival on May 16, 2019, and at LA Pride on June 7, 2019. It was released nationwide June 14, 2019 in select theaters, presented by RYOT, a Verizon Media company.\n\n"
 },
 {
 "qid": "Q101103961",
@@ -658,7 +669,7 @@
 "sources": [
 "wikipedia:Films about architecture"
 ],
-"extract": "9/11 is a 2017 American action drama film directed by Martin Guigui and written by Guigui and Steven Golebiowski. It is based on the stage play Elevator by Patrick James Carson, which takes place during the September 11 attacks at the World Trade Center in New York City. The film stars Charlie Sheen, Whoopi Goldberg, Gina Gershon, Luis Guzmán and Jacqueline Bisset, and was released in the United States on September 8, 2017."
+"extract": "9/11 is a 2017 American action drama film directed by Martin Guigui and written by Guigui and Steven Golebiowski. It is based on the stage play Elevator by Patrick James Carson, which takes place during the September 11 attacks at the World Trade Center in New York City. The film stars Charlie Sheen, Whoopi Goldberg, Gina Gershon, Luis Guzmán and Jacqueline Bisset, and was released in the United States on September 8, 2017.\n\n"
 },
 {
 "qid": "Q490229",
@@ -795,7 +806,7 @@
 "wikipedia:Films about architects",
 "wikipedia:Films about architecture"
 ],
-"extract": "A Brother and 7 Siblings (Indonesian: 1 Kakak 7 Ponakan) is a 2024 drama film, written and directed by Yandy Laurens, based on the 1996 sinetron of the same name (A Sister and 7 Siblings) by Arswendo Atmowiloto. The film stars Chicco Kurniawan as a man who suddenly has to take care of his nieces and nephews after the death of his older sister.\nThe film had its world premiere as the closing film of 19th Jogja-NETPAC Asian Film Festival on 7 December 2024. It was theatrically released in Indonesia on 23 January 2025."
+"extract": "A Brother and 7 Siblings (Indonesian: 1 Kakak 7 Ponakan) is a 2024 drama film, written and directed by Yandy Laurens, based on the 1996 sinetron of the same name (A Sister and 7 Siblings) by Arswendo Atmowiloto. The film stars Chicco Kurniawan as a man who suddenly has to take care of his nieces and nephews after the death of his older sister.\nThe film had its world premiere as the closing film of 19th Jogja-NETPAC Asian Film Festival on 7 December 2024. It was theatrically released in Indonesia on 23 January 2025.\n\n"
 },
 {
 "qid": "Q134444163",
@@ -844,7 +855,7 @@
 "sources": [
 "wikipedia:Documentary films about urban studies"
 ],
-"extract": "A City Called Copenhagen (Danish: En by ved navn København) is a 1960 Danish short documentary film directed by Jørgen Roos. It was nominated for an Academy Award for Best Documentary Short. The film received positive reception."
+"extract": "A City Called Copenhagen (Danish: En by ved navn København) is a 1960 Danish short documentary film directed by Jørgen Roos. It was nominated for an Academy Award for Best Documentary Short. The film received positive reception.\n\n"
 },
 {
 "qid": "Q9557091",
@@ -922,7 +933,7 @@ null,
 "wikipedia:Films about architects",
 "wikipedia:Films about architecture"
 ],
-"extract": "A Gingerbread Romance is a 2018 American television film directed by Richard Gabai and starring Tia Mowry and Duane Henry."
+"extract": "A Gingerbread Romance is a 2018 American television film directed by Richard Gabai and starring Tia Mowry and Duane Henry.\n\n"
 },
 {
 "qid": "Q85739190",
@@ -951,7 +962,6 @@ null,
 "enwiki": "A Lion in the House",
 "wd_desc": "2006 American documentary film about childhood cancer",
 "sources": [
-"building-subject",
 "structure-subject"
 ],
 "extract": "A Lion in the House is a 2006 American documentary film directed by Steven Bognar and Julia Reichert that explores the impact of childhood cancer on five different families throughout the span of six years in Ohio. The 225-minute long documentary, which took eight years to complete, follows the lives of cancer patients Justin Ashcraft, Al Fields, Alexandra Lougheed, Jen Moone, and Timothy Woods as they are treated at the Cincinnati Children's Hospital Medical Center.\nThe film premiered in January 2006 at the Sundance Festival and was broadcast on PBS in two segments on June 21 and June 22, 2006. The film has earned numerous awards and promoted pediatric cancer awareness."
@@ -996,7 +1006,6 @@ null,
 "enwiki": null,
 "wd_desc": "Feature-length documentary film directed by Annabel Loyola in 2010",
 "sources": [
-"building-subject",
 "structure-subject"
 ]
 },
@@ -1025,7 +1034,7 @@ null,
 "sources": [
 "wikipedia:Films about architecture"
 ],
-"extract": "A Moment to Remember (Korean: 내 머리 속의 지우개; RR: Nae meori sogui jiugae; lit. 'The Eraser in My Head') is a 2004 South Korean romantic drama film directed by John H. Lee. It stars Jung Woo-sung and Son Ye-jin and follows the theme of discovery in a relationship and the burdens of loss caused by Alzheimer's disease. The film was released on November 5, 2004, in South Korea.\nIt was a major success domestically, topping the box office for two consecutive weeks to become the 5th highest-grossing film of 2004. The film was also a hit in Japan, breaking previous records of Korean films released there; it was the 19th highest-grossing film at the 2005 Japanese box office. John H. Lee and Kim Young-ha won Best Adapted Screenplay at the 2005 Grand Bell Awards.\nThe film was remade in Turkish as Evim Sensin in 2012 and in Hindi as Saiyaara in 2025."
+"extract": "A Moment to Remember (Korean: 내 머리 속의 지우개; RR: Nae meori sogui jiugae; lit. 'The Eraser in My Head') is a 2004 South Korean romantic drama film directed by John H. Lee. It stars Jung Woo-sung and Son Ye-jin and follows the theme of discovery in a relationship and the burdens of loss caused by Alzheimer's disease. The film was released on November 5, 2004, in South Korea.\nIt was a major success domestically, topping the box office for two consecutive weeks to become the 5th highest-grossing film of 2004. The film was also a hit in Japan, breaking previous records of Korean films released there; it was the 19th highest-grossing film at the 2005 Japanese box office. John H. Lee and Kim Young-ha won Best Adapted Screenplay at the 2005 Grand Bell Awards.\nThe film was remade in Turkish as Evim Sensin in 2012 and in Hindi as Saiyaara in 2025.\n\n"
 },
 {
 "qid": "Q113667069",
@@ -1074,7 +1083,7 @@ null,
 "wikipedia:Documentary films about urban studies",
 "wikipedia:Films about architecture"
 ],
-"extract": "A Program About Unusual Buildings & Other Roadside Stuff is a 2004 PBS documentary by Rick Sebak of WQED.  It showcases mimetic and novelty buildings across the United States.\nSome of the architecture and buildings depicted in the documentary include:\n\nHaines Shoe House, Hallam, Pennsylvania — shoe\nFrates Bottle, New Bedford, Massachusetts — milk bottle\nBondurant's Pharmacy, Lexington, Kentucky — mortar and pestle\nWigwam Village #2, Cave City, Kentucky — teepees\nTail O' the Pup, West Hollywood, California — hot dog\nBrooks Catsup Bottle Water Tower, Collinsville, Illinois — ketchup bottle\nClam Box, Ipswich, Massachusetts — clam box\nStacey family private house, Hazard, Kentucky — goose\nNational Fresh Water Fishing Hall of Fame & Museum, Hayward, Wisconsin — muskie\nOrange World, Kissimmee, Florida — orange\nWonderWorks, Orlando, Florida — upside-down\nCorn Palace, Mitchell, South Dakota — corn-covered\nMammy's Cupboard, Natchez, Mississippi — mammy\nBig Duck, Hampton Bays, New York — duck"
+"extract": "A Program About Unusual Buildings & Other Roadside Stuff is a 2004 PBS documentary by Rick Sebak of WQED.  It showcases mimetic and novelty buildings across the United States.\nSome of the architecture and buildings depicted in the documentary include:\n\nHaines Shoe House, Hallam, Pennsylvania — shoe\nFrates Bottle, New Bedford, Massachusetts — milk bottle\nBondurant's Pharmacy, Lexington, Kentucky — mortar and pestle\nWigwam Village #2, Cave City, Kentucky — teepees\nTail O' the Pup, West Hollywood, California — hot dog\nBrooks Catsup Bottle Water Tower, Collinsville, Illinois — ketchup bottle\nClam Box, Ipswich, Massachusetts — clam box\nStacey family private house, Hazard, Kentucky — goose\nNational Fresh Water Fishing Hall of Fame & Museum, Hayward, Wisconsin — muskie\nOrange World, Kissimmee, Florida — orange\nWonderWorks, Orlando, Florida — upside-down\nCorn Palace, Mitchell, South Dakota — corn-covered\nMammy's Cupboard, Natchez, Mississippi — mammy\nBig Duck, Hampton Bays, New York — duck\n\n"
 },
 {
 "qid": "Q105744673",
@@ -1233,7 +1242,7 @@ null
 "sources": [
 "wikipedia:seed-title"
 ],
-"extract": "Abstract: The Art of Design is a Netflix original documentary series highlighting artists in the field of design. It was released on Netflix on February 10, 2017. The series was created by former Wired editor-in-chief Scott Dadich.\nThe first season profiled illustrator Christoph Niemann, Nike shoe designer Tinker Hatfield, stage designer Es Devlin, architect Bjarke Ingels, automotive designer Ralph Gilles, graphic designer Paula Scher, photographer Platon, and interior designer Ilse Crawford.\nIn 2019, Netflix announced that the series had been renewed for a second season, which was released on September 25, 2019."
+"extract": "Abstract: The Art of Design is a Netflix original documentary series highlighting artists in the field of design. It was released on Netflix on February 10, 2017. The series was created by former Wired editor-in-chief Scott Dadich.\nThe first season profiled illustrator Christoph Niemann, Nike shoe designer Tinker Hatfield, stage designer Es Devlin, architect Bjarke Ingels, automotive designer Ralph Gilles, graphic designer Paula Scher, photographer Platon, and interior designer Ilse Crawford.\nIn 2019, Netflix announced that the series had been renewed for a second season, which was released on September 25, 2019.\n\n"
 },
 {
 "qid": "Q17150226",
@@ -1264,7 +1273,7 @@ null
 "sources": [
 "architect-subject"
 ],
-"extract": "Ai Weiwei: The Fake Case is a 2013 documentary film about Chinese artist and activist Ai Weiwei, directed by Danish filmmaker Andreas Johnsen. The film won Best 2014 Documentary in Danish Film Critics Association's 67th Bodil Awards, played in the official selection of 2014 Hot Docs Canadian International Documentary Festival in Toronto and International Documentary Film Festival Amsterdam.\nThe documentary explores Ai Weiwei's battle against the fake tax case thrust on him by the Chinese government in effort of political suppression and the consequences that the 81-day detention had on his art, politics and personal life. It was pitched at the 2012 MeetMarket as part of the Sheffield Doc/Fest."
+"extract": "Ai Weiwei: The Fake Case is a 2013 documentary film about Chinese artist and activist Ai Weiwei, directed by Danish filmmaker Andreas Johnsen. The film won Best 2014 Documentary in Danish Film Critics Association's 67th Bodil Awards, played in the official selection of 2014 Hot Docs Canadian International Documentary Festival in Toronto and International Documentary Film Festival Amsterdam.\nThe documentary explores Ai Weiwei's battle against the fake tax case thrust on him by the Chinese government in effort of political suppression and the consequences that the 81-day detention had on his art, politics and personal life. It was pitched at the 2012 MeetMarket as part of the Sheffield Doc/Fest.\n\n"
 },
 {
 "qid": "Q3700510",
@@ -1295,7 +1304,7 @@ null
 "sources": [
 "architect-subject"
 ],
-"extract": "Ai Weiwei: Never Sorry (in Chinese 艾未未：道歉你妹; official title in Taiwan 艾未未：草泥馬) is a 2012 documentary film about Chinese artist and activist Ai Weiwei, directed by American filmmaker Alison Klayman.\nDirector Klayman received a special jury prize at the 2012 Sundance Film Festival for the film, which also opened the Hot Docs Canadian International Documentary Festival in Toronto on 26 April 2012."
+"extract": "Ai Weiwei: Never Sorry (in Chinese 艾未未：道歉你妹; official title in Taiwan 艾未未：草泥馬) is a 2012 documentary film about Chinese artist and activist Ai Weiwei, directed by American filmmaker Alison Klayman.\nDirector Klayman received a special jury prize at the 2012 Sundance Film Festival for the film, which also opened the Hot Docs Canadian International Documentary Festival in Toronto on 26 April 2012.\n\n"
 },
 {
 "qid": "Q105686614",
@@ -1350,7 +1359,7 @@ null
 "sources": [
 "wikipedia:Documentary films about urban studies"
 ],
-"extract": "Aimless Walk (Bezúčelná procházka) is an unconventional and complex 8-minute film directed by the Czech filmmaker Alexandr Hackenschmied, also known as Alexander Hammid. Released in 1930, the film falls within the experimental documentary genre and is a notable example of European cinema's avant-garde tradition. It has been mentioned alongside city symphony films such as Man with a Movie Camera and Manhatta."
+"extract": "Aimless Walk (Bezúčelná procházka) is an unconventional and complex 8-minute film directed by the Czech filmmaker Alexandr Hackenschmied, also known as Alexander Hammid. Released in 1930, the film falls within the experimental documentary genre and is a notable example of European cinema's avant-garde tradition. It has been mentioned alongside city symphony films such as Man with a Movie Camera and Manhatta.\n\n"
 },
 {
 "qid": "Q131144745",
@@ -1437,7 +1446,7 @@ null
 "sources": [
 "wikipedia:Films about architecture"
 ],
-"extract": "Amityville Exorcism is a 2017 American horror film directed by Mark Polonia and written by Billy D'Amato and Agung Bagus. It was released direct-to-video, and is the eighteenth film to be inspired by Jay Anson's 1977 novel The Amityville Horror. The film stars Jeff Kirkendall as Father Benna, a Catholic priest who, with the help of troubled father Jeremy Dukane (James Carolus), performs an exorcism on the man's daughter Amy (Marie DeLorenzo) after the girl is possessed by a demon that originates from 112 Ocean Avenue, a haunted house in Amityville, New York. It was followed by two sequels, Amityville Island in 2020 and Amityville in Space in 2022."
+"extract": "Amityville Exorcism is a 2017 American horror film directed by Mark Polonia and written by Billy D'Amato and Agung Bagus. It was released direct-to-video, and is the eighteenth film to be inspired by Jay Anson's 1977 novel The Amityville Horror. The film stars Jeff Kirkendall as Father Benna, a Catholic priest who, with the help of troubled father Jeremy Dukane (James Carolus), performs an exorcism on the man's daughter Amy (Marie DeLorenzo) after the girl is possessed by a demon that originates from 112 Ocean Avenue, a haunted house in Amityville, New York. It was followed by two sequels, Amityville Island in 2020 and Amityville in Space in 2022.\n\n"
 },
 {
 "qid": "Q2621377",
@@ -1489,7 +1498,6 @@ null
 "enwiki": null,
 "wd_desc": "Swiss documentary film",
 "sources": [
-"building-subject",
 "structure-subject"
 ]
 },
@@ -1595,7 +1603,7 @@ null
 "sources": [
 "wikipedia:Films about architecture"
 ],
-"extract": "Architecture 101 (Korean: 건축학개론; RR: Geonchukhak gaeron; lit. 'Introduction to Architecture') is a 2012 South Korean romance film written and directed by Lee Yong-ju. The film tells the story of two students who meet in an introductory architecture class and fall in love. Fifteen years later, the girl tracks down her first love to seek his help in building her dream house."
+"extract": "Architecture 101 (Korean: 건축학개론; RR: Geonchukhak gaeron; lit. 'Introduction to Architecture') is a 2012 South Korean romance film written and directed by Lee Yong-ju. The film tells the story of two students who meet in an introductory architecture class and fall in love. Fifteen years later, the girl tracks down her first love to seek his help in building her dream house.\n\n"
 },
 {
 "qid": "Q2031138",
@@ -1807,7 +1815,6 @@ null
 "enwiki": "At Averroès & Rosa Parks",
 "wd_desc": "2024 documentary film by Nicolas Philibert",
 "sources": [
-"building-subject",
 "structure-subject"
 ],
 "extract": "At Averroès & Rosa Parks (French: Averroès & Rosa Parks) is a 2024 documentary film directed by Nicolas Philibert. The film is part of a triptych of feature documentaries devoted to patients and caregivers in Paris’ Central Psychiatric Group.\nIt was selected in the Berlinale Special at the 74th Berlin International Film Festival, where it had its world premiere on 16 February 2024. The film was also nominated for the Berlinale Documentary Film Award.\nIt was theatrically released in France on 20 March 2024."
@@ -1972,7 +1979,7 @@ null
 "sources": [
 "wikipedia:Documentary films about urban studies"
 ],
-"extract": "Battle for the City (Finnish: Taistelu Turusta) is a 2011 Finnish documentary film directed by Jouko Aaltonen about the city of Turku, including the controversial \"disease of Turku\"."
+"extract": "Battle for the City (Finnish: Taistelu Turusta) is a 2011 Finnish documentary film directed by Jouko Aaltonen about the city of Turku, including the controversial \"disease of Turku\".\n\n"
 },
 {
 "qid": "Q510641",
@@ -2092,7 +2099,7 @@ null
 "building-subject",
 "structure-subject"
 ],
-"extract": "Ben's Mill is a 1982 American documentary film directed by Michel Chalufour and John Karol."
+"extract": "Ben's Mill is a 1982 American documentary film directed by Michel Chalufour and John Karol.\n\n"
 },
 {
 "qid": "Q821252",
@@ -2250,7 +2257,7 @@ null
 "sources": [
 "wikipedia:Documentary films about urban studies"
 ],
-"extract": "Bombay: Our City (Hamara Sahar) is a 1985 Indian documentary film directed by Anand Patwardhan. The film story based on daily battle for survival of the 4 million slum dwellers of Bombay who make up half the city's population, and also focuses on the slum demolitions in the early 1980s especially the slaughterhouse slums next to the railway tracks in Bandra West. The film produced by the Ramesh Asher and Sanjiv Shah. The film was released on 7 June 1985."
+"extract": "Bombay: Our City (Hamara Sahar) is a 1985 Indian documentary film directed by Anand Patwardhan. The film story based on daily battle for survival of the 4 million slum dwellers of Bombay who make up half the city's population, and also focuses on the slum demolitions in the early 1980s especially the slaughterhouse slums next to the railway tracks in Bandra West. The film produced by the Ramesh Asher and Sanjiv Shah. The film was released on 7 June 1985.\n\n"
 },
 {
 "qid": "Q241391",
@@ -2281,7 +2288,7 @@ null
 "sources": [
 "wikipedia:Films about architecture"
 ],
-"extract": "Breaking and Entering is a 2006 romantic crime drama film written and directed by Anthony Minghella and starring Jude Law, Juliette Binoche, and Robin Wright. It was his first original screenplay since his 1990 feature debut Truly, Madly, Deeply and his final feature film before his death in 2008. Set in a blighted, inner-city neighbourhood of London, the film is about a successful landscape architect whose dealings with a young thief and his mother cause him to re-evaluate his life.\nMinghella previously directed the film's stars – Jude Law in Cold Mountain and The Talented Mr. Ripley, and Juliette Binoche in The English Patient. In his first major film role, Rafi Gavron portrays Miro, the young traceur burglar, a role requiring several difficult physical feats. The film is a presentation of The Weinstein Company, Miramax Films and Mirage Enterprises and was distributed in the United States by Metro-Goldwyn-Mayer (through MGM Distribution Co.) and in international markets by Buena Vista International. Breaking and Entering premiered on 13 September 2006 at the Toronto International Film Festival before being released in the United States on 9 February 2007."
+"extract": "Breaking and Entering is a 2006 romantic crime drama film written and directed by Anthony Minghella and starring Jude Law, Juliette Binoche, and Robin Wright. It was his first original screenplay since his 1990 feature debut Truly, Madly, Deeply and his final feature film before his death in 2008. Set in a blighted, inner-city neighbourhood of London, the film is about a successful landscape architect whose dealings with a young thief and his mother cause him to re-evaluate his life.\nMinghella previously directed the film's stars – Jude Law in Cold Mountain and The Talented Mr. Ripley, and Juliette Binoche in The English Patient. In his first major film role, Rafi Gavron portrays Miro, the young traceur burglar, a role requiring several difficult physical feats. The film is a presentation of The Weinstein Company, Miramax Films and Mirage Enterprises and was distributed in the United States by Metro-Goldwyn-Mayer (through MGM Distribution Co.) and in international markets by Buena Vista International. Breaking and Entering premiered on 13 September 2006 at the Toronto International Film Festival before being released in the United States on 9 February 2007.\n\n"
 },
 {
 "qid": "Q109279483",
@@ -2338,7 +2345,7 @@ null
 "sources": [
 "structure-subject"
 ],
-"extract": "Brooklyn Bridge is a documentary film on the history of the Brooklyn Bridge and the directorial debut of Ken Burns. It was produced by Burns, Roger Sherman, Buddy Squires, and Amy Stechler in 1981."
+"extract": "Brooklyn Bridge is a documentary film on the history of the Brooklyn Bridge and the directorial debut of Ken Burns. It was produced by Burns, Roger Sherman, Buddy Squires, and Amy Stechler in 1981.\n\n"
 },
 {
 "qid": "Q137295429",
@@ -2419,7 +2426,7 @@ null
 "sources": [
 "wikipedia:Documentary films about urban studies"
 ],
-"extract": "Cairo Drive is a 2014 Egyptian documentary film by Sherief Elkatsha. The film explores Cairo's chaotic traffic and illustrates the ways in which individuals navigate its hectic roads, unspoken rules, and 14 million vehicles. The film was shot over three years, from 2009 to 2012, and depicts scenes from before, during, and after the 2011 revolution. The film debuted on 27 October 2013 at the Abu Dhabi Film Festival and received the Best Film From the Arab World - Documentary Competition award. It is Elkatsha's fourth feature film and his first to appear in an international film festival."
+"extract": "Cairo Drive is a 2014 Egyptian documentary film by Sherief Elkatsha. The film explores Cairo's chaotic traffic and illustrates the ways in which individuals navigate its hectic roads, unspoken rules, and 14 million vehicles. The film was shot over three years, from 2009 to 2012, and depicts scenes from before, during, and after the 2011 revolution. The film debuted on 27 October 2013 at the Abu Dhabi Film Festival and received the Best Film From the Arab World - Documentary Competition award. It is Elkatsha's fourth feature film and his first to appear in an international film festival.\n\n"
 },
 {
 "qid": "Q5018913",
@@ -2668,7 +2675,7 @@ null
 "sources": [
 "wikipedia:Documentary films about urban studies"
 ],
-"extract": "City of Gold is a 1957 Canadian documentary film by Colin Low and Wolf Koenig, chronicling Dawson City during the Klondike Gold Rush. It made innovative use of archival photos and camera movements to animate still images, while also combining narration and music to bring drama to the whole. Its innovative use of still photography in this manner has been cited by Ken Burns as the source of inspiration for his so-called Ken Burns effect, a type of panning and zooming effect used in video production to animate still images.\nThe film is narrated by Pierre Berton and produced by the National Film Board of Canada."
+"extract": "City of Gold is a 1957 Canadian documentary film by Colin Low and Wolf Koenig, chronicling Dawson City during the Klondike Gold Rush. It made innovative use of archival photos and camera movements to animate still images, while also combining narration and music to bring drama to the whole. Its innovative use of still photography in this manner has been cited by Ken Burns as the source of inspiration for his so-called Ken Burns effect, a type of panning and zooming effect used in video production to animate still images.\nThe film is narrated by Pierre Berton and produced by the National Film Board of Canada.\n\n"
 },
 {
 "qid": "Q99519749",
@@ -2784,7 +2791,7 @@ null
 "building-subject",
 "structure-subject"
 ],
-"extract": "Code Black is a documentary directed by Ryan McGarry in 2013 that follows the lives of young physicians in the Los Angeles General Medical Center Emergency department. These young residents stand up for medicine in a broken healthcare system. This film enters one of America's busiest emergency rooms where new challenges arise as the young residents try to live up to the previous doctors in the legendary C-booth. The film was adapted by Michael Seitzman into the CBS medical drama Code Black (2015–2018)."
+"extract": "Code Black is a documentary directed by Ryan McGarry in 2013 that follows the lives of young physicians in the Los Angeles General Medical Center Emergency department. These young residents stand up for medicine in a broken healthcare system. This film enters one of America's busiest emergency rooms where new challenges arise as the young residents try to live up to the previous doctors in the legendary C-booth. The film was adapted by Michael Seitzman into the CBS medical drama Code Black (2015–2018).\n\n"
 },
 {
 "qid": "Q88679673",
@@ -2895,7 +2902,7 @@ null
 "sources": [
 "wikipedia:Documentary films about urban studies"
 ],
-"extract": "Complexo - Universo Paralelo is a 2011 Portuguese documentary film about life in one of the most dangerous favelas in Rio de Janeiro, Complexo do Alemão, directed by Mário Patrocínio."
+"extract": "Complexo - Universo Paralelo is a 2011 Portuguese documentary film about life in one of the most dangerous favelas in Rio de Janeiro, Complexo do Alemão, directed by Mário Patrocínio.\n\n"
 },
 {
 "qid": "Q18159955",
@@ -2948,7 +2955,7 @@ null
 "sources": [
 "structure-subject"
 ],
-"extract": "Confessions of a Superhero is a 2007 American documentary film directed by Matthew Ogens. The film documents the lives of four subjects who make a living performing as costumed superheroes on the Hollywood Walk of Fame."
+"extract": "Confessions of a Superhero is a 2007 American documentary film directed by Matthew Ogens. The film documents the lives of four subjects who make a living performing as costumed superheroes on the Hollywood Walk of Fame.\n\n"
 },
 {
 "qid": "Q2995754",
@@ -2974,7 +2981,7 @@ null
 "sources": [
 "wikipedia:Documentary films about urban studies"
 ],
-"extract": "Contras'city is a Senegalese 1968 short documentary film."
+"extract": "Contras'city is a Senegalese 1968 short documentary film.\n\n"
 },
 {
 "qid": "Q33529067",
@@ -3113,7 +3120,7 @@ null
 "sources": [
 "structure-subject"
 ],
-"extract": "Dark Days is an American documentary film directed, produced, and photographed by the English documentarian Marc Singer that was completed and released in 2000. Shot during the mid-1990s, it follows a group of people who lived in the Freedom Tunnel section of the Amtrak system at the time. DJ Shadow created new music for the documentary and also let Singer use some of his existing songs."
+"extract": "Dark Days is an American documentary film directed, produced, and photographed by the English documentarian Marc Singer that was completed and released in 2000. Shot during the mid-1990s, it follows a group of people who lived in the Freedom Tunnel section of the Amtrak system at the time. DJ Shadow created new music for the documentary and also let Singer use some of his existing songs.\n\n"
 },
 {
 "qid": "Q5223455",
@@ -3172,7 +3179,7 @@ null
 "wikipedia:Documentary films about urban studies",
 "wikipedia:Films about architecture"
 ],
-"extract": "De brug (The bridge) is a 1928 Dutch documentary silent short film directed by  Joris Ivens. This silent film explores the then-newly constructed Koningshaven Bridge in Rotterdam, an elevator railway bridge. The film looks at its structure, mechanisms, complex actions, and the steam-powered trains and ships crossing it."
+"extract": "De brug (The bridge) is a 1928 Dutch documentary silent short film directed by  Joris Ivens. This silent film explores the then-newly constructed Koningshaven Bridge in Rotterdam, an elevator railway bridge. The film looks at its structure, mechanisms, complex actions, and the steam-powered trains and ships crossing it.\n\n"
 },
 {
 "qid": "Q657607",
@@ -3256,7 +3263,7 @@ null
 "building-subject",
 "structure-subject"
 ],
-"extract": "Star Theatre (also known as Demolishing and Building Up the Star Theatre) is a 1901 short documentary film in which time-lapse photography is used to show the dismantling and demolition of New York City's Star Theatre over a period of about a month.\nProduced by the American Mutoscope and Biograph Company (often shortened to Biograph), it was filmed by F.S. Armitage.  In 2002, the film was deemed \"culturally, historically, or aesthetically significant\" by the United States Library of Congress, and selected for preservation in its National Film Registry."
+"extract": "Star Theatre (also known as Demolishing and Building Up the Star Theatre) is a 1901 short documentary film in which time-lapse photography is used to show the dismantling and demolition of New York City's Star Theatre over a period of about a month.\nProduced by the American Mutoscope and Biograph Company (often shortened to Biograph), it was filmed by F.S. Armitage.  In 2002, the film was deemed \"culturally, historically, or aesthetically significant\" by the United States Library of Congress, and selected for preservation in its National Film Registry.\n\n"
 },
 {
 "qid": "Q119853734",
@@ -3333,7 +3340,7 @@ null
 "sources": [
 "wikipedia:Documentary films about urban studies"
 ],
-"extract": "Dilli is an Indian documentary film that explores issues of urbanization, development and space through the narratives of people living in Delhi, capital to the world's largest democracy.\nDilli is directed by Sushmit Ghosh and Rintu Thomas of Black Ticket Films and executive produced by Robin Raina. The film brings out a stark comparison of the rampant progress and development of the megalopolis vis-à-vis thousands who are left homeless while the whole city is modernized and revamped. The film was premiered at the NASDAQ in Times Square, New York City on 1 April 2011 following the ringing of the NASDAQ closing bell by Robin Raina, Founder RRF.\nThe film is being used by non-governmental institutions, advocacy groups as well as educational institutions across Asia, Europe and North America to engage with larger audiences about issues of development and urbanization."
+"extract": "Dilli is an Indian documentary film that explores issues of urbanization, development and space through the narratives of people living in Delhi, capital to the world's largest democracy.\nDilli is directed by Sushmit Ghosh and Rintu Thomas of Black Ticket Films and executive produced by Robin Raina. The film brings out a stark comparison of the rampant progress and development of the megalopolis vis-à-vis thousands who are left homeless while the whole city is modernized and revamped. The film was premiered at the NASDAQ in Times Square, New York City on 1 April 2011 following the ringing of the NASDAQ closing bell by Robin Raina, Founder RRF.\nThe film is being used by non-governmental institutions, advocacy groups as well as educational institutions across Asia, Europe and North America to engage with larger audiences about issues of development and urbanization.\n\n"
 },
 {
 "qid": "Q5282508",
@@ -3361,7 +3368,7 @@ null
 "sources": [
 "wikipedia:Documentary films about urban studies"
 ],
-"extract": "Disorder is a 2009 Chinese documentary film directed by Huang Weikai  (Chinese: 黄伟凯; pinyin: Huáng Wěikǎi) and distributed by dGenerate Films."
+"extract": "Disorder is a 2009 Chinese documentary film directed by Huang Weikai  (Chinese: 黄伟凯; pinyin: Huáng Wěikǎi) and distributed by dGenerate Films.\n\n"
 },
 {
 "qid": "Q18402581",
@@ -3568,6 +3575,32 @@ null
 "extract": "Emergent City is a 2024 American documentary film which explores the debate over the redevelopment of Industry City in Brooklyn, New York. It was directed by Kelly Anderson and Jay Arthur Sterrenberg."
 },
 {
+"qid": "Q141881573",
+"title": "Entre deux tours",
+"year": 1987,
+"runtime_min": 16,
+"instance_of": [
+"documentary film"
+],
+"genres_wd": [],
+"is_doc": true,
+"director": [
+"Rob Rombout"
+],
+"subjects": [
+"Tower of Eben-Ezer"
+],
+"architects": [],
+"imdb": "tt31113857",
+"tmdb": "1536680",
+"enwiki": null,
+"wd_desc": "1987 documentary film by Rob Rombout",
+"sources": [
+"building-subject",
+"structure-subject"
+]
+},
+{
 "qid": "Q12118184",
 "title": "Escape from Suburbia",
 "year": 2007,
@@ -3589,7 +3622,7 @@ null
 "sources": [
 "wikipedia:Documentary films about urban studies"
 ],
-"extract": "Escape from Suburbia: Beyond the American Dream is a 2007 Canadian documentary film written and directed by Gregory Greene, as a sequel to Greene's film The End of Suburbia, and set to address what is termed \"the upcoming energy crisis\".  Through interviews with individuals, Gregory Greene outlines potential solutions to the coming energy crisis."
+"extract": "Escape from Suburbia: Beyond the American Dream is a 2007 Canadian documentary film written and directed by Gregory Greene, as a sequel to Greene's film The End of Suburbia, and set to address what is termed \"the upcoming energy crisis\".  Through interviews with individuals, Gregory Greene outlines potential solutions to the coming energy crisis.\n\n"
 },
 {
 "qid": "Q124336059",
@@ -3615,7 +3648,7 @@ null
 "wikipedia:Documentary films about urban studies",
 "wikipedia:Films about architecture"
 ],
-"extract": "Exergue – on documenta 14 is a 2024 Greek documentary film with a runtime of 848 minutes (14 hours and 8 minutes), making it the second-longest non-experimental film ever made. The documentary was directed by Dimitris Athiridis and had its world premiere in February 2024 at the 74th Berlin International Film Festival. The film centers on Adam Szymczyk, the artistic director of Documenta 14, and his team as they prepared for the contemporary art exhibition, which was held in Kassel and Athens in 2017."
+"extract": "Exergue – on documenta 14 is a 2024 Greek documentary film with a runtime of 848 minutes (14 hours and 8 minutes), making it the second-longest non-experimental film ever made. The documentary was directed by Dimitris Athiridis and had its world premiere in February 2024 at the 74th Berlin International Film Festival. The film centers on Adam Szymczyk, the artistic director of Documenta 14, and his team as they prepared for the contemporary art exhibition, which was held in Kassel and Athens in 2017.\n\n"
 },
 {
 "qid": "Q678139",
@@ -3643,7 +3676,7 @@ null
 "wikipedia:Documentary films about urban studies",
 "wikipedia:Films about architecture"
 ],
-"extract": "Expo: Magic of the White City is a 2005 American direct-to-video historical documentary film directed and produced by Mark Bussler, and narrated by Gene Wilder. The documentary tells the story of Chicago's World's Columbian Exposition in 1893. It marked Wilder's last film project before his death in 2016."
+"extract": "Expo: Magic of the White City is a 2005 American direct-to-video historical documentary film directed and produced by Mark Bussler, and narrated by Gene Wilder. The documentary tells the story of Chicago's World's Columbian Exposition in 1893. It marked Wilder's last film project before his death in 2016.\n\n"
 },
 {
 "qid": "Q12042313",
@@ -3728,7 +3761,6 @@ null
 "enwiki": null,
 "wd_desc": "2023 film by Alexis Neophytides and Andres “Jay” Molina",
 "sources": [
-"building-subject",
 "structure-subject"
 ]
 },
@@ -3819,7 +3851,7 @@ null
 "sources": [
 "structure-subject"
 ],
-"extract": "Following Sean is a 2005 documentary film directed by Ralph Arlyck, and a follow-up to his 1969 student short Sean, which features four-year-old Sean's thoughts on marijuana (including his own use), police presence, and freewheeling lifestyles. The film's notoriety landed a screening in the White House and a variety of predictions regarding the outcome of Sean's life - whether he could grow up to embody the hippy philosophy, or whether he would turn out a drug dealer or stock broker.\nFollowing Sean picks up in the mid-1990s and turns Sean's story into a meditation on generational changes and legacies that are handed down as a result of choices made in heated political climates. The film was met with high critical praise, receiving an 86% \"Fresh\" rating on Rotten Tomatoes and a 64 on Metacritic."
+"extract": "Following Sean is a 2005 documentary film directed by Ralph Arlyck, and a follow-up to his 1969 student short Sean, which features four-year-old Sean's thoughts on marijuana (including his own use), police presence, and freewheeling lifestyles. The film's notoriety landed a screening in the White House and a variety of predictions regarding the outcome of Sean's life - whether he could grow up to embody the hippy philosophy, or whether he would turn out a drug dealer or stock broker.\nFollowing Sean picks up in the mid-1990s and turns Sean's story into a meditation on generational changes and legacies that are handed down as a result of choices made in heated political climates. The film was met with high critical praise, receiving an 86% \"Fresh\" rating on Rotten Tomatoes and a 64 on Metacritic.\n\n"
 },
 {
 "qid": "Q27039087",
@@ -3875,7 +3907,7 @@ null
 "wikipedia:Films about architecture",
 "wikipedia:seed-title"
 ],
-"extract": "Garbage Warrior is a 2007 American film about architect Mike Reynolds, inventor of the Earthship style of building, directed by Oliver Hodge."
+"extract": "Garbage Warrior is a 2007 American documentary film about architect Mike Reynolds, inventor of the Earthship style of building, directed by Oliver Hodge."
 },
 {
 "qid": "Q1058019",
@@ -4159,7 +4191,7 @@ null
 "wikipedia:Documentary films about urban studies",
 "wikipedia:Films about architecture"
 ],
-"extract": "Great Expectations (a journey through the history of visionary architecture) is a 2007 documentary about the history of visionary architecture by director Jesper Wachtmeister.\nThe film uses interviews to frame the history of utopian and visionary architecture through the 20th century. Subjects include Le Corbusier, Oscar Niemeyer, Peter Cook, Buckminster Fuller, Moshe Safdie, Antti Lovag, Paolo Soleri, Peter Vetsch and Jacque Fresco."
+"extract": "Great Expectations (a journey through the history of visionary architecture) is a 2007 documentary about the history of visionary architecture by director Jesper Wachtmeister.\nThe film uses interviews to frame the history of utopian and visionary architecture through the 20th century. Subjects include Le Corbusier, Oscar Niemeyer, Peter Cook, Buckminster Fuller, Moshe Safdie, Antti Lovag, Paolo Soleri, Peter Vetsch and Jacque Fresco.\n\n"
 },
 {
 "qid": "Q2104352",
@@ -4335,7 +4367,7 @@ null
 "building-subject",
 "structure-subject"
 ],
-"extract": "Home From School: The Children of Carlisle is a 2021 documentary film. The film tells the story of a group of Northern Arapaho who seek to recover the remains of Arapaho children buried in the 1880s on the grounds of the Carlisle Indian Industrial School in Carlisle, Pennsylvania.\nThe film aired on Independent Lens on PBS on November 23, 2021."
+"extract": "Home From School: The Children of Carlisle is a 2021 documentary film. The film tells the story of a group of Northern Arapaho who seek to recover the remains of Arapaho children buried in the 1880s on the grounds of the Carlisle Indian Industrial School in Carlisle, Pennsylvania.\nThe film aired on Independent Lens on PBS on November 23, 2021.\n\n"
 },
 {
 "qid": "Q109374393",
@@ -4386,7 +4418,6 @@ null
 "enwiki": "Hospital (1970 film)",
 "wd_desc": "1970 American documentary film directed by Frederick Wiseman",
 "sources": [
-"building-subject",
 "structure-subject"
 ],
 "extract": "Hospital is an 84-minute 1970 American documentary film directed by Frederick Wiseman, which explores the daily activities of the people at Metropolitan Hospital Center, a large-city hospital in New York City, with emphasis on its emergency ward and outpatient clinics.\nThe film won two Emmy Awards for Outstanding Achievement in News Documentary Programming - Individuals and Outstanding Achievement in News Documentary Programming - Programs. In 1994, it was selected for preservation in the United States National Film Registry as being deemed  \"culturally, historically, or aesthetically significant\". The film was selected for screening as part of the Cannes Classics section at the 2016 Cannes Film Festival."
@@ -4584,7 +4615,6 @@ null
 "enwiki": null,
 "wd_desc": "documentary movie by Wojciech Kasperski (2016)",
 "sources": [
-"building-subject",
 "structure-subject"
 ]
 },
@@ -4720,7 +4750,7 @@ null
 ],
 "is_doc": false,
 "director": [
-"Christopher Nolan"
+null
 ],
 "subjects": [
 "telepresence",
@@ -4764,7 +4794,7 @@ null
 "wikipedia:Films about architects",
 "wikipedia:Films about architecture"
 ],
-"extract": "Indecent Proposal is a 1993 American erotic drama film directed by Adrian Lyne and written by Amy Holden Jones. It is based on the 1988 novel by Jack Engelhard, in which couple David and Diana Murphy's marriage is disrupted by stranger John Gage's offer of a million dollars for Diana to spend the night with him. It stars Robert Redford, Demi Moore and Woody Harrelson.\nIndecent Proposal was released by Paramount Pictures on April 7, 1993. The film received a mostly negative response from critics for the contrivances and implausibilities of its story. It also sparked controversy, with feminists arguing the film's premise promotes prostitution and the treatment of women as property. Despite this, the film was a box office success and grossed nearly $267 million worldwide on a $38 million budget, becoming the sixth highest-grossing film of 1993."
+"extract": "Indecent Proposal is a 1993 American erotic drama film directed by Adrian Lyne and written by Amy Holden Jones. It is based on the 1988 novel by Jack Engelhard, in which couple David and Diana Murphy's marriage is disrupted by stranger John Gage's offer of a million dollars for Diana to spend the night with him. It stars Robert Redford, Demi Moore and Woody Harrelson.\nIndecent Proposal was released by Paramount Pictures on April 7, 1993. The film received a mostly negative response from critics for the contrivances and implausibilities of its story. It also sparked controversy, with feminists arguing the film's premise promotes prostitution and the treatment of women as property. Despite this, the film was a box office success and grossed nearly $267 million worldwide on a $38 million budget, becoming the sixth highest-grossing film of 1993.\n\n"
 },
 {
 "qid": "Q6037517",
@@ -4816,12 +4846,12 @@ null
 "sources": [
 "wikipedia:Films about architecture"
 ],
-"extract": "Joelma 23º Andar is a 1980 Brazilian docudrama film directed by Clery Cunha, written by Dulce Santucci, and starring Beth Goulart. The film is based on the work Somos Seis by Chico Xavier, which consists of six stories derived from psychographed letters. Two of the letters are purportedly from young victims of the Joelma Building fire, which took place in São Paulo on February 1, 1974. It is considered Brazil's first spiritist-themed film."
+"extract": "Joelma 23º Andar is a 1980 Brazilian docudrama film directed by Clery Cunha, written by Dulce Santucci, and starring Beth Goulart. The film is based on the work Somos Seis by Chico Xavier, which consists of six stories derived from psychographed letters. Two of the letters are purportedly from young victims of the Joelma Building fire, which took place in São Paulo on February 1, 1974. It is considered Brazil's first spiritist-themed film.\n\n"
 },
 {
 "qid": "Q132795875",
 "title": "Johann Hüttner über das Konzentrationslager Sachsenhausen",
-"year": null,
+"year": 1957,
 "runtime_min": null,
 "instance_of": [
 "film"
@@ -4957,7 +4987,7 @@ null
 "wikipedia:Films about architects",
 "wikipedia:Films about architecture"
 ],
-"extract": "Knock Knock is a 2015 thriller film directed by Eli Roth, who also co-wrote the script with Guillermo Amoedo and Nicolás López. The film stars Keanu Reeves, Lorenza Izzo and Ana de Armas. The film was released on October 9, 2015, by Lionsgate Premiere. Knock Knock is a remake of Death Game (shot in 1974, not released until 1977), which was directed by Peter S. Traynor and starred Sondra Locke and Colleen Camp. All three individuals had a hand in the production of Knock Knock, while Camp also had a cameo in the newer film."
+"extract": "Knock Knock is a 2015 thriller film directed by Eli Roth, who also co-wrote the script with Guillermo Amoedo and Nicolás López. The film stars Keanu Reeves, Lorenza Izzo and Ana de Armas. The film was released on October 9, 2015, by Lionsgate Premiere. Knock Knock is a remake of Death Game (shot in 1974, not released until 1977), which was directed by Peter S. Traynor and starred Sondra Locke and Colleen Camp. All three individuals had a hand in the production of Knock Knock, while Camp also had a cameo in the newer film.\n\n"
 },
 {
 "qid": "Q33546032",
@@ -5068,7 +5098,7 @@ null
 "sources": [
 "structure-subject"
 ],
-"extract": "La Montagne infidèle (English: The Unfaithful Mountain) is a 1923 French silent film directed by Jean Epstein. It is a documentary film about the 1923  volcanic eruption of Mount Etna in Sicily."
+"extract": "La Montagne infidèle (English: The Unfaithful Mountain) is a 1923 French silent film directed by Jean Epstein. It is a documentary film about the 1923  volcanic eruption of Mount Etna in Sicily.\n\n"
 },
 {
 "qid": "Q15079015",
@@ -5094,7 +5124,7 @@ null
 "sources": [
 "wikipedia:Films about architecture"
 ],
-"extract": "La Sapienza is French-Italian dramatic film by Eugène Green released in 2015.\nThe film derives its title from Sant'Ivo alla Sapienza — a Catholic church built in Rome in 1642–1660 by architect Francesco Borromini, widely considered a masterpiece of Roman Baroque architecture."
+"extract": "La Sapienza is French-Italian dramatic film by Eugène Green released in 2015.\nThe film derives its title from Sant'Ivo alla Sapienza — a Catholic church built in Rome in 1642–1660 by architect Francesco Borromini, widely considered a masterpiece of Roman Baroque architecture.\n\n"
 },
 {
 "qid": "Q6494420",
@@ -5118,7 +5148,7 @@ null
 "sources": [
 "wikipedia:Documentary films about urban studies"
 ],
-"extract": "Last House Standing (Fang dong jiang xian sheng) is a documentary filmed in Shanghai featuring interviews of \"Uncle Jiang\" about his reluctance to sell his 1930s mansion in a district zoned for demolition.\nJiang talks about his family, his loneliness, the Cultural Revolution, and the relationship formed with his interviewer, reporter Zi \"Miss Tomboy\" Liang."
+"extract": "Last House Standing (Fang dong jiang xian sheng) is a documentary filmed in Shanghai featuring interviews of \"Uncle Jiang\" about his reluctance to sell his 1930s mansion in a district zoned for demolition.\nJiang talks about his family, his loneliness, the Cultural Revolution, and the relationship formed with his interviewer, reporter Zi \"Miss Tomboy\" Liang.\n\n"
 },
 {
 "qid": "Q6495199",
@@ -5369,7 +5399,7 @@ null
 "wikipedia:Documentary films about urban studies",
 "wikipedia:Films about architecture"
 ],
-"extract": "Lullaby to My Father is a 2012 documentary film directed by Amos Gitai that premiered at the Venice Film Festival.\nThe film relates the story of Gitai's father, Munio Weinraub (1909-1970), an eminent Israeli architect.  Weinraub was a student at the Bauhaus design and architecture school in the city of Dessau when Hitler closed the school in 1933. In May 1933, Weinraub was accused of \"treason against the German people\", sent to prison and later expelled from Germany. The film traces Munio's route from Poland to Germany, from Switzerland to Palestine.\nGitai has written that his film \"is a voyage searching for the relationships between a father and his son, architecture and movies, the history of a journey and intimate memories. Like in my movie Carmel, based on my mother, Efratia's, letters, there is no chronological sequence of events. It is not a reconstituted biography, but a mosaic. The story comes together piece by piece, as a poetical association of pictures, faces, voyages, real architecture and snippets of fiction.\""
+"extract": "Lullaby to My Father is a 2012 documentary film directed by Amos Gitai that premiered at the Venice Film Festival.\nThe film relates the story of Gitai's father, Munio Weinraub (1909-1970), an eminent Israeli architect.  Weinraub was a student at the Bauhaus design and architecture school in the city of Dessau when Hitler closed the school in 1933. In May 1933, Weinraub was accused of \"treason against the German people\", sent to prison and later expelled from Germany. The film traces Munio's route from Poland to Germany, from Switzerland to Palestine.\nGitai has written that his film \"is a voyage searching for the relationships between a father and his son, architecture and movies, the history of a journey and intimate memories. Like in my movie Carmel, based on my mother, Efratia's, letters, there is no chronological sequence of events. It is not a reconstituted biography, but a mosaic. The story comes together piece by piece, as a poetical association of pictures, faces, voyages, real architecture and snippets of fiction.\"\n\n"
 },
 {
 "qid": "Q134913381",
@@ -5400,7 +5430,7 @@ null
 "building-subject",
 "structure-subject"
 ],
-"extract": "Maestro is an American documentary film written, directed, filmed, edited, and produced by Josell Ramos. It details the rise of the house music clubs of the 1970s in New York City, covering how the AIDS epidemic affected both patrons and owners, and was the only full-length documentary film prior to 2016 covering the Paradise Garage.\nAfter premiering at the inaugural In-edit Festival, the film toured the European film festival circuit in 2002. In 2003, it screened at North by Northeast as well as being released at cinemas in the United Kingdom. It played in United States cinemas in limited release in 2004.\nIt was released on DVD on July 26, 2005, together with a CD soundtrack containing twelve tracks in the US and fourteen tracks in Italy.\nThe New York City AIDS Memorial included Maestro as a topic of discussion in episode three: \"Music is Life\" in the \"A Time to Listen\" segment of \"Hear Me: Voices of the Epidemic\" in December 2020. The film was also used by Ira Sachs as one of the materials of study for the cast of The Man I Love."
+"extract": "Maestro is an American documentary film written, directed, filmed, edited, and produced by Josell Ramos. It details the rise of the house music clubs of the 1970s in New York City, covering how the AIDS epidemic affected both patrons and owners, and was the only full-length documentary film prior to 2016 covering the Paradise Garage.\nAfter premiering at the inaugural In-edit Festival, the film toured the European film festival circuit in 2002. In 2003, it screened at North by Northeast as well as being released at cinemas in the United Kingdom. It played in United States cinemas in limited release in 2004.\nIt was released on DVD on July 26, 2005, together with a CD soundtrack containing twelve tracks in the US and fourteen tracks in Italy.\nThe New York City AIDS Memorial included Maestro as a topic of discussion in episode three: \"Music is Life\" in the \"A Time to Listen\" segment of \"Hear Me: Voices of the Epidemic\" in December 2020. The film was also used by Ira Sachs as one of the materials of study for the cast of The Man I Love.\n\n"
 },
 {
 "qid": "Q140589032",
@@ -5538,7 +5568,7 @@ null
 "wikipedia:Films about architects",
 "wikipedia:Films about architecture"
 ],
-"extract": "Mendelsohn's Incessant Visions, also known simply as Incessant Visions, is a 2011 documentary film directed by Duki Dror. The film takes as its focus the German-Jewish architect Erich Mendelsohn, exposing the complexities and intricacies of Mendelsohn's life and work through a series of letters with Louise, the young cellist who would eventually become his wife. Dror's film is at once an examination of Mendelsohn's seminal architectural work as well as an exploration of the German-Jewish experience during and after World War II seen through Mendelsohn's journey from Germany to England, British Mandate Palestine and the US.\nThe film premiered at the 2011 Jerusalem Film Festival."
+"extract": "Mendelsohn's Incessant Visions, also known simply as Incessant Visions, is a 2011 documentary film directed by Duki Dror. The film takes as its focus the German-Jewish architect Erich Mendelsohn, exposing the complexities and intricacies of Mendelsohn's life and work through a series of letters with Louise, the young cellist who would eventually become his wife. Dror's film is at once an examination of Mendelsohn's seminal architectural work as well as an exploration of the German-Jewish experience during and after World War II seen through Mendelsohn's journey from Germany to England, British Mandate Palestine and the US.\nThe film premiered at the 2011 Jerusalem Film Festival.\n\n"
 },
 {
 "qid": "Q6868232",
@@ -5847,7 +5877,7 @@ null
 "building-subject",
 "structure-subject"
 ],
-"extract": "Museum Town is a 2019 documentary film about MASS MoCA.\nThe film is narrated by Meryl Streep and scored by Wilco bassist John Stirratt. It had its world premiere at the 2019 South by Southwest Film Festival in the Documentary Feature Competition category."
+"extract": "Museum Town is a 2019 documentary film about MASS MoCA.\nThe film is narrated by Meryl Streep and scored by Wilco bassist John Stirratt. It had its world premiere at the 2019 South by Southwest Film Festival in the Documentary Feature Competition category.\n\n"
 },
 {
 "qid": "Q1249229",
@@ -5901,7 +5931,7 @@ null
 "wikipedia:Documentary films about urban studies",
 "wikipedia:Films about architecture"
 ],
-"extract": "My Father the Genius is a 2002 documentary film directed by Lucia Small."
+"extract": "My Father the Genius is a 2002 documentary film directed by Lucia Small.\n\n"
 },
 {
 "qid": "Q6948902",
@@ -5982,7 +6012,7 @@ null
 "sources": [
 "wikipedia:Documentary films about urban studies"
 ],
-"extract": "Napoli, Napoli, Napoli is a 2009 documentary film directed by Abel Ferrara about the problems in early 21st century Naples. Napoli, Napoli, Napoli depicts the city of Naples, filmed as a documentary with interspersed episodes of fiction."
+"extract": "Napoli, Napoli, Napoli is a 2009 documentary film directed by Abel Ferrara about the problems in early 21st century Naples. Napoli, Napoli, Napoli depicts the city of Naples, filmed as a documentary with interspersed episodes of fiction.\n\n"
 },
 {
 "qid": "Q21427690",
@@ -6144,7 +6174,7 @@ null
 "sources": [
 "wikipedia:seed-title"
 ],
-"extract": "Objectified is a feature-length documentary film examining the role of every day non-living objects and the people who design them, in our daily lives. The film is directed by Gary Hustwit. Objectified premièred at the South By Southwest Festival on March 14, 2009.\nAccording to Swiss Dots Production, the film is the second part of the three-film series Design Trilogy, the first being Helvetica about the famous typeface, and the third and final film being the documentary Urbanized."
+"extract": "Objectified is a feature-length documentary film examining the role of every day non-living objects and the people who design them, in our daily lives. The film is directed by Gary Hustwit. Objectified premièred at the South By Southwest Festival on March 14, 2009.\nAccording to Swiss Dots Production, the film is the second part of the three-film series Design Trilogy, the first being Helvetica about the famous typeface, and the third and final film being the documentary Urbanized.\n\n"
 },
 {
 "qid": "Q3349493",
@@ -6198,7 +6228,7 @@ null
 "sources": [
 "wikipedia:Documentary films about urban studies"
 ],
-"extract": "On the Road: A Document (Japanese: ドキュメント 路上, Hepburn: Dokyumento rojō) is a 1964 Japanese documentary film directed by Noriaki Tsuchimoto."
+"extract": "On the Road: A Document (Japanese: ドキュメント 路上, Hepburn: Dokyumento rojō) is a 1964 Japanese documentary film directed by Noriaki Tsuchimoto.\n\n"
 },
 {
 "qid": "Q124134901",
@@ -6224,7 +6254,7 @@ null
 "sources": [
 "wikipedia:Films about architecture"
 ],
-"extract": "Open-Pit (Spanish: Cielo abierto) is a 2023 Peruvian-French experimental docudrama film directed, written, co-produced and co-edited by Felipe Esparza Pérez in his directorial debut. It is about a father and son separated by the death of the wife/mother whose paths will cross again."
+"extract": "Open-Pit (Spanish: Cielo abierto) is a 2023 Peruvian-French experimental docudrama film directed, written, co-produced and co-edited by Felipe Esparza Pérez in his directorial debut. It is about a father and son separated by the death of the wife/mother whose paths will cross again.\n\n"
 },
 {
 "qid": "Q136290541",
@@ -6391,7 +6421,7 @@ null
 "sources": [
 "wikipedia:Documentary films about urban studies"
 ],
-"extract": "Porto of My Childhood (Portuguese: Porto da Minha Infância) is a 2001 Portuguese/French film directed by Manoel de Oliveira. Manoel de Oliveira narrates a documentary which features staged dramatic scenes of memories and stories told to him during his childhood in Porto."
+"extract": "Porto of My Childhood (Portuguese: Porto da Minha Infância) is a 2001 Portuguese/French film directed by Manoel de Oliveira. Manoel de Oliveira narrates a documentary which features staged dramatic scenes of memories and stories told to him during his childhood in Porto.\n\n"
 },
 {
 "qid": "Q78465259",
@@ -6418,7 +6448,6 @@ null
 "enwiki": null,
 "wd_desc": "2019 YouTube video",
 "sources": [
-"building-subject",
 "structure-subject"
 ]
 },
@@ -6450,7 +6479,33 @@ null
 "building-subject",
 "structure-subject"
 ],
-"extract": "Putin's Palace. History of World's Largest Bribe (Russian: Дворец для Путина. История самой большой взятки, romanized: Dvorets dlya Putina. Istoriya samoy bol'shoy vzyatki, lit. 'A palace for Putin. The story of the biggest bribe') is a 2021 Russian documentary film by the Anti-Corruption Foundation (FBK). The film investigates the residence commonly known as \"Putin's Palace\" that it claims was constructed for Russian president Vladimir Putin and details a corruption scheme allegedly headed by Putin involving the construction of the palace. The film estimates that the residence, located near the town of Gelendzhik in Krasnodar Krai, cost over ₽100 billion (approximately $1.35 billion) with what it says was \"the largest bribe in history\".\nPutin has said that neither he nor his family ever owned the palace and downplayed the investigation. Oligarch Arkady Rotenberg, who has close links to Putin, claimed ownership."
+"extract": "Putin's Palace. History of World's Largest Bribe (Russian: Дворец для Путина. История самой большой взятки, romanized: Dvorets dlya Putina. Istoriya samoy bol'shoy vzyatki, lit. 'A palace for Putin. The story of the biggest bribe') is a 2021 Russian documentary film by the Anti-Corruption Foundation (FBK). The film investigates the residence commonly known as \"Putin's Palace\" that it claims was constructed for Russian president Vladimir Putin and details a corruption scheme allegedly headed by Putin involving the construction of the palace. The film estimates that the residence, located near the town of Gelendzhik in Krasnodar Krai, cost over ₽100 billion (approximately $1.35 billion) with what it says was \"the largest bribe in history\".\nPutin has said that neither he nor his family ever owned the palace and downplayed the investigation. Oligarch Arkady Rotenberg, who has close links to Putin, claimed ownership.\n\n"
+},
+{
+"qid": "Q141882051",
+"title": "Queen Mary 2, la reine des mers",
+"year": 2004,
+"runtime_min": 70,
+"instance_of": [
+"documentary film"
+],
+"genres_wd": [],
+"is_doc": true,
+"director": [
+"Rob Rombout"
+],
+"subjects": [
+"Queen Mary 2"
+],
+"architects": [],
+"imdb": "tt31121383",
+"tmdb": "1808496",
+"enwiki": null,
+"wd_desc": "2004 documentary film by Rob Rombout",
+"sources": [
+"building-subject",
+"structure-subject"
+]
 },
 {
 "qid": "Q7280307",
@@ -6537,7 +6592,7 @@ null
 "wikipedia:Films about architects",
 "wikipedia:Films about architecture"
 ],
-"extract": "Rear Window is a 1998 American made-for-television crime-drama thriller film directed by Jeff Bleckner. The teleplay by Larry Gross and Eric Overmyer is an updated adaptation of the classic 1954  film of the same name directed by Alfred Hitchcock which was based on the short story It Had to Be Murder by Cornell Woolrich. It was broadcast in the United States by ABC on November 22, 1998.\nThe film stars Christopher Reeve (in one of his final screen appearances, and his last leading role), Daryl Hannah, and Robert Forster. It was Reeve's first substantial role since his tetraplegia-inducing injury in 1995. For his performance, Reeve was nominated for a Golden Globe and won a Screen Actors Guild Award."
+"extract": "Rear Window is a 1998 American made-for-television crime-drama thriller film directed by Jeff Bleckner. The teleplay by Larry Gross and Eric Overmyer is an updated adaptation of the classic 1954  film of the same name directed by Alfred Hitchcock which was based on the short story It Had to Be Murder by Cornell Woolrich. It was broadcast in the United States by ABC on November 22, 1998.\nThe film stars Christopher Reeve (in one of his final screen appearances, and his last leading role), Daryl Hannah, and Robert Forster. It was Reeve's first substantial role since his tetraplegia-inducing injury in 1995. For his performance, Reeve was nominated for a Golden Globe and won a Screen Actors Guild Award.\n\n"
 },
 {
 "qid": "Q60737840",
@@ -6741,7 +6796,7 @@ null
 "wikipedia:Documentary films about urban studies",
 "wikipedia:Films about architecture"
 ],
-"extract": "Ruins of the Reich is a  documentary series that traces the rise and fall of the Third Reich through its architecture. Written and directed by film maker R. J. Adams, the film's \"then and now\" format focuses on the primary sites that played key roles from Hitler's rise to his final days in his Berlin bunker."
+"extract": "Ruins of the Reich is a  documentary series that traces the rise and fall of the Third Reich through its architecture. Written and directed by film maker R. J. Adams, the film's \"then and now\" format focuses on the primary sites that played key roles from Hitler's rise to his final days in his Berlin bunker.\n\n"
 },
 {
 "qid": "Q50312815",
@@ -6918,7 +6973,7 @@ null,
 "building-subject",
 "structure-subject"
 ],
-"extract": "Sanatorium (Ukrainian: Санаторій, romanized: Sanatoriy) is a 2025 observational documentary film directed by Gar O'Rourke in his directorial debut. It follows the lives of the residents of Kuyalnik Sanatorium, a former Soviet medical center that now provides medical treatment and comfort to its guests while the Russian war against Ukraine rages.\nO'Rourke first visited Kyiv in 2018 for another film project and stayed at a Ukrainian sanatorium in 2021, before war broke out, to obtain first-hand experience.\nIt was selected as the Irish entry for the Best International Feature Film at the 98th Academy Awards, but it was not nominated."
+"extract": "Sanatorium (Ukrainian: Санаторій, romanized: Sanatoriy) is a 2025 observational documentary film directed by Gar O'Rourke in his directorial debut. It follows the lives of the residents of Kuyalnik Sanatorium, a former Soviet medical center that now provides medical treatment and comfort to its guests while the Russian war against Ukraine rages.\nO'Rourke first visited Kyiv in 2018 for another film project and stayed at a Ukrainian sanatorium in 2021, before war broke out, to obtain first-hand experience.\nIt was selected as the Irish entry for the Best International Feature Film at the 98th Academy Awards, but it was not nominated.\n\n"
 },
 {
 "qid": "Q7432598",
@@ -6947,7 +7002,7 @@ null,
 "sources": [
 "structure-subject"
 ],
-"extract": "School of the Americas Assassins is a 1994 American short documentary film about human rights abuses by graduates of School of the Americas. Produced by Robert Richter, it was nominated for an Academy Award for Best Documentary Short."
+"extract": "School of the Americas Assassins is a 1994 American short documentary film about human rights abuses by graduates of School of the Americas. Produced by Robert Richter, it was nominated for an Academy Award for Best Documentary Short.\n\n"
 },
 {
 "qid": "Q20496021",
@@ -7001,7 +7056,7 @@ null,
 "sources": [
 "wikipedia:Documentary films about urban studies"
 ],
-"extract": "Sea Point Days is a 2008 documentary film about the Cape Town suburb of Sea Point, directed by François Verster."
+"extract": "Sea Point Days is a 2008 documentary film about the Cape Town suburb of Sea Point, directed by François Verster.\n\n"
 },
 {
 "qid": "Q48012512",
@@ -7085,7 +7140,7 @@ null,
 "sources": [
 "wikipedia:Documentary films about urban studies"
 ],
-"extract": "See You at the Pillar is a 1967 British short documentary film about Dublin directed and written by Peter Bayliss.  Produced by Robert Fitchet, it was nominated for an Academy Award for Best Documentary Short."
+"extract": "See You at the Pillar is a 1967 British short documentary film about Dublin directed and written by Peter Bayliss.  Produced by Robert Fitchet, it was nominated for an Academy Award for Best Documentary Short.\n\n"
 },
 {
 "qid": "Q137939843",
@@ -7319,6 +7374,35 @@ null,
 "extract": "Sobibor, October 14, 1943, 4 p.m. (French: Sobibor, 14 octobre 1943, 16 heures) is a 2001 French documentary film directed by Claude Lanzmann. It was screened out of competition at the 2001 Cannes Film Festival. The title and date refer to the Sobibor revolt, one of only two successful uprisings at German extermination camps during the Second World War (the other being at Treblinka)."
 },
 {
+"qid": "Q96405993",
+"title": "Some Kind of Heaven",
+"year": null,
+"runtime_min": null,
+"instance_of": [
+"film"
+],
+"genres_wd": [
+"documentary film"
+],
+"is_doc": true,
+"director": [
+"Lance Oppenheim"
+],
+"subjects": [
+"The Villages"
+],
+"architects": [],
+"imdb": "tt11358166",
+"tmdb": "638741",
+"enwiki": "Some Kind of Heaven",
+"wd_desc": "2020 American documentary film",
+"sources": [
+"building-subject",
+"structure-subject"
+],
+"extract": "Some Kind of Heaven is a 2020 American documentary film about The Villages, Florida, the world's largest retirement community. Marking the directorial feature debut of Lance Oppenheim, the film is a stylized portrait of four residents living within The Villages, struggling to find happiness and meaning in life's final chapters. The film, produced by Darren Aronofsky, The New York Times, and Los Angeles Media Fund, premiered at the 2020 Sundance Film Festival in the NEXT section. It was released in theaters and on-demand in the United States on January 15, 2021, by Magnolia Pictures."
+},
+{
 "qid": "Q76450214",
 "title": "Songs of Repression",
 "year": 2020,
@@ -7346,7 +7430,7 @@ null,
 "sources": [
 "structure-subject"
 ],
-"extract": "Songs of Repression is a 2020 internationally co-produced documentary film about the German colony Colonia Dignidad in Chile. The film premiered at 2020 the Copenhagen International Documentary Festival, where it won the Politiken:Danish:Dox Award and the CPH:DOX Award."
+"extract": "Songs of Repression is a 2020 internationally co-produced documentary film about the German colony Colonia Dignidad in Chile. The film premiered at 2020 the Copenhagen International Documentary Festival, where it won the Politiken:Danish:Dox Award and the CPH:DOX Award.\n\n"
 },
 {
 "qid": "Q7564025",
@@ -7398,7 +7482,7 @@ null,
 "sources": [
 "wikipedia:Documentary films about urban studies"
 ],
-"extract": "Zielen van Napels is a documentary film by director Vincent Monnikendam that was first released in the United States in a special preview at the National Gallery of Art in Washington, D.C. in 2005.\nThe film covers the many aspects of the diverse and socially terraced Neapolitan society and is filmed primarily in local dialects and Italian. English subtitles were available during the opening preview at the NGA.\nThis documentary has frequented a number of the more renowned film festivals, including the International Film Festival Rotterdam and the 2004 Toronto International Film Festival."
+"extract": "Zielen van Napels is a documentary film by director Vincent Monnikendam that was first released in the United States in a special preview at the National Gallery of Art in Washington, D.C. in 2005.\nThe film covers the many aspects of the diverse and socially terraced Neapolitan society and is filmed primarily in local dialects and Italian. English subtitles were available during the opening preview at the NGA.\nThis documentary has frequented a number of the more renowned film festivals, including the International Film Festival Rotterdam and the 2004 Toronto International Film Festival.\n\n"
 },
 {
 "qid": "Q7572718",
@@ -7455,7 +7539,7 @@ null,
 "sources": [
 "structure-subject"
 ],
-"extract": "Spaceship Earth is a 2020 American documentary film directed by Matt Wolf about the 1991 experiment that saw eight individuals spend two years quarantined inside of a self-engineered replica of Earth's ecosystem, dubbed Biosphere 2. The film premiered at the Sundance Film Festival on January 26, 2020, and was released in the United States on May 8, 2020, by Neon."
+"extract": "Spaceship Earth is a 2020 American documentary film directed by Matt Wolf about the 1991 experiment that saw eight individuals spend two years quarantined inside of a self-engineered replica of Earth's ecosystem, dubbed Biosphere 2. The film premiered at the Sundance Film Festival on January 26, 2020, and was released in the United States on May 8, 2020, by Neon.\n\n"
 },
 {
 "qid": "Q7577841",
@@ -7613,7 +7697,35 @@ null,
 "sources": [
 "wikipedia:Films about architecture"
 ],
-"extract": "Sul ponte dei sospiri is a 1953 Italian adventure film. It is based on characters created by Michel Zévaco."
+"extract": "Sul ponte dei sospiri is a 1953 Italian adventure film. It is based on characters created by Michel Zévaco.\n\n"
+},
+{
+"qid": "Q1670513",
+"title": "Sunshine State",
+"year": 2002,
+"runtime_min": 134,
+"instance_of": [
+"film"
+],
+"genres_wd": [
+"comedy drama",
+"drama film"
+],
+"is_doc": false,
+"director": [
+"John Sayles"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0286179",
+"tmdb": "57022",
+"enwiki": "Sunshine State (film)",
+"wd_desc": "2002 film by John Sayles",
+"sources": [
+"wikipedia:Films about architects",
+"wikipedia:Films about architecture"
+],
+"extract": "Sunshine State is a 2002 American independent drama film written and directed by John Sayles. The picture stars an ensemble cast that features Angela Bassett, Edie Falco, Jane Alexander, Alan King, Timothy Hutton, Mary Steenburgen, Bill Cobbs, and others. It was filmed on Amelia Island, Florida, which includes settings in Fernandina Beach. For her performance in the film, Falco received the Los Angeles Film Critics Association Award for Best Supporting Actress.\nThe film follows residents in two small communities, one white and one black, on an island in North Florida that are both targeted by private real estate developers to be gentrified into upscale resort properties for wealthy retirees."
 },
 {
 "qid": "Q113992830",
@@ -7695,7 +7807,7 @@ null,
 "sources": [
 "wikipedia:Documentary films about urban studies"
 ],
-"extract": "Sábado de mierda (\"Saturday of Shit\") is a 1988 Mexican film by Gregorio Rocha and his then-partner Sarah Minter, shot between 1985 and 1987. The film is one of four independent films of the 1985–1991 period focusing on the lives of punk gangs in the Ciudad Nezahualcóyotl (\"Neza York\") suburb of Mexico City. The specific gang was a group known as Mierdas Punks (\"Shit Punks\"), who were also featured in the documentaries Nadie es inocente (also by Minter), and La neta no hay futuro by Andrea Gentile.  The film is classified as a semi-documentary."
+"extract": "Sábado de mierda (\"Saturday of Shit\") is a 1988 Mexican film by Gregorio Rocha and his then-partner Sarah Minter, shot between 1985 and 1987. The film is one of four independent films of the 1985–1991 period focusing on the lives of punk gangs in the Ciudad Nezahualcóyotl (\"Neza York\") suburb of Mexico City. The specific gang was a group known as Mierdas Punks (\"Shit Punks\"), who were also featured in the documentaries Nadie es inocente (also by Minter), and La neta no hay futuro by Andrea Gentile.  The film is classified as a semi-documentary.\n\n"
 },
 {
 "qid": "Q97238526",
@@ -7801,7 +7913,6 @@ null,
 "enwiki": "Take Care of Maya",
 "wd_desc": "2023 film by Henry Roosevelt",
 "sources": [
-"building-subject",
 "structure-subject"
 ],
 "extract": "Take Care of Maya is a 2023 American documentary film directed by Henry Roosevelt. It premiered at the Tribeca Film Festival on June 10, 2023, and was released on Netflix on June 19, 2023. It was nominated for two News and Documentary Emmy Awards in 2024: Outstanding Direction and Outstanding Research."
@@ -7832,7 +7943,7 @@ null,
 "sources": [
 "wikipedia:Documentary films about urban studies"
 ],
-"extract": "Taken for a Ride is a documentary film by Martha Olson and Jim Klein about the Great American Streetcar Scandal. The 55-minute film was first broadcast on August 6, 1996 on the PBS television series POV."
+"extract": "Taken for a Ride is a documentary film by Martha Olson and Jim Klein about the Great American Streetcar Scandal. The 55-minute film was first broadcast on August 6, 1996 on the PBS television series POV.\n\n"
 },
 {
 "qid": "Q17332313",
@@ -7858,7 +7969,7 @@ null,
 "wikipedia:Documentary films about urban studies",
 "wikipedia:Films about architecture"
 ],
-"extract": "Tall: The American Skyscraper and Louis Sullivan is a 2006 documentary film by Manfred Kirchheimer that attempts to tell the story of how Louis Sullivan designed skyscrapers.  The film begins by placing the viewer in late 19th century Chicago just after the Great Chicago Fire of 1871. The film takes the viewer through the early development of skyscrapers with archival photos, music and narration.  It ends by focusing on the decline of Louis Sullivan.  The documentary met with mixed reviews that generally liked the artistry of the documentary but found the storytelling lacking."
+"extract": "Tall: The American Skyscraper and Louis Sullivan is a 2006 documentary film by Manfred Kirchheimer that attempts to tell the story of how Louis Sullivan designed skyscrapers.  The film begins by placing the viewer in late 19th century Chicago just after the Great Chicago Fire of 1871. The film takes the viewer through the early development of skyscrapers with archival photos, music and narration.  It ends by focusing on the decline of Louis Sullivan.  The documentary met with mixed reviews that generally liked the artistry of the documentary but found the storytelling lacking.\n\n"
 },
 {
 "qid": "Q54322665",
@@ -8052,7 +8163,7 @@ null,
 "sources": [
 "wikipedia:Films about architecture"
 ],
-"extract": "The Avenger of Venice (Italian: Il ponte dei sospiri, Spanish: El puente de los suspiros) is a 1964 adventure film written and directed  by Piero Pierotti and Carlo Campogalliani and starring Brett Halsey and Gianna Maria Canale. It is based on a novel by Michel Zevaco."
+"extract": "The Avenger of Venice (Italian: Il ponte dei sospiri, Spanish: El puente de los suspiros) is a 1964 adventure film written and directed  by Piero Pierotti and Carlo Campogalliani and starring Brett Halsey and Gianna Maria Canale. It is based on a novel by Michel Zevaco.\n\n"
 },
 {
 "qid": "Q573762",
@@ -8306,7 +8417,7 @@ null,
 "sources": [
 "wikipedia:Films about architecture"
 ],
-"extract": "The Bridge of San Luis Rey is a 2004 drama film directed by Mary McGuckian and featuring an ensemble cast including Robert De Niro, Pilar López de Ayala, F. Murray Abraham, Kathy Bates, Gabriel Byrne, Émilie Dequenne and Harvey Keitel. It is based on Thornton Wilder's 1927 novel. The film was released in 2004 in Spain and 2005 in the U.S. and abroad. Despite praise for its costume design, the film was poorly received by critics."
+"extract": "The Bridge of San Luis Rey is a 2004 drama film directed by Mary McGuckian and featuring an ensemble cast including Robert De Niro, Pilar López de Ayala, F. Murray Abraham, Kathy Bates, Gabriel Byrne, Émilie Dequenne and Harvey Keitel. It is based on Thornton Wilder's 1927 novel. The film was released in 2004 in Spain and 2005 in the U.S. and abroad. Despite praise for its costume design, the film was poorly received by critics.\n\n"
 },
 {
 "qid": "Q1404775",
@@ -8480,7 +8591,7 @@ null,
 "wikipedia:Films about architects",
 "wikipedia:Films about architecture"
 ],
-"extract": "The Cable Guy is a 1996 American black comedy film directed by Ben Stiller and written by Lou Holtz Jr. It stars Jim Carrey as an eccentric cable installer who intrudes on the life of a customer (Matthew Broderick). Leslie Mann, George Segal, Diane Baker and Jack Black appear in supporting roles. It was released in the United States by Sony Pictures Releasing on June 14, 1996. The film was a box office success, grossing $102.8 million against a $47 million budget, though not to the extent of many of Carrey's previous films. It received mixed reviews from critics, but developed a cult following."
+"extract": "The Cable Guy is a 1996 American black comedy film directed by Ben Stiller and written by Lou Holtz Jr. It stars Jim Carrey as an eccentric cable installer who intrudes on the life of a customer (Matthew Broderick). Leslie Mann, George Segal, Diane Baker and Jack Black appear in supporting roles. It was released in the United States by Sony Pictures Releasing on June 14, 1996. The film was a box office success, grossing $102.8 million against a $47 million budget, though not to the extent of many of Carrey's previous films. It received mixed reviews from critics, but developed a cult following.\n\n"
 },
 {
 "qid": "Q7721424",
@@ -8540,7 +8651,7 @@ null,
 "wikipedia:Films about architects",
 "wikipedia:Films about architecture"
 ],
-"extract": "The Case Is Closed, Forget It (Italian: L'istruttoria è chiusa: dimentichi) is a 1971 Italy crime drama film directed by Damiano Damiani.\nIt is based on the novel Tante Sbarre (trad. \"Many Bars\"), written by Leros Pittoni. It was awarded at the Tehran Film Festival."
+"extract": "The Case Is Closed, Forget It (Italian: L'istruttoria è chiusa: dimentichi) is a 1971 Italy crime drama film directed by Damiano Damiani.\nIt is based on the novel Tante Sbarre (trad. \"Many Bars\"), written by Leros Pittoni. It was awarded at the Tehran Film Festival.\n\n"
 },
 {
 "qid": "Q706586",
@@ -8569,28 +8680,6 @@ null,
 "wikipedia:Films about architecture"
 ],
 "extract": "The Cassandra Crossing is a 1976 disaster thriller film directed by George Pan Cosmatos, from a screenplay he co-wrote with Tom Mankiewicz and Robert Katz. The film is about a viral outbreak aboard a cross-European train, as it heads to a derelict arch bridge which is liable to collapse. It stars an ensemble cast, featuring Sophia Loren, Richard Harris, Ava Gardner, Martin Sheen, Burt Lancaster, Lee Strasberg, O. J. Simpson, Ingrid Thulin, Lionel Stander, Ann Turkel, John Phillip Law, and Alida Valli.\nWith the backing of the media tycoon Sir Lew Grade (the head of the British broadcast network Associated Television) and the Italian film producer Carlo Ponti, the international all-star cast was expected to attract a widespread audience, with rights sold prior to filming, to both British and American distributors. Ponti also saw the production as a showcase for his wife, Sophia Loren. Shooting took place on-location in France and Switzerland, and at Cinecittà Studios.\nThe film was first released in Italy on December 18, 1976. It had a generally unfavourable critical response, though it was financially successful."
-},
-{
-"qid": "Q7727074",
-"title": "The Competition",
-"year": null,
-"runtime_min": null,
-"instance_of": [
-"Wikimedia disambiguation page"
-],
-"genres_wd": [],
-"is_doc": false,
-"director": [],
-"subjects": [],
-"architects": [],
-"imdb": null,
-"tmdb": null,
-"enwiki": "The Competition",
-"wd_desc": "Wikimedia disambiguation page",
-"sources": [
-"wikipedia:seed-title"
-],
-"extract": "The Competition may refer to:\n\nThe Competition (1980 film), a 1980 film starring Richard Dreyfuss\nThe Competition (2018 film), a 2018 film starring Thora Birch\n\"The Competition\" (Dilbert), a 1999 television episode\n\"The Competition\" (The Golden Girls), a 1985 television episode\n\"The Competition\" (Sabrina the Teenage Witch), a 2002 television episode"
 },
 {
 "qid": "Q7729654",
@@ -8644,7 +8733,7 @@ null,
 "sources": [
 "wikipedia:Documentary films about urban studies"
 ],
-"extract": "The End of Suburbia: Oil Depletion and the Collapse of The American Dream is a 2004 documentary film concerning peak oil and its implications for the suburban lifestyle, written and directed by Toronto-based filmmaker Gregory Greene."
+"extract": "The End of Suburbia: Oil Depletion and the Collapse of The American Dream is a 2004 documentary film concerning peak oil and its implications for the suburban lifestyle, written and directed by Toronto-based filmmaker Gregory Greene.\n\n"
 },
 {
 "qid": "Q7734266",
@@ -8670,7 +8759,7 @@ null,
 "sources": [
 "wikipedia:Documentary films about urban studies"
 ],
-"extract": "The Five Cities of June is a 1963 American short documentary film directed by Bruce Herschensohn. It was nominated for an Academy Award for Best Documentary Short.\nThis United States Information Agency-sponsored film details the events of June 1963 in five cities. In the Vatican, the election and coronation of Pope Paul VI; in the Soviet Union, the launch of a Soviet rocket as part of the Space Race with the United States; in South Vietnam, fighting between Communists and South Vietnamese soldiers; in Tuscaloosa, Alabama, United States, the racial integration of the University of Alabama opposed by Governor George Wallace; and in Berlin, President John F. Kennedy's visit to Germany and Rudolph Wilde Platz."
+"extract": "The Five Cities of June is a 1963 American short documentary film directed by Bruce Herschensohn. It was nominated for an Academy Award for Best Documentary Short.\nThis United States Information Agency-sponsored film details the events of June 1963 in five cities. In the Vatican, the election and coronation of Pope Paul VI; in the Soviet Union, the launch of a Soviet rocket as part of the Space Race with the United States; in South Vietnam, fighting between Communists and South Vietnamese soldiers; in Tuscaloosa, Alabama, United States, the racial integration of the University of Alabama opposed by Governor George Wallace; and in Berlin, President John F. Kennedy's visit to Germany and Rudolph Wilde Platz.\n\n"
 },
 {
 "qid": "Q633008",
@@ -8699,7 +8788,7 @@ null,
 "sources": [
 "wikipedia:Films about architecture"
 ],
-"extract": "The Fountainhead is a 1949 American black-and-white drama film produced by Henry Blanke, directed by King Vidor, and starring Gary Cooper, Patricia Neal, Raymond Massey, Robert Douglas and Kent Smith. The film is based on the bestselling 1943 novel of the same name by Ayn Rand, who also wrote the adaptation. Although Rand's screenplay was used with minimal alterations, she later criticized the editing, production design and acting.\nThe story follows the life of Howard Roark, an individualistic architect who chooses to struggle in obscurity rather than compromise his artistic and personal vision. Roark fights to design modern architecture despite resistance from the traditionally minded architectural establishment. Roark's complex relationships with the individuals who assist or hinder his progress allow the film to be both a romantic drama and a philosophical work. Roark represents Rand's embodiment of the human spirit, and his struggle represents the struggle between individualism and collectivism.\nThe film opened to negative reviews and was panned by critics but has since been reappraised."
+"extract": "The Fountainhead is a 1949 American black-and-white drama film produced by Henry Blanke, directed by King Vidor, and starring Gary Cooper, Patricia Neal, Raymond Massey, Robert Douglas and Kent Smith. The film is based on the bestselling 1943 novel of the same name by Ayn Rand, who also wrote the adaptation. Although Rand's screenplay was used with minimal alterations, she later criticized the editing, production design and acting.\nThe story follows the life of Howard Roark, an individualistic architect who chooses to struggle in obscurity rather than compromise his artistic and personal vision. Roark fights to design modern architecture despite resistance from the traditionally minded architectural establishment. Roark's complex relationships with the individuals who assist or hinder his progress allow the film to be both a romantic drama and a philosophical work. Roark represents Rand's embodiment of the human spirit, and his struggle represents the struggle between individualism and collectivism.\nThe film opened to negative reviews and was panned by critics but has since been reappraised.\n\n"
 },
 {
 "qid": "Q18914984",
@@ -8883,7 +8972,7 @@ null,
 "building-subject",
 "structure-subject"
 ],
-"extract": "The House Is Black (Persian: خانه سیاه است) is an acclaimed Iranian documentary short film directed by Forugh Farrokhzad.\n\nThe film is a look at life and suffering in a leper colony and focuses on the human condition and the beauty of creation. It is spliced with Farrokhzad's narration of quotes from the Old Testament, the Qur'an and her own poetry. The film features footage from the Bababaghi Hospice leper colony. It was the only film she directed before her death in 1967. After shooting this film she adopted a child from the colony, her son Hossein.\nIn 2019, a restored print of the film was debuted at the Venice International Film Festival."
+"extract": "The House Is Black (Persian: خانه سیاه است) is an acclaimed Iranian documentary short film directed by Forugh Farrokhzad.\n\nThe film is a look at life and suffering in a leper colony and focuses on the human condition and the beauty of creation. It is spliced with Farrokhzad's narration of quotes from the Old Testament, the Qur'an and her own poetry. The film features footage from the Bababaghi Hospice leper colony. It was the only film she directed before her death in 1967. After shooting this film she adopted a child from the colony, her son Hossein.\nIn 2019, a restored print of the film was debuted at the Venice International Film Festival.\n\n"
 },
 {
 "qid": "Q27920121",
@@ -8912,7 +9001,7 @@ null,
 "wikipedia:Films about architects",
 "wikipedia:Films about architecture"
 ],
-"extract": "The House That Jack Built is a 2018 psychological horror film written and directed by Lars von Trier. It stars Matt Dillon, Bruno Ganz, Uma Thurman, Siobhan Fallon Hogan, Sofie Gråbøl, Riley Keough, and Jeremy Davies. Its plot follows Jack (Dillon), a serial killer who, over a 12-year period beginning in the late 1970s, commits numerous murders in the U.S. state of Washington. Utilizing Dante's Inferno as a metatext, the film is structured as a series of flashback vignettes relayed by Jack to the Roman poet Virgil, during which Jack attempts to make an argument for his crimes.\nOriginally conceived as a television project by von Trier, The House That Jack Built began production in Sweden in 2016. The film debuted at the Cannes Film Festival, marking von Trier's return to the festival after more than six years. The House That Jack Built received polarized reviews from critics, with positive feedback for Dillon’s performance and the film's artistic direction, but criticism for what some saw as empty provocation."
+"extract": "The House That Jack Built is a 2018 psychological horror film written and directed by Lars von Trier. It stars Matt Dillon, Bruno Ganz, Uma Thurman, Siobhan Fallon Hogan, Sofie Gråbøl, Riley Keough, and Jeremy Davies. Its plot follows Jack (Dillon), a serial killer who, over a 12-year period beginning in the late 1970s, commits numerous murders in the U.S. state of Washington. Utilizing Dante's Inferno as a metatext, the film is structured as a series of flashback vignettes relayed by Jack to the Roman poet Virgil, during which Jack attempts to make an argument for his crimes.\nOriginally conceived as a television project by von Trier, The House That Jack Built began production in Sweden in 2016. The film debuted at the Cannes Film Festival, marking von Trier's return to the festival after more than six years. The House That Jack Built received polarized reviews from critics, with positive feedback for Dillon’s performance and the film's artistic direction, but criticism for what some saw as empty provocation.\n\n"
 },
 {
 "qid": "Q64004122",
@@ -8983,7 +9072,6 @@ null,
 "enwiki": null,
 "wd_desc": "Feature-length documentary film directed by Annabel Loyola in 2017",
 "sources": [
-"building-subject",
 "structure-subject"
 ]
 },
@@ -9186,7 +9274,7 @@ null,
 "building-subject",
 "structure-subject"
 ],
-"extract": "The Magic of Walt Disney World is a 1972 documentary featurette produced by Walt Disney Productions."
+"extract": "The Magic of Walt Disney World is a 1972 documentary featurette produced by Walt Disney Productions.\n\n"
 },
 {
 "qid": "Q124478409",
@@ -9318,7 +9406,7 @@ null,
 "sources": [
 "structure-subject"
 ],
-"extract": "The Outsider is a 2021 American documentary film directed by Steven Rosenbaum and Pamela Yoder about the making of the National September 11 Memorial & Museum in New York City.\nUsing footage collected over eight years, the film follows the journey of the museum's creative director Michael Shulan (the titular \"outsider\") from the day of the September 11 attacks to the building's opening in 2014. Shulan \"is initially optimistic about the project's aims but becomes dispirited by the end results. Viewers follow Shulan, who left the institution shortly after it opened, as he starts to believe the site feels more like a New York City tourist attraction akin to Times Square than a museum offering a nuanced portrayal of history.\"\nThe Outsider premiered on Facebook in August 2021."
+"extract": "The Outsider is a 2021 American documentary film directed by Steven Rosenbaum and Pamela Yoder about the making of the National September 11 Memorial & Museum in New York City.\nUsing footage collected over eight years, the film follows the journey of the museum's creative director Michael Shulan (the titular \"outsider\") from the day of the September 11 attacks to the building's opening in 2014. Shulan \"is initially optimistic about the project's aims but becomes dispirited by the end results. Viewers follow Shulan, who left the institution shortly after it opened, as he starts to believe the site feels more like a New York City tourist attraction akin to Times Square than a museum offering a nuanced portrayal of history.\"\nThe Outsider premiered on Facebook in August 2021.\n\n"
 },
 {
 "qid": "Q111781306",
@@ -9398,7 +9486,7 @@ null,
 "wikipedia:Documentary films about urban studies",
 "wikipedia:seed-title"
 ],
-"extract": "The Pruitt-Igoe Myth is a 2011 documentary film detailing the history of the Pruitt–Igoe public housing complex in St. Louis, Missouri, and the eventual decision to raze the entire complex in 1976.\nThe documentary argues that the violent social collapse within the Pruitt–Igoe complex was not due to the modernist principles behind the project's architecture and planning, but was a result of wider, external social forces, namely the declining economic fortunes of St. Louis, the resulting impact upon employment opportunities, and the project's failure to meet occupancy projections from the start and therefore to meet monthly income projected to cover maintenance costs. Furnaces made to incinerate garbage failed, pipes/plumbing failed, and more issues kept on to the point residents stopped paying rent."
+"extract": "The Pruitt-Igoe Myth is a 2011 documentary film detailing the history of the Pruitt–Igoe public housing complex in St. Louis, Missouri, and the eventual decision to raze the entire complex in 1976.\nThe documentary argues that the violent social collapse within the Pruitt–Igoe complex was not due to the modernist principles behind the project's architecture and planning, but was a result of wider, external social forces, namely the declining economic fortunes of St. Louis, the resulting impact upon employment opportunities, and the project's failure to meet occupancy projections from the start and therefore to meet monthly income projected to cover maintenance costs. Furnaces made to incinerate garbage failed, pipes/plumbing failed, and more issues kept on to the point residents stopped paying rent.\n\n"
 },
 {
 "qid": "Q2889288",
@@ -9686,7 +9774,7 @@ null,
 "sources": [
 "structure-subject"
 ],
-"extract": "The Sun Rises in The East is an independent documentary film created by Tayo Giwa and Cynthia Gordy Giwa. It is the first feature-length film to examine the history of The East, a Black cultural organization and meeting place formed in 1969 by teens and young adults in Bedford-Stuyvesant, Brooklyn."
+"extract": "The Sun Rises in The East is an independent documentary film created by Tayo Giwa and Cynthia Gordy Giwa. It is the first feature-length film to examine the history of The East, a Black cultural organization and meeting place formed in 1969 by teens and young adults in Bedford-Stuyvesant, Brooklyn.\n\n"
 },
 {
 "qid": "Q52619252",
@@ -9829,7 +9917,7 @@ null,
 "wikipedia:Films about architecture",
 "wikipedia:seed-title"
 ],
-"extract": "The Vision of Paolo Soleri: Prophet in the Desert is a 2013 American documentary film about the life and work of the late Italian architect and environmentalist Paolo Soleri. It was directed by Lisa Scafuro."
+"extract": "The Vision of Paolo Soleri: Prophet in the Desert is a 2013 American documentary film about the life and work of the late Italian architect and environmentalist Paolo Soleri. It was directed by Lisa Scafuro.\n\n"
 },
 {
 "qid": "Q20030237",
@@ -9880,7 +9968,7 @@ null,
 "sources": [
 "wikipedia:Documentary films about urban studies"
 ],
-"extract": "The World's Best Prom is a 2006 documentary film about a high school prom in Racine, Wisconsin. Prom was released as a short film and was expanded to feature-length documentary length. It was released in its longer form on April 4, 2006. It was filmed on location in Racine and was shot entirely in digital video. The film was originally a 17-minute short film of the same name which won Best Documentary at the Wisconsin Film Festival. The film was also re-edited as mini-episodes for Truth, but the episodes never aired."
+"extract": "The World's Best Prom is a 2006 documentary film about a high school prom in Racine, Wisconsin. Prom was released as a short film and was expanded to feature-length documentary length. It was released in its longer form on April 4, 2006. It was filmed on location in Racine and was shot entirely in digital video. The film was originally a 17-minute short film of the same name which won Best Documentary at the Wisconsin Film Festival. The film was also re-edited as mini-episodes for Truth, but the episodes never aired.\n\n"
 },
 {
 "qid": "Q50366583",
@@ -9906,7 +9994,7 @@ null,
 "sources": [
 "wikipedia:seed-title"
 ],
-"extract": "The World's Most Extraordinary Homes is a British documentary miniseries presented by Piers Taylor and Caroline Quentin and is broadcast on BBC Two. The series was also picked up by Netflix between March 2018 and July 2022."
+"extract": "The World's Most Extraordinary Homes is a British documentary miniseries presented by Piers Taylor and Caroline Quentin and is broadcast on BBC Two. The series was also picked up by Netflix between March 2018 and July 2022.\n\n"
 },
 {
 "qid": "Q110821310",
@@ -9986,7 +10074,7 @@ null,
 "sources": [
 "wikipedia:Films about architecture"
 ],
-"extract": "Three to Tango is a 1999 romantic comedy film directed by Damon Santostefano, written by Rodney Patrick Vaccaro and Aline Brosh McKenna, and starring Matthew Perry, Neve Campbell, Dylan McDermott and Oliver Platt."
+"extract": "Three to Tango is a 1999 romantic comedy film directed by Damon Santostefano, written by Rodney Patrick Vaccaro and Aline Brosh McKenna, and starring Matthew Perry, Neve Campbell, Dylan McDermott and Oliver Platt.\n\n"
 },
 {
 "qid": "Q16516",
@@ -10039,7 +10127,7 @@ null,
 "sources": [
 "wikipedia:seed-title"
 ],
-"extract": "Time Machine 2011: Live in Cleveland is a concert DVD, Blu-ray and double CD by Canadian rock band Rush released on 8 November 2011. It was filmed on 15 April 2011 at the Quicken Loans Arena in Cleveland, Ohio during the band's Time Machine Tour. The DVD film was recorded by Banger Films, which had previously produced the Rush documentary Rush: Beyond the Lighted Stage. The Moving Pictures portion of the concert was released on vinyl and digitally under the title Moving Pictures: Live 2011. In Canada in 2023 and 2024, the film was carried on Hollywood Suite under the title, Rush: Time Machine Tour.\nThe album was nominated for a Juno Award in the \"Music DVD of the Year\" category. On 14 May 2014, the DVD was certified 2× Platinum in the US with 200,000 copies sold. It was later reissued as a part of the DVD and Blu-ray box set titled R40, released on 11 November 2014."
+"extract": "Time Machine 2011: Live in Cleveland is a concert DVD, Blu-ray and double CD by Canadian rock band Rush released on 8 November 2011. It was filmed on 15 April 2011 at the Quicken Loans Arena in Cleveland, Ohio during the band's Time Machine Tour. The DVD film was recorded by Banger Films, which had previously produced the Rush documentary Rush: Beyond the Lighted Stage. The Moving Pictures portion of the concert was released on vinyl and digitally under the title Moving Pictures: Live 2011. In Canada in 2023 and 2024, the film was carried on Hollywood Suite under the title, Rush: Time Machine Tour.\nThe album was nominated for a Juno Award in the \"Music DVD of the Year\" category. On 14 May 2014, the DVD was certified 2× Platinum in the US with 200,000 copies sold. It was later reissued as a part of the DVD and Blu-ray box set titled R40, released on 11 November 2014.\n\n"
 },
 {
 "qid": "Q144521",
@@ -10066,7 +10154,6 @@ null,
 "enwiki": "Titicut Follies",
 "wd_desc": "1967 film by Frederick Wiseman",
 "sources": [
-"building-subject",
 "structure-subject"
 ],
 "extract": "Titicut Follies is a 1967 American direct cinema documentary film produced, written, and directed by Frederick Wiseman and filmed by John Marshall. It deals with the patient-inmates of Bridgewater State Hospital for the Criminally Insane, a Massachusetts Correctional Institution in Bridgewater, Massachusetts. The title is taken from that of a talent show put on by the hospital staff. Titicut is the Wampanoag name for the nearby Taunton River.\nThe film won accolades in Germany and Italy. Wiseman went on to produce many more such films examining social institutions (e.g. hospitals, police, schools, etc.) in the United States.\nIn 2022, the film was selected for preservation in the United States National Film Registry by the Library of Congress as being \"culturally, historically, or aesthetically significant\".\n\n"
@@ -10125,7 +10212,7 @@ null,
 "sources": [
 "wikipedia:Films about architecture"
 ],
-"extract": "Toolbox Murders is a 2004 American slasher film directed by Tobe Hooper, and written by Jace Anderson and Adam Gierasch. It is a remake of the 1978 film The Toolbox Murders and was produced by the same people behind the original. The film is centered on the occupants of an apartment who are stalked and murdered by a masked killer."
+"extract": "Toolbox Murders is a 2004 American slasher film directed by Tobe Hooper, and written by Jace Anderson and Adam Gierasch. It is a remake of the 1978 film The Toolbox Murders and was produced by the same people behind the original. The film is centered on the occupants of an apartment who are stalked and murdered by a masked killer.\n\n"
 },
 {
 "qid": "Q118180806",
@@ -10298,7 +10385,7 @@ null,
 "sources": [
 "structure-subject"
 ],
-"extract": "Unknown: Cosmic Time Machine is an episode of the four-episode 2023 Netflix documentary series Unknown, about NASA's development and launch of the James Webb Space Telescope. The episode follows the development of the telescope from the 1990s through its 2021 launch and 2022 deployment, and the unveiling of some of the first images from the new space telescope.\nThe episode was directed by Shai Gal and released on Netflix on July 24, 2023."
+"extract": "Unknown: Cosmic Time Machine is an episode of the four-episode 2023 Netflix documentary series Unknown, about NASA's development and launch of the James Webb Space Telescope. The episode follows the development of the telescope from the 1990s through its 2021 launch and 2022 deployment, and the unveiling of some of the first images from the new space telescope.\nThe episode was directed by Shai Gal and released on Netflix on July 24, 2023.\n\n"
 },
 {
 "qid": "Q112118927",
@@ -10330,7 +10417,7 @@ null,
 "building-subject",
 "structure-subject"
 ],
-"extract": "Unloved: Huronia's Forgotten Children is a Canadian documentary film, directed by Barri Cohen and released in 2022. The film documents the history of child abuse at Ontario's Huronia Regional Centre facility for developmentally disabled children, based in part on the story of her own two older brothers, Alfred and Louis, who died at the institution.\nThe film premiered at the 2022 Hot Docs Canadian International Documentary Festival, where it was named the third-place winner of the Rogers Audience Award. It was broadcast on the Documentary Channel and CBC Gem later in the year."
+"extract": "Unloved: Huronia's Forgotten Children is a Canadian documentary film, directed by Barri Cohen and released in 2022. The film documents the history of child abuse at Ontario's Huronia Regional Centre facility for developmentally disabled children, based in part on the story of her own two older brothers, Alfred and Louis, who died at the institution.\nThe film premiered at the 2022 Hot Docs Canadian International Documentary Festival, where it was named the third-place winner of the Rogers Audience Award. It was broadcast on the Documentary Channel and CBC Gem later in the year.\n\n"
 },
 {
 "qid": "Q7899899",
@@ -10383,7 +10470,7 @@ null,
 "wikipedia:Documentary films about urban studies",
 "wikipedia:seed-title"
 ],
-"extract": "Urbanized is a documentary film directed by Gary Hustwit and released on 26 October 2011. It is considered the third of a three-part series on design known as the Design Trilogy; the first being Helvetica, about the typeface, and the second being Objectified, about industrial design. The documentary discusses how cities are designed, and it features interviews with urban planners and architects, such as Oscar Niemeyer and Jan Gehl."
+"extract": "Urbanized is a documentary film directed by Gary Hustwit and released on 26 October 2011. It is considered the third of a three-part series on design known as the Design Trilogy; the first being Helvetica, about the typeface, and the second being Objectified, about industrial design. The documentary discusses how cities are designed, and it features interviews with urban planners and architects, such as Oscar Niemeyer and Jan Gehl.\n\n"
 },
 {
 "qid": "Q107288639",
@@ -10527,7 +10614,6 @@ null,
 "enwiki": null,
 "wd_desc": "Short documentary film directed by Annabel Loyola in 2019",
 "sources": [
-"building-subject",
 "structure-subject"
 ]
 },
@@ -10559,7 +10645,7 @@ null,
 "building-subject",
 "structure-subject"
 ],
-"extract": "The Westerbork film is a film material commissioned and shot by the SS in the transit camp for Jews in Westerbork, in the Reichskommissariat Niederlande (Nazi-occupied Netherlands) in the spring of 1944."
+"extract": "The Westerbork film is a film material commissioned and shot by the SS in the transit camp for Jews in Westerbork, in the Reichskommissariat Niederlande (Nazi-occupied Netherlands) in the spring of 1944.\n\n"
 },
 {
 "qid": "Q32942287",
@@ -10622,7 +10708,7 @@ null,
 "wikipedia:Documentary films about urban studies",
 "wikipedia:Films about architecture"
 ],
-"extract": "Why Beauty Matters is a 2009 British documentary film written and presented by the philosopher Roger Scruton. Scruton argues for the importance and transcendental nature of beauty.\nThe film was a part of BBC's project Modern Beauty Season, which consisted of a number of programmes on the topic of beauty and modernity, broadcast during November and December 2009. Why Beauty Matters premiered on BBC Two on 28 November 2009."
+"extract": "Why Beauty Matters is a 2009 British documentary film written and presented by the philosopher Roger Scruton. Scruton argues for the importance and transcendental nature of beauty.\nThe film was a part of BBC's project Modern Beauty Season, which consisted of a number of programmes on the topic of beauty and modernity, broadcast during November and December 2009. Why Beauty Matters premiered on BBC Two on 28 November 2009.\n\n"
 },
 {
 "qid": "Q109237705",
@@ -10699,7 +10785,29 @@ null,
 "sources": [
 "wikipedia:Films about architecture"
 ],
-"extract": "Ye Gulistan Hamara (transl. This Garden Is Ours) is a 1972 Indian Hindi-language drama film directed by Atmaram. The film stars Dev Anand, Sharmila Tagore, Pran, Sujit Kumar, Johnny Walker in pivotal roles, with music by S. D. Burman. Dialogue and screenplay are by Wajahat Mirza. The films depicts a tribal community living on the border with China; the song \"Mera Naam Aao\" was considered particularly offensive to the Ao Naga community in Nagaland."
+"extract": "Ye Gulistan Hamara (transl. This Garden Is Ours) is a 1972 Indian Hindi-language drama film directed by Atmaram. The film stars Dev Anand, Sharmila Tagore, Pran, Sujit Kumar, Johnny Walker in pivotal roles, with music by S. D. Burman. Dialogue and screenplay are by Wajahat Mirza. The films depicts a tribal community living on the border with China; the song \"Mera Naam Aao\" was considered particularly offensive to the Ao Naga community in Nagaland.\n\n"
+},
+{
+"qid": "Q476300",
+"title": "competition",
+"year": null,
+"runtime_min": null,
+"instance_of": [
+"type of interaction"
+],
+"genres_wd": [],
+"is_doc": false,
+"director": [],
+"subjects": [],
+"architects": [],
+"imdb": null,
+"tmdb": null,
+"enwiki": "Competition",
+"wd_desc": "rivalry where multiple parties strive for a goal which cannot be shared",
+"sources": [
+"wikipedia:seed-title"
+],
+"extract": "Competition is a rivalry where two or more parties strive for a common goal which cannot be shared: where one's gain is the other's loss (an example of which is a zero-sum game). Competition can arise between entities such as organisms, individuals, economic and social groups, etc. The rivalry can be over attainment of any exclusive goal, including recognition.\nCompetition occurs in nature, between living organisms which co-exist in the same environment. Animals compete over water supplies, food, mates, and other biological resources. Humans usually compete for food and mates, though when these needs are met deep rivalries often arise over the pursuit of wealth, power, prestige, and fame when in a static, repetitive, or unchanging environment. Competition is a major tenet of market economies and business, often associated with business competition as companies are in competition with at least one other firm over the same group of customers. Competition inside a company is usually stimulated with the larger purpose of meeting and reaching higher quality of services or improved products that the company may produce or develop.\nCompetition is often considered to be the opposite of coo"
 },
 {
 "qid": "Q8777539",

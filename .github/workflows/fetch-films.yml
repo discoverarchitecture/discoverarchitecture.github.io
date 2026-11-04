@@ -28,7 +28,7 @@ jobs:
         run: |
           FIRST=$(head -n1 tools/films_request.txt)
           case "$FIRST" in
-            "python -u tools/harvest_films.py"*) $FIRST ;;
+            "python -u tools/harvest_films.py"*|"python -u tools/fetch_films_tmdb.py"*) $FIRST ;;
             *) echo "Unknown command: $FIRST"; exit 1 ;;
           esac
       - name: Commit results
