@@ -79,7 +79,7 @@
     "logo": "images/films/p/2.webp"
    }
   ],
-  "trailer": null,
+  "trailer": "lTzJ5qsYzpQ",
   "image": {
    "poster": "/5avrBzIW7mXrUmUAz8gNz8KxXhB.jpg",
    "credit": "TMDB",
@@ -89,7 +89,14 @@
    "h": 513
   },
   "tmdb": 37239,
-  "tmdb_kind": "movie"
+  "tmdb_kind": "movie",
+  "backdrop": {
+   "local": "images/films/antonio-gaudi-wide.webp",
+   "w": 1280,
+   "h": 720,
+   "credit": "TMDB",
+   "source": "https://www.themoviedb.org/movie/37239"
+  }
  },
  {
   "id": "battle-for-the-city",
@@ -253,7 +260,7 @@
     "logo": "images/films/p/2.webp"
    }
   ],
-  "trailer": null,
+  "trailer": "qwWxKhVo8j0",
   "image": {
    "poster": "/iS5DY8YjsBlFjMr1LeGsfEKMKZB.jpg",
    "credit": "TMDB",
@@ -389,7 +396,7 @@
     "logo": "images/films/p/2100.webp"
    }
   ],
-  "trailer": null,
+  "trailer": "01hIPvNzGmY",
   "image": {
    "poster": "/4D8ldSudDuv13sHofZ4DIsLr3Mz.jpg",
    "credit": "TMDB",
@@ -399,7 +406,14 @@
    "h": 513
   },
   "tmdb": 29110,
-  "tmdb_kind": "movie"
+  "tmdb_kind": "movie",
+  "backdrop": {
+   "local": "images/films/garbage-warrior-wide.webp",
+   "w": 1280,
+   "h": 720,
+   "credit": "TMDB",
+   "source": "https://www.themoviedb.org/movie/29110"
+  }
  },
  {
   "id": "i-am-belfast",
@@ -556,7 +570,7 @@
     "logo": "images/films/p/192.webp"
    }
   ],
-  "trailer": null,
+  "trailer": "Mlwpxw4v_P8",
   "image": {
    "poster": "/lOySD84rdBbtJbRjv1islKjuBR4.jpg",
    "credit": "TMDB",
@@ -566,7 +580,14 @@
    "h": 513
   },
   "tmdb": 332806,
-  "tmdb_kind": "movie"
+  "tmdb_kind": "movie",
+  "backdrop": {
+   "local": "images/films/i-am-belfast-wide.webp",
+   "w": 1280,
+   "h": 720,
+   "credit": "TMDB",
+   "source": "https://www.themoviedb.org/movie/332806"
+  }
  },
  {
   "id": "l-esprit-de-mopti",
@@ -695,7 +716,14 @@
    "h": 514
   },
   "tmdb": 243315,
-  "tmdb_kind": "movie"
+  "tmdb_kind": "movie",
+  "backdrop": {
+   "local": "images/films/monument-to-the-dream-wide.webp",
+   "w": 1280,
+   "h": 720,
+   "credit": "TMDB",
+   "source": "https://www.themoviedb.org/movie/243315"
+  }
  },
  {
   "id": "sea-point-days",
@@ -896,7 +924,7 @@
     "logo": "images/films/p/199.webp"
    }
   ],
-  "trailer": null,
+  "trailer": "g7RwwkNzF68",
   "image": {
    "poster": "/taY9fhUIEGyv9n16t3WJsTVBi8b.jpg",
    "credit": "TMDB",
@@ -907,7 +935,14 @@
   },
   "tmdb": 84407,
   "tmdb_kind": "movie",
-  "featured": 4
+  "featured": 4,
+  "backdrop": {
+   "local": "images/films/the-pruitt-igoe-myth-wide.webp",
+   "w": 1280,
+   "h": 720,
+   "credit": "TMDB",
+   "source": "https://www.themoviedb.org/movie/84407"
+  }
  },
  {
   "id": "tokyo-is-dreaming",
@@ -1103,7 +1138,7 @@
     "logo": "images/films/p/2.webp"
    }
   ],
-  "trailer": null,
+  "trailer": "qHWwxBEfikw",
   "image": {
    "poster": "/AlgE2Xj02j2Bb75eYfgDuPCzev2.jpg",
    "credit": "TMDB",
@@ -1114,7 +1149,14 @@
   },
   "tmdb": 77269,
   "tmdb_kind": "movie",
-  "featured": 2
+  "featured": 2,
+  "backdrop": {
+   "local": "images/films/urbanized-wide.webp",
+   "w": 1280,
+   "h": 720,
+   "credit": "TMDB",
+   "source": "https://www.themoviedb.org/movie/77269"
+  }
  },
  {
   "id": "the-last-wright-frank-lloyd-wright-and-the-park-inn-hotel",
@@ -1214,7 +1256,14 @@
    "h": 513
   },
   "tmdb": 250989,
-  "tmdb_kind": "movie"
+  "tmdb_kind": "movie",
+  "backdrop": {
+   "local": "images/films/berlin-babylon-wide.webp",
+   "w": 1280,
+   "h": 720,
+   "credit": "TMDB",
+   "source": "https://www.themoviedb.org/movie/250989"
+  }
  },
  {
   "id": "city-of-gold",
@@ -1430,7 +1479,14 @@
    "h": 513
   },
   "tmdb": 128441,
-  "tmdb_kind": "movie"
+  "tmdb_kind": "movie",
+  "backdrop": {
+   "local": "images/films/city-of-gold-wide.webp",
+   "w": 1280,
+   "h": 720,
+   "credit": "TMDB",
+   "source": "https://www.themoviedb.org/movie/128441"
+  }
  },
  {
   "id": "if-you-build-it",
@@ -1839,7 +1895,7 @@
     "logo": "images/films/p/192.webp"
    }
   ],
-  "trailer": null,
+  "trailer": "kV3XNynA4ZI",
   "image": {
    "poster": "/fkTCplLGZS4w17x3AgnA8xeQDbC.jpg",
    "credit": "TMDB",
@@ -1849,7 +1905,14 @@
    "h": 513
   },
   "tmdb": 138891,
-  "tmdb_kind": "movie"
+  "tmdb_kind": "movie",
+  "backdrop": {
+   "local": "images/films/unfinished-spaces-wide.webp",
+   "w": 1280,
+   "h": 720,
+   "credit": "TMDB",
+   "source": "https://www.themoviedb.org/movie/138891"
+  }
  },
  {
   "id": "dilli",
@@ -1957,14 +2020,6 @@
     "url": "https://www.themoviedb.org/movie/75442-eames-the-architect-and-the-painter/watch?locale=US",
     "checked": "2026-11-04",
     "logo": "images/films/p/2409.webp"
-   },
-   {
-    "provider": "Plex Channel",
-    "country": "US",
-    "type": "free",
-    "url": "https://www.themoviedb.org/movie/75442-eames-the-architect-and-the-painter/watch?locale=US",
-    "checked": "2026-11-04",
-    "logo": "images/films/p/2077.webp"
    },
    {
     "provider": "YouTube Free",
@@ -2207,7 +2262,7 @@
     "logo": "images/films/p/436.webp"
    }
   ],
-  "trailer": null,
+  "trailer": "_YMzmuBBBzo",
   "image": {
    "poster": "/54TYDEaVrjdp0WeaYxlZnoj3Hxv.jpg",
    "credit": "TMDB",
@@ -2217,7 +2272,14 @@
    "h": 513
   },
   "tmdb": 75442,
-  "tmdb_kind": "movie"
+  "tmdb_kind": "movie",
+  "backdrop": {
+   "local": "images/films/eames-the-architect-and-the-painter-wide.webp",
+   "w": 1280,
+   "h": 720,
+   "credit": "TMDB",
+   "source": "https://www.themoviedb.org/movie/75442"
+  }
  },
  {
   "id": "great-expectations",
@@ -2301,7 +2363,14 @@
    "h": 513
   },
   "tmdb": 303979,
-  "tmdb_kind": "movie"
+  "tmdb_kind": "movie",
+  "backdrop": {
+   "local": "images/films/great-expectations-wide.webp",
+   "w": 1280,
+   "h": 720,
+   "credit": "TMDB",
+   "source": "https://www.themoviedb.org/movie/303979"
+  }
  },
  {
   "id": "lullaby-to-my-father",
@@ -2614,7 +2683,7 @@
    }
   ],
   "watch": [],
-  "trailer": null,
+  "trailer": "0HxB9Iu3Hbc",
   "image": {
    "poster": "/flpuP2Y2qUkVGghsOYkxj0HkgB9.jpg",
    "credit": "TMDB",
@@ -2625,7 +2694,14 @@
   },
   "tmdb": 50314,
   "tmdb_kind": "movie",
-  "featured": 1
+  "featured": 1,
+  "backdrop": {
+   "local": "images/films/my-architect-wide.webp",
+   "w": 1280,
+   "h": 720,
+   "credit": "TMDB",
+   "source": "https://www.themoviedb.org/movie/50314"
+  }
  },
  {
   "id": "ruins-of-the-reich",
@@ -2869,7 +2945,14 @@
   },
   "tmdb": 27453,
   "tmdb_kind": "movie",
-  "featured": 3
+  "featured": 3,
+  "backdrop": {
+   "local": "images/films/sketches-of-frank-gehry-wide.webp",
+   "w": 1280,
+   "h": 720,
+   "credit": "TMDB",
+   "source": "https://www.themoviedb.org/movie/27453"
+  }
  },
  {
   "id": "spaces-the-architecture-of-paul-rudolph",
@@ -2968,10 +3051,17 @@
    }
   ],
   "watch": [],
-  "trailer": null,
+  "trailer": "LtEkg4pF7Vs",
   "image": null,
   "tmdb": 248940,
-  "tmdb_kind": "movie"
+  "tmdb_kind": "movie",
+  "backdrop": {
+   "local": "images/films/the-new-world-wide.webp",
+   "w": 1280,
+   "h": 720,
+   "credit": "TMDB",
+   "source": "https://www.themoviedb.org/movie/248940"
+  }
  },
  {
   "id": "aalto",
@@ -3378,7 +3468,7 @@
     "logo": "images/films/p/192.webp"
    }
   ],
-  "trailer": null,
+  "trailer": "sPkvliGQj54",
   "image": {
    "poster": "/sdymebZxcPeLscqYr9zCl9YrTRB.jpg",
    "credit": "TMDB",
@@ -3389,7 +3479,14 @@
   },
   "tmdb": 683722,
   "tmdb_kind": "movie",
-  "featured": 5
+  "featured": 5,
+  "backdrop": {
+   "local": "images/films/aalto-wide.webp",
+   "w": 1280,
+   "h": 720,
+   "credit": "TMDB",
+   "source": "https://www.themoviedb.org/movie/683722"
+  }
  },
  {
   "id": "from-inside-out-the-architecture-of-peter-zumthor",
@@ -3436,7 +3533,14 @@
    "h": 486
   },
   "tmdb": 1355885,
-  "tmdb_kind": "movie"
+  "tmdb_kind": "movie",
+  "backdrop": {
+   "local": "images/films/from-inside-out-the-architecture-of-peter-zumthor-wide.webp",
+   "w": 1280,
+   "h": 720,
+   "credit": "TMDB",
+   "source": "https://www.themoviedb.org/movie/1355885"
+  }
  },
  {
   "id": "frank-lloyd-wright",
@@ -3573,7 +3677,14 @@
    "h": 513
   },
   "tmdb": 77074,
-  "tmdb_kind": "tv"
+  "tmdb_kind": "tv",
+  "backdrop": {
+   "local": "images/films/frank-lloyd-wright-wide.webp",
+   "w": 1280,
+   "h": 720,
+   "credit": "TMDB",
+   "source": "https://www.themoviedb.org/tv/77074"
+  }
  },
  {
   "id": "infinite-space-the-architecture-of-john-lautner",
@@ -3619,7 +3730,7 @@
    }
   ],
   "watch": [],
-  "trailer": null,
+  "trailer": "cvjtHWSLgls",
   "image": {
    "poster": "/oW2u7i5X3KmsJWKDigxAVtPbmOU.jpg",
    "credit": "TMDB",
@@ -3677,7 +3788,14 @@
    "h": 488
   },
   "tmdb": 290560,
-  "tmdb_kind": "movie"
+  "tmdb_kind": "movie",
+  "backdrop": {
+   "local": "images/films/loos-ornamental-wide.webp",
+   "w": 1280,
+   "h": 721,
+   "credit": "TMDB",
+   "source": "https://www.themoviedb.org/movie/290560"
+  }
  },
  {
   "id": "louis-kahn-s-tiger-city",
@@ -3998,7 +4116,7 @@
     "logo": "images/films/p/10.webp"
    }
   ],
-  "trailer": null,
+  "trailer": "JVxNR2Ip28k",
   "image": {
    "poster": "/atLWDpRhPiSlujjl7cNsEVOqqlw.jpg",
    "credit": "TMDB",
@@ -4008,7 +4126,14 @@
    "h": 513
   },
   "tmdb": 637909,
-  "tmdb_kind": "movie"
+  "tmdb_kind": "movie",
+  "backdrop": {
+   "local": "images/films/louis-kahn-s-tiger-city-wide.webp",
+   "w": 1280,
+   "h": 720,
+   "credit": "TMDB",
+   "source": "https://www.themoviedb.org/movie/637909"
+  }
  },
  {
   "id": "sagrada-el-misteri-de-la-creacio",
@@ -4171,7 +4296,14 @@
    "h": 488
   },
   "tmdb": 203612,
-  "tmdb_kind": "movie"
+  "tmdb_kind": "movie",
+  "backdrop": {
+   "local": "images/films/sagrada-el-misteri-de-la-creacio-wide.webp",
+   "w": 1280,
+   "h": 720,
+   "credit": "TMDB",
+   "source": "https://www.themoviedb.org/movie/203612"
+  }
  },
  {
   "id": "the-proposal",
@@ -4330,7 +4462,7 @@
     "logo": "images/films/p/212.webp"
    }
   ],
-  "trailer": null,
+  "trailer": "jcYZEGqTstk",
   "image": {
    "poster": "/rTIckTSAAFGYLBS5vw9Ah8gbMka.jpg",
    "credit": "TMDB",
@@ -4340,7 +4472,14 @@
    "h": 513
   },
   "tmdb": 511910,
-  "tmdb_kind": "movie"
+  "tmdb_kind": "movie",
+  "backdrop": {
+   "local": "images/films/the-proposal-wide.webp",
+   "w": 1280,
+   "h": 720,
+   "credit": "TMDB",
+   "source": "https://www.themoviedb.org/movie/511910"
+  }
  },
  {
   "id": "the-amateur",
@@ -4386,7 +4525,7 @@
    }
   ],
   "watch": [],
-  "trailer": null,
+  "trailer": "V0M6EUKylNc",
   "image": {
    "poster": "/pc01vut0o2deUnmuiSQa5acyizF.jpg",
    "credit": "TMDB",
@@ -4396,7 +4535,14 @@
    "h": 484
   },
   "tmdb": 411188,
-  "tmdb_kind": "movie"
+  "tmdb_kind": "movie",
+  "backdrop": {
+   "local": "images/films/the-amateur-wide.webp",
+   "w": 1280,
+   "h": 720,
+   "credit": "TMDB",
+   "source": "https://www.themoviedb.org/movie/411188"
+  }
  },
  {
   "id": "conversaciones-con-renzo-piano",
@@ -4506,7 +4652,14 @@
    "h": 513
   },
   "tmdb": 1104076,
-  "tmdb_kind": "movie"
+  "tmdb_kind": "movie",
+  "backdrop": {
+   "local": "images/films/conversaciones-con-renzo-piano-wide.webp",
+   "w": 1280,
+   "h": 720,
+   "credit": "TMDB",
+   "source": "https://www.themoviedb.org/movie/1104076"
+  }
  },
  {
   "id": "ada-my-mother-the-architect",
@@ -4592,7 +4745,7 @@
     "logo": "images/films/p/130.webp"
    }
   ],
-  "trailer": null,
+  "trailer": "sQ0McmlMu54",
   "image": {
    "poster": "/1fX4VZ1NNgesG9LivcL4i720hfO.jpg",
    "credit": "TMDB",
@@ -4602,7 +4755,14 @@
    "h": 479
   },
   "tmdb": 1319115,
-  "tmdb_kind": "movie"
+  "tmdb_kind": "movie",
+  "backdrop": {
+   "local": "images/films/ada-my-mother-the-architect-wide.webp",
+   "w": 1280,
+   "h": 720,
+   "credit": "TMDB",
+   "source": "https://www.themoviedb.org/movie/1319115"
+  }
  },
  {
   "id": "eye-over-prague",
@@ -5138,7 +5298,7 @@
     "logo": "images/films/p/8.webp"
    }
   ],
-  "trailer": null,
+  "trailer": "DYaq2sWTWAA",
   "image": {
    "poster": "/mBpWUNGlB66cP6ght7NyT3jXmWN.jpg",
    "credit": "TMDB",
@@ -5148,7 +5308,14 @@
    "h": 513
   },
   "tmdb": 70177,
-  "tmdb_kind": "tv"
+  "tmdb_kind": "tv",
+  "backdrop": {
+   "local": "images/films/abstract-the-art-of-design-wide.webp",
+   "w": 1280,
+   "h": 720,
+   "credit": "TMDB",
+   "source": "https://www.themoviedb.org/tv/70177"
+  }
  },
  {
   "id": "visual-acoustics-the-modernism-of-julius-shulman",
@@ -5322,7 +5489,7 @@
     "logo": "images/films/p/2.webp"
    }
   ],
-  "trailer": null,
+  "trailer": "z6JzyCj-Pbk",
   "image": {
    "poster": "/cTADIVevQGUVaKbGBzheMpqGVao.jpg",
    "credit": "TMDB",
@@ -5332,6 +5499,13 @@
    "h": 513
   },
   "tmdb": 39786,
-  "tmdb_kind": "movie"
+  "tmdb_kind": "movie",
+  "backdrop": {
+   "local": "images/films/visual-acoustics-the-modernism-of-julius-shulman-wide.webp",
+   "w": 1280,
+   "h": 719,
+   "credit": "TMDB",
+   "source": "https://www.themoviedb.org/movie/39786"
+  }
  }
 ]
