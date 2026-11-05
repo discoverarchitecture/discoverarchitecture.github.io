@@ -275,6 +275,23 @@ LEGAL = ('<p class="legal-links"><a href="{up}pricing/">Pricing</a> · <a href="
 GUIDE = '<p><a href="{up}guides/a1-presentation-board/">Guide: how to make an A1 architecture presentation board →</a></p>'
 
 
+# Studio FGA banner on every building page (owner, 5 Nov 2026): most Google visitors land on a building page while
+# researching a precedent. Edit the words here; building_page() places it after the page's content, before the foot.
+STUDIO_BANNER = {
+    'heading': 'Jury coming up?',
+    'text': 'Studio FGA lays out your own drawings, renders and brief as an editable jury board + deck. Polish $11 · Transform $16. No subscription.',
+    'link_text': 'Try Studio FGA →',
+    'link': 'studio/?utm_source=site&utm_campaign=building_page',   # from the site root
+}
+
+
+def studio_banner(up):
+    s = STUDIO_BANNER
+    return (f'<aside class="block studio-banner" aria-labelledby="studio-banner-h" data-nosnippet><div class="sb-box">'
+            f'<h2 id="studio-banner-h">{e(s["heading"])}</h2><p>{e(s["text"])}</p>'
+            f'<a class="sb-go" href="{e(up + s["link"])}">{e(s["link_text"])}</a></div></aside>\n')
+
+
 def legal_foot(up):
     return (GUIDE + LEGAL).replace('{up}', up)
 
@@ -772,7 +789,7 @@ def building_page(b, items):
     {credit}
   </article>
 </main>
-{about_block(b)}{next_html}
+{about_block(b)}{studio_banner(up)}{next_html}
 """
     return head + body + FOOT.format(up=up, total=TOTAL, css_v=CSS_V)
 
