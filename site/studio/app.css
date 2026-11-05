@@ -746,3 +746,6 @@ body[data-screen="upload"] .btn.primary::after, body[data-screen="q"] .btn.prima
 .pvbc .bq span { color: var(--ink) !important; }
 .pvgo { margin: 18px 0 0; } .pvgo .link { font-weight: 700; font-size: 17px; }
 @media (max-width: 899px) { .pvshow { grid-template-columns: minmax(0, 1fr); } .pvshot .pvpin { width: 24px; height: 24px; font-size: 13px; } }
+/* showcase permission tick box (owner, 5 Nov 2026) */
+.check { display: flex; align-items: center; gap: 10px; min-height: 44px; margin: 6px 0 4px; font-weight: 600; cursor: pointer; }
+.check input { flex: none; width: 22px; height: 22px; accent-color: var(--lime); cursor: pointer; }

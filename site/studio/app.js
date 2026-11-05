@@ -1088,7 +1088,11 @@
         '<div class="sharetxt"><h2 class="mid">Show your friends</h2><p class="lede">Post your before and after. Tag <b>@findgreatarchitecture</b> and we may feature your board.</p>' +
         '<div class="row"><a class="btn primary" href="https://wa.me/?text=' + encodeURIComponent('Made my jury board with Studio FGA: ' + link) + '" target="_blank" rel="noopener">Send on WhatsApp</a>' +
         '<button class="btn" data-act="copyTxt" data-t="' + link + '" data-f="lnk">Copy link</button></div><input id="lnk" class="input" readonly value="' + link + '"></div></div>' +
-        '<div class="sharetwo"><div class="card"><h2 class="mid">Can we feature your board?</h2><p class="lede">On @findgreatarchitecture, with your name. Only if you say yes.</p><div class="row"><button class="btn' + (S.feature === true ? ' primary' : '') + '" data-act="feature" data-v="yes">Yes, feature it</button><button class="btn' + (S.feature === false ? ' primary' : '') + '" data-act="feature" data-v="no">Not now</button></div></div></div>';
+        '<div class="sharetwo"><div class="card"><h2 class="mid">Can we show your board as an example?</h2><p class="lede">On the Studio FGA website and @findgreatarchitecture, with your first name. Only if you say yes, and you can ask us to take it down any time at hello@findgreatarchitecture.com.</p>' +
+        '<label class="check"><input type="checkbox" data-act="feature" data-v="' + (S.feature ? 'no' : 'yes') + '"' + (S.feature ? ' checked' : '') + '> Yes, you can show my board and first name</label>' +
+        (S.feature ? (S.quoteSent ? '<p class="lede">Thank you! It may take a few days to appear.</p>'
+          : '<div class="field"><label for="quote">One line for other students (optional, shown with your board)</label><textarea id="quote" class="input" rows="2" maxlength="200" placeholder="Saved me the night before jury…"></textarea></div><div class="row"><button class="btn primary" data-act="sendQuote">Add my line</button></div>') : '') +
+        '</div></div>';
     }
     return '<main class="wrap narrow"><span class="chip lime" style="align-self:flex-start">YOU MADE IT</span><h1 class="big">How did Studio do?</h1><p class="lede">One tap. It helps us make the next board better.</p><div class="stars" role="group" aria-label="Rating">' + stars + '</div>' + body + '</main>';
   };
@@ -1619,6 +1623,7 @@
     rate: (el) => { S.rate = +el.dataset.r; saveS(); render(); if (S.rate >= 4) sendFeedback({ rating: S.rate }); },
     sendFb: () => { const t = document.getElementById('fb'); S.fb = t ? t.value : ''; S.fbSent = true; saveS(); render(); sendFeedback({ rating: S.rate, note: S.fb }); },
     feature: (el) => { S.feature = el.dataset.v === 'yes'; saveS(); render(); sendFeedback({ rating: S.rate, feature_ok: S.feature }); },
+    sendQuote: () => { const t = document.getElementById('quote'), q = t ? t.value.trim() : ''; S.quoteSent = true; saveS(); render(); sendFeedback({ rating: S.rate, feature_ok: true, note: q ? 'Quote: ' + q : '' }); },
     copyTxt: async (el) => { const t = el.dataset.t; try { await navigator.clipboard.writeText(t); el.textContent = 'Copied'; } catch (e) { const i = document.getElementById(el.dataset.f); if (i) { i.focus(); i.select(); } el.textContent = 'Select and copy'; } },
     view: (el) => { S.edView = el.dataset.v; saveS(); ed.view = S.edView; ed.sel = null; ed.zoom = 1;
       document.querySelectorAll('[data-act="view"]').forEach((b) => b.classList.toggle('on', b.dataset.v === S.edView));
