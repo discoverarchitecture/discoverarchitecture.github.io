@@ -760,8 +760,11 @@ body[data-screen="upload"] .btn.primary::after, body[data-screen="q"] .btn.prima
 .gtxt { display: flex; flex-direction: column; align-items: flex-start; gap: 6px; padding: 14px 16px 16px; min-width: 0; }
 .gtxt b { font: 800 18px/1.2 var(--display); letter-spacing: -0.01em; }
 .gmeta { font: 600 12px/1.3 var(--mono); color: var(--muted); }
-.gcred { margin: 4px 0 0; font: 500 12.5px/1.6 var(--body); color: var(--muted); max-width: 90ch; }
-.gcred .kicker { margin-right: 4px; } .gcred b { font-weight: 700; }
+.gcred { display: flex; flex-direction: column; gap: 4px; margin: 4px 0 0; font: 500 12.5px/1.55 var(--body); color: var(--muted); max-width: 100ch; overflow-wrap: anywhere; }
+.gcred .kicker { margin-bottom: 2px; } .gcred b { font-weight: 700; } .gcred .link, .glcred .link { font-weight: 600; }
+.gcred .gnote { margin-top: 4px; font-style: italic; }
+.gcred a[rel~="license"], .glcred a[rel~="license"] { white-space: nowrap; }
+.glcred { flex: none; margin: 0; padding: 8px 16px 10px; border-top: 2px solid var(--line); font: 500 12.5px/1.5 var(--body); color: var(--muted); overflow-wrap: anywhere; }
 .glight { width: min(1100px, calc(100vw - 24px)); max-width: none; max-height: calc(100dvh - 24px); padding: 0; display: flex; flex-direction: column; border: 2px solid var(--line); border-radius: 18px; background: var(--card); color: var(--ink); box-shadow: 6px 6px 0 var(--shadow); overflow: hidden; }
 .glight:not([open]) { display: none; }
 .glight::backdrop { background: rgb(0 0 0 / .6); }
@@ -771,7 +774,7 @@ body[data-screen="upload"] .btn.primary::after, body[data-screen="q"] .btn.prima
 .gx { width: 44px; height: 44px; flex: none; border: 2px solid var(--line); border-radius: 12px; background: var(--card); color: var(--ink); font: 700 26px/1 var(--body); box-shadow: 2px 2px 0 var(--shadow); cursor: pointer; }
 .gx:hover { background: var(--lime); color: var(--on-accent); }
 .glimg { flex: 1 1 auto; min-height: min(50dvh, 420px); display: flex; justify-content: center; align-items: center; overflow: auto; padding: 14px; background: var(--desk); }
-.glimg img { display: block; max-width: 100%; max-height: calc(100dvh - 120px); width: auto; height: auto; background: #fff; cursor: zoom-in; }
+.glimg img { display: block; max-width: 100%; max-height: calc(100dvh - 210px); width: auto; height: auto; background: #fff; cursor: zoom-in; }
 .glimg.zoom { align-items: flex-start; } .glimg.zoom img { max-height: none; cursor: zoom-out; }
 @media (max-width: 560px) { .glbar { padding: 8px 8px 8px 12px; } .glbar b { font-size: 14px; flex-basis: calc(100% - 56px); order: -1; } .glbar .gx { order: -1; margin-left: auto; } .glbar .spacer { display: none; } .glimg { padding: 8px; } }
 @media (max-width: 560px) { .gimg { aspect-ratio: auto; padding: 14px; } .gimg img { position: static; width: 100%; max-width: 100%; max-height: none; } }

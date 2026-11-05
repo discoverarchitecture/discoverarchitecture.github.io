@@ -1,1 +1,14 @@
-{"k1": "", "k2": "", "k3": "", "k4": "", "k5": "Student's own drawings and models, used with permission."}
+{
+ "k1": "Drawings: HABS ILL,47-PLAN.V,1-, delineator Elizabeth Milnarik, public domain. Photo: Victor Grigas, CC BY-SA 3.0, via Wikimedia Commons.",
+ "k2": "Drawings: Otto Wagner, public domain (scans by Hubertl). Photos: P e z i, CC BY-SA 3.0; Thomas Ledl, CC BY-SA 3.0 AT; via Wikimedia Commons.",
+ "k3": "Drawings: State Records NSW, via Flickr 'Photographic Collection from Australia', CC BY 2.0. Photos: Kgbo, CC BY-SA 4.0; Lenny K Photography, CC BY 2.0; Tony Hisgett, CC BY 2.0; Rainerkruckenberg, CC0; via Wikimedia Commons.",
+ "k4": "Drawings: HABS ILL,47-PLAN.V,1-, delineator Elizabeth Milnarik, public domain. Photos: Victor Grigas, CC BY-SA 3.0; Carol M. Highsmith, public domain; via Wikimedia Commons.",
+ "k5": "Student's own drawings and models, used with permission.",
+ "sources": {
+  "k1": "https://commons.wikimedia.org/w/index.php?search=Farnsworth+House",
+  "k2": "https://commons.wikimedia.org/w/index.php?search=Postsparkasse+Wien+Otto+Wagner",
+  "k3": "https://commons.wikimedia.org/w/index.php?search=Sydney+Opera+House",
+  "k4": "https://commons.wikimedia.org/w/index.php?search=Farnsworth+House"
+ },
+ "note": "Test boards are adapted from these files and shared under CC BY-SA 4.0."
+}

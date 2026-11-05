@@ -1225,16 +1225,23 @@
   const GBASE = 'sample/gallery/';
   let galCredits = null;
   const galTag = (stu) => '<span class="chip' + (stu ? ' lime' : '') + '">' + (stu ? 'Student project' : 'Test project') + '</span>';
-  const galCreditLine = () => '<span class="kicker">Photo credits</span> ' + GAL.map(([k, stu, t, n]) => {
+  /* licence names in a credit become links; "CC BY-SA 3.0 AT" (the Austrian port) and CC0 stay plain text */
+  const GLIC = [['CC BY-SA 3.0', 'https://creativecommons.org/licenses/by-sa/3.0/'], ['CC BY-SA 4.0', 'https://creativecommons.org/licenses/by-sa/4.0/'], ['CC BY 2.0', 'https://creativecommons.org/licenses/by/2.0/']];
+  const licLinks = (h) => GLIC.reduce((s, [n, u]) => s.replace(new RegExp(n.replace(/\./g, '\\.') + '(?! AT)', 'g'), '<a class="link" href="' + u + '" target="_blank" rel="noopener license">' + n + '</a>'), h);
+  const galCredit = (k) => {
     const c = galCredits && typeof galCredits[k] === 'string' ? galCredits[k].trim() : '';
-    return '<span><b>' + (stu ? 'Law Garden student project' : esc(t.replace(/ · .*$/, '')) + ' (' + n + ' files)') + ':</b> ' + (c ? esc(c) : 'Credits being added') + '</span>';
-  }).join(' · ');
+    const src = galCredits && galCredits.sources && /^https:\/\/commons\.wikimedia\.org\//.test(galCredits.sources[k] || '') ? galCredits.sources[k] : '';
+    return (c ? licLinks(esc(c)) : 'Credits being added') + (c && src ? ' <a class="link" href="' + esc(src) + '" target="_blank" rel="noopener">(sources)</a>' : '');
+  };
+  const galCreditLine = () => '<p class="kicker">Photo credits</p>' + GAL.map(([k, stu, t, n]) =>
+    '<p><b>' + (stu ? 'Law Garden student project' : esc(t.replace(/ · .*$/, '')) + ' (' + n + ' files)') + ':</b> ' + galCredit(k) + '</p>').join('') +
+    (galCredits && typeof galCredits.note === 'string' && galCredits.note.trim() ? '<p class="gnote">' + licLinks(esc(galCredits.note.trim())) + '</p>' : '');
   const gallery = () => '<section class="wrap" id="boards"><h2 class="kicker">Examples</h2><p class="big hd">Boards made with Studio FGA</p>' +
     '<p class="lede">One real student project and four test projects we ran on famous buildings, to show what different inputs give you.</p><div class="ggrid">' +
     GAL.map(([k, stu, t, n, extra, w, h, alt]) => '<button class="gcard" data-act="gopen" data-k="' + k + '" aria-haspopup="dialog">' +
       '<span class="gimg"><img src="' + GBASE + k + '-thumb.webp" width="' + w + '" height="' + h + '" loading="lazy" decoding="async" alt="A1 board: ' + esc(alt) + '"></span>' +
       '<span class="gtxt">' + galTag(stu) + '<b>' + esc(t) + '</b><span class="gmeta">From ' + n + ' files' + (extra ? ' · ' + esc(extra) : '') + '</span></span></button>').join('') + '</div>' +
-    '<p class="gcred" id="gcred">' + galCreditLine() + '</p></section>';
+    '<div class="gcred" id="gcred">' + galCreditLine() + '</div></section>';
   function bindGallery() {
     if (galCredits || !document.getElementById('gcred')) return;
     fetch(GBASE + 'credits.json', { cache: 'no-cache' }).then((r) => r.ok ? r.json() : {}).catch(() => ({})).then((j) => {
@@ -1251,7 +1258,8 @@
     d.className = 'glight'; d.setAttribute('aria-label', (stu ? 'Student project: ' : 'Test project: ') + t);
     d.innerHTML = '<div class="glbar">' + galTag(stu) + '<b>' + esc(t) + '</b><span class="gmeta">From ' + n + ' files</span><span class="spacer"></span>' +
       '<a class="link" href="' + GBASE + k + '-large.webp" target="_blank" rel="noopener">Full size ↗</a><button class="gx" aria-label="Close" autofocus>×</button></div>' +
-      '<div class="glimg"><img src="' + GBASE + k + '-large.webp" width="1600" height="' + Math.round(h * 1600 / w) + '" alt="A1 board: ' + esc(alt) + '"></div>';
+      '<div class="glimg"><img src="' + GBASE + k + '-large.webp" width="1600" height="' + Math.round(h * 1600 / w) + '" alt="A1 board: ' + esc(alt) + '"></div>' +
+      '<p class="glcred"><b>Photo credits:</b> ' + galCredit(k) + '</p>';
     document.body.appendChild(d);
     d.addEventListener('close', () => { d.remove(); if (back && back.focus) back.focus({ preventScroll: true }); });
     d.addEventListener('click', (e) => {
