@@ -702,3 +702,16 @@ body[data-screen="upload"] .btn.primary::after, body[data-screen="q"] .btn.prima
 .bopt.sel, .bopt.yes { background: var(--lime); color: var(--on-accent); box-shadow: 3px 3px 0 var(--shadow); }
 .bopt:disabled { opacity: .45; cursor: default; }
 @media (max-width: 560px) { .bgroups { gap: 10px 14px; } .bopt { padding: 0 12px; } }
+
+/* hero upload box (owner, 5 Nov 2026) */
+.hdrop { display: flex; align-items: center; gap: 16px; margin: 22px 0 12px; padding: 22px 24px; border: 2.5px dashed var(--line); border-radius: 22px; background: var(--card); box-shadow: 5px 5px 0 var(--shadow); cursor: pointer; transition: transform .12s, box-shadow .12s, background .12s; }
+.hdrop:hover { transform: translate(-2px, -2px); box-shadow: 7px 7px 0 var(--shadow); }
+.hdrop:focus-visible { outline: 3px solid var(--focus, #2F5BFF); outline-offset: 3px; }
+.hdrop.hot { background: var(--lime); color: var(--on-accent); }
+.hdrop svg { flex: none; width: 44px; height: 44px; padding: 9px; border: 2px solid var(--line); border-radius: 14px; background: var(--lime); color: var(--on-accent); }
+.hdt { display: flex; flex-direction: column; gap: 4px; min-width: 0; }
+.hdt b { font: 800 21px/1.1 var(--display); letter-spacing: -0.01em; }
+.hdt span { font-size: 14px; color: var(--muted); } .hdrop.hot .hdt span { color: inherit; }
+.fmts .flab { font: 600 11px/1 var(--mono); text-transform: uppercase; letter-spacing: .06em; color: var(--muted); min-width: 84px; }
+.fmts.ins { margin-bottom: 8px; }
+@media (max-width: 520px) { .hdrop { padding: 18px; gap: 12px; } .hdt b { font-size: 18px; } .fmts .flab { min-width: 0; width: 100%; } }
