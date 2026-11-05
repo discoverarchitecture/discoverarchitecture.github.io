@@ -42,3 +42,30 @@
 .guide .guide-list { list-style: none; padding: 0; margin: 20px 0; }
 .guide .guide-list a { display: block; padding: 14px 0; border-bottom: 1px solid var(--line); text-decoration: none; }
 .guide .guide-list span { display: block; color: var(--graphite); font-size: 15px; }
+
+/* reading lists (/books/<slug>/, made by tools/list_pages.py): a row of section links, then each book with its cover */
+.guide .jump { display: flex; gap: 8px; overflow-x: auto; margin: 0 0 8px; padding-bottom: 6px; scrollbar-width: none; }
+.guide .jump::-webkit-scrollbar { display: none; }
+.guide .jump a { flex: none; padding: 7px 12px; border: 1px solid var(--line); border-radius: var(--r, 10px); font: 500 14px var(--sans); text-decoration: none; white-space: nowrap; }
+.guide .shelf { scroll-margin-top: 70px; }
+.guide .books { list-style: none; margin: 14px 0 0; padding: 0; }
+.guide .book { display: grid; grid-template-columns: 84px 1fr; gap: 16px; padding: 14px 0; border-bottom: 1px solid var(--line); scroll-margin-top: 70px; }
+.guide .book:last-child { border-bottom: 0; }
+.guide .book .cv img { display: block; width: 84px; height: auto; max-height: 126px; object-fit: contain; object-position: left top; }
+.guide .book .standin { display: flex; flex-direction: column; justify-content: space-between; width: 84px; aspect-ratio: 2 / 3; padding: 7px; box-sizing: border-box; overflow: hidden; border: 1px solid var(--line); background: var(--surface); }
+.guide .book .standin .tt { font: 700 11px/1.2 var(--sans); overflow-wrap: anywhere; hyphens: auto; }
+.guide .book .standin .au { font: 500 10px/1.2 var(--sans); color: var(--graphite); }
+.guide .book h3 { margin: 0 0 2px; font: 700 18px/1.3 var(--sans); }
+.guide .book .by { margin: 0 0 6px; font: 500 14px var(--sans); color: var(--graphite); }
+.guide .book .why { margin: 0 0 6px; font-size: 16px; line-height: 1.55; }
+.guide .book .go { margin: 0; display: flex; flex-wrap: wrap; gap: 4px 16px; font: 600 14px var(--sans); }
+.guide .book .go a { text-decoration: none; }
+.guide .how { margin-top: 26px; font-size: 15px; color: var(--graphite); }
+@media (max-width: 620px) {
+  .guide .book { grid-template-columns: 64px 1fr; gap: 12px; }
+  .guide .book .cv img, .guide .book .standin { width: 64px; }
+  .guide .book .standin { padding: 5px; }
+  .guide .book .standin .tt { font-size: 9.5px; }
+  .guide .book .standin .au { font-size: 8.5px; }
+  .guide .book h3 { font-size: 17px; }
+}

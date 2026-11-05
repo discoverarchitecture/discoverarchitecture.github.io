@@ -271,8 +271,9 @@ LEGAL = ('<p class="legal-links"><a href="{up}pricing/">Pricing</a> · <a href="
          '<p>Find Great Architecture · run by Akshat Pagaria · India</p>')
 
 
-# The guides (tools/guide_pages.py) are linked from every page's foot, next to the legal links (owner, 3 Nov 2026).
-GUIDE = '<p><a href="{up}guides/a1-presentation-board/">Guide: how to make an A1 architecture presentation board →</a></p>'
+# The guides (tools/guide_pages.py) and the reading list (tools/list_pages.py) are linked from every page's foot, next to the legal links (owner, 3 and 5 Nov 2026).
+GUIDE = ('<p><a href="{up}guides/a1-presentation-board/">Guide: how to make an A1 architecture presentation board →</a></p>'
+         '<p><a href="{up}books/best-architecture-books-for-students/">Reading list: the best architecture books for students →</a></p>')
 
 
 # Studio FGA banner on every building page (owner, 5 Nov 2026): most Google visitors land on a building page while
@@ -1028,6 +1029,8 @@ def main():
                                                  'window.ARCH_PAGES = ' + json.dumps(ARCH, ensure_ascii=False, sort_keys=True) + ';\n')
     import guide_pages
     GUIDES = guide_pages.build(sys.modules[__name__])
+    import list_pages
+    LISTS = list_pages.build(sys.modules[__name__])
     import hub_pages
     HUBS[:] = hub_pages.plan(sys.modules[__name__], items, ARCH)
     HUBLOOK.clear()
@@ -1047,7 +1050,7 @@ def main():
     (SITE / 'buildings' / 'index.html').write_text(outward(index_page(items)))
     if any(x.get('images') for x in items):
         og_image(items)
-    urls = [BASE, BASE + 'play/', BASE + 'studio/', BASE + 'pricing/', BASE + 'buildings/'] + film_urls + ([BASE + 'architects/'] + [f"{BASE}architects/{v}/" for v in sorted(ARCH.values())] if ARCH else []) + [f"{BASE}{hub_pages.kind_url(k)}" for k in hub_pages.KINDS if any(h['intro'] for h in HUBS if h['kind'] == k)] + [f"{BASE}{h['path']}" for h in HUBS if h['intro']] + [f"{BASE}buildings/{b['id']}/" for b in items if indexable(b)] + [f'{BASE}{p}/' for p in ('terms', 'privacy', 'refunds', 'contact')] + [BASE + 'guides/'] + [f"{BASE}guides/{g['slug']}/" for g in GUIDES] + studio_guide_urls()
+    urls = [BASE, BASE + 'play/', BASE + 'studio/', BASE + 'pricing/', BASE + 'buildings/'] + film_urls + ([BASE + 'architects/'] + [f"{BASE}architects/{v}/" for v in sorted(ARCH.values())] if ARCH else []) + [f"{BASE}{hub_pages.kind_url(k)}" for k in hub_pages.KINDS if any(h['intro'] for h in HUBS if h['kind'] == k)] + [f"{BASE}{h['path']}" for h in HUBS if h['intro']] + [f"{BASE}buildings/{b['id']}/" for b in items if indexable(b)] + [f'{BASE}{p}/' for p in ('terms', 'privacy', 'refunds', 'contact')] + [BASE + 'guides/'] + [f"{BASE}guides/{g['slug']}/" for g in GUIDES] + ([BASE + 'books/'] if LISTS else []) + [f"{BASE}books/{g['slug']}/" for g in LISTS] + studio_guide_urls()
     (SITE / 'sitemap.xml').write_text('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
                                        + ''.join(f'  <url><loc>{u}</loc></url>\n' for u in urls) + '</urlset>\n')
     (SITE / 'robots.txt').write_text(ROBOTS.format(base=BASE))
