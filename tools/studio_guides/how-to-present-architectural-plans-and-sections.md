@@ -40,6 +40,9 @@ Choose one approach and use it on every plan and section. If one plan is solid b
 
 In sections, decide how to show the ground. A solid or hatched band below the ground line makes the cut through the earth read, and makes the relationship between the building and the ground obvious. Keep it the same tone as the poché, or one step lighter.
 
+![A section through the Law Garden community centre: the ground cut as one solid terracotta band, brick blocks and a tensile fabric roof on masts above, trees and people in pale tones behind](/studio/sample/board/section.jpg)
+Caption: The section on the Law Garden sample board, redrawn by Studio FGA from the student's section sheet: the ground cut as one solid band, the building lighter, trees and people behind.
+
 ## One accent colour, one meaning
 
 Most plans and sections read best in black, white and greys. If you add colour, add one, and give it one meaning: the public route through the building, the new intervention in an existing structure, the shared space your project is about, the path of light or air. Use it on every drawing for that meaning only.
@@ -69,6 +72,10 @@ The test of a set of drawings is that they look like they came from one hand. Be
 5. Same accent colour, used for the same meaning.
 
 If your drawings came from different stages or different software, this is the step to spend time on. [Studio FGA](/studio/) cleans up and redraws uploaded drawings as part of building a board; like any redrawing, it may simplify details, so check the result against your originals. Done by hand or not, a matched set is what makes a board look resolved.
+
+![Before: the student's original ground floor plan, a grey hand-rendered drawing with large trees around it](/studio/sample/raw/sheet-6.jpg)
+![After: the same ground floor plan redrawn with walls in one terracotta tone, one pale floor tone and soft green trees](/studio/sample/board/plan.jpg)
+Caption: Before and after: the Law Garden student's original ground floor plan (left) and the plan Studio FGA redrew from it for the sample board (right), with one wall tone, one floor tone and trees in the lightest layer. As with any redrawing, check it against your original.
 
 ## FAQ
 

@@ -35,6 +35,9 @@ A shape that works for most five-to-ten-minute presentations:
 4. **One moment** you care about most: a room, a threshold, a detail. Slow down here.
 5. **What is unresolved** and what you would do next. Saying it yourself is stronger than waiting for the jury to find it.
 
+![The Law Garden sample A1 board: a large entrance view at the top beside the title and concept text, rows of sketches and model photos, then the site plan, ground floor plan and sections](/studio/sample/thumbs/board.jpg)
+Caption: Example: the Law Garden sample board, made by Studio FGA from six student sheets. It reads top left to bottom right: idea and hero view, sketches, models, then site plan, plan and sections, so the talk can follow it.
+
 If your talk and your board disagree on order, the jury spends its attention searching rather than listening. Lay the board out to match the talk; [our A1 layout guide](guide:how-to-lay-out-an-a1-architecture-board) shows how.
 
 ## Point at the drawings, not at your notes

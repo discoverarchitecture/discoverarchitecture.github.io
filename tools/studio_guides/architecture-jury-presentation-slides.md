@@ -35,6 +35,11 @@ If your studio gives you a different time, scale the outline. The order stays th
 
 For a 10-slide deck, merge site and site findings, fold precedents into the concept slide, combine structure and climate, and put model photos alongside the key space.
 
+![Hero view of the Law Garden community centre: a white tensile fabric roof on tall masts over a curved two-storey building and market stalls](/studio/sample/deck/s01-hero.jpg)
+![Ground floor plan of the Law Garden community centre with terracotta walls and green trees](/studio/sample/deck/s09-plan.jpg)
+![Section through the Law Garden community centre with the fabric roof above and the ground cut in terracotta](/studio/sample/deck/s10-section.jpg)
+Caption: Pictures from three slides of the Law Garden sample deck: the hero view (slide 1), the plan (slide 9) and the section (slide 10), the same places they take in the outline above. Studio FGA made the 13-slide deck from the same six student sheets as the board.
+
 ## Rules for every slide
 
 - **One point per slide.** If you need to say "and also" to explain a slide, it is two slides.

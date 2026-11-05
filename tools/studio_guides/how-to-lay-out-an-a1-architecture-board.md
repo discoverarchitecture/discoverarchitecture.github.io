@@ -46,6 +46,9 @@ Give one drawing the most space. This is the hero: the image that shows your ide
 
 If everything is the same size, the jury has to decide what matters, and they will decide differently from you. One clear hero beats three medium images competing.
 
+![The Law Garden sample A1 board: a large entrance view at the top beside the title and concept text, rows of sketches and model photos, then the site plan, ground floor plan and sections](/studio/sample/thumbs/board.jpg)
+Caption: Example: the Law Garden sample board, made by Studio FGA from six student sheets. One hero view takes the top; sketches and model photos sit in smaller, equal boxes; the site plan, plan and sections fill the bottom.
+
 Where your brief asks for drawings at a stated scale, place those first. A plan at 1:100 or 1:200 has a fixed size on the sheet, and everything else fits around it. A plan you have shrunk to fit the space is a plan nobody can measure, and a sharp juror will notice.
 
 ## Give text its own places
