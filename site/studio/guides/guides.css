@@ -1,0 +1,26 @@
+/* Studio FGA guides (tools/build_guides.py). Uses the tokens and parts in ../app.css; only the article pieces live here. */
+.gpage { display: flex; flex-direction: column; gap: 14px; }
+.gpage > .link { align-self: flex-start; }
+.gpage h1 { overflow-wrap: break-word; }
+.gpage h2 { font-size: clamp(24px, 3.2vw, 30px); line-height: 1.1; margin-top: 22px; }
+.gpage h3 { font-size: 19px; line-height: 1.2; margin-top: 8px; letter-spacing: -0.01em; }
+.gpage p, .gpage li { max-width: 68ch; font-size: 17px; line-height: 1.6; }
+.gpage ul, .gpage ol { margin: 0; padding-left: 22px; display: flex; flex-direction: column; gap: 6px; }
+.gpage a:not(.btn):not(.logo) { color: var(--ink); text-decoration: underline; text-decoration-color: var(--coral); text-decoration-thickness: 2px; text-underline-offset: 3px; }
+.gpage .link { min-height: 0; padding: 6px 0; }
+.gpage .lede { font-size: 19px; line-height: 1.5; color: var(--ink); }
+.byline { font: 500 13px/1.4 var(--mono); color: var(--muted); }
+.gfaq { display: flex; flex-direction: column; gap: 10px; }
+.gfaq h3 { margin-top: 12px; }
+.cta-box { margin-top: 26px; display: flex; flex-direction: column; gap: 14px; align-items: flex-start; padding: 22px; background: var(--lime); color: var(--on-accent);
+  border: 2px solid var(--line); border-radius: var(--r); box-shadow: var(--sh-big); }
+.cta-box p { font-family: var(--display); font-weight: 800; font-size: clamp(20px, 2.6vw, 24px); line-height: 1.2; letter-spacing: -0.01em; color: var(--on-accent); }
+.cta-box .btn.primary { max-width: 100%; font-size: 18px; min-height: 54px; text-align: center; }
+.related h2 { font-size: 22px; }
+.related ul { gap: 4px; }
+.glist { list-style: none; padding: 0; margin: 8px 0 0; display: grid; gap: 16px; }
+.glist .card { display: flex; flex-direction: column; gap: 8px; }
+.glist h2 { font-size: 22px; line-height: 1.15; margin: 0; }
+.glist h2 a { text-decoration: none !important; }
+.glist h2 a:hover { text-decoration: underline !important; }
+.glist p:not(.kicker) { color: var(--muted); font-size: 16px; }

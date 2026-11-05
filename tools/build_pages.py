@@ -1047,12 +1047,19 @@ def main():
     (SITE / 'buildings' / 'index.html').write_text(outward(index_page(items)))
     if any(x.get('images') for x in items):
         og_image(items)
-    urls = [BASE, BASE + 'play/', BASE + 'studio/', BASE + 'pricing/', BASE + 'buildings/'] + film_urls + ([BASE + 'architects/'] + [f"{BASE}architects/{v}/" for v in sorted(ARCH.values())] if ARCH else []) + [f"{BASE}{hub_pages.kind_url(k)}" for k in hub_pages.KINDS if any(h['intro'] for h in HUBS if h['kind'] == k)] + [f"{BASE}{h['path']}" for h in HUBS if h['intro']] + [f"{BASE}buildings/{b['id']}/" for b in items if indexable(b)] + [f'{BASE}{p}/' for p in ('terms', 'privacy', 'refunds', 'contact')] + [BASE + 'guides/'] + [f"{BASE}guides/{g['slug']}/" for g in GUIDES]
+    urls = [BASE, BASE + 'play/', BASE + 'studio/', BASE + 'pricing/', BASE + 'buildings/'] + film_urls + ([BASE + 'architects/'] + [f"{BASE}architects/{v}/" for v in sorted(ARCH.values())] if ARCH else []) + [f"{BASE}{hub_pages.kind_url(k)}" for k in hub_pages.KINDS if any(h['intro'] for h in HUBS if h['kind'] == k)] + [f"{BASE}{h['path']}" for h in HUBS if h['intro']] + [f"{BASE}buildings/{b['id']}/" for b in items if indexable(b)] + [f'{BASE}{p}/' for p in ('terms', 'privacy', 'refunds', 'contact')] + [BASE + 'guides/'] + [f"{BASE}guides/{g['slug']}/" for g in GUIDES] + studio_guide_urls()
     (SITE / 'sitemap.xml').write_text('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
                                        + ''.join(f'  <url><loc>{u}</loc></url>\n' for u in urls) + '</urlset>\n')
     (SITE / 'robots.txt').write_text(ROBOTS.format(base=BASE))
     icons()
     print(f'Built {len(items)} building pages, the index, og.jpg, sitemap.xml and robots.txt.')
+
+
+def studio_guide_urls():
+    """Studio FGA's guides (tools/build_guides.py writes them from tools/studio_guides/<slug>.md)."""
+    src = Path(__file__).resolve().parent / 'studio_guides'
+    slugs = sorted(f.stem for f in src.glob('*.md')) if src.exists() else []
+    return ([BASE + 'studio/guides/'] if slugs else []) + [f'{BASE}studio/guides/{s}/' for s in slugs]
 
 
 if __name__ == '__main__':
