@@ -1213,6 +1213,61 @@
       (i === 2 ? '<span>Studio tells you what it read from your drawings. One tap says yes; “Fix it” corrects it.</span><div class="bcheck pvbc" aria-hidden="true"><p class="bq"><span><b>We read:</b> 1 block · tensile roof. <b>Right?</b></span></p><div class="bopts"><span class="bopt yes">Yes</span><span class="bopt">Fix it</span></div></div>' : '<span>' + d + '</span>') +
       '</div></li>').join('') + '</ol></div>' +
     '<p class="pvgo"><button class="link" data-act="toHero">Try it with your sheets →</button></p></section>';
+  /* "Boards made with Studio FGA" (owner, 5 Nov 2026): five boards from our own pipeline. k5 is the real student
+     project (shown with the student's permission); k1-k4 are test projects we ran on famous buildings, never called
+     student work. Photo credits load from sample/gallery/credits.json; an empty one reads "Credits being added".
+     [key, student?, title line, files, extra, thumb w, thumb h, alt] */
+  const GAL = [['k5', 1, 'Community Centre for Law Garden Vendors', 6, '', 600, 849, 'community centre for the cloth vendors of Law Garden, Ahmedabad, under one floating fabric roof'],
+    ['k1', 0, 'Based on the Farnsworth House · Mies van der Rohe', 3, '', 600, 849, 'River Pavilion, a glass weekend house lifted above a meadow on white steel columns'],
+    ['k2', 0, 'Based on the Austrian Postal Savings Bank, Vienna · Otto Wagner', 5, '', 600, 900, 'Savings Hall, a public banking hall under a glass roof on the corner of a city block'],
+    ['k3', 0, 'Based on the Sydney Opera House · Jørn Utzon', 7, '', 600, 424, 'Harbour Arts Centre, a cluster of shell roofs on a stepped platform by the water'],
+    ['k4', 0, 'Based on the Farnsworth House · Mies van der Rohe', 10, 'Drawing Sheet text style', 600, 849, 'River Pavilion again, from more files, in the Drawing Sheet text style']];
+  const GBASE = 'sample/gallery/';
+  let galCredits = null;
+  const galTag = (stu) => '<span class="chip' + (stu ? ' lime' : '') + '">' + (stu ? 'Student project' : 'Test project') + '</span>';
+  /* licence names in a credit become links; "CC BY-SA 3.0 AT" (the Austrian port) and CC0 stay plain text */
+  const GLIC = [['CC BY-SA 3.0', 'https://creativecommons.org/licenses/by-sa/3.0/'], ['CC BY-SA 4.0', 'https://creativecommons.org/licenses/by-sa/4.0/'], ['CC BY 2.0', 'https://creativecommons.org/licenses/by/2.0/']];
+  const licLinks = (h) => GLIC.reduce((s, [n, u]) => s.replace(new RegExp(n.replace(/\./g, '\\.') + '(?! AT)', 'g'), '<a class="link" href="' + u + '" target="_blank" rel="noopener license">' + n + '</a>'), h);
+  const galCredit = (k) => {
+    const c = galCredits && typeof galCredits[k] === 'string' ? galCredits[k].trim() : '';
+    const src = galCredits && galCredits.sources && /^https:\/\/commons\.wikimedia\.org\//.test(galCredits.sources[k] || '') ? galCredits.sources[k] : '';
+    return (c ? licLinks(esc(c)) : 'Credits being added') + (c && src ? ' <a class="link" href="' + esc(src) + '" target="_blank" rel="noopener">(sources)</a>' : '');
+  };
+  const galCreditLine = () => '<p class="kicker">Photo credits</p>' + GAL.map(([k, stu, t, n]) =>
+    '<p><b>' + (stu ? 'Law Garden student project' : esc(t.replace(/ · .*$/, '')) + ' (' + n + ' files)') + ':</b> ' + galCredit(k) + '</p>').join('') +
+    (galCredits && typeof galCredits.note === 'string' && galCredits.note.trim() ? '<p class="gnote">' + licLinks(esc(galCredits.note.trim())) + '</p>' : '');
+  const gallery = () => '<section class="wrap" id="boards"><h2 class="kicker">Examples</h2><p class="big hd">Boards made with Studio FGA</p>' +
+    '<p class="lede">One real student project and four test projects we ran on famous buildings, to show what different inputs give you.</p><div class="ggrid">' +
+    GAL.map(([k, stu, t, n, extra, w, h, alt]) => '<button class="gcard" data-act="gopen" data-k="' + k + '" aria-haspopup="dialog">' +
+      '<span class="gimg"><img src="' + GBASE + k + '-thumb.webp" width="' + w + '" height="' + h + '" loading="lazy" decoding="async" alt="A1 board: ' + esc(alt) + '"></span>' +
+      '<span class="gtxt">' + galTag(stu) + '<b>' + esc(t) + '</b><span class="gmeta">From ' + n + ' files' + (extra ? ' · ' + esc(extra) : '') + '</span></span></button>').join('') + '</div>' +
+    '<div class="gcred" id="gcred">' + galCreditLine() + '</div></section>';
+  function bindGallery() {
+    if (galCredits || !document.getElementById('gcred')) return;
+    fetch(GBASE + 'credits.json', { cache: 'no-cache' }).then((r) => r.ok ? r.json() : {}).catch(() => ({})).then((j) => {
+      galCredits = j && typeof j === 'object' ? j : {};
+      const el = document.getElementById('gcred');
+      if (el) el.innerHTML = galCreditLine();
+    });
+  }
+  /* the lightbox is a native <dialog>: Esc closes it, focus stays inside and returns to the card afterwards */
+  function galOpen(k) {
+    const g = GAL.find((x) => x[0] === k);
+    if (!g || !window.HTMLDialogElement) return;
+    const [, stu, t, n, , w, h, alt] = g, back = document.activeElement, d = document.createElement('dialog');
+    d.className = 'glight'; d.setAttribute('aria-label', (stu ? 'Student project: ' : 'Test project: ') + t);
+    d.innerHTML = '<div class="glbar">' + galTag(stu) + '<b>' + esc(t) + '</b><span class="gmeta">From ' + n + ' files</span><span class="spacer"></span>' +
+      '<a class="link" href="' + GBASE + k + '-large.webp" target="_blank" rel="noopener">Full size ↗</a><button class="gx" aria-label="Close" autofocus>×</button></div>' +
+      '<div class="glimg"><img src="' + GBASE + k + '-large.webp" width="1600" height="' + Math.round(h * 1600 / w) + '" alt="A1 board: ' + esc(alt) + '"></div>' +
+      '<p class="glcred"><b>Photo credits:</b> ' + galCredit(k) + '</p>';
+    document.body.appendChild(d);
+    d.addEventListener('close', () => { d.remove(); if (back && back.focus) back.focus({ preventScroll: true }); });
+    d.addEventListener('click', (e) => {
+      if (e.target === d || e.target.classList.contains('glimg') || e.target.closest('.gx')) d.close();
+      else if (e.target.tagName === 'IMG') e.target.parentElement.classList.toggle('zoom'); /* tap the board to read it at full width */
+    });
+    d.showModal();
+  }
   /* a saved job is offered on the landing, never opened by itself (owner's live test, 28 Oct) */
   const newJobLink = () => '<button class="link" data-act="newJob">' + (S.newArm ? 'Click again: this clears your saved project from this browser' : 'Start a new project') + '</button>';
   const savedJobRow = () => !DEMO && S.job ? '<div class="row savedjob"><button class="chip lime" data-act="resume">Continue your project →</button>' + newJobLink() + '</div>' : '';
@@ -1244,7 +1299,7 @@
       '<section class="band"><div class="wrap bandin"><div><p class="big hd">See it before you pay.</p><p class="lede">Upload, answer a few questions and preview your board and deck for free. Pay only when you want the final files.</p></div>' + shiny('start', 'Start free', 'No login · preview free') + '</div></section>' +
       '<section class="wrap" id="get"><h2 class="kicker">What you get</h2><p class="big hd">Everything a jury expects, done for you</p><div class="deal deal2">' + sheets(8, '', 'h') +
       '<div class="dealtxt">' + getsList(null, F.visibleSlides(HP).length) + '</div></div></section>' +
-      deckFlip() +
+      deckFlip() + gallery() +
       '<section class="wrap" id="examples"><h2 class="kicker">Before and after</h2><p class="big hd">From your sheets to a jury board</p><p class="lede">Real pairs from the sample project.</p>' + didCards() + '</section>' +
       '<section class="wrap" id="pricing"><h2 class="kicker">Pricing</h2><p class="big hd">Pay once per project. No subscription.</p><div class="tiers">' +
       ['nice', 'great'].map((k) => '<div class="tier ltier' + (k === 'great' ? ' sel' : '') + '"><span class="kicker">' + TIERS[k][0] + (k === 'great' ? ' · the full treatment' : '') + '</span><span class="price">$' + TIERS[k][1] + '</span>' + aboutLocal(TIERS[k][1]) + '<p class="per">A1 board + jury deck</p><ul>' + TIERS[k][2].map((x) => '<li>' + x + '</li>').join('') + '</ul></div>').join('') +
@@ -1276,7 +1331,7 @@
     if (sc === 'making' && DEMO) runMaking();
     if (sc === 'result' && !P && !DEMO) fillResultArt();
     if (sc === 'upload') bindDrop();
-    if (sc === 'home') { bindHeroDrop(); bindFlip(); }
+    if (sc === 'home') { bindHeroDrop(); bindFlip(); bindGallery(); }
     if (sc === 'q') { const ci = document.getElementById('cardin'); if (ci) ci.focus(); }
   }
   function fillMinis(root) {
@@ -1497,6 +1552,7 @@
     sec: (el, e) => { e.preventDefault(); const away = S.screen !== 'home'; if (away) go('home'); const t = document.getElementById(el.dataset.id); if (t) t.scrollIntoView({ behavior: away ? 'auto' : 'smooth' }); },
     hpick: () => { if (!DEMO && S.job) { A.start(); return; } document.getElementById('hadd').click(); },
     flip: (el) => flipBy(el.dataset.v === 'prev' ? -1 : 1),
+    gopen: (el) => galOpen(el.dataset.k),
     toHero: () => { const d = document.getElementById('hdrop'); if (!d) return; d.scrollIntoView({ behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth', block: 'center' }); d.focus({ preventScroll: true }); },
     add: () => { asBrief = false; document.getElementById('add').click(); },
     addBrief: () => { asBrief = true; document.getElementById('add').click(); },
