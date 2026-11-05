@@ -1086,6 +1086,30 @@
       '<div class="arrowcol"><span class="atag">✦ AI Studio</span>' + GARROW + '</div>' +
       '<div class="after"><div class="sth" data-mini="board" data-m="h" data-w="480" data-fit="1"></div><span class="ptag lime">After · your A1 board</span></div></div>';
   }
+  /* The upload box sits in the hero, so a visitor starts by dropping their sheets, not by finding a button (owner,
+     5 Nov 2026, after MagicSlides). The chips answer "will my files work?" before anyone asks. */
+  const heroDrop = () => '<div class="hdrop" id="hdrop" data-act="hpick" role="button" tabindex="0" aria-label="Choose or drop your drawings to start a free preview">' +
+    '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 16V4M7 9l5-5 5 5M5 20h14"/></svg>' +
+    '<div class="hdt"><b>Drop your sheets here</b><span><u>or choose files</u> · free preview, no login</span></div>' +
+    '<input id="hadd" type="file" multiple accept="image/png,image/jpeg,image/webp,application/pdf,.pdf,.png,.jpg,.jpeg,.webp" hidden></div>' +
+    '<div class="row fmts ins"><span class="flab">You upload</span><span class="chip">PDF</span><span class="chip">JPG · PNG</span><span class="chip">Sketch photos</span><span class="chip">Model photos</span><span class="chip">Your brief</span></div>';
+  /* files dropped or chosen in the hero go straight onto the upload screen */
+  function heroFiles(list) {
+    if (!list || !list.length) return;
+    if (!DEMO && !API.ready) { location.href = location.pathname + '?demo=1#upload'; return; }
+    if (!DEMO && S.job) { toast('You have a saved project. Continue it, or start a new one first.'); return; }
+    go('upload'); asBrief = false; addFiles(list);
+  }
+  function bindHeroDrop() {
+    const d = document.getElementById('hdrop'), inp = document.getElementById('hadd');
+    if (!d || !inp) return;
+    ['dragenter', 'dragover'].forEach((t) => d.addEventListener(t, (e) => { e.preventDefault(); d.classList.add('hot'); }));
+    ['dragleave', 'drop'].forEach((t) => d.addEventListener(t, (e) => { e.preventDefault(); d.classList.remove('hot'); }));
+    d.addEventListener('drop', (e) => heroFiles(e.dataTransfer.files));
+    d.addEventListener('keydown', (e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); inp.click(); } });
+    inp.addEventListener('click', (e) => e.stopPropagation());
+    inp.addEventListener('change', (e) => { const f = [...e.target.files]; e.target.value = ''; heroFiles(f); });
+  }
   /* a saved job is offered on the landing, never opened by itself (owner's live test, 28 Oct) */
   const newJobLink = () => '<button class="link" data-act="newJob">' + (S.newArm ? 'Click again: this clears your saved project from this browser' : 'Start a new project') + '</button>';
   const savedJobRow = () => !DEMO && S.job ? '<div class="row savedjob"><button class="chip lime" data-act="resume">Continue your project →</button>' + newJobLink() + '</div>' : '';
@@ -1106,8 +1130,8 @@
       /* one H1 that names the product for search (owner, 29 Oct 2026): the small line plus the big headline, same look */
       '<h1 class="lh1"><span class="kicker">AI architecture presentation generator · for students and studios<span class="sr">: </span></span><span class="huge">Messy drawings. <span class="hl">Jury-ready board.</span></span></h1>' +
       '<p class="lede">Upload your plans, sections, sketches and model photos. Answer a few quick questions. AI Studio plans the story, writes the text and sets an A1 board and a matching jury deck that you can still edit.</p>' +
-      shiny('start', 'Start free', 'No login · preview free') + savedJobRow() +
-      '<div class="row fmts"><span class="chip">A1 board</span><span class="chip">16:9 jury deck</span><span class="chip">PDF · PowerPoint · InDesign</span></div></div>' +
+      heroDrop() + savedJobRow() +
+      '<div class="row fmts"><span class="flab">You get</span><span class="chip">A1 board</span><span class="chip">16:9 jury deck</span><span class="chip">PDF · PowerPoint · InDesign</span></div></div>' +
       heroArt() + '</section>' +
       '<section class="wrap opens"><p class="kicker">Opens in</p><div class="row"><span class="chip">PowerPoint</span><span class="chip">Keynote</span><span class="chip">Google Slides</span><span class="chip">Canva</span><span class="chip">InDesign</span></div>' +
       '<p class="status">Sample: a real student’s community centre for the cloth vendors of Law Garden, Ahmedabad, shown with the owner’s permission.</p></section>' +
@@ -1147,6 +1171,7 @@
     if (sc === 'making' && DEMO) runMaking();
     if (sc === 'result' && !P && !DEMO) fillResultArt();
     if (sc === 'upload') bindDrop();
+    if (sc === 'home') bindHeroDrop();
     if (sc === 'q') { const ci = document.getElementById('cardin'); if (ci) ci.focus(); }
   }
   function fillMinis(root) {
@@ -1365,6 +1390,7 @@
       S = freshS(); PV = null; P = null; ST = null; UP = []; upErr = ''; saveS(); go('upload');
     },
     sec: (el, e) => { e.preventDefault(); const away = S.screen !== 'home'; if (away) go('home'); const t = document.getElementById(el.dataset.id); if (t) t.scrollIntoView({ behavior: away ? 'auto' : 'smooth' }); },
+    hpick: () => { if (!DEMO && S.job) { A.start(); return; } document.getElementById('hadd').click(); },
     add: () => { asBrief = false; document.getElementById('add').click(); },
     addBrief: () => { asBrief = true; document.getElementById('add').click(); },
     toQ: () => {
