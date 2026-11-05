@@ -23,6 +23,9 @@ One large image fills the top half to two-thirds of the sheet. Below it, a row o
 
 **Fails when** the hero is weak. A mediocre render at full size is louder than a good one at half size. If you are not sure about your hero, try another layout.
 
+![The Law Garden sample A1 board: a large entrance view at the top beside the title and concept text, rows of sketches and model photos, then the site plan, ground floor plan and sections](/studio/sample/thumbs/board.jpg)
+Caption: Example: the Law Garden sample board, made by Studio FGA from six student sheets. It is a variation on hero and strip: the hero view across the top, then rows of equal boxes below.
+
 ## 2. The left spine
 
 A narrow column down the left side, one-quarter to one-third of the width, holds the title, a short statement, a site plan and a few diagrams. The rest of the sheet holds the main drawings at a large size.

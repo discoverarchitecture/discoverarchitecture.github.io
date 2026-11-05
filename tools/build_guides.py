@@ -11,8 +11,19 @@ then a line `---`, then the article:
     ### A smaller heading   -> <h3>
     - item / 1. item       -> lists
     **bold**, *italic*, [text](/studio/) and [text](guide:other-slug) for a link to another guide
+    ![alt text](/studio/sample/thumbs/board.jpg)   -> a picture; put two or three such lines in one block to set them
+    Caption: what the picture honestly is             side by side, and end the block with a `Caption:` line
     ## FAQ                 -> the last section: each `### question` and the paragraph under it becomes a visible
                               question and answer, and FAQPage data for search engines
+
+Pictures may only come from our own files (IMAGES_OK below): the Law Garden sample, which the student allowed us to
+use, the before/after picture and the preview screen. Never site/studio/board.webp (a Salk Institute precedent board
+with other people's photos) and never anything from studio/references/. Width and height are read from the file.
+
+Every guide gets the same calls to action (owner, 5 Nov 2026: "ensure the button to get them to use our product is
+prominent"): a card under the intro, a closing box, and a slim bar at the bottom of the screen (guides.js) that shows
+once the reader has scrolled past the card. Each link carries ?ref=guides-top / guides-end / guides-bar (and the
+in-text links ?ref=guides-text) so GoatCounter can tell them apart.
 
 The pages share the Studio look (../app.css, the same tokens as the legal pages from tools/build_studio.py) plus
 guides.css for the article parts. Rerun this after app.css or guides.css changes so the ?v= stamps follow them.
@@ -32,7 +43,14 @@ AUTHOR = {"@type": "Person", "name": "Akshat Pagaria", "jobTitle": "Architect", 
 PUBLISHER = {"@type": "Organization", "name": "Find Great Architecture", "url": "https://findgreatarchitecture.com/",
              "logo": {"@type": "ImageObject", "url": "https://findgreatarchitecture.com/icon-512.png"}}
 CTA = "Studio FGA turns your drawings into a jury-ready A1 board and a 10–15 slide deck. Free preview first."
-CTA_HREF = "/studio/?ref=guides"
+CTA_PIC = ('<img class="gcta-pic" src="/studio/og.jpg?v=2" width="1200" height="630" loading="lazy" decoding="async" '
+           'alt="Before and after: a student\'s six rough drawing sheets, an arrow, and the finished A1 board made from them">')
+# The landing's sparkle (site/studio/app.js SPARK), so the button reads as the same "Start free" button.
+SPARK = ('<svg class="spark" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2l2.2 6.3L20.5 10.5l-6.3 2.2L12 19l-2.2-6.3L3.5 '
+         '10.5l6.3-2.2z"/><path d="M19 15l.9 2.1L22 18l-2.1.9L19 21l-.9-2.1L16 18l2.1-.9z"/></svg>')
+SITE_DIR = os.path.join(ROOT, "site")
+# Pictures a guide may show: only our own (see the note at the top).
+IMAGES_OK = ("/studio/sample/", "/studio/og.jpg", "/studio/preview-shot.webp")
 # The same strings as the legal pages, so the whole of /studio/ reads as one site.
 FONTS = ("https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=DM+Sans:opsz,wght@9..40,400;"
          "9..40,600;9..40,700&family=JetBrains+Mono:wght@500;600&display=swap")
@@ -61,6 +79,8 @@ def inline(text, slugs, up):
             if slug not in slugs:
                 raise SystemExit(f"unknown guide in link: {href}")
             href = f"{up}{slug}/"
+        elif href == "/studio/":
+            href = "/studio/?ref=guides-text"
         return f'<a href="{href}">{label}</a>'
     return re.sub(r"\[([^\]]+)\]\(([^)\s]+)\)", link, s)
 
@@ -71,7 +91,13 @@ def blocks(md):
     for chunk in re.split(r"\n\s*\n", md.strip()):
         lines = [l.rstrip() for l in chunk.strip().split("\n")]
         first = lines[0]
-        if first.startswith("### "):
+        if IMG.match(first):
+            cap = lines[-1][len("Caption:"):].strip() if lines[-1].startswith("Caption:") else ""
+            pics = lines[:-1] if cap else lines
+            if not cap or not 1 <= len(pics) <= 3 or not all(IMG.match(l) for l in pics):
+                raise SystemExit(f"a picture block is one to three ![alt](src) lines, then a Caption: line: {chunk[:80]}")
+            out.append(("fig", {"pics": [IMG.match(l).groups() for l in pics], "cap": cap}))
+        elif first.startswith("### "):
             out.append(("h3", first[4:].strip()))
             rest = "\n".join(lines[1:]).strip()
             if rest:
@@ -88,6 +114,55 @@ def blocks(md):
         else:
             out.append(("p", " ".join(l.strip() for l in lines)))
     return out
+
+
+IMG = re.compile(r"^!\[([^\]]+)\]\((/studio/[^)\s]+)\)$")
+
+
+def image_size(src):
+    """(width, height) of one of our pictures, read from the file's header (JPEG, PNG or WebP), so no library is needed."""
+    if not src.startswith(IMAGES_OK) or ".." in src:
+        raise SystemExit(f"picture not allowed in a guide (only our own files, see IMAGES_OK): {src}")
+    path = os.path.join(SITE_DIR, src.split("?")[0].lstrip("/"))
+    if not os.path.exists(path):
+        raise SystemExit(f"picture not found: {src}")
+    b = open(path, "rb").read()
+    if b[:8] == b"\x89PNG\r\n\x1a\n":
+        return int.from_bytes(b[16:20], "big"), int.from_bytes(b[20:24], "big")
+    if b[:4] == b"RIFF" and b[8:12] == b"WEBP":
+        kind = b[12:16]
+        if kind == b"VP8 ":
+            return int.from_bytes(b[26:28], "little") & 0x3FFF, int.from_bytes(b[28:30], "little") & 0x3FFF
+        if kind == b"VP8L":
+            n = int.from_bytes(b[21:25], "little")
+            return (n & 0x3FFF) + 1, ((n >> 14) & 0x3FFF) + 1
+        if kind == b"VP8X":
+            return int.from_bytes(b[24:27], "little") + 1, int.from_bytes(b[27:30], "little") + 1
+    if b[:2] == b"\xff\xd8":
+        i = 2
+        while i < len(b):
+            while b[i] != 0xFF:
+                i += 1
+            while b[i] == 0xFF:
+                i += 1
+            marker, size = b[i], int.from_bytes(b[i + 1:i + 3], "big")
+            if 0xC0 <= marker <= 0xCF and marker not in (0xC4, 0xC8, 0xCC):
+                return int.from_bytes(b[i + 6:i + 8], "big"), int.from_bytes(b[i + 4:i + 6], "big")
+            i += 1 + size
+    raise SystemExit(f"cannot read the size of {src}")
+
+
+def figure(fig, slugs, up):
+    """One to three pictures side by side, each column as wide as its picture's shape so they line up at one height."""
+    pics, cols = [], []
+    for alt, src in fig["pics"]:
+        w, h = image_size(src)
+        cols.append(f"minmax(0,{w / h:.3f}fr)")
+        pics.append(f'<img src="{esc(src)}" width="{w}" height="{h}" loading="lazy" decoding="async" alt="{esc(alt)}">')
+    w, h = image_size(fig["pics"][0][1])
+    tall = " tall" if len(pics) == 1 and h > w else ""
+    return (f'<figure class="gfig{tall}"><div class="gfig-pics" style="--cols:{" ".join(cols)}">{"".join(pics)}</div>'
+            f'<figcaption>{inline(fig["cap"], slugs, up)}</figcaption></figure>')
 
 
 def items(lines, marker):
@@ -107,6 +182,8 @@ def render(bl, slugs, up):
             h.append(f"<{kind}>{inline(val, slugs, up)}</{kind}>")
         elif kind == "p":
             h.append(f"<p>{inline(val, slugs, up)}</p>")
+        elif kind == "fig":
+            h.append(figure(val, slugs, up))
         else:
             h.append(f"<{kind}>" + "".join(f"<li>{inline(i, slugs, up)}</li>" for i in val) + f"</{kind}>")
     return "\n".join(h)
@@ -147,7 +224,8 @@ def load():
             elif kind == "p":
                 faq[-1]["a"].append(val)
         g["faq"] = faq
-        g["words"] = len(re.sub(r"<[^>]+>", " ", body.replace("## FAQ", "")).split())
+        text = "\n".join(l for l in body.split("\n") if not IMG.match(l) and not l.startswith("Caption:"))
+        g["words"] = len(re.sub(r"<[^>]+>", " ", text.replace("## FAQ", "")).split())
         if name[:-3] != g["slug"]:
             raise SystemExit(f"{name}: slug {g['slug']} does not match the file name")
         guides.append(g)
@@ -185,17 +263,41 @@ def head(title, desc, url, up, og_type, ld, css):
 """ + "".join(f'<script type="application/ld+json">{json.dumps(x, ensure_ascii=False)}</script>\n' for x in ld) + "</head>\n"
 
 
-def foot(up):
+def cta_button(ref, page):
+    """The landing's shiny lime button. ?ref= tells GoatCounter where the visit came from; the click event says which page."""
+    return (f'<a class="btn shiny" href="/studio/?ref={ref}" data-goatcounter-click="studio/guides/cta/{ref}/{page}" '
+            f'data-goatcounter-title="Studio · guides · {ref} · {page}">{SPARK}<span class="cta"><b>Try Studio FGA free</b>'
+            f'<small>Free preview · no login</small></span><span class="arrow" aria-hidden="true">→</span></a>')
+
+
+def cta_card(where, page):
+    """The card under the intro (where="top") and the closing box (where="end"): the same size, picture and button."""
+    head = "Messy drawings → jury-ready board" if where == "top" else "Jury coming up? Get your A1 board and deck."
+    return (f'<aside class="gcta gcta-{where}" aria-label="Studio FGA"><div class="gcta-pic-wrap">{CTA_PIC}</div>'
+            f'<div class="gcta-body"><p class="kicker">Studio FGA</p><p class="gcta-hd">{esc(head)}</p><p class="gcta-sub">{esc(CTA)}</p></div>'
+            f'<div class="gcta-go">{cta_button("guides-" + where, page)}</div></aside>\n')
+
+
+def cta_bar(page, js):
+    """The slim bar at the bottom of the screen; guides.js shows it after the top card and remembers a close for the visit."""
+    return (f'<div class="gbar" id="gbar" hidden><a class="gbar-go" href="/studio/?ref=guides-bar" '
+            f'data-goatcounter-click="studio/guides/cta/guides-bar/{page}" data-goatcounter-title="Studio · guides · guides-bar · {page}">'
+            f'<span class="gbar-t">Jury coming up? <b>Get your A1 board + deck →</b></span><span class="gbar-btn">Try free</span></a>'
+            f'<button class="gbar-x" type="button" aria-label="Close this bar">×</button></div>\n'
+            f'<script src="{js}?v=0" defer></script>\n')
+
+
+def foot(up, bar=""):
     links = (f'<a class="link" href="{up}guides/">Guides</a> · <a class="link" href="{up}terms/">Terms</a> · '
              f'<a class="link" href="{up}privacy/">Privacy</a> · <a class="link" href="{up}refund/">Refund policy</a>')
     return (f'<footer class="lfoot wrap"><a class="logo" href="{up}"><i aria-hidden="true">✦</i>Studio FGA</a><p>{FOOTLINE}</p>'
             f'<p class="row">{links}</p>\n<p>Part of <a class="link" href="/">Find Great Architecture</a> · '
-            f'findgreatarchitecture.com/studio · @findgreatarchitecture</p></footer></main>\n</body>\n</html>\n')
+            f'findgreatarchitecture.com/studio · @findgreatarchitecture</p></footer></main>\n{bar}</body>\n</html>\n')
 
 
 def topbar(up):
     return (f'<header class="top lnav"><a class="logo" href="{up}"><i aria-hidden="true">✦</i>Studio FGA</a>'
-            f'<span class="spacer"></span><a class="btn small on" href="{up}#upload">Start free</a></header>\n')
+            f'<span class="spacer"></span><a class="btn small on" href="{up}?ref=guides-nav#upload">Start free</a></header>\n')
 
 
 def date_text(iso):
@@ -232,10 +334,11 @@ def guide_page(g, by_slug):
             f'<p class="kicker">Guide · {esc(g["kicker"])}</p><h1 class="big">{esc(g["title"])}</h1>'
             f'<p class="lede">{inline(g["lede"], slugs, "../")}</p>'
             f'<p class="byline">By Akshat Pagaria, architect · <time datetime="{g["published"]}">{date_text(g["published"])}</time></p>\n'
+            f'{cta_card("top", g["slug"])}'
             f'{render(g["body"], slugs, "../")}\n{faq}'
-            f'<aside class="cta-box"><p>{esc(CTA)}</p><a class="btn primary" href="{CTA_HREF}">Try Studio FGA free →</a></aside>\n'
+            f'{cta_card("end", g["slug"])}'
             f'<nav class="related" aria-labelledby="rel"><h2 id="rel">Related guides</h2><ul>{related}</ul></nav></article>\n' +
-            foot(up))
+            foot(up, cta_bar(g["slug"], "../guides.js")))
 
 
 def index_page(guides):
@@ -254,11 +357,12 @@ def index_page(guides):
             f'<p class="kicker">Guides</p><h1 class="big">Guides for architecture students</h1>'
             f'<p class="lede">Plain, practical advice on presentation boards, plans and sections, jury presentations and decks, '
             f'written by an architect. Each one works whether or not you ever use Studio FGA.</p>\n'
+            f'{cta_card("top", "index")}'
             f'<ul class="glist">{cards}</ul>\n'
             f'<p>For the whole process from idea to plot, with a real student board before and after, read '
             f'<a href="/guides/a1-presentation-board/">How to make an A1 architecture presentation board</a> on Find Great Architecture.</p>\n'
-            f'<aside class="cta-box"><p>{esc(CTA)}</p><a class="btn primary" href="{CTA_HREF}">Try Studio FGA free →</a></aside></div>\n' +
-            foot(up))
+            f'{cta_card("end", "index")}</div>\n' +
+            foot(up, cta_bar("index", "guides.js")))
 
 
 def stamp(paths):
