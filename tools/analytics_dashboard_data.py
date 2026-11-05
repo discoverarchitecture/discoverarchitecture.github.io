@@ -56,11 +56,11 @@ def main():
     for r in sec['sizes']['stats']:
         add('Device', DEVICES.get(r['id'], r['id']), r['count'])
     for r in sec['systems']['stats']:
-        add('System', r.get('name') or r['id'], r['count'])
+        add('System', r.get('name') or r.get('id') or 'Unknown', r['count'])
     for r in sec['browsers']['stats']:
-        add('Browser', r.get('name') or r['id'], r['count'])
+        add('Browser', r.get('name') or r.get('id') or 'Unknown', r['count'])
     for r in sec['locations']['stats']:
-        add('Country', r.get('name') or r['id'], r['count'])
+        add('Country', r.get('name') or r.get('id') or 'Unknown', r['count'])
     pages = []
     for h in sec['pages'].get('hits') or []:
         if h.get('event'):
