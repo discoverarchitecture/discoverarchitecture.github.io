@@ -21,9 +21,9 @@
 })();
 
 // Studio FGA corner card (owner, 5 Nov 2026): a small card bottom-right on computers only, never on phones, never on
-// /studio and never inside the wall's popup frame. It opens once per visit after half a page or 20 seconds; closing it
-// (or following it) keeps it away for 30 days. On building pages it steps aside while the "Jury coming up?" banner is
-// on screen. The picture is the Studio landing page's before → after art (images/studio-card/), loaded only when it opens.
+// /studio and never inside the wall's popup frame. It opens on every page load (refresh included) after half a page or
+// 20 seconds; closing it keeps it away for the rest of that visit (owner, 5 Nov 2026). On building pages it steps aside
+// while the "Jury coming up?" banner is on screen. The picture is the Studio landing page's before → after art (images/studio-card/), loaded only when it opens.
 (function () {
   var CARD = {
     eyebrow: 'Studio FGA',
@@ -34,13 +34,14 @@
     link: 'studio/?utm_source=site&utm_campaign=corner_card',   // from the site root
     alt: 'Before: six rough sketches and drawings. After: one finished A1 jury board.'
   };
-  var KEY = 'fga-studio-card', DAYS = 30, WAIT = 20000;
+  var KEY = 'fga-studio-card', WAIT = 20000;
   var me = document.currentScript, base = me ? me.src.replace(/theme\.js.*$/, '') : '/';
   if (window.top !== window || /\/studio(\/|$)/.test(location.pathname) || !window.matchMedia) return;
   var wide = matchMedia('(min-width: 821px) and (hover: hover) and (pointer: fine)');
   function get(s, k) { try { return s.getItem(k); } catch (e) { return null; } }
   function put(s, k, v) { try { s.setItem(k, v); } catch (e) { /* private mode */ } }
-  function away() { var t = +get(localStorage, KEY); return (t && Date.now() - t < DAYS * 864e5) || get(sessionStorage, KEY); }
+  function away() { return get(sessionStorage, KEY) === 'closed'; }
+  try { localStorage.removeItem(KEY); } catch (e) { /* the old 30-day setting, no longer used */ }
   if (away()) return;
   var card = null, shown = false, timer = null;
   var MONO = 'var(--mono, "Barlow Condensed", system-ui, sans-serif)';
@@ -77,24 +78,22 @@
     var go = el('a', 'sc-go', CARD.link_text); go.href = base + CARD.link;
     body.append(el('span', 'sc-eye', CARD.eyebrow), h, el('p', '', CARD.text), go, el('p', 'sc-fine', CARD.fine));
     card.append(x, art, body);
-    x.addEventListener('click', function () { close(true); });
-    go.addEventListener('click', function () { put(localStorage, KEY, String(Date.now())); });
-    document.addEventListener('keydown', function (e) { if (e.key === 'Escape' && card) close(true); });
+    x.addEventListener('click', close);
+    document.addEventListener('keydown', function (e) { if (e.key === 'Escape' && card) close(); });
     document.body.appendChild(card);
     var banner = document.querySelector('.studio-banner'), onBanner = false;   // building pages: never the same offer twice on one screen
     function fit() { if (card) card.hidden = onBanner || !wide.matches; }
     if (banner && window.IntersectionObserver) new IntersectionObserver(function (es) { onBanner = es[0].isIntersecting; fit(); }).observe(banner);
     if (wide.addEventListener) wide.addEventListener('change', fit);
   }
-  function close(forLong) {
-    if (forLong) put(localStorage, KEY, String(Date.now()));
+  function close() {
+    put(sessionStorage, KEY, 'closed');   // gone for this visit
     if (card) { card.remove(); card = null; }
     stop();
   }
   function open() {
     if (shown || away() || !wide.matches) return;
     shown = true;
-    put(sessionStorage, KEY, '1');   // once per visit
     stop();
     build();
   }
