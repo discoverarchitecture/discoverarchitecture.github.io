@@ -1253,7 +1253,7 @@
   };
 
   /* the legal pages are real pages (terms/, privacy/, refund/), made from studio/legal/*.md */
-  const LEGALLINKS = '<a class="link" href="terms/">Terms</a> · <a class="link" href="privacy/">Privacy</a> · <a class="link" href="refund/">Refund policy</a> · <a class="link" href="../pricing/">Pricing</a>';
+  const LEGALLINKS = '<a class="link" href="terms/">Terms</a> · <a class="link" href="privacy/">Privacy</a> · <a class="link" href="refund/">Refund policy</a> · <a class="link" href="../pricing/">Pricing</a> · <a class="link" href="guides/">Guides</a>';
   const FOOTLINE = 'Studio FGA is run by Akshat Pagaria · 302, Shantinath Residency, Beawar, Rajasthan, India · hello@findgreatarchitecture.com · Payments handled by Dodo Payments, our merchant of record';
   const lfoot = () => '<footer class="lfoot wrap"><a class="logo" href="#home" data-act="home"><i aria-hidden="true">✦</i>Studio FGA</a><p>' + FOOTLINE + '</p><p class="row">' + LEGALLINKS + '</p>' +
     '<p>Part of <a class="link" href="/">Find Great Architecture</a> · findgreatarchitecture.com/studio · @findgreatarchitecture</p>' + (DEMO ? '' : '<a class="link" href="?demo=1#home">Try the demo with a sample project</a>') + '</footer>';
