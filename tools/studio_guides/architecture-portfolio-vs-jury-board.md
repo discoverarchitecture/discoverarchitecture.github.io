@@ -27,6 +27,9 @@ So a board can rely on you and on the brief. A portfolio page has to stand on it
 
 The board is a complete account of one project at a moment in time. It is allowed to be dense, as long as it reads in order.
 
+![The Law Garden sample A1 board: a large entrance view at the top beside the title and concept text, rows of sketches and model photos, then the site plan, ground floor plan and sections](/studio/sample/thumbs/board.jpg)
+Caption: Example: the Law Garden sample board, made by Studio FGA from six student sheets. Dense, but it reads in order from the hero view down to the sections.
+
 ## What goes in the portfolio
 
 - **Your best projects, not all of them.** Three to five strong projects usually show more than eight uneven ones.
@@ -34,6 +37,9 @@ The board is a complete account of one project at a moment in time. It is allowe
 - **One or two lines of context**: what the brief was, where, what year of study, how long. A stranger needs this; a juror didn't.
 - **Your role**, clearly, on any group work. Say what you did yourself.
 - **Range.** Sketches, physical models, technical drawings and built or competition work, if you have them, so readers see more than one way of working.
+
+![The student's original process sheet for the Law Garden project: charcoal exploration sketches, fabric diagrams and photos of white study models](/studio/sample/raw/sheet-3.jpg)
+Caption: The Law Garden student's own process sheet, one of the six they started from: sketches and model photos. Work like this often earns more room in a portfolio than on a jury board.
 
 ## What changes when a board becomes portfolio pages
 

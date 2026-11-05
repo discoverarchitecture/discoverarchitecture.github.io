@@ -57,6 +57,9 @@ Two notes before the list. Products in this space change quickly, so check each 
 
 **Studio FGA** is the tool made by the people who run this site, so read this paragraph with that in mind. It is made for architecture students specifically: you upload your plans, sections, sketches, renders and model photos, answer a few questions, and get a preview of an A1 presentation board and a 10–15 slide jury deck built from your drawings. The preview is free; if you want the files, you pay once, $11 for Polish or $16 for Transform, and download editable files (PDF, image and PowerPoint, with InDesign where offered). What it doesn't do: design your building, or know facts you didn't give it. Where you don't upload a plan or section it draws a schematic one whose dimensions are estimates, and scale bars are estimated if you give no dimensions, so you need to check every drawing and label before you present. More detail, and the free preview, is [on its page](/studio/).
 
+![Studio FGA's free preview screen: an A1 board laid out with the student's drawings, striped boxes marking where new AI images will go, and the order card with the price](/studio/preview-shot.webp)
+Caption: Studio FGA's free preview screen, from the Law Garden sample: the student's drawings placed on an A1 board, striped boxes where new AI images would go, and the order card. As said above, Studio FGA is our tool.
+
 ## Using any of them without getting into trouble
 
 - **Know your school's rules** and follow them, including any requirement to declare AI use.

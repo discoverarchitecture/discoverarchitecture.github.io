@@ -37,6 +37,10 @@ Set up margins and a grid, place the hero, then place the rest in your reading o
 
 If layout is the part that eats your time, [Studio FGA](/studio/) can draft an A1 board and a jury deck from your drawings, which you then check and adjust; the checking still needs your eyes and a little time.
 
+![Before: the student's original entrance view, a grey line drawing of a fabric roof on masts over a curved building](/studio/sample/raw/sheet-4.jpg)
+![After: the finished Law Garden A1 board, with a rendered entrance view at the top and rows of drawings below](/studio/sample/thumbs/board.jpg)
+Caption: Before and after: the entrance view, one of the six sheets the Law Garden student started with (left), and the A1 board Studio FGA drafted from all six (right). Like any draft, it still needs checking against the originals.
+
 ## Day 1, evening: print at A3 and stop
 
 Print each board at A3, which is exactly half of A1 in each direction. Pin the prints on a wall, step back two metres and look. What do you see first? Does the order make sense? Can you read the captions? Is there a drawing that doesn't earn its place?
