@@ -8,6 +8,9 @@ Thousands of quick auto-made pages are what caused it, so each new page here is 
 than what ranks today. Bing, ChatGPT search and Copilot pick each page up within minutes (IndexNow); Google is expected
 to take 6–8 weeks to re-judge the site.
 
+A daily routine (`trig_0117MYFMiYgHRSFUvyyCqmas`, 13:23 UTC) wakes the SEO chat to nudge the owner and, once the owner says
+yes, start the next batch. Delete it when the queue is done or the owner says stop.
+
 How each page is made (one batch = one page, or a small set of closely related ones):
 1. Ask the owner before starting the batch.
 2. Haiku: gather candidates from the site's own data (books seed, films seed, buildings) and re-check links.
