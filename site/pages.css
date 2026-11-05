@@ -144,6 +144,14 @@ img { max-width: 100%; display: block; }
 .about .src a { color: inherit; }
 @media (hover: hover) { .about .src a:hover { color: var(--red); } }
 
+/* The Studio FGA banner at the end of every building page (tools/build_pages.py, STUDIO_BANNER). Calm: no motion, not sticky. */
+.studio-banner .sb-box { display: grid; gap: 10px; justify-items: start; max-width: 68ch; padding: 18px 20px; background: var(--paper); border: 1px solid var(--hair); border-radius: var(--r-panel); }
+.studio-banner h2 { margin: 0; padding: 0; border: 0; font: 600 20px/1.2 var(--sans); letter-spacing: 0; text-transform: none; color: var(--ink); }
+.studio-banner p { margin: 0; font: 400 16px/1.5 var(--sans); color: var(--ink); }
+.studio-banner .sb-go { display: inline-flex; align-items: center; min-height: 44px; padding: 0 16px; border: 1px solid var(--edge); border-radius: var(--r); background: var(--surface); color: var(--ink); font: 600 15px var(--sans); text-decoration: none; }
+.studio-banner .sb-go:focus-visible { outline: 2px solid var(--red); outline-offset: 2px; }
+@media (hover: hover) { .studio-banner .sb-go:hover { border-color: var(--red); color: var(--red); } }
+
 /* ---------- the building page as the opened building on the wall (v27 · 02 "One with the wall", approved 20 Oct 2026) ----------
    The portrait byline and the country map, the key features, three small threads (today's game, the globe, an idea),
    photo rows of more buildings, "Find more with" as dotted rows, the details, Go deeper (six, then "See all"), and a
