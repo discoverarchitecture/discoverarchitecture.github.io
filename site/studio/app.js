@@ -392,6 +392,45 @@
   }
   const modelOf = (m) => m === 'h' ? HP : m === 'v' ? Q() : P;
   const didCards = () => '<div class="didgrid">' + DID.map(([b, a, t, d]) => '<figure class="pair"><div class="pimgs"><div><img src="' + HP.base + b + '" alt="Before: ' + esc(t) + '" loading="lazy"><em>Before</em></div><span class="parrow" aria-hidden="true">→</span><div><img src="' + HP.base + a + '" alt="After: ' + esc(t) + '" loading="lazy"><em class="after">After</em></div></div><figcaption><b>' + t + '</b><span>' + d + '</span></figcaption></figure>').join('') + '</div>';
+  /* "about ₹950" beside a dollar price, in the visitor's own currency (owner, 5 Nov 2026). The country comes from
+     the time zone first (many Indian students run en-US browsers), then the browser language. Rates: config.js. */
+  const FX = (() => {
+    try {
+      const rates = (window.STUDIO_FX || {}).perUSD || {};
+      const TZC = { 'Asia/Kolkata': 'IN', 'Asia/Calcutta': 'IN', 'Europe/London': 'GB', 'Europe/Dublin': 'IE', 'Europe/Zurich': 'CH',
+        'Europe/Stockholm': 'SE', 'Europe/Oslo': 'NO', 'Europe/Copenhagen': 'DK', 'Europe/Warsaw': 'PL', 'Europe/Prague': 'CZ',
+        'Europe/Budapest': 'HU', 'Europe/Bucharest': 'RO', 'Europe/Istanbul': 'TR', 'Asia/Dubai': 'AE', 'Asia/Riyadh': 'SA',
+        'Asia/Qatar': 'QA', 'Asia/Kuwait': 'KW', 'Asia/Bahrain': 'BH', 'Asia/Muscat': 'OM', 'Asia/Amman': 'JO', 'Africa/Cairo': 'EG',
+        'Africa/Casablanca': 'MA', 'Asia/Karachi': 'PK', 'Asia/Dhaka': 'BD', 'Asia/Kathmandu': 'NP', 'Asia/Katmandu': 'NP',
+        'Asia/Colombo': 'LK', 'Asia/Singapore': 'SG', 'Asia/Kuala_Lumpur': 'MY', 'Asia/Jakarta': 'ID', 'Asia/Bangkok': 'TH',
+        'Asia/Manila': 'PH', 'Asia/Ho_Chi_Minh': 'VN', 'Asia/Shanghai': 'CN', 'Asia/Hong_Kong': 'HK', 'Asia/Taipei': 'TW',
+        'Asia/Tokyo': 'JP', 'Asia/Seoul': 'KR', 'Africa/Lagos': 'NG', 'Africa/Nairobi': 'KE', 'Africa/Johannesburg': 'ZA',
+        'America/Mexico_City': 'MX', 'America/Sao_Paulo': 'BR', 'America/Bogota': 'CO', 'America/Santiago': 'CL',
+        'America/Argentina/Buenos_Aires': 'AR', 'America/Lima': 'PE', 'Pacific/Auckland': 'NZ' };
+      const EURO = 'AT BE CY DE EE ES FI FR GR HR IE IT LT LU LV MT NL PT SI SK'.split(' ');
+      const CUR = { IN: 'INR', GB: 'GBP', CH: 'CHF', SE: 'SEK', NO: 'NOK', DK: 'DKK', PL: 'PLN', CZ: 'CZK', HU: 'HUF', RO: 'RON',
+        TR: 'TRY', AU: 'AUD', NZ: 'NZD', CA: 'CAD', MX: 'MXN', BR: 'BRL', CO: 'COP', CL: 'CLP', AR: 'ARS', PE: 'PEN', SG: 'SGD',
+        MY: 'MYR', ID: 'IDR', TH: 'THB', PH: 'PHP', VN: 'VND', CN: 'CNY', HK: 'HKD', TW: 'TWD', JP: 'JPY', KR: 'KRW', AE: 'AED',
+        SA: 'SAR', QA: 'QAR', KW: 'KWD', BH: 'BHD', OM: 'OMR', JO: 'JOD', EG: 'EGP', MA: 'MAD', PK: 'PKR', BD: 'BDT', NP: 'NPR',
+        LK: 'LKR', NG: 'NGN', KE: 'KES', ZA: 'ZAR' };
+      const tz = Intl.DateTimeFormat().resolvedOptions().timeZone || '';
+      const langs = navigator.languages && navigator.languages.length ? navigator.languages : [navigator.language || ''];
+      const fromLang = langs.map((l) => (/^[a-z]{2,3}[-_]([A-Z]{2})\b/.exec(l) || [])[1]).find(Boolean);
+      let cc = TZC[tz] || (/^Australia\//.test(tz) ? 'AU' : '');
+      if (!cc && /^Europe\//.test(tz) && fromLang && EURO.includes(fromLang)) cc = fromLang;
+      if (!cc && /^Europe\//.test(tz) && !fromLang) cc = 'DE';   // a euro-zone time zone with no region in the language
+      if (!cc && !/^America\/(New_York|Chicago|Denver|Los_Angeles|Phoenix|Anchorage)|^Pacific\/Honolulu/.test(tz)) cc = fromLang || '';
+      if (cc === 'CA' && !/^America\//.test(tz)) cc = '';
+      const cur = EURO.includes(cc) ? 'EUR' : CUR[cc];
+      const rate = cur && rates[cur];
+      if (!rate) return null;
+      const loc = 'en-' + (cur === 'EUR' && !EURO.includes(cc) ? 'IE' : cc);   // English page, local symbol, Latin digits
+      const nf = new Intl.NumberFormat(loc, { style: 'currency', currency: cur, maximumFractionDigits: 0, minimumFractionDigits: 0 });
+      const friendly = (v) => { const step = v < 100 ? 1 : v < 500 ? 10 : v < 5000 ? 50 : v < 50000 ? 100 : 1000; return Math.max(step, Math.round(v / step) * step); };
+      return { cur, about: (usd) => nf.format(friendly(usd * rate)) };
+    } catch (e) { return null; }
+  })();
+  const aboutLocal = (usd) => FX ? '<span class="fx">about ' + FX.about(usd) + '</span>' : '';
   const TIERS = { nice: ['Polish', 11, ['Your drawings cleaned up and lined up', 'Up to 10 new images', 'Captions, labels, scale bars and north', 'Board + deck: PDF, PowerPoint, InDesign']],
     great: ['Transform', 16, ['Everything in the Polish option ($11)', 'Up to 15 new images', 'Hero view, plans and sections redrawn', 'New diagrams in the same family']] };
 
@@ -783,7 +822,7 @@
      before/after instead of a blurred board; a clear "Write your email" label; the Pay button floats at the bottom. */
   V.price = () => {
     const t = S.tier || 'great';
-    const card = (id, name, price, items) => '<button class="tier' + (t === id ? ' sel' : '') + '" data-act="tier" data-t="' + id + '" aria-pressed="' + (t === id) + '"><span class="kicker">' + name + '</span><span class="price">$' + price + '</span><ul>' + items.map((x) => '<li>' + x + '</li>').join('') + '</ul></button>';
+    const card = (id, name, price, items) => '<button class="tier' + (t === id ? ' sel' : '') + '" data-act="tier" data-t="' + id + '" aria-pressed="' + (t === id) + '"><span class="kicker">' + name + '</span><span class="price">$' + price + '</span>' + aboutLocal(price) + '<ul>' + items.map((x) => '<li>' + x + '</li>').join('') + '</ul></button>';
     const note = S.payNote === 'cancelled' ? '<div class="card"><p class="kicker">Payment cancelled</p><p class="lede">Nothing was charged. Pick your finish and try again when you are ready.</p></div>'
       : S.payNote === 'unconfirmed' ? '<div class="card"><p class="kicker">Payment not confirmed yet</p><p class="lede">If you paid, it can take a minute: we email your receipt as soon as it is confirmed. If you cancelled, nothing was charged.</p><div class="row"><button class="btn small" data-act="recheck">Check again</button></div></div>' : '';
     return '<main class="wrap narrow paywrap">' + backbar([['← Back to your preview', 'plan'], ['Change your answers', 'q'], ['Add or remove drawings', 'upload']]) + note + '<p class="kicker">Step 4</p><h1 class="big">Pick your finish</h1><p class="lede">Both give you the A1 board and the jury deck, as PDF and PowerPoint, with an editor to fix anything. Pay once. No subscription.</p>' +
@@ -1110,6 +1149,66 @@
     inp.addEventListener('click', (e) => e.stopPropagation());
     inp.addEventListener('change', (e) => { const f = [...e.target.files]; e.target.value = ''; heroFiles(f); });
   }
+  /* "Not one slide. The whole deck." (owner, 5 Nov 2026, after MagicSlides): every slide of the sample deck as cards
+     to swipe or arrow through. Each slide draws only when it nears the screen. */
+  const deckFlip = () => {
+    const sl = F.visibleSlides(HP);
+    return '<section class="wrap" id="deck"><h2 class="kicker">The whole deck</h2><p class="big hd">Not one slide. The whole deck.</p>' +
+      '<p class="lede">All ' + sl.length + ' slides of the Law Garden sample, made from the same six files as the board. Flip through.</p>' +
+      '<div class="flip"><button class="farr" data-act="flip" data-v="prev" aria-label="Previous slide" disabled>←</button>' +
+      '<div class="ftrack" id="ftrack" tabindex="0" role="region" aria-label="Sample deck, ' + sl.length + ' slides">' +
+      sl.map((x, i) => '<div class="fcard" data-i="' + i + '" aria-label="Slide ' + (i + 1) + ' of ' + sl.length + '"><div class="sth" data-lmini="slide:' + x.n + '" data-m="h" data-w="620" data-fit="1"></div></div>').join('') +
+      '</div><button class="farr" data-act="flip" data-v="next" aria-label="Next slide">→</button></div>' +
+      '<p class="fcount" aria-live="polite"><b id="fnum">1</b> / ' + sl.length + ' · <span id="ftitle">' + esc(slideTitle(sl[0])) + '</span></p></section>';
+  };
+  function bindFlip() {
+    const tr = document.getElementById('ftrack');
+    if (!tr) return;
+    const cards = [...tr.querySelectorAll('.fcard')], sl = F.visibleSlides(HP);
+    const draw = (c) => { const el = c.querySelector('[data-lmini]'); if (!el) return; el.dataset.mini = el.dataset.lmini; el.removeAttribute('data-lmini'); fillMinis(c); };
+    if ('IntersectionObserver' in window) {
+      const io = new IntersectionObserver((es) => es.forEach((e) => { if (e.isIntersecting) { draw(e.target); io.unobserve(e.target); } }), { root: tr, rootMargin: '0px 120% 0px 120%' });
+      const outer = new IntersectionObserver((es) => { if (es.some((e) => e.isIntersecting)) { cards.forEach((c) => io.observe(c)); outer.disconnect(); } }, { rootMargin: '300px 0px' });
+      outer.observe(tr);
+    } else cards.forEach(draw);
+    const [prev, next] = tr.parentElement.querySelectorAll('.farr');
+    let at = -1;
+    const onScroll = () => {
+      const mid = tr.scrollLeft + tr.clientWidth / 2;
+      let i = 0, best = Infinity;
+      cards.forEach((c, k) => { const d = Math.abs(c.offsetLeft - tr.offsetLeft + c.offsetWidth / 2 - mid); if (d < best) { best = d; i = k; } });
+      if (tr.scrollLeft + tr.clientWidth >= tr.scrollWidth - 4) i = cards.length - 1;
+      if (i === at) return;
+      at = i;
+      document.getElementById('fnum').textContent = i + 1;
+      document.getElementById('ftitle').textContent = slideTitle(sl[i]);
+      prev.disabled = i === 0; next.disabled = i === cards.length - 1;
+    };
+    tr.addEventListener('scroll', () => requestAnimationFrame(onScroll), { passive: true });
+    tr.addEventListener('keydown', (e) => { if (e.key === 'ArrowRight' || e.key === 'ArrowLeft') { e.preventDefault(); flipBy(e.key === 'ArrowRight' ? 1 : -1); } });
+    onScroll();
+  }
+  function flipBy(d) {
+    const tr = document.getElementById('ftrack'), c = tr && tr.querySelector('.fcard');
+    if (!c) return;
+    const reduce = matchMedia('(prefers-reduced-motion: reduce)').matches;
+    tr.scrollBy({ left: d * (c.offsetWidth + parseFloat(getComputedStyle(tr).columnGap || 0)), behavior: reduce ? 'auto' : 'smooth' });
+  }
+  /* "What your free preview looks like" (owner, 5 Nov 2026): the demo's real preview screen (preview-shot.webp, the
+     Law Garden sample at ?demo=1#plan) with numbered callouts, so visitors know what they get before uploading. The
+     building check only appears on a live job, so it is drawn here as a still copy of that card. */
+  const PVCALL = [[13.5, 42, 'Your drawings, placed', 'Every sheet you upload lands on the board and in the deck, retouched by AI and labelled.'],
+    [17, 33, 'Grey boxes: what AI Studio makes', 'Striped boxes are the new pictures: a hero render, an elevation, a section. You see where each one goes before it exists.'],
+    [0, 0, 'A quick check of your building', ''],
+    [70.5, 9, 'Change anything before you pay', 'Move, swap or remove any picture, reorder the deck, turn an idea off. The preview is free.']];
+  const previewShow = () => '<section class="wrap" id="preview"><h2 class="kicker">Your free preview</h2><p class="big hd">What your free preview looks like</p>' +
+    '<p class="lede">The real preview screen, from the Law Garden sample. Yours shows your own sheets.</p><div class="pvshow"><figure class="pvshot">' +
+    '<img src="preview-shot.webp" width="1400" height="986" loading="lazy" alt="The free preview: an A1 board laid out with the student\'s drawings, striped boxes for new AI images, and the order card">' +
+    PVCALL.map(([x, y], i) => x ? '<span class="pvpin" style="left:' + x + '%;top:' + y + '%" aria-hidden="true">' + (i + 1) + '</span>' : '').join('') + '</figure>' +
+    '<ol class="pvlist">' + PVCALL.map(([, , t, d], i) => '<li><span class="pvpin" aria-hidden="true">' + (i + 1) + '</span><div><b>' + t + '</b>' +
+      (i === 2 ? '<span>Studio tells you what it read from your drawings. One tap says yes; “Fix it” corrects it.</span><div class="bcheck pvbc" aria-hidden="true"><p class="bq"><span><b>We read:</b> 1 block · tensile roof. <b>Right?</b></span></p><div class="bopts"><span class="bopt yes">Yes</span><span class="bopt">Fix it</span></div></div>' : '<span>' + d + '</span>') +
+      '</div></li>').join('') + '</ol></div>' +
+    '<p class="pvgo"><button class="link" data-act="toHero">Try it with your sheets →</button></p></section>';
   /* a saved job is offered on the landing, never opened by itself (owner's live test, 28 Oct) */
   const newJobLink = () => '<button class="link" data-act="newJob">' + (S.newArm ? 'Click again: this clears your saved project from this browser' : 'Start a new project') + '</button>';
   const savedJobRow = () => !DEMO && S.job ? '<div class="row savedjob"><button class="chip lime" data-act="resume">Continue your project →</button>' + newJobLink() + '</div>' : '';
@@ -1137,13 +1236,15 @@
       '<p class="status">Sample: a real student’s community centre for the cloth vendors of Law Garden, Ahmedabad, shown with the owner’s permission.</p></section>' +
       '<section class="wrap" id="how"><h2 class="kicker">How it works</h2><p class="big hd">Four steps. The first three are free.</p><div class="lsteps">' +
       steps.map((t, i) => '<div class="lstep card"><span class="lnum">' + (i + 1) + '</span><svg viewBox="0 0 24 24" aria-hidden="true">' + sico[t[2]] + '</svg><h3 class="h3">' + t[0] + '</h3><p>' + t[1] + '</p></div>').join('') + '</div></section>' +
+      previewShow() +
       '<section class="band"><div class="wrap bandin"><div><p class="big hd">See it before you pay.</p><p class="lede">Upload, answer a few questions and preview your board and deck for free. Pay only when you want the final files.</p></div>' + shiny('start', 'Start free', 'No login · preview free') + '</div></section>' +
       '<section class="wrap" id="get"><h2 class="kicker">What you get</h2><p class="big hd">Everything a jury expects, done for you</p><div class="deal deal2">' + sheets(8, '', 'h') +
       '<div class="dealtxt">' + getsList(null, F.visibleSlides(HP).length) + '</div></div></section>' +
+      deckFlip() +
       '<section class="wrap" id="examples"><h2 class="kicker">Before and after</h2><p class="big hd">From your sheets to a jury board</p><p class="lede">Real pairs from the sample project.</p>' + didCards() + '</section>' +
       '<section class="wrap" id="pricing"><h2 class="kicker">Pricing</h2><p class="big hd">Pay once per project. No subscription.</p><div class="tiers">' +
-      ['nice', 'great'].map((k) => '<div class="tier ltier' + (k === 'great' ? ' sel' : '') + '"><span class="kicker">' + TIERS[k][0] + (k === 'great' ? ' · the full treatment' : '') + '</span><span class="price">$' + TIERS[k][1] + '</span><p class="per">A1 board + jury deck</p><ul>' + TIERS[k][2].map((x) => '<li>' + x + '</li>').join('') + '</ul></div>').join('') +
-      '</div><p class="lede">Both include the editor and one free redo within 7 days. No refunds. Shown in your currency at checkout. Opens in PowerPoint, Keynote, Google Slides, Canva and InDesign.</p>' + shiny('start', 'Start free', 'Preview free before you pay') + '</section>' +
+      ['nice', 'great'].map((k) => '<div class="tier ltier' + (k === 'great' ? ' sel' : '') + '"><span class="kicker">' + TIERS[k][0] + (k === 'great' ? ' · the full treatment' : '') + '</span><span class="price">$' + TIERS[k][1] + '</span>' + aboutLocal(TIERS[k][1]) + '<p class="per">A1 board + jury deck</p><ul>' + TIERS[k][2].map((x) => '<li>' + x + '</li>').join('') + '</ul></div>').join('') +
+      '</div><p class="lede">Both include the editor and one free redo within 7 days. No refunds. Charged in your currency at checkout. Opens in PowerPoint, Keynote, Google Slides, Canva and InDesign.</p>' + shiny('start', 'Start free', 'Preview free before you pay') + '</section>' +
       '<section class="wrap narrow2" id="faq"><h2 class="kicker">FAQ</h2><p class="big hd">Before you start</p><div class="faq">' +
       faq.map(([q, a]) => '<details><summary>' + q + '</summary><p>' + a + '</p></details>').join('') + '</div>' +
       '<p class="lede">Making it by hand? Read our <a class="link" href="../guides/a1-presentation-board/">step-by-step guide to an A1 presentation board</a>.</p></section>' +
@@ -1171,7 +1272,7 @@
     if (sc === 'making' && DEMO) runMaking();
     if (sc === 'result' && !P && !DEMO) fillResultArt();
     if (sc === 'upload') bindDrop();
-    if (sc === 'home') bindHeroDrop();
+    if (sc === 'home') { bindHeroDrop(); bindFlip(); }
     if (sc === 'q') { const ci = document.getElementById('cardin'); if (ci) ci.focus(); }
   }
   function fillMinis(root) {
@@ -1391,6 +1492,8 @@
     },
     sec: (el, e) => { e.preventDefault(); const away = S.screen !== 'home'; if (away) go('home'); const t = document.getElementById(el.dataset.id); if (t) t.scrollIntoView({ behavior: away ? 'auto' : 'smooth' }); },
     hpick: () => { if (!DEMO && S.job) { A.start(); return; } document.getElementById('hadd').click(); },
+    flip: (el) => flipBy(el.dataset.v === 'prev' ? -1 : 1),
+    toHero: () => { const d = document.getElementById('hdrop'); if (!d) return; d.scrollIntoView({ behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth', block: 'center' }); d.focus({ preventScroll: true }); },
     add: () => { asBrief = false; document.getElementById('add').click(); },
     addBrief: () => { asBrief = true; document.getElementById('add').click(); },
     toQ: () => {
