@@ -1047,19 +1047,27 @@ def main():
     (SITE / 'buildings' / 'index.html').write_text(outward(index_page(items)))
     if any(x.get('images') for x in items):
         og_image(items)
-    urls = [BASE, BASE + 'play/', BASE + 'studio/', BASE + 'pricing/', BASE + 'buildings/'] + film_urls + ([BASE + 'architects/'] + [f"{BASE}architects/{v}/" for v in sorted(ARCH.values())] if ARCH else []) + [f"{BASE}{hub_pages.kind_url(k)}" for k in hub_pages.KINDS if any(h['intro'] for h in HUBS if h['kind'] == k)] + [f"{BASE}{h['path']}" for h in HUBS if h['intro']] + [f"{BASE}buildings/{b['id']}/" for b in items if indexable(b)] + [f'{BASE}{p}/' for p in ('terms', 'privacy', 'refunds', 'contact')] + [BASE + 'guides/'] + [f"{BASE}guides/{g['slug']}/" for g in GUIDES] + studio_guide_urls()
+    urls = [BASE, BASE + 'play/', BASE + 'studio/', BASE + 'pricing/', BASE + 'buildings/'] + film_urls + ([BASE + 'architects/'] + [f"{BASE}architects/{v}/" for v in sorted(ARCH.values())] if ARCH else []) + [f"{BASE}{hub_pages.kind_url(k)}" for k in hub_pages.KINDS if any(h['intro'] for h in HUBS if h['kind'] == k)] + [f"{BASE}{h['path']}" for h in HUBS if h['intro']] + [f"{BASE}buildings/{b['id']}/" for b in items if indexable(b)] + [f'{BASE}{p}/' for p in ('terms', 'privacy', 'refunds', 'contact')] + [(BASE + 'guides/', max(g.get('updated', g['published']) for g in GUIDES))] + [(f"{BASE}guides/{g['slug']}/", g.get('updated', g['published'])) for g in GUIDES] + studio_guide_urls()
     (SITE / 'sitemap.xml').write_text('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
-                                       + ''.join(f'  <url><loc>{u}</loc></url>\n' for u in urls) + '</urlset>\n')
+                                       + ''.join(sitemap_line(*u) if isinstance(u, tuple) else sitemap_line(u) for u in urls) + '</urlset>\n')
     (SITE / 'robots.txt').write_text(ROBOTS.format(base=BASE))
     icons()
     print(f'Built {len(items)} building pages, the index, og.jpg, sitemap.xml and robots.txt.')
+
+
+def sitemap_line(url, mod=None):
+    """One <url> line; guides carry their date as <lastmod> (the same line tools/build_guides.py writes)."""
+    return f'  <url><loc>{url}</loc><lastmod>{mod}</lastmod></url>\n' if mod else f'  <url><loc>{url}</loc></url>\n'
 
 
 def studio_guide_urls():
     """Studio FGA's guides (tools/build_guides.py writes them from tools/studio_guides/<slug>.md)."""
     src = Path(__file__).resolve().parent / 'studio_guides'
     slugs = sorted(f.stem for f in src.glob('*.md')) if src.exists() else []
-    return ([BASE + 'studio/guides/'] if slugs else []) + [f'{BASE}studio/guides/{s}/' for s in slugs]
+    if not slugs:
+        return []
+    import build_guides
+    return build_guides.sitemap_entries()
 
 
 if __name__ == '__main__':
