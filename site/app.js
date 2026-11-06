@@ -158,6 +158,7 @@
     if (skip !== 'decades' && d && (b.decade < d[0] || b.decade > d[1])) return false;
     if (state.where && !state.where(b)) return false;
     if (!state.q) return true;
+    if (window.FGASearch) return window.FGASearch.has(b, state.q); // site/search.js: word starts, plurals, typos, nicknames
     const hay = fold([b.name, b.by, b.place, b.cname, b.year, b.type, b.movement, b.region, b.study, (b.concepts || []).join(' ')].join(' '));
     return state.q.split(/\s+/).every(w => hay.includes(w));
   }
@@ -466,8 +467,10 @@
   }
   function render(toTop) {
     document.dispatchEvent(new CustomEvent('da:render')); // the map (map.js) follows the same search and filters
-    let list = shuffled(visible(), rng(state.seed));
-    if (lastTop.size) list = list.filter(b => !lastTop.has(keyOf(b))).concat(list.filter(b => lastTop.has(keyOf(b))));
+    // A search lists the best matches first (site/search.js); everything else is a shuffle, so the wall is always new.
+    const ranked = state.q && state.mode === 'buildings' && window.FGASearch;
+    let list = ranked ? window.FGASearch.rank(visible(), state.q) : shuffled(visible(), rng(state.seed));
+    if (lastTop.size && !ranked) list = list.filter(b => !lastTop.has(keyOf(b))).concat(list.filter(b => lastTop.has(keyOf(b))));
     const C = columnCount();
     const plainWall = state.mode === 'buildings' && !state.q && !state.shelf && !state.decades && !state.where && GROUPS.every(g => !state.filters[g.key].size);
     if (plainWall) list = spreadSwipe(list, C, rng(state.seed + 1));
@@ -486,7 +489,7 @@
     // The whole shelf is never given as a number (owner's rule, 14 Oct 2026); a count under a search or a genre is fine.
     $('count').textContent = list.length === total
       ? (state.mode === 'films' ? 'a growing shelf of documentaries' : `${total.toLocaleString('en')} ${noun}`)
-      : (state.mode === 'films' ? `${list.length.toLocaleString('en')} ${list.length === 1 ? 'documentary' : 'documentaries'}` : `${list.length.toLocaleString('en')} of ${total.toLocaleString('en')}`);
+      : (state.mode === 'films' ? `${list.length.toLocaleString('en')} ${list.length === 1 ? 'documentary' : 'documentaries'}` : `${list.length.toLocaleString('en')} ${list.length === 1 ? noun.slice(0, -1) : noun}`);
     const nf = GROUPS.reduce((s, g) => s + state.filters[g.key].size, 0) + (state.decades ? 1 : 0);
     $('filterCount').textContent = nf ? String(nf) : '';
     renderIdeas();
