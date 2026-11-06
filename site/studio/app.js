@@ -1148,9 +1148,18 @@
      5 Nov 2026, after MagicSlides). The chips answer "will my files work?" before anyone asks. */
   const heroDrop = () => '<div class="hdrop" id="hdrop" data-act="hpick" role="button" tabindex="0" aria-label="Choose or drop your drawings to start a free preview">' +
     '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 16V4M7 9l5-5 5 5M5 20h14"/></svg>' +
-    '<div class="hdt"><b>Drop your sheets here</b><span><u>or choose files</u> · free preview, no login</span></div>' +
-    '<input id="hadd" type="file" multiple accept="image/png,image/jpeg,image/webp,application/pdf,.pdf,.png,.jpg,.jpeg,.webp" hidden></div>' +
-    '<div class="row fmts ins"><span class="flab">You upload</span><span class="chip">PDF</span><span class="chip">JPG · PNG</span><span class="chip">Sketch photos</span><span class="chip">Model photos</span><span class="chip">Your brief</span></div>';
+    '<div class="hdt"><b>Drop your sheets here</b><span><u>or choose files</u> · PDF, JPG, PNG · free, no login</span></div>' +
+    '<input id="hadd" type="file" multiple accept="image/png,image/jpeg,image/webp,application/pdf,.pdf,.png,.jpg,.jpeg,.webp" hidden></div>';
+  /* "What you download" (owner, 7 Nov 2026: "this is the main deliverable", seen right away): one tile per file,
+     each saying what it holds and which apps open it. File-type icons, not app logos: Microsoft and Adobe don't
+     allow their logos without permission, and the app names say it plainly. */
+  const DOCICO = (fmt, c) => '<svg class="docico" viewBox="0 0 48 60" aria-hidden="true"><path d="M4 3h28l12 12v42H4z" fill="' + c + '"/><path d="M32 3v12h12" fill="#FFFFFF"/>' +
+    '<path d="M4 3h28l12 12v42H4zM32 3v12h12" fill="none" stroke="var(--line)" stroke-width="2.5" stroke-linejoin="round"/><text x="24" y="46" text-anchor="middle">' + fmt + '</text></svg>';
+  const OUTS = [['PDF', '#FF5A36', 'PDF', 'Board + deck, to print at A1 and present'],
+    ['PPTX', '#FFD84D', 'PowerPoint', 'Jury deck, every word editable. Also opens in Keynote, Google Slides, Canva'],
+    ['IDML', '#E4DAFF', 'InDesign', 'A1 board, every frame editable']];
+  const outsStrip = () => '<section class="wrap louts" aria-labelledby="louts-h"><h2 class="kicker" id="louts-h">What you download</h2><ul class="outs">' +
+    OUTS.map(([f, c, t, d]) => '<li>' + DOCICO(f, c) + '<div><b>' + t + '</b><span>' + d + '</span></div></li>').join('') + '</ul></section>';
   /* files dropped or chosen in the hero go straight onto the upload screen */
   function heroFiles(list) {
     if (!list || !list.length) return;
@@ -1173,7 +1182,7 @@
   const deckFlip = () => {
     const sl = F.visibleSlides(HP);
     return '<section class="wrap" id="deck"><h2 class="kicker">The whole deck</h2><p class="big hd">Not one slide. The whole deck.</p>' +
-      '<p class="lede">All ' + sl.length + ' slides of the Law Garden sample, made from the same six files as the board. Flip through.</p>' +
+      '<p class="lede">All ' + sl.length + ' slides, from the same six files as the board.</p>' +
       '<div class="flip"><button class="farr" data-act="flip" data-v="prev" aria-label="Previous slide" disabled>←</button>' +
       '<div class="ftrack" id="ftrack" tabindex="0" role="region" aria-label="Sample deck, ' + sl.length + ' slides">' +
       sl.map((x, i) => '<div class="fcard" data-i="' + i + '" aria-label="Slide ' + (i + 1) + ' of ' + sl.length + '"><div class="sth" data-lmini="slide:' + x.n + '" data-m="h" data-w="620" data-fit="1"></div></div>').join('') +
@@ -1216,22 +1225,21 @@
   /* "What your free preview looks like" (owner, 5 Nov 2026): the demo's real preview screen (preview-shot.webp, the
      Law Garden sample at ?demo=1#plan) with numbered callouts, so visitors know what they get before uploading. The
      building check only appears on a live job, so it is drawn here as a still copy of that card. */
-  const PVCALL = [[13.5, 42, 'Your drawings, placed', 'Every sheet you upload lands on the board and in the deck, retouched by AI and labelled.'],
-    [17, 33, 'Grey boxes: what AI Studio makes', 'Striped boxes are the new pictures: a hero render, an elevation, a section. You see where each one goes before it exists.'],
+  const PVCALL = [[13.5, 42, 'Your drawings, placed', 'Retouched by AI and labelled.'],
+    [17, 33, 'Striped boxes: what AI Studio makes', 'New pictures, shown where they will go.'],
     [0, 0, 'A quick check of your building', ''],
-    [70.5, 9, 'Change anything before you pay', 'Move, swap or remove any picture, reorder the deck, turn an idea off. The preview is free.']];
+    [70.5, 9, 'Change anything before you pay', 'Move, swap, reorder or remove.']];
   const previewShow = () => '<section class="wrap" id="preview"><h2 class="kicker">Your free preview</h2><p class="big hd">What your free preview looks like</p>' +
-    '<p class="lede">The real preview screen, from the Law Garden sample. Yours shows your own sheets.</p><div class="pvshow"><figure class="pvshot">' +
+    '<div class="pvshow"><figure class="pvshot">' +
     '<img src="preview-shot.webp" width="1400" height="986" loading="lazy" alt="The free preview: an A1 board laid out with the student\'s drawings, striped boxes for new AI images, and the order card">' +
     PVCALL.map(([x, y], i) => x ? '<span class="pvpin" style="left:' + x + '%;top:' + y + '%" aria-hidden="true">' + (i + 1) + '</span>' : '').join('') + '</figure>' +
     '<ol class="pvlist">' + PVCALL.map(([, , t, d], i) => '<li><span class="pvpin" aria-hidden="true">' + (i + 1) + '</span><div><b>' + t + '</b>' +
-      (i === 2 ? '<span>Studio tells you what it read from your drawings. One tap says yes; “Fix it” corrects it.</span><div class="bcheck pvbc" aria-hidden="true"><p class="bq"><span><b>We read:</b> 1 block · tensile roof. <b>Right?</b></span></p><div class="bopts"><span class="bopt yes">Yes</span><span class="bopt">Fix it</span></div></div>' : '<span>' + d + '</span>') +
-      '</div></li>').join('') + '</ol></div>' +
-    '<p class="pvgo"><button class="link" data-act="toHero">Try it with your sheets →</button></p></section>';
+      (i === 2 ? '<span>One tap to confirm what Studio read.</span><div class="bcheck pvbc" aria-hidden="true"><p class="bq"><span><b>We read:</b> 1 block · tensile roof. <b>Right?</b></span></p><div class="bopts"><span class="bopt yes">Yes</span><span class="bopt">Fix it</span></div></div>' : '<span>' + d + '</span>') +
+      '</div></li>').join('') + '</ol></div></section>';
   /* "Watch it work" (owner, 6 Nov 2026): the 2:43 walkthrough of the Law Garden sample, captions burned in. Nothing
      downloads until play (preload="none"); the poster is one frame from the video. */
   const watch = () => '<section class="wrap" id="watch"><h2 class="kicker">Watch it work</h2><p class="big hd">One real project, start to finish</p>' +
-    '<p class="lede">A student’s Law Garden sheets become an A1 board and a jury deck, and you see what the AI did to each drawing. Under three minutes, captions on.</p>' +
+    '<p class="lede">Under three minutes, captions on.</p>' +
     '<figure class="wvid"><video controls playsinline preload="none" poster="video/poster.webp" width="1920" height="1080" aria-label="Studio FGA walkthrough: a student’s sheets to a jury-ready A1 board and deck">' +
     '<source src="video/studio-fga-walkthrough.mp4" type="video/mp4"></video></figure></section>';
   /* "Boards made with Studio FGA" (owner, 5 Nov 2026): five boards from our own pipeline. k5 is the real student
@@ -1254,15 +1262,15 @@
     const src = galCredits && galCredits.sources && /^https:\/\/commons\.wikimedia\.org\//.test(galCredits.sources[k] || '') ? galCredits.sources[k] : '';
     return (c ? licLinks(esc(c)) : 'Credits being added') + (c && src ? ' <a class="link" href="' + esc(src) + '" target="_blank" rel="noopener">(sources)</a>' : '');
   };
-  const galCreditLine = () => '<p class="kicker">Photo credits</p>' + GAL.map(([k, stu, t, n]) =>
+  const galCreditLine = () => GAL.map(([k, stu, t, n]) =>
     '<p><b>' + (stu ? 'Law Garden student project' : esc(t.replace(/ · .*$/, '')) + ' (' + n + ' files)') + ':</b> ' + galCredit(k) + '</p>').join('') +
     (galCredits && typeof galCredits.note === 'string' && galCredits.note.trim() ? '<p class="gnote">' + licLinks(esc(galCredits.note.trim())) + '</p>' : '');
   const gallery = () => '<section class="wrap" id="boards"><h2 class="kicker">Examples</h2><p class="big hd">Boards made with Studio FGA</p>' +
-    '<p class="lede">One real student project and four test projects we ran on famous buildings, to show what different inputs give you.</p><div class="ggrid">' +
+    '<p class="lede">One student project and four tests on famous buildings.</p><div class="ggrid">' +
     GAL.map(([k, stu, t, n, extra, w, h, alt]) => '<button class="gcard" data-act="gopen" data-k="' + k + '" aria-haspopup="dialog">' +
       '<span class="gimg"><img src="' + GBASE + k + '-thumb.webp" width="' + w + '" height="' + h + '" loading="lazy" decoding="async" alt="A1 board: ' + esc(alt) + '"></span>' +
       '<span class="gtxt">' + galTag(stu) + '<b>' + esc(t) + '</b><span class="gmeta">From ' + n + ' files' + (extra ? ' · ' + esc(extra) : '') + '</span></span></button>').join('') + '</div>' +
-    '<div class="gcred" id="gcred">' + galCreditLine() + '</div></section>';
+    '<details class="gcredw"><summary>Photo credits</summary><div class="gcred" id="gcred">' + galCreditLine() + '</div></details></section>';
   function bindGallery() {
     if (galCredits || !document.getElementById('gcred')) return;
     fetch(GBASE + 'credits.json', { cache: 'no-cache' }).then((r) => r.ok ? r.json() : {}).catch(() => ({})).then((j) => {
@@ -1293,10 +1301,10 @@
   const newJobLink = () => '<button class="link" data-act="newJob">' + (S.newArm ? 'Click again: this clears your saved project from this browser' : 'Start a new project') + '</button>';
   const savedJobRow = () => !DEMO && S.job ? '<div class="row savedjob"><button class="chip lime" data-act="resume">Continue your project →</button>' + newJobLink() + '</div>' : '';
   V.home = () => {
-    const steps = [['Upload', 'Drop in what you have: plans, sections, sketches, model photos, even screenshots of your sheets. 5 to 10 is best.', 'up'],
-      ['Answer a few questions', 'A few quick taps and your concept in a few words.', 'q'],
-      ['Preview your board and deck, free', 'See which drawing goes where and what each slide says. Move, swap or remove anything.', 'plan'],
-      ['Pay once, then download', 'Your A1 board and jury deck. Fix anything in the editor, then take PDF, PowerPoint or InDesign.', 'dl']];
+    const steps = [['Upload', 'Plans, sections, sketches, model photos. 5 to 10 is best.', 'up'],
+      ['Answer a few questions', 'A few taps and your concept in a line.', 'q'],
+      ['Preview free', 'See every page. Move, swap or remove anything.', 'plan'],
+      ['Pay once, download', 'Fix anything in the editor, then download.', 'dl']];
     const sico = { up: '<path d="M12 16V4M7 9l5-5 5 5M5 20h14"/>', q: '<path d="M9 9a3 3 0 1 1 4 2.8c-.7.3-1 .8-1 1.6M12 17h.01"/><circle cx="12" cy="12" r="9"/>', plan: '<path d="M4 6h16M4 12h10M4 18h7"/><circle cx="19" cy="16" r="3"/>', dl: '<path d="M12 4v11M7 10l5 5 5-5M5 20h14"/>' };
     const faq = [
       ['What if I don’t like the result?', 'You preview your whole board and deck before you pay. If the result is not right, you get one free redo within 7 days. There are no refunds, so check the preview first. <a class="link" href="refund/">Refund policy</a>'],
@@ -1308,23 +1316,20 @@
       '<section class="lhero wrap"><div class="lcopy">' +
       /* one H1 that names the product for search (owner, 29 Oct 2026): the small line plus the big headline, same look */
       '<h1 class="lh1"><span class="kicker">AI architecture presentation generator · for students and studios<span class="sr">: </span></span><span class="huge">Messy drawings. <span class="hl">Jury-ready board.</span></span></h1>' +
-      '<p class="lede">Upload your plans, sections, sketches and model photos. Answer a few quick questions. AI Studio plans the story, writes the text and sets an A1 board and a matching jury deck that you can still edit.</p>' +
-      heroDrop() + savedJobRow() +
-      '<div class="row fmts"><span class="flab">You get</span><span class="chip">A1 board</span><span class="chip">16:9 jury deck</span><span class="chip">PDF · PowerPoint · InDesign</span></div></div>' +
-      heroArt() + '</section>' +
-      '<section class="wrap opens"><p class="kicker">Opens in</p><div class="row"><span class="chip">PowerPoint</span><span class="chip">Keynote</span><span class="chip">Google Slides</span><span class="chip">Canva</span><span class="chip">InDesign</span></div>' +
-      '<p class="status">Sample: a real student’s community centre for the cloth vendors of Law Garden, Ahmedabad, shown with the owner’s permission.</p></section>' +
+      '<p class="lede">Upload your plans, sections and sketches. Get an A1 board and a matching jury deck, written and laid out, still editable.</p>' +
+      heroDrop() + savedJobRow() + '</div>' +
+      heroArt() + '</section>' + outsStrip() +
       '<section class="wrap" id="how"><h2 class="kicker">How it works</h2><p class="big hd">Four steps. The first three are free.</p><div class="lsteps">' +
       steps.map((t, i) => '<div class="lstep card"><span class="lnum">' + (i + 1) + '</span><svg viewBox="0 0 24 24" aria-hidden="true">' + sico[t[2]] + '</svg><h3 class="h3">' + t[0] + '</h3><p>' + t[1] + '</p></div>').join('') + '</div></section>' +
       watch() + previewShow() +
-      '<section class="band"><div class="wrap bandin"><div><p class="big hd">See it before you pay.</p><p class="lede">Upload, answer a few questions and preview your board and deck for free. Pay only when you want the final files.</p></div>' + shiny('start', 'Start free', 'No login · preview free') + '</div></section>' +
+      '<section class="band"><div class="wrap bandin"><p class="big hd">See it before you pay.</p>' + shiny('start', 'Start free', 'No login · preview free') + '</div></section>' +
       '<section class="wrap" id="get"><h2 class="kicker">What you get</h2><p class="big hd">Everything a jury expects, done for you</p><div class="deal deal2">' + sheets(8, '', 'h') +
       '<div class="dealtxt">' + getsList(null, F.visibleSlides(HP).length) + '</div></div></section>' +
       deckFlip() + gallery() +
-      '<section class="wrap" id="examples"><h2 class="kicker">Before and after</h2><p class="big hd">From your sheets to a jury board</p><p class="lede">Real pairs from the sample project.</p>' + didCards() + '</section>' +
+      '<section class="wrap" id="examples"><h2 class="kicker">Before and after</h2><p class="big hd">From your sheets to a jury board</p>' + didCards() + '</section>' +
       '<section class="wrap" id="pricing"><h2 class="kicker">Pricing</h2><p class="big hd">Pay once per project. No subscription.</p><div class="tiers">' +
       ['nice', 'great'].map((k) => '<div class="tier ltier' + (k === 'great' ? ' sel' : '') + '"><span class="kicker">' + TIERS[k][0] + (k === 'great' ? ' · the full treatment' : '') + '</span><span class="price">$' + TIERS[k][1] + '</span>' + aboutLocal(TIERS[k][1]) + '<p class="per">A1 board + jury deck</p><ul>' + TIERS[k][2].map((x) => '<li>' + x + '</li>').join('') + '</ul></div>').join('') +
-      '</div><p class="lede">Both include the editor and one free redo within 7 days. No refunds. Charged in your currency at checkout. Opens in PowerPoint, Keynote, Google Slides, Canva and InDesign.</p>' + shiny('start', 'Start free', 'Preview free before you pay') + '</section>' +
+      '</div><p class="lede">Both include the editor and one free redo within 7 days. No refunds. Charged in your currency.</p>' + shiny('start', 'Start free', 'Preview free before you pay') + '</section>' +
       '<section class="wrap narrow2" id="faq"><h2 class="kicker">FAQ</h2><p class="big hd">Before you start</p><div class="faq">' +
       faq.map(([q, a]) => '<details><summary>' + q + '</summary><p>' + a + '</p></details>').join('') + '</div>' +
       '<p class="lede">Making it by hand? Read our <a class="link" href="../guides/a1-presentation-board/">step-by-step guide to an A1 presentation board</a>.</p></section>' +

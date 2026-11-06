@@ -394,7 +394,18 @@ body[data-screen="upload"] .btn.primary::after, body[data-screen="q"] .btn.prima
 .lh1 { display: flex; flex-direction: column; gap: 18px; font-weight: 800; }
 .lh1 .huge { display: block; }
 .hd { font-family: var(--display); font-weight: 800; letter-spacing: -0.02em; line-height: 1.02; text-wrap: balance; }
-.fmts .chip, .opens .chip { font-size: 12px; }
+/* "What you download" strip under the hero: three file tiles, each with what it holds and what opens it */
+.land .louts { padding-block: 0 24px; gap: 12px; }
+.outs { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 16px; }
+.outs li { display: flex; align-items: center; gap: 14px; padding: 14px 16px; background: var(--card); border: 2px solid var(--line); border-radius: var(--r); box-shadow: var(--sh); min-width: 0; }
+.outs li div { display: flex; flex-direction: column; gap: 3px; min-width: 0; }
+.outs b { font: 800 22px/1.1 var(--display); letter-spacing: -0.015em; }
+.outs span { font-size: 14px; color: var(--muted); }
+.docico { flex: none; width: 44px; height: 55px; }
+.docico text { font: 700 11px var(--mono); fill: #1B1A17; letter-spacing: .02em; }
+@media (max-width: 860px) { .outs { grid-template-columns: minmax(0, 1fr); gap: 10px; } .outs li { padding: 10px 14px; box-shadow: 3px 3px 0 var(--shadow); } .docico { width: 36px; height: 45px; } }
+.gcredw summary { cursor: pointer; width: max-content; min-height: 44px; display: flex; align-items: center; font: 600 12px/1 var(--mono); letter-spacing: .06em; text-transform: uppercase; color: var(--muted); }
+.gcredw summary:hover { color: var(--ink); }
 .lart { display: grid; grid-template-columns: minmax(0, .8fr) auto minmax(0, 1.2fr); align-items: center; gap: 12px; min-width: 0; }
 .ptag { position: absolute; left: 50%; bottom: -14px; transform: translateX(-50%); white-space: nowrap; z-index: 2; font: 700 11px/1 var(--mono); padding: 6px 9px; border: 2px solid var(--line); border-radius: 999px; background: var(--card); color: var(--ink); }
 .ptag.lime { background: var(--lime); color: var(--on-accent); }
@@ -432,7 +443,7 @@ body[data-screen="upload"] .btn.primary::after, body[data-screen="q"] .btn.prima
 .band { background: var(--lime); color: var(--on-accent); border-block: 2px solid var(--line); }
 .band .lede { color: var(--on-accent); opacity: .85; }
 .band.dark { background: var(--ink); color: var(--paper); }
-.bandin { display: flex; align-items: center; justify-content: space-between; gap: 24px; flex-wrap: wrap; }
+.bandin { display: flex; flex-direction: row; align-items: center; justify-content: space-between; gap: 24px; flex-wrap: wrap; }
 .band .btn.shiny { flex: none; }
 .band.dark .btn.shiny { box-shadow: 4px 4px 0 var(--coral); }
 .ltier { cursor: default; }
@@ -712,9 +723,7 @@ body[data-screen="upload"] .btn.primary::after, body[data-screen="q"] .btn.prima
 .hdt { display: flex; flex-direction: column; gap: 4px; min-width: 0; }
 .hdt b { font: 800 21px/1.1 var(--display); letter-spacing: -0.01em; }
 .hdt span { font-size: 14px; color: var(--muted); } .hdrop.hot .hdt span { color: inherit; }
-.fmts .flab { font: 600 11px/1 var(--mono); text-transform: uppercase; letter-spacing: .06em; color: var(--muted); min-width: 84px; }
-.fmts.ins { margin-bottom: 8px; }
-@media (max-width: 520px) { .hdrop { padding: 18px; gap: 12px; } .hdt b { font-size: 18px; } .fmts .flab { min-width: 0; width: 100%; } }
+@media (max-width: 520px) { .hdrop { padding: 18px; gap: 12px; } .hdt b { font-size: 18px; } }
 
 /* the whole deck, flip-through (owner, 5 Nov 2026) */
 .flip { display: grid; grid-template-columns: auto minmax(0, 1fr) auto; align-items: center; gap: 12px; margin-top: 18px; }
