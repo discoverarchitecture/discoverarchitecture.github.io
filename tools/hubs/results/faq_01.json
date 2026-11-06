@@ -1000,5 +1000,115 @@
     ]
    }
   ]
+ },
+ {
+  "slug": "cantilever",
+  "faq": [
+   {
+    "q": "What is a cantilever in architecture?",
+    "a": "A cantilever is a structural member fixed at one end and free at the other, so a building can overhang with no support underneath. In a traditional timber-framed building, a cantilevered upper floor is called a jetty, and bridges can be built outward from both sides as pairs of cantilevers that meet in the middle. Frank Lloyd Wright used cantilevers to push Fallingwater's large balconies over a waterfall.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Cantilever"
+    ]
+   },
+   {
+    "q": "What are famous examples of cantilevers in architecture?",
+    "a": "Wright's Robie House in Chicago (1910) projects long roofs from the core instead of resting them on walls, and Fallingwater's concrete terraces are held only at one end, extending from the chimney. Giuseppe Pettazzi's Fiat Tagliero Building in Asmara (1938) cantilevers two 15 m concrete wings from a central tower, and OMA's CCTV Headquarters in Beijing (2012) joins two leaning towers with a 75-metre cantilever.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Robie_House",
+     "https://en.wikipedia.org/wiki/Fallingwater",
+     "wall"
+    ]
+   },
+   {
+    "q": "Which building has the longest cantilever roof?",
+    "a": "Coop Himmelb(l)au's Busan Cinema Center in South Korea (2011) is captioned as having the world's longest cantilever roof, carried on a single cone over an outdoor theatre. Other long reaches on the wall include Moshe Safdie's Marina Bay Sands in Singapore (2010), whose sky park cantilevers far beyond the north tower, and Jean Nouvel's Guthrie Theater in Minneapolis (2006), with a long bridge reaching toward the Mississippi.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Cantilever",
+     "wall"
+    ]
+   },
+   {
+    "q": "How do cantilevers shape towers?",
+    "a": "In a tower the cantilever can come from the core rather than the walls. Wright's Price Tower (1956), his only built skyscraper, cantilevers its floors like branches from a central core. BBPR's Torre Velasca in Milan (1958) pushes its upper residential floors out on angled ribs, and Herzog & de Meuron's 56 Leonard Street in New York (2017) shifts and cantilevers its floor plates so each flat gets its own outline.",
+    "sources": [
+     "wall"
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "courtyard",
+  "faq": [
+   {
+    "q": "What is a courtyard in architecture?",
+    "a": "A courtyard is an area open to the sky, often surrounded by a building. It brings light, air and privacy into the middle of a plan, which people want nearly everywhere, and in warm weather an open central court helps cool a house. Courtyard houses go back to the Neolithic, around 6400–6000 BC, and the open centre of a Roman house was called the atrium.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Courtyard"
+    ]
+   },
+   {
+    "q": "What are good examples of courtyard architecture?",
+    "a": "In the Alhambra in Granada the basic unit of the palace is a rectangular courtyard. The Shah Mosque in Isfahan (1629) rings its central courtyard with four monumental iwans. Louis Kahn's Salk Institute (1965) sets its laboratories around a travertine plaza open to the Pacific, and Alvar Aalto's Säynätsalo Town Hall (1952) gathers brick rooms around a raised grass courtyard.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Alhambra",
+     "https://en.wikipedia.org/wiki/Shah_Mosque_(Isfahan)",
+     "wall"
+    ]
+   },
+   {
+    "q": "Which courtyard houses should architecture students study?",
+    "a": "Courtyards were widely used in the ancient Middle East, and in Morocco's old towns the courtyard house has always been the standard form. For modern versions, compare Luis Barragán's house in Mexico City (1948), Alvar Aalto's Villa Mairea (1939), with its L-shaped courtyard, and Tadao Ando's Row House in Sumiyoshi (1976), whose interior courtyard brings in light and has to be crossed to get from room to room.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Courtyard",
+     "https://en.wikipedia.org/wiki/Courtyard_house",
+     "https://en.wikipedia.org/wiki/Row_House_in_Sumiyoshi",
+     "wall"
+    ]
+   },
+   {
+    "q": "How do contemporary buildings use courtyards?",
+    "a": "The courtyard still organises large plans. I. M. Pei's Suzhou Museum (2006) sets white walls around a water garden. OMA and Ole Scheeren's The Interlace in Singapore (2013) stacks thirty-one blocks in a hexagonal weave that forms large garden courtyards. Foster + Partners' Kogod Courtyard at the National Portrait Gallery in Washington, D.C. (2007) covers a 19th-century courtyard with an undulating glass canopy.",
+    "sources": [
+     "wall"
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "brise-soleil",
+  "faq": [
+   {
+    "q": "What is a brise-soleil?",
+    "a": "A brise-soleil, French for \"sun breaker\", is a screen that shades a facade and cuts a building's heat gain by deflecting sunlight. The simplest form is a horizontal projection on the sunny side. It is used most on glass facades that would otherwise overheat, and it still lets in the low sun of mornings, evenings and winter, so louvres can also help heat a building passively.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Brise_soleil"
+    ]
+   },
+   {
+    "q": "How did Le Corbusier use the brise-soleil?",
+    "a": "Le Corbusier popularised patterned concrete versions. At Chandigarh his Palace of Assembly (1962) is a parliament built for the Punjab sun, the Secretariat Building (1958) runs a brise-soleil grid along a long concrete slab, and the Palace of Justice (1955) shades its courts under a huge concrete parasol roof. In Ahmedabad, the Mill Owners' Association Building (1954) uses angled concrete fins.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Brise_soleil",
+     "wall"
+    ]
+   },
+   {
+    "q": "What are good examples of brise-soleil in architecture?",
+    "a": "Lúcio Costa and Oscar Niemeyer's Gustavo Capanema Palace in Rio de Janeiro (1945) sets adjustable brise-soleil on an office slab, and Niemeyer's Copan Building in São Paulo (1966) runs continuous horizontal sunshades along a serpentine slab. Renzo Piano's New York Times Building (2007) screens its glass walls with ceramic rods, and David Chipperfield's Amorepacific Headquarters in Seoul (2017) wraps a near-cube in vertical sun screens.",
+    "sources": [
+     "wall"
+    ]
+   },
+   {
+    "q": "Can a brise-soleil move?",
+    "a": "Yes. Santiago Calatrava designed a moving one shaped like a wing: the Milwaukee Art Museum's Quadracci Pavilion (2001) opens and folds a winged sunscreen of steel fins above a glass hall. At the Institut du Monde Arabe in Paris, 240 photo-sensitive, motor-controlled apertures act as a brise-soleil, opening and closing to control the light that reaches the interior.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Brise_soleil",
+     "https://en.wikipedia.org/wiki/Institut_du_monde_arabe",
+     "wall"
+    ]
+   }
+  ]
  }
 ]
