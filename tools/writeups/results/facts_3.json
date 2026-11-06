@@ -123,6 +123,99 @@
   "thin": false
  },
  {
+  "id": "toyo-ito-museum-of-architecture",
+  "facts": [
+   {
+    "fact": "A museum of contemporary architecture and design in Imabari, Ehime Prefecture.",
+    "quote": "The Toyo Ito Museum of Architecture, Imabari (今治市伊東豊雄建築ミュージアム, Imabari-Shi Ito Toyo Kenchiku Museum) is a museum of contemporary architecture and design located in Imabari, Ehime Prefecture.",
+    "source": "https://en.wikipedia.org/wiki/Toyo_Ito_Museum_of_Architecture,_Imabari"
+   },
+   {
+    "fact": "Two small buildings, Steel Hut and Silver Hut, by Toyo Ito stand on a promontory on Ōmishima island in the Seto Inland Sea.",
+    "quote": "The two small museum buildings, named Steel Hut and Silver Hut, both designed by Pritzker Prize winning architect Toyo Ito, are located on a promontory on Ōmishima, a small island in the middle of the Seto Inland Sea.",
+    "source": "https://en.wikipedia.org/wiki/Toyo_Ito_Museum_of_Architecture,_Imabari"
+   }
+  ],
+  "thin": true
+ },
+ {
+  "id": "adziogol-lighthouse",
+  "facts": [
+   {
+    "fact": "One of two vertical lattice hyperboloid steel lighthouses in the Dnieper Estuary, Ukraine.",
+    "quote": "The Adziogol Lighthouse (Ukrainian: Аджигольський маяк), also known as Stanislav–Adzhyhol Lighthouse or Stanislav Range Rear light, is one of two vertical lattice hyperboloid structures of steel bars, serving as active lighthouses in Dnieper Estuary, Ukraine.",
+    "source": "https://en.wikipedia.org/wiki/Adziogol_Lighthouse"
+   },
+   {
+    "fact": "Designed in 1910 and built in 1911 by Vladimir Shukhov; a keeper's house sits inside the base of the tower.",
+    "quote": "The lighthouse was designed in 1910 and built in 1911 by Vladimir Shukhov.",
+    "source": "https://en.wikipedia.org/wiki/Adziogol_Lighthouse"
+   },
+   {
+    "fact": "It stands on a concrete pier on a small islet in the Dnieper-Bug Estuary.",
+    "quote": "It is located on a concrete pier on a tiny islet in the combined Dnieper-Bug Estuary, which extends eastward into the Dnieper Estuary, a part of the Dnieper River delta, about 2.5 km (1.6 mi) north of the village of Rybalche (Skadovsk Raion) and south of the Cape of Adzhyhol, for which it is named.",
+    "source": "https://en.wikipedia.org/wiki/Adziogol_Lighthouse"
+   },
+   {
+    "fact": "Together with the Stanislav Range Front Light it serves as a range light guiding ships into the river.",
+    "quote": "Together with the Stanislav Range Front Light (Small Adzhyhol Lighthouse), it serves as a range light, guiding ships entering the Dnieper River or the Southern Buh River within the vast Dnieper-Bug Estuary.",
+    "source": "https://en.wikipedia.org/wiki/Adziogol_Lighthouse"
+   },
+   {
+    "fact": "The site is reachable only by boat.",
+    "quote": "The site of the tower is accessible only by boat.",
+    "source": "https://en.wikipedia.org/wiki/Adziogol_Lighthouse"
+   },
+   {
+    "fact": "It was damaged in a missile attack in July 2022.",
+    "quote": "On 22 July 2022, the lighthouse was damaged by a Russian missile attack; 3 rockets hit the lighthouse.",
+    "source": "https://en.wikipedia.org/wiki/Adziogol_Lighthouse"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "art-institute-of-chicago-modern-wing",
+  "facts": [
+   {
+    "fact": "The Modern Wing, designed by Renzo Piano, is the most recent expansion of the Art Institute, opened in 2009.",
+    "quote": "The Modern Wing, designed by Renzo Piano, is the most recent expansion, and when it opened in 2009 it increased the museum's footprint to nearly one million square feet.",
+    "source": "https://en.wikipedia.org/wiki/Art_Institute_of_Chicago"
+   },
+   {
+    "fact": "Opened in May 2009 as the largest expansion in the museum's history.",
+    "quote": "On May 16, 2009, the Art Institute opened the Modern Wing, the largest expansion in the museum's history.",
+    "source": "https://en.wikipedia.org/wiki/Art_Institute_of_Chicago"
+   },
+   {
+    "fact": "It houses early 20th-century European art including Picasso, Matisse and Magritte.",
+    "quote": "The Modern Wing is home to the museum's collection of early 20th-century European art, including Pablo Picasso's The Old Guitarist, Henri Matisse's Bathers by a River, and René Magritte's Time Transfixed.",
+    "source": "https://en.wikipedia.org/wiki/Art_Institute_of_Chicago"
+   },
+   {
+    "fact": "Piano's window screening protects art from direct sunlight.",
+    "quote": "The gallery space was designed by Renzo Piano in conjunction with his design of the Modern Wing and features the same window screening used there to protect the art from direct sunlight.",
+    "source": "https://en.wikipedia.org/wiki/Art_Institute_of_Chicago"
+   },
+   {
+    "fact": "It won at the Chicago Innovation Awards in 2009.",
+    "quote": "In 2009, the Modern Wing won at the Chicago Innovation Awards.",
+    "source": "https://en.wikipedia.org/wiki/Art_Institute_of_Chicago"
+   },
+   {
+    "fact": "It was a major catalyst for a rise in visitor traffic despite higher admission fees.",
+    "quote": "Despite a 25 percent boost in museum admission fees, the Modern Wing was a major catalyst for a rise in visitor traffic.",
+    "source": "https://en.wikipedia.org/wiki/Art_Institute_of_Chicago"
+   },
+   {
+    "fact": "The museum sued engineering firm Ove Arup in 2010 over what it said were flaws in the concrete floors and air-circulation systems (a dispute, not a finding).",
+    "quote": "In 2010, the year after the opening of its massive Modern Wing, the Art Institute of Chicago sued the engineering firm Ove Arup for $10 million over what it said were flaws in the concrete floors and air-circulation systems.",
+    "source": "https://en.wikipedia.org/wiki/Art_Institute_of_Chicago"
+   }
+  ],
+  "thin": false
+ },
+ {
   "id": "asian-games-village",
   "facts": [
    {
@@ -164,6 +257,57 @@
   "thin": false
  },
  {
+  "id": "aula-magna-central-university-of-venezuela",
+  "facts": [
+   {
+    "fact": "An auditorium at the Central University of Venezuela in the University City of Caracas, next to the main library.",
+    "quote": "The Aula Magna is an auditorium at the Central University of Venezuela.",
+    "source": "https://en.wikipedia.org/wiki/Aula_Magna_(Central_University_of_Venezuela)"
+   },
+   {
+    "fact": "Designed by Carlos Raúl Villanueva in the 1940s and built by the Danish company Christiani & Nielsen in 1952–53.",
+    "quote": "The hall was designed by the Venezuelan architect Carlos Raúl Villanueva in the 1940s and built by the Danish company Christiani & Nielsen from 1952–53.",
+    "source": "https://en.wikipedia.org/wiki/Aula_Magna_(Central_University_of_Venezuela)"
+   },
+   {
+    "fact": "Declared a UNESCO World Heritage Site in November 2000 as artistically and architecturally significant.",
+    "quote": "It was declared a UNESCO World Heritage Site in November 2000 for being artistically and architecturally significant.",
+    "source": "https://en.wikipedia.org/wiki/Aula_Magna_(Central_University_of_Venezuela)"
+   },
+   {
+    "fact": "Its most notable feature is the acoustic 'clouds', which serve both aesthetic and practical functions.",
+    "quote": "The most notable feature of the hall is its acoustic 'clouds', which serve both aesthetic and practical functions.",
+    "source": "https://en.wikipedia.org/wiki/Aula_Magna_(Central_University_of_Venezuela)"
+   },
+   {
+    "fact": "Alexander Calder's 'Floating Clouds' combine technology and art; Leo Beranek ranked the hall's acoustics among the world's top five concert halls in the 1980s.",
+    "quote": "It is so ranked thanks to the 1953 Flying Saucers or Floating Clouds artwork developed by Alexander Calder, a system that combines technology and art.",
+    "source": "https://en.wikipedia.org/wiki/Aula_Magna_(Central_University_of_Venezuela)"
+   },
+   {
+    "fact": "Calder first worked on an outdoor structure, then suggested putting his panels inside the hall for artistic, decorative and acoustic purposes.",
+    "quote": "The clouds were not originally intended for the interior of the hall.",
+    "source": "https://en.wikipedia.org/wiki/Aula_Magna_(Central_University_of_Venezuela)"
+   },
+   {
+    "fact": "Villanueva described buildings not as objects but as 'movements', of which the Aula Magna is the fourth.",
+    "quote": "In keeping with the theme of the project, Villanueva's designs include unconventional features that reflect the artistic nature, such as describing buildings not as objects but as \"movements\" (of which the Aula Magna is IV).",
+    "source": "https://en.wikipedia.org/wiki/Aula_Magna_(Central_University_of_Venezuela)"
+   },
+   {
+    "fact": "It was the main building of the university's Synthesis of the Arts project.",
+    "quote": "It was the main building of the Synthesis of the Arts project for the university, a campus creation and redesign carried out by Villanueva.",
+    "source": "https://en.wikipedia.org/wiki/Aula_Magna_(Central_University_of_Venezuela)"
+   },
+   {
+    "fact": "Construction began in November 1952 and was completed on time by the deadline set by the military ruler.",
+    "quote": "The contract for the construction of the Aula Magna was given to the company Christiani & Nielsen, starting on November 28, 1952, and with its end date set as March 31, 1953; that is, the work had to be completed in only 4 months.",
+    "source": "https://en.wikipedia.org/wiki/Aula_Magna_(Central_University_of_Venezuela)"
+   }
+  ],
+  "thin": false
+ },
+ {
   "id": "baron-empain-palace",
   "facts": [
    {
@@ -200,6 +344,73 @@
     "fact": "In 2012 an agreement with the Belgian government set out to restore it as an international art and cultural centre.",
     "quote": "In 2012, an agreement was signed with the Belgian government to jointly restore the building and turn it into an international art and cultural center.",
     "source": "https://en.wikipedia.org/wiki/Baron_Empain_Palace"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "bellevue-theatre",
+  "facts": [
+   {
+    "fact": "A theatre in Klampenborg near Copenhagen, opened in 1936 to a design by Arne Jacobsen and regarded as an exemplar of Danish functionalism.",
+    "quote": "The Bellevue Teatret (English: Bellevue Theatre) is a theatre in Klampenborg at the northern outskirts of Copenhagen, Denmark.",
+    "source": "https://en.wikipedia.org/wiki/Bellevue_Teatret"
+   },
+   {
+    "fact": "Jacobsen won a competition for the Bellevue masterplan shortly after opening his own office; the theatre was the last stage, alongside the sea bath and Bellavista housing.",
+    "quote": "In the early 1930s, Arne Jacobsen won a competition for a masterplan for the Bellevue area in Klampenborg, Gentofte Municipality, shortly after opening his own architectural office in 1930.",
+    "source": "https://en.wikipedia.org/wiki/Bellevue_Teatret"
+   },
+   {
+    "fact": "Considered one of Jacobsen's most important works, with mosaic decorations and a retractable roof.",
+    "quote": "The building is considered one of the most important architectural work by Arne Jacobsen, exemplar of early Danish functionalism.",
+    "source": "https://en.wikipedia.org/wiki/Bellevue_Teatret"
+   },
+   {
+    "fact": "Walls, balcony and proscenium are clad in canvas and bamboo.",
+    "quote": "Walls, balcony and proscenium are clad in canvas and bamboo.",
+    "source": "https://en.wikipedia.org/wiki/Bellevue_Teatret"
+   },
+   {
+    "fact": "It opened as a summer theatre, later became a cinema until 1980 and then reopened as a theatre.",
+    "quote": "The theatre opened in 1936 as a mondain summer theatre.",
+    "source": "https://en.wikipedia.org/wiki/Bellevue_Teatret"
+   },
+   {
+    "fact": "Since reopening, the repertoire has been dominated by modern music performances, particularly rock musicals.",
+    "quote": "Since the reopening as a theatre, the repertoire has been dominated by modern music performances, particularly rock musicals.",
+    "source": "https://en.wikipedia.org/wiki/Bellevue_Teatret"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "busan-cinema-center",
+  "facts": [
+   {
+    "fact": "The official venue of the Busan International Film Festival, in Centum City, Busan; opened on 29 September 2011.",
+    "quote": "The Busan Cinema Center (Korean: 영화의전당), also called Dureraum (두레라움; lit. 'enjoying seeing movies together'), is the official venue of the Busan International Film Festival (BIFF), located in Centum City, Busan, South Korea.",
+    "source": "https://en.wikipedia.org/wiki/Busan_Cinema_Center"
+   },
+   {
+    "fact": "Designed by Austrian firm Coop Himmelb(l)au; won the International Architecture Award and Chicago Athenaeum award in 2007.",
+    "quote": "The building won the International Architecture Award and the Chicago Athenaeum in 2007.",
+    "source": "https://en.wikipedia.org/wiki/Busan_Cinema_Center"
+   },
+   {
+    "fact": "It comprises three buildings, an outdoor theatre with the Small Roof, and a square under the Big Roof.",
+    "quote": "The center comprises three buildings (Cine Mountain, Biff Hill, and Double Cone), Biff Theater (an outdoor theater) with the Small Roof, and Dureraum Square with the Big Roof.",
+    "source": "https://en.wikipedia.org/wiki/Busan_Cinema_Center"
+   },
+   {
+    "fact": "The Big Roof is certified by Guinness World Records as the longest cantilever roof.",
+    "quote": "The Big Roof is the longest cantilever roof certified by Guinness World Records.",
+    "source": "https://en.wikipedia.org/wiki/Busan_Cinema_Center"
+   },
+   {
+    "fact": "The two steel roofs carry LED lights in their ceilings.",
+    "quote": "The center has two steel roofs.",
+    "source": "https://en.wikipedia.org/wiki/Busan_Cinema_Center"
    }
   ],
   "thin": false
@@ -251,6 +462,42 @@
   "thin": false
  },
  {
+  "id": "calouste-gulbenkian-museum",
+  "facts": [
+   {
+    "fact": "A Lisbon museum holding one of the world's most important private art collections, founded by oil magnate Calouste Gulbenkian.",
+    "quote": "Lisbon's Calouste Gulbenkian Museum houses one of the world's most important private art collections.",
+    "source": "https://en.wikipedia.org/wiki/Calouste_Gulbenkian_Museum"
+   },
+   {
+    "fact": "Galleries are arranged chronologically and geographically into two independent circuits.",
+    "quote": "The permanent exhibition and galleries are distributed chronologically and in geographical order to create two independent circuits within the overall tour.",
+    "source": "https://en.wikipedia.org/wiki/Calouste_Gulbenkian_Museum"
+   },
+   {
+    "fact": "The first circuit covers Greco-Roman, ancient Near East and Nile Valley art; the second covers European art.",
+    "quote": "The first circuit highlights Greco-Roman art from classical antiquity, as well as art from the ancient Near East and the Nile Valley.",
+    "source": "https://en.wikipedia.org/wiki/Calouste_Gulbenkian_Museum"
+   },
+   {
+    "fact": "A competition was won by a team of architects Alberto J. Pessoa, Pedro Cid and Ruy Jervis d'Athouguia, with landscape architects António Viana Barreto and Gonçalo Ribeiro Telles designing the surrounding park.",
+    "quote": "It was eventually won by the team that included architects Alberto J. Pessoa, Pedro Cid and Ruy Jervis d'Athouguia (1917-2006), in addition to the landscaping architects António Viana Barreto and Gonçalo Ribeiro Telles, who were responsible for designing the park surrounding the building.",
+    "source": "https://en.wikipedia.org/wiki/Calouste_Gulbenkian_Museum"
+   },
+   {
+    "fact": "The property received the Valmor Prize in 1975.",
+    "quote": "In 1975, the property was distinguished with the Valmor Prize.",
+    "source": "https://en.wikipedia.org/wiki/Calouste_Gulbenkian_Museum"
+   },
+   {
+    "fact": "It was designed as a showcase for the collection, relatively unusual at a time when most museums occupied buildings made for other purposes.",
+    "quote": "The museum was designed as a showcase for the collection, which was relatively unique for an art museum at a time when most museums were housed in buildings originally built for other purposes.",
+    "source": "https://en.wikipedia.org/wiki/Calouste_Gulbenkian_Museum"
+   }
+  ],
+  "thin": false
+ },
+ {
   "id": "centraal-beheer",
   "facts": [
    {
@@ -265,6 +512,78 @@
    }
   ],
   "thin": true
+ },
+ {
+  "id": "chichu-art-museum",
+  "facts": [
+   {
+    "fact": "A museum built directly into the island of Naoshima, Japan, designed by Tadao Ando and opened on 18 July 2004; its name means 'art museum in the earth'.",
+    "quote": "The Chichu Art Museum (地中美術館, Chichū Bijutsukan) (literally 'art museum in the earth') is a museum built directly into a southern portion of the island of Naoshima in Kagawa Prefecture, Japan.",
+    "source": "https://en.wikipedia.org/wiki/Chichu_Art_Museum"
+   },
+   {
+    "fact": "Though buried underground, it uses only natural light for several exhibits, changing their appearance through the day.",
+    "quote": "Despite its position buried underground, the design of the building is such that it facilitates the exclusive use of natural light to illuminate a number of the exhibits, changing their appearance at different viewing times throughout the day and, in essence, encompassing the building itself within the same realm as the art on display.",
+    "source": "https://en.wikipedia.org/wiki/Chichu_Art_Museum"
+   },
+   {
+    "fact": "The site has installations by Walter De Maria and James Turrell and paintings from Monet's Water Lilies series.",
+    "quote": "The site features permanent installations by Walter De Maria and James Turrell, as well as painted works in the Water Lilies series by Claude Monet.",
+    "source": "https://en.wikipedia.org/wiki/Chichu_Art_Museum"
+   },
+   {
+    "fact": "It is run by the Fukutake Foundation as part of an initiative to rethink the relationship between nature and people.",
+    "quote": "The subterranean museum is under the administration of the Fukutake Foundation, a project of the Benesse Corporation whose president Soichiro Fukutake also acts as director of the facility.",
+    "source": "https://en.wikipedia.org/wiki/Chichu_Art_Museum"
+   },
+   {
+    "fact": "The garden and ponds were designed from Monet's own designs and paintings, including some of the same water lilies.",
+    "quote": "As Monet was an avid gardener, his own designs as well as inspiration gleaned directly from some of his most famous paintings were used to design the garden and ponds that make up the area, which even feature some of the same water lilies that appear in his famous series.",
+    "source": "https://en.wikipedia.org/wiki/Chichu_Art_Museum"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "chiswick-house",
+  "facts": [
+   {
+    "fact": "A Neo-Palladian villa in Chiswick, London, designed and built by Richard Boyle, 3rd Earl of Burlington, and completed in 1729.",
+    "quote": "Chiswick House is a Neo-Palladian style villa in the Chiswick district of London, England.",
+    "source": "https://en.wikipedia.org/wiki/Chiswick_House"
+   },
+   {
+    "fact": "The garden was created mainly by William Kent and is one of the earliest examples of the English landscape garden.",
+    "quote": "The garden was created mainly by the architect and landscape designer William Kent, and it is one of the earliest examples of the English landscape garden.",
+    "source": "https://en.wikipedia.org/wiki/Chiswick_House"
+   },
+   {
+    "fact": "Burlington's 1719 trip to Italy gave him a passion for Palladian architecture.",
+    "quote": "During his trip to Italy in 1719, Burlington had acquired a passion for Palladian architecture.",
+    "source": "https://en.wikipedia.org/wiki/Chiswick_House"
+   },
+   {
+    "fact": "The villa was built with enough space to house Burlington's art collection.",
+    "quote": "Burlington built the villa with enough space to house his art collection, regarded as containing \"some of the best pictures in Europe\", and his more select pieces of furniture, some of which was purchased on his first Grand Tour of Europe in 1714.",
+    "source": "https://en.wikipedia.org/wiki/Chiswick_House"
+   },
+   {
+    "fact": "The original Chiswick House was a Jacobean house; wings were added by John White in 1788 after the Jacobean house was demolished.",
+    "quote": "The original Chiswick House was a Jacobean house owned by Sir Edward Wardour, and possibly built by his father.",
+    "source": "https://en.wikipedia.org/wiki/Chiswick_House"
+   },
+   {
+    "fact": "In the 19th century it declined, was used as a mental hospital and later became a fire station.",
+    "quote": "During the 19th century, the house fell into decline and was rented out by the Cavendish family.",
+    "source": "https://en.wikipedia.org/wiki/Chiswick_House"
+   },
+   {
+    "fact": "Today it is Grade I listed and maintained by English Heritage.",
+    "quote": "Today, the house is a Grade I listed building and is maintained by English Heritage.",
+    "source": "https://en.wikipedia.org/wiki/Chiswick_House"
+   }
+  ],
+  "thin": false
  },
  {
   "id": "cleo-rogers-memorial-library",
@@ -311,6 +630,27 @@
    }
   ],
   "thin": false
+ },
+ {
+  "id": "siida-museum",
+  "facts": [
+   {
+    "fact": "A museum on Lake Inari in Inari, Finland, housing the Sámi Museum and Northern Lapland Nature Centre; opened on 1 April 1998.",
+    "quote": "Siida (lit. 'the place') is a museum located on Lake Inari in the village of Inari in Inari, Finland.",
+    "source": "https://en.wikipedia.org/wiki/Siida_(museum)"
+   },
+   {
+    "fact": "Received the European Museum of the Year Award in 2024.",
+    "quote": "In 2024 Siida received the European Museum of the Year Award.",
+    "source": "https://en.wikipedia.org/wiki/Siida_(museum)"
+   },
+   {
+    "fact": "It has exhibitions on Sámi culture and Lapland's nature plus an open-air museum.",
+    "quote": "Siida arranges exhibitions on Sámi culture and the nature of Northern Lapland.",
+    "source": "https://en.wikipedia.org/wiki/Siida_(museum)"
+   }
+  ],
+  "thin": true
  },
  {
   "id": "graduate-house-university-of-toronto",
@@ -544,6 +884,22 @@
   "thin": false
  },
  {
+  "id": "edificio-basurto",
+  "facts": [
+   {
+    "fact": "A building in the Condesa area of Mexico City by architect Francisco J. Serrano, built between 1940 and 1945, in a post-Art Deco design.",
+    "quote": "The Basurto Building (Edificio Basurto) is located in the Condesa area of Mexico City, a work of architect Francisco J. Serrano, built between 1940 and 1945.",
+    "source": "https://en.wikipedia.org/wiki/Basurto_Building"
+   },
+   {
+    "fact": "Its fourteen storeys were unusually high for the area at that time, giving it iconic status as an emblem of Condesa.",
+    "quote": "It is fourteen storeys tall, unusually high for the constructions in the area of that period giving it iconic status and an emblem of Condesa.",
+    "source": "https://en.wikipedia.org/wiki/Basurto_Building"
+   }
+  ],
+  "thin": true
+ },
+ {
   "id": "queen-alia-international-airport",
   "facts": [
    {
@@ -647,6 +1003,114 @@
   "thin": false
  },
  {
+  "id": "borujerdi-house",
+  "facts": [
+   {
+    "fact": "A historic house museum in Kashan, Iran, built in 1857 by architect Ustad Ali Maryam for the bride of the wealthy merchant Borujerdi.",
+    "quote": "The Borujerdi House (Persian: خانه بروجردی‌ها) is a historic house museum in Kashan, Iran.",
+    "source": "https://en.wikipedia.org/wiki/Borujerdi_House"
+   },
+   {
+    "fact": "The bride's family, the Tabātabāei, had earlier had the nearby Tabatabai House built by the same architect.",
+    "quote": "The bride came from the affluent Tabātabāei family, for whom the architect had built the nearby Tabatabai House several years earlier.",
+    "source": "https://en.wikipedia.org/wiki/Borujerdi_House"
+   },
+   {
+    "fact": "It has the biruni (public) and andaruni (private) parts of traditional Iranian houses, with a courtyard, fountain pool and two-storey iwan.",
+    "quote": "The Borujerdi House consists of the biruni (\"exterior\", the public area) and the andaruni (\"interior\", the private quarters) features of Iran's traditional residential architecture, including a courtyard with a fountain pool and a two-story iwan (balcony).",
+    "source": "https://en.wikipedia.org/wiki/Borujerdi_House"
+   },
+   {
+    "fact": "The main hall is topped by a central dome (khishkhan).",
+    "quote": "The main hall is topped by a khishkhan, that is a type of central dome.",
+    "source": "https://en.wikipedia.org/wiki/Borujerdi_House"
+   },
+   {
+    "fact": "Three tall windcatchers, two over the main hall and one over the entrance, are part of the house.",
+    "quote": "Three 40-meter-tall windcatchers, two above the main hall and one over the entrance area, are also erected on the house.",
+    "source": "https://en.wikipedia.org/wiki/Borujerdi_House"
+   },
+   {
+    "fact": "Decoration includes stucco, glass work, ayeneh-kari and frescoes by Kamal-ol-Molk.",
+    "quote": "The house is decorated with stucco, glass work, ayeneh-kari, and features frescoes by the prominent painter Kamal-ol-Molk. == References ==",
+    "source": "https://en.wikipedia.org/wiki/Borujerdi_House"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "capitaspring",
+  "facts": [
+   {
+    "fact": "A skyscraper in Singapore's Downtown Core designed by architectural firm BIG and architect Carlo Ratti.",
+    "quote": "CapitaSpring is a skyscraper in Downtown Core, Singapore.",
+    "source": "https://en.wikipedia.org/wiki/CapitaSpring"
+   },
+   {
+    "fact": "Designed by BIG and Carlo Ratti.",
+    "quote": "The building was designed by architectural firm BIG and architect Carlo Ratti.",
+    "source": "https://en.wikipedia.org/wiki/CapitaSpring"
+   },
+   {
+    "fact": "Mostly offices, with some coworking space and a food centre including a hawker centre similar to the Golden Shoe Car Park it replaced.",
+    "quote": "The building is primarily devoted to conventional office space, although about ten percent of the building will contain coworking space.",
+    "source": "https://en.wikipedia.org/wiki/CapitaSpring"
+   },
+   {
+    "fact": "Two gardens, one high above ground and one Singapore's highest rooftop urban farm; access has been restricted since late 2023 because of too many tourists.",
+    "quote": "There are two gardens in the building, one being 100 metres aboveground and the other Singapore's highest rooftop urban farm, with serviced residences by Citadines taking up the rest of the space.",
+    "source": "https://en.wikipedia.org/wiki/CapitaSpring"
+   }
+  ],
+  "thin": true
+ },
+ {
+  "id": "denver-art-museum-hamilton-building",
+  "facts": [
+   {
+    "fact": "Designed by Studio Daniel Libeskind with Davis Partnership Architects as architect of record; glass and titanium clad; opened 7 October 2006.",
+    "quote": "Designed as a joint venture by Studio Daniel Libeskind and Denver firm Davis Partnership Architects (architect of record), the glass and titanium- clad building opened on October 7, 2006.",
+    "source": "https://en.wikipedia.org/wiki/Denver_Art_Museum"
+   },
+   {
+    "fact": "It is Libeskind's first completed building in the United States.",
+    "quote": "Recognized by the American Institute of Architects as a successful Building Information Modeling project, the Hamilton Building is Libeskind's first completed building in the United States.",
+    "source": "https://en.wikipedia.org/wiki/Denver_Art_Museum"
+   },
+   {
+    "fact": "Its sharp angles emulate the nearby Rocky Mountains and the geometric crystals at their base.",
+    "quote": "Similar to the many-peaked roof of the Denver International Airport, the Hamilton Building emulates the sharp angles of the nearby Rocky Mountains, as well as the geometric crystals found at the mountains' base near Denver.",
+    "source": "https://en.wikipedia.org/wiki/Denver_Art_Museum"
+   },
+   {
+    "fact": "Libeskind said he was inspired by the light and geology of the Rockies.",
+    "quote": "Architect Daniel Libeskind said, \"I was inspired by the light and geology of the Rockies, but most of all by the wide-open faces of the people of Denver.\" Context Regarding the design concept, Libeskind commented, \"The project is not designed as a standalone building but as part of a composition of public spaces, monuments and gateways in this developing part of the city, contributing to the synergy amongst neighbors large and intimate.\" Libeskind designed a landscaped pedestrian plaza for the DAM complex.",
+    "source": "https://en.wikipedia.org/wiki/Denver_Art_Museum"
+   },
+   {
+    "fact": "It houses the museum's Modern and Contemporary Art, African Art and Oceanic Art collections plus special exhibition spaces.",
+    "quote": "The Frederic C. Hamilton Building houses the museum's Modern and Contemporary Art, African Art and Oceanic Art collections, along with part of the Western American art collection and special exhibition spaces.",
+    "source": "https://en.wikipedia.org/wiki/Denver_Art_Museum"
+   },
+   {
+    "fact": "Its distinct steel configuration earned an AISC Presidential Award of Excellence in 2007.",
+    "quote": "Due to the distinct configuration of the steel to produce the building, the Hamilton Building expansion of the DAM received a Presidential Award of Excellence from the American Institute of Steel Construction—AISC’s 2007 Innovative Design in Engineering and Architecture with Structural Steel (IDEAS2) Awards competition.",
+    "source": "https://en.wikipedia.org/wiki/Denver_Art_Museum"
+   },
+   {
+    "fact": "A bridge pavilion once linked the Hamilton Building to the existing 1971 North Building.",
+    "quote": "The Duncan Pavilion, a 5,700-square-foot second story addition to the Bach Wing, was created to accommodate the bridge traffic from the new Hamilton Building and the existing North Building (1971).",
+    "source": "https://en.wikipedia.org/wiki/Denver_Art_Museum"
+   },
+   {
+    "fact": "The neighbouring Martin Building was designed by Gio Ponti in 1971.",
+    "quote": "The museum's Martin Building (formerly known as the North Building) was designed by famed Italian architect Gio Ponti in 1971.",
+    "source": "https://en.wikipedia.org/wiki/Denver_Art_Museum"
+   }
+  ],
+  "thin": false
+ },
+ {
   "id": "deutsches-architekturmuseum",
   "facts": [
    {
@@ -676,6 +1140,43 @@
    }
   ],
   "thin": false
+ },
+ {
+  "id": "fukuoka-art-museum",
+  "facts": [
+   {
+    "fact": "An art museum in Fukuoka with a notable collection of Western and Asian art.",
+    "quote": "Fukuoka Art Museum (福岡市美術館, Fukuoka-shi Bijutsukan) is an art museum in Fukuoka, Japan.",
+    "source": "https://en.wikipedia.org/wiki/Fukuoka_Art_Museum"
+   },
+   {
+    "fact": "Hosts the Fukuoka Asian Art Triennale, which began in 1999.",
+    "quote": "The Fukuoka Asian Art Triennale is held every three years with a different theme.",
+    "source": "https://en.wikipedia.org/wiki/Fukuoka_Art_Museum"
+   }
+  ],
+  "thin": true
+ },
+ {
+  "id": "hohenhof",
+  "facts": [
+   {
+    "fact": "A 1908 Art Nouveau villa in Gartenstadt Hohenhagen, Hagen, designed by Belgian architect Henry van de Velde as a Gesamtkunstwerk covering the shell, furnishings and landscape.",
+    "quote": "Hohenhof is a 1908-built Art Nouveau villa, located within Gartenstadt Hohenhagen in the city of Hagen, Germany.",
+    "source": "https://en.wikipedia.org/wiki/Hohenhof"
+   },
+   {
+    "fact": "Built for industrialist and arts patron Karl Ernst Osthaus, who lived there until his death in 1921; the city of Hagen later bought it on condition that the design character be kept.",
+    "quote": "The client, German industrialist and arts patron Karl Ernst Osthaus, used the building as his family home until his death in 1921.",
+    "source": "https://en.wikipedia.org/wiki/Hohenhof"
+   },
+   {
+    "fact": "From the 1920s to the late 1970s the mansion went through a number of changes of use; it has since been renovated and houses a museum.",
+    "quote": "Already beginning in the early 1920s and until the late 1970s, the mansion underwent a number of use-changes.",
+    "source": "https://en.wikipedia.org/wiki/Hohenhof"
+   }
+  ],
+  "thin": true
  },
  {
   "id": "kew-house-melbourne",
@@ -714,6 +1215,47 @@
     "fact": "The east end is dominated by a built-in table designed as the hub of daily life.",
     "quote": "The furniture and artworks were carefully chosen, designed and arranged.",
     "source": "https://en.wikipedia.org/wiki/Kew_House"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "olympic-sculpture-park",
+  "facts": [
+   {
+    "fact": "A public sculpture park in downtown Seattle created and operated by the Seattle Art Museum; opened January 2007.",
+    "quote": "The Olympic Sculpture Park, created and operated by the Seattle Art Museum (SAM), is a public park with modern and contemporary sculpture in downtown Seattle, Washington, United States.",
+    "source": "https://en.wikipedia.org/wiki/Olympic_Sculpture_Park"
+   },
+   {
+    "fact": "It consists of an outdoor sculpture museum, an indoor pavilion and a beach on Puget Sound.",
+    "quote": "The park, which opened January 20, 2007, consists of a 9-acre (36,000 m2) outdoor sculpture museum, an indoor pavilion, and a beach on Puget Sound.",
+    "source": "https://en.wikipedia.org/wiki/Olympic_Sculpture_Park"
+   },
+   {
+    "fact": "The site was a former oil and gas industrial site and contaminated brownfield that the museum transformed into green space.",
+    "quote": "The former industrial site was occupied by the oil and gas corporation Unocal until the 1970s and subsequently became a contaminated brownfield before the Seattle Art Museum proposed to transform the area into one of the only green spaces in Downtown Seattle.",
+    "source": "https://en.wikipedia.org/wiki/Olympic_Sculpture_Park"
+   },
+   {
+    "fact": "Lead designer Weiss/Manfredi Architects worked with Charles Anderson Landscape Architecture and Magnusson Klemencic Associates.",
+    "quote": "The park's lead designer was Weiss/Manfredi Architects, who collaborated with Charles Anderson Landscape Architecture, Magnusson Klemencic Associates and other consultants.",
+    "source": "https://en.wikipedia.org/wiki/Olympic_Sculpture_Park"
+   },
+   {
+    "fact": "A three-level underwater slope of riprap was built, the lower level designed to attract sea life and kelp.",
+    "quote": "A three-level underwater slope was built with 50,000 tonnes of riprap.",
+    "source": "https://en.wikipedia.org/wiki/Olympic_Sculpture_Park"
+   },
+   {
+    "fact": "The salt-water setting is corrosive to works of exposed wood and metal, and maintenance is expensive.",
+    "quote": "Bordering the Puget Sound, a large body of salt water, the park environment has been corrosive to pieces like Bunyon's Chess, made primarily of exposed wood and metal.",
+    "source": "https://en.wikipedia.org/wiki/Olympic_Sculpture_Park"
+   },
+   {
+    "fact": "Free admission, with permanent outdoor sculpture, temporary works and site-specific installations.",
+    "quote": "The Olympic Sculpture Park is a free-admission outdoor sculpture park with both permanent outdoor sculpture, temporary works, and site-specific installations.",
+    "source": "https://en.wikipedia.org/wiki/Olympic_Sculpture_Park"
    }
   ],
   "thin": false
@@ -796,6 +1338,63 @@
   "thin": false
  },
  {
+  "id": "academy-of-arts-hanseatenweg",
+  "facts": [
+   {
+    "fact": "The Academy of Arts is a state arts institution in Berlin; this article covers the institution, not the Hanseatenweg building.",
+    "quote": "The Academy of Arts (German: Akademie der Künste) is a state arts institution in Berlin, Germany.",
+    "source": "https://en.wikipedia.org/wiki/Academy_of_Arts,_Berlin"
+   },
+   {
+    "fact": "The current academy was founded in 1993 by reuniting the separate East and West Berlin academies.",
+    "quote": "The current Academy was founded on 1 October 1993 as the re-unification of formerly separate East and West Berlin academies.",
+    "source": "https://en.wikipedia.org/wiki/Academy_of_Arts,_Berlin"
+   }
+  ],
+  "thin": true
+ },
+ {
+  "id": "aula-magna",
+  "facts": [
+   {
+    "fact": "The largest auditorium at Stockholm University, completed in 1998; Nobel lectures have been held there.",
+    "quote": "Aula Magna is the largest auditorium at Stockholm University in Sweden, completed in 1998.",
+    "source": "https://en.wikipedia.org/wiki/Aula_Magna_(Stockholm_University)"
+   },
+   {
+    "fact": "Designed by Ralph Erskine, his last project for the university before his death in 2005.",
+    "quote": "Aula Magna was designed by architect Ralph Erskine, who also designed the nearby Allhuset, Stockholm University Library, Aktiverum (Frescatihallen), and the House of Laws for the University.",
+    "source": "https://en.wikipedia.org/wiki/Aula_Magna_(Stockholm_University)"
+   },
+   {
+    "fact": "Built into the ground: low and modest from the north and dominated by large glass surfaces, full height on the south.",
+    "quote": "The building is built into the ground.",
+    "source": "https://en.wikipedia.org/wiki/Aula_Magna_(Stockholm_University)"
+   },
+   {
+    "fact": "Erskine breaks the facade into many volumes of different size and height, faced in red brick on the north.",
+    "quote": "Erskine breaks up the facade into many volumes of different size, structure and height in and interesting arrangement.",
+    "source": "https://en.wikipedia.org/wiki/Aula_Magna_(Stockholm_University)"
+   },
+   {
+    "fact": "The roof has sun reflectors, typical of Erskine's style, that bring daylight into the auditorium through skylights.",
+    "quote": "The roof, visible from a distance, features sun reflectors, typical of Erskine's style, which transmit daylight into the auditorium via skylights.",
+    "source": "https://en.wikipedia.org/wiki/Aula_Magna_(Stockholm_University)"
+   },
+   {
+    "fact": "Exposed bedrock in the lower foyer and blonde wood lining give a natural feel, contrasting with glass and stone.",
+    "quote": "The interior design has a natural feel through exposed bedrock in the lower foyer.",
+    "source": "https://en.wikipedia.org/wiki/Aula_Magna_(Stockholm_University)"
+   },
+   {
+    "fact": "The auditorium plan was inspired by an ancient amphitheatre's semi-circle.",
+    "quote": "The design of the auditorium was inspired by the semi-circular plan of an ancient amphitheater.",
+    "source": "https://en.wikipedia.org/wiki/Aula_Magna_(Stockholm_University)"
+   }
+  ],
+  "thin": false
+ },
+ {
   "id": "bode-museum",
   "facts": [
    {
@@ -827,6 +1426,42 @@
     "fact": "True to Bode's belief in mixing art collections, it now houses sculpture, Byzantine art, and coins and medals.",
     "quote": "True to the ethos of its founding director, Wilhelm von Bode, who believed in mixing art collections, it is now the home for a collection of sculptures, Byzantine art, and coins and medals.",
     "source": "https://en.wikipedia.org/wiki/Bode_Museum"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "church-of-the-autostrada-del-sole",
+  "facts": [
+   {
+    "fact": "A church in Campi Bisenzio near Florence, inside a large motorway rest area between two autostrada roads.",
+    "quote": "The Church of San Giovanni Battista or Chiesa dell'Autostrada del Sole is a church in Campi Bisenzio, near Florence, Italy, within a large motorway rest area shared between two autostrada roads.",
+    "source": "https://en.wikipedia.org/wiki/Chiesa_dell%27Autostrada_del_Sole,_Campi_Bisenzio"
+   },
+   {
+    "fact": "Formally named for John the Baptist, it is also called the Church of the Freeway of the Sun.",
+    "quote": "The church is formally named after John the Baptist but has also earned the name Church of the Freeway of the Sun for its location between autostrada del Sole (Freeway of the Sun) and the A11 Firenze-Mare highway.",
+    "source": "https://en.wikipedia.org/wiki/Chiesa_dell%27Autostrada_del_Sole,_Campi_Bisenzio"
+   },
+   {
+    "fact": "Its design reflects modern and traditional church types: a cross plan and stone facing with tent-like vertical elements and copper roofing.",
+    "quote": "The design of the church is meant to reflect both modern and traditional church designs.",
+    "source": "https://en.wikipedia.org/wiki/Chiesa_dell%27Autostrada_del_Sole,_Campi_Bisenzio"
+   },
+   {
+    "fact": "Built 1960–1963 to plans by Giovanni Michelucci.",
+    "quote": "It was built between 1960 and 1963, based on plans by Giovanni Michelucci.",
+    "source": "https://en.wikipedia.org/wiki/Chiesa_dell%27Autostrada_del_Sole,_Campi_Bisenzio"
+   },
+   {
+    "fact": "Materials: stone and concrete walls, copper roof oxidized to green outside, with marble, glass and bronze inside.",
+    "quote": "The materials used for the building are stone and concrete for the walls; copper for the roof, oxidized to green on the outside; and burnished blond on the inside.",
+    "source": "https://en.wikipedia.org/wiki/Chiesa_dell%27Autostrada_del_Sole,_Campi_Bisenzio"
+   },
+   {
+    "fact": "The asymmetrical floor plan follows sinuous curves creating a feeling of fluid space.",
+    "quote": "The floorplan of the building is asymmetrical and follows sinuous curves creating a feeling of fluid space.",
+    "source": "https://en.wikipedia.org/wiki/Chiesa_dell%27Autostrada_del_Sole,_Campi_Bisenzio"
    }
   ],
   "thin": false
@@ -1063,6 +1698,37 @@
   "thin": false
  },
  {
+  "id": "buseoksa-muryangsujeon",
+  "facts": [
+   {
+    "fact": "A Buddhist temple near Bonghwangsan mountain in Yeongju, South Korea, founded by the monk Uisang in 676.",
+    "quote": "Buseoksa (Korean: 부석사; Hanja: 浮石寺) is a Buddhist temple located near the mountain Bonghwangsan in Buseok-myeon, Yeongju, South Korea.",
+    "source": "https://en.wikipedia.org/wiki/Buseoksa"
+   },
+   {
+    "fact": "The Muryangsujeon, re-constructed in 1376, is the second oldest standing wooden building in South Korea.",
+    "quote": "The temple houses the Muryangsujeon, which is the second oldest standing wooden building in South Korea, re-constructed in 1376.",
+    "source": "https://en.wikipedia.org/wiki/Buseoksa"
+   },
+   {
+    "fact": "The Muryangsujeon is the main hall, at the highest level of the temple, where Amitabha is enshrined.",
+    "quote": "A few buildings during Goryeo era (9th century to the late 14th century) remain until now, one of which is the main hall called Muryangsujeon located at the highest level, where Amitabha is enshrined.",
+    "source": "https://en.wikipedia.org/wiki/Buseoksa"
+   },
+   {
+    "fact": "Paper found in 1916 indicated the hall had been rebuilt in early Goryeo, with arson by an enemy in 1358.",
+    "quote": "In 1916, stained paper was found to tell that Muryangsujeon building had been re-built in early years of Goryeo whereas there was arson of enemy in 1358.",
+    "source": "https://en.wikipedia.org/wiki/Buseoksa"
+   },
+   {
+    "fact": "Koreans regard harmony between building and nature as the essence of architecture; the temple sits on a steep mountain.",
+    "quote": "Koreans perceive the ability to harmonize building and nature as the essence of architecture, Buseoksa is located on a steep mountain.",
+    "source": "https://en.wikipedia.org/wiki/Buseoksa"
+   }
+  ],
+  "thin": false
+ },
+ {
   "id": "castello-di-rivoli",
   "facts": [
    {
@@ -1094,6 +1760,42 @@
     "fact": "Postwar renovation was carried out under Turin architect Andrea Bruno.",
     "quote": "The first post-World War II renovation works were carried out under the Turin architect Andrea Bruno.",
     "source": "https://en.wikipedia.org/wiki/Rivoli_Castle"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "hotel-humboldt",
+  "facts": [
+   {
+    "fact": "A hotel at the summit of Cerro Ávila in Caracas, built between May and November 1956.",
+    "quote": "Humboldt Hotel (Spanish: Hotel Humboldt) is a hotel located at the summit of Cerro Ávila in the city of Caracas, Venezuela.",
+    "source": "https://en.wikipedia.org/wiki/Humboldt_Hotel"
+   },
+   {
+    "fact": "Part of a plan to connect Caracas with the coast via a tourism and recreation complex using a cable car.",
+    "quote": "The hotel was part of a plan to connect Caracas with the coast through a tourism and recreation complex that utilized the cable car as a means of transportation.",
+    "source": "https://en.wikipedia.org/wiki/Humboldt_Hotel"
+   },
+   {
+    "fact": "Its architecture features a cylindrical tower with 360° views and a restaurant, observation deck and private cable car.",
+    "quote": "The building stands at an elevation of 2,140 meters above sea level; its architecture features a cylindrical tower offering a 360° view.",
+    "source": "https://en.wikipedia.org/wiki/Humboldt_Hotel"
+   },
+   {
+    "fact": "The glass and aluminium facade helped heat the building and allowed cleaning from inside through tilting windows.",
+    "quote": "The glass and aluminum façade was used to help heat the building; it also allowed for routine cleaning maintenance to be performed from the inside through tilting windows.",
+    "source": "https://en.wikipedia.org/wiki/Humboldt_Hotel"
+   },
+   {
+    "fact": "A restoration led by architect Gregory Vertullo reinforced beams and columns with carbon fibre.",
+    "quote": "The works were led by the Venezuelan architect Gregory Vertullo, a specialist in the restoration of architectural monuments, together with Venezuelan and foreign professionals involved in the recovery of the building.",
+    "source": "https://en.wikipedia.org/wiki/Humboldt_Hotel"
+   },
+   {
+    "fact": "The adjoining Salón Boîte was restored according to the original wall-covering patterns and carpet colour.",
+    "quote": "The adjoining Salón Boîte was fully restored according to the original patterns for wall covering and carpet colour.",
+    "source": "https://en.wikipedia.org/wiki/Humboldt_Hotel"
    }
   ],
   "thin": false
@@ -1166,6 +1868,42 @@
     "fact": "A 1970s annex was not designed by Niemeyer and differs in style; UNESCO made reservations about it.",
     "quote": "In the 1970s, the club built an annex with a party hall and gym.",
     "source": "https://en.wikipedia.org/wiki/Iate_T%C3%AAnis_Clube"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "nagoya-city-art-museum",
+  "facts": [
+   {
+    "fact": "An art museum in Shirakawa Park, Nagoya, designed by Kisho Kurokawa and opened on 22 April 1988.",
+    "quote": "The Nagoya City Art Museum (名古屋市美術館, Nagoya-shi Bijutsukan) is an art museum in Naka-ku, Nagoya, Nagoya, Japan, located in Shirakawa Park.",
+    "source": "https://en.wikipedia.org/wiki/Nagoya_City_Art_Museum"
+   },
+   {
+    "fact": "Planning began with the 1977 Nagoya City Basic Plan; construction began in 1985 and the main building was completed in 1987.",
+    "quote": "Planning for the museum dates to the 1977 Nagoya City Basic Plan, which called for the creation of an art museum.",
+    "source": "https://en.wikipedia.org/wiki/Nagoya_City_Art_Museum"
+   },
+   {
+    "fact": "Sits on a long triangular site among trees; Kurokawa kept it below the tree height with permanent galleries and storage underground.",
+    "quote": "The museum stands in Shirakawa Park on a long triangular site surrounded by trees.",
+    "source": "https://en.wikipedia.org/wiki/Nagoya_City_Art_Museum"
+   },
+   {
+    "fact": "A sunken garden brings natural light into the approach to the underground galleries.",
+    "quote": "To bring natural light into the approach to the underground galleries, the design incorporates a sunken garden.",
+    "source": "https://en.wikipedia.org/wiki/Nagoya_City_Art_Museum"
+   },
+   {
+    "fact": "The plan is organized around a north–south main axis and a secondary axis opening to the northwest.",
+    "quote": "The plan is organized around a north–south main axis and a secondary axis opening to the northwest.",
+    "source": "https://en.wikipedia.org/wiki/Nagoya_City_Art_Museum"
+   },
+   {
+    "fact": "The museum states that the building incorporates references to Japanese traditional forms and local motifs.",
+    "quote": "The museum also states that the building incorporates references to Japanese traditional forms and local motifs.",
+    "source": "https://en.wikipedia.org/wiki/Nagoya_City_Art_Museum"
    }
   ],
   "thin": false
@@ -1681,6 +2419,27 @@
   "thin": false
  },
  {
+  "id": "academy-of-arts-pariser-platz",
+  "facts": [
+   {
+    "fact": "The Academy of Arts is a state arts institution in Berlin; this article covers the institution, not the Pariser Platz building.",
+    "quote": "The Academy of Arts (German: Akademie der Künste) is a state arts institution in Berlin, Germany.",
+    "source": "https://en.wikipedia.org/wiki/Academy_of_Arts,_Berlin"
+   },
+   {
+    "fact": "The earlier academy moved to Pariser Platz, next to Hotel Adlon, into the refurbished Palais Arnim, with plans by Ernst von Ihne.",
+    "quote": "The institution was housed on No. 8 Unter den Linden, until from 1902 the site was cleared and rebuilt as seat of the Berlin State Library.",
+    "source": "https://en.wikipedia.org/wiki/Academy_of_Arts,_Berlin"
+   },
+   {
+    "fact": "In 1938 the academy building was seized by Albert Speer for his Germania plans, and the Prussian Academy ceased operations in 1945.",
+    "quote": "In 1938 the academy building was seized by Hitler's chief architect Albert Speer to evolve his Welthauptstadt Germania plans; temporarily relocated to the Kronprinzenpalais, the Prussian Academy ultimately ceased operations in 1945.",
+    "source": "https://en.wikipedia.org/wiki/Academy_of_Arts,_Berlin"
+   }
+  ],
+  "thin": true
+ },
+ {
   "id": "alexandra-road-estate",
   "facts": [
    {
@@ -1727,6 +2486,52 @@
     "fact": "Granted Grade II* listing in 1993, the first post-war council housing estate to be listed.",
     "quote": "The estate has suffered less vandalism than many Camden estates, and it was granted Grade II* listed status on 18 August 1993, the first post-war council housing estate to be listed.",
     "source": "https://en.wikipedia.org/wiki/Alexandra_Road_Estate"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "aqua-tower",
+  "facts": [
+   {
+    "fact": "A mixed-use skyscraper in Lakeshore East, downtown Chicago, designed by a team led by Jeanne Gang of Studio Gang Architects.",
+    "quote": "Aqua is an 82-story mixed-use skyscraper in Lakeshore East, downtown Chicago, Illinois.",
+    "source": "https://en.wikipedia.org/wiki/Aqua_(Chicago)"
+   },
+   {
+    "fact": "It was Studio Gang's first skyscraper project.",
+    "quote": "Aqua was designed by Studio Gang Architects, led by firm principal and founder Jeanne Gang, and it was the firm's first skyscraper project.",
+    "source": "https://en.wikipedia.org/wiki/Aqua_(Chicago)"
+   },
+   {
+    "fact": "On completion it was the world's tallest building designed by a woman.",
+    "quote": "When it was completed, the skyscraper was the world's tallest building designed by a woman.",
+    "source": "https://en.wikipedia.org/wiki/Aqua_(Chicago)"
+   },
+   {
+    "fact": "Irregularly shaped concrete floor slabs give the facade an undulating, sculptural quality.",
+    "quote": "The location where the tower was built was a former rail yard that is adjacent to the Chicago River and Lake Michigan.",
+    "source": "https://en.wikipedia.org/wiki/Aqua_(Chicago)"
+   },
+   {
+    "fact": "Gang cites the striated limestone outcroppings of the Great Lakes region as inspiration for the slabs.",
+    "quote": "Gang cites the striated limestone outcroppings that are a common topographic feature of the Great Lakes region as inspiration for these slabs.",
+    "source": "https://en.wikipedia.org/wiki/Aqua_(Chicago)"
+   },
+   {
+    "fact": "The balconies shade the apartments in summer to reduce the air-conditioning load.",
+    "quote": "Gang and her team designed the balconies to shade the apartments from the sun in summer, to reduce the air-conditioning load.",
+    "source": "https://en.wikipedia.org/wiki/Aqua_(Chicago)"
+   },
+   {
+    "fact": "The exterior formwork for the undulating facade was singled out in Engineering News-Record's top news makers of 2008.",
+    "quote": "Concrete Superintendent Paul Treacy, was nominated as one of Engineering News-Record's (ENR) top 25 news makers of 2008 for the design and implementation of the exterior formwork to mold the undulating façade of the Aqua.",
+    "source": "https://en.wikipedia.org/wiki/Aqua_(Chicago)"
+   },
+   {
+    "fact": "Won the Emporis Skyscraper Award as 2009 skyscraper of the year.",
+    "quote": "Aqua was awarded the Emporis Skyscraper Award as 2009 skyscraper of the year, and was shortlisted in 2010 for the biennial International Highrise Award.",
+    "source": "https://en.wikipedia.org/wiki/Aqua_(Chicago)"
    }
   ],
   "thin": false
