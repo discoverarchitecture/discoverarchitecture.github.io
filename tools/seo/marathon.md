@@ -19,10 +19,10 @@ Rules that hold the whole time (CLAUDE.md):
 ## Tasks, in order
 
 - [x] Search, rebuilt (canvas v37), merged 6 Nov (PR #169).
-- [ ] 1. Search suggestions on every other page (building, architect, hub, guide, A–Z, policy pages): a small search
+- [x] 1. Search suggestions on every other page (building, architect, hub, guide, A–Z, policy pages): a small search
       index loaded the first time the field is used, the same box as on the wall; a building opens its own page, an
       architect their page, a style or type its hub or the wall's filter, "See all" the wall's search.
-- [ ] 2. Count searches that find nothing (`search/none/<words>`, letters and digits only, at most 40 characters, once a
+- [x] 2. Count searches that find nothing (`search/none/<words>`, letters and digits only, at most 40 characters, once a
       visit) so we learn what students want and the wall lacks; one line on the privacy page.
 - [ ] 3. Building write-ups for the 300 most-seen building pages: wait for `facts_1/2/3.json` from the three Sonnet
       sessions (branches `claude/writeups-facts-1/2/3`), then write 90–140 words each from those facts only
@@ -41,3 +41,4 @@ Rules that hold the whole time (CLAUDE.md):
 ## Log
 
 - 6 Nov 21:15 UTC: plan written; search merged.
+- 6 Nov 22:40 UTC: tasks 1 and 2 merged (PR #173): the box on every page, and search/none counting.
