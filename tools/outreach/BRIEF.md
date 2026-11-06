@@ -60,3 +60,12 @@ Work on branch `claude/outreach-libguides`; change only `tools/outreach/candidat
 `tools/outreach/progress_libguides.md` (what you searched, what you rejected and why). When about 40 good guides pass
 the check, open a pull request to `main` titled "Outreach: library guides" and stop. Do not merge; do not touch `site/`;
 do not contact anyone.
+
+## Round 2 (6 Nov 2026)
+
+The owner asked for a much wider round: **about 120 more guides**, none from the schools in
+`tools/outreach/round1_schools.txt` (round 1, already emailed). Same rules and the same checker, on branch
+`claude/outreach-libguides-2`; `candidates_libguides.json` there holds only the new round. Also welcome this round:
+art and design or architectural history guides with an image section, landscape and interior architecture guides,
+and community and technical colleges that teach architecture. Prefer guides that name a librarian or link a profile
+page. From 6 Nov 2026 the owner has asked the SEO strategy chat to send the emails itself, at a human pace.

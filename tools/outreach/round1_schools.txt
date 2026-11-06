@@ -1,0 +1,42 @@
+AUT
+Arts University Bournemouth
+Auburn University
+Barnard College
+Birmingham City University
+Bond University
+Brown University
+California College of the Arts
+Carnegie Mellon University
+City Tech, CUNY
+Clemson University
+Dalhousie University
+Deakin University
+Delgado Community College
+Ferris State University
+Fordham University
+Hong Kong University
+Kean University
+Leeds Beckett University
+Melbourne Polytechnic
+New Mexico State University (DACC)
+Prince Mohammad Bin Fahd University
+RMIT University
+Texas Tech University
+Tulane University
+Unitec
+University College Dublin
+University of Auckland
+University of British Columbia
+University of Calgary
+University of Detroit Mercy
+University of Edinburgh
+University of Huddersfield
+University of Illinois Urbana-Champaign
+University of Manitoba
+University of Michigan
+University of Notre Dame
+University of Oregon
+University of Strathclyde
+University of Texas at Austin
+Utah Valley University
+Victoria University of Wellington
