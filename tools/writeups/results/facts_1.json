@@ -1,5 +1,67 @@
 [
  {
+  "id": "casa-gaspar",
+  "facts": [
+   {
+    "fact": "Gaspar House is named among the works for which Alberto Campo Baeza is recognised in architectural circles, alongside houses in Madrid, Cádiz, Toledo and Zaragoza.",
+    "quote": "From the Houses Turégano and de Blas, both in Madrid, to Gaspar House, Asencio House, or Guerrero House in Cádiz, Rufo House in Toledo, and Moliner House in Zaragoza.",
+    "source": "https://en.wikipedia.org/wiki/Alberto_Campo_Baeza"
+   }
+  ],
+  "thin": true
+ },
+ {
+  "id": "villa-busk",
+  "facts": [],
+  "thin": true
+ },
+ {
+  "id": "los-manantiales-restaurant",
+  "facts": [
+   {
+    "fact": "Los Manantiales restaurant in Xochimilco, Mexico City (1958) is listed among Félix Candela's works, with Joaquín Álvarez Ordóñez.",
+    "quote": "1958, Los Manatiales restaurant, Xochimilco, Mexico City, with Joaquín Álvarez Ordonez",
+    "source": "https://en.wikipedia.org/wiki/Félix_Candela"
+   },
+   {
+    "fact": "Candela was an expert in paraboloid and hyperbolic geometry and experimented with shell-shaped residential and commercial structures from early in his career.",
+    "quote": "As an expert of paraboloid and hyperbolic geometry, he was drawn to experiment on a series of residential and commercial shell-shaped structures since the beginning of his career.",
+    "source": "https://en.wikipedia.org/wiki/Félix_Candela"
+   },
+   {
+    "fact": "Candela worked as an architect on arrival in Mexico, then in 1949 started to engineer many concrete structures using his well-known thin-shell design.",
+    "quote": "Félix Candela worked as an architect upon his arrival in Mexico until 1949 when he started to engineer many concrete structures utilizing his well-known thin-shell design.",
+    "source": "https://en.wikipedia.org/wiki/Félix_Candela"
+   },
+   {
+    "fact": "Candela taught thin-shell concrete structures and hyperbolic paraboloid geometry as a way to integrate architectural form with structural efficiency.",
+    "quote": "Candela's teaching focusing on thin-shell concrete structures and hyperbolic paraboloid geometry as a way to integrate architectural form with structural efficiency.",
+    "source": "https://en.wikipedia.org/wiki/Félix_Candela"
+   }
+  ],
+  "thin": true
+ },
+ {
+  "id": "meiso-no-mori",
+  "facts": [],
+  "thin": true
+ },
+ {
+  "id": "casa-rotonda-stabio",
+  "facts": [],
+  "thin": true
+ },
+ {
+  "id": "villa-schreiner",
+  "facts": [],
+  "thin": true
+ },
+ {
+  "id": "marie-short-house",
+  "facts": [],
+  "thin": true
+ },
+ {
   "id": "hooper-house-ii",
   "facts": [
    {
@@ -82,6 +144,44 @@
   "thin": false
  },
  {
+  "id": "sky-house",
+  "facts": [
+   {
+    "fact": "Kiyonori Kikutake often worked with structural engineer Gengo Matsui on well-known projects including the Sky House.",
+    "quote": "Kikutake often collaborated with the prominent Japanese structural engineer Gengo Matsui. Starting from the early 1950s, they worked together on the design of more than 40 buildings, including on well-known projects like the Sky House",
+    "source": "https://en.wikipedia.org/wiki/Kiyonori_Kikutake"
+   }
+  ],
+  "thin": true
+ },
+ {
+  "id": "hillside-terrace",
+  "facts": [
+   {
+    "fact": "When Fumihiko Maki returned to Tokyo in 1965, he worked on the Hillside Terrace project for almost a quarter of a century beginning in 1967.",
+    "quote": "When he returned to Tokyo in 1965, he worked on the Hillside Terrace Project for almost a quarter of a century beginning in 1967.",
+    "source": "https://en.wikipedia.org/wiki/Fumihiko_Maki"
+   }
+  ],
+  "thin": true
+ },
+ {
+  "id": "casa-rustici",
+  "facts": [
+   {
+    "fact": "Pietro Lingeri collaborated with Giuseppe Terragni on several Italian Rationalist projects, including Casa Rustici in Milan (1935).",
+    "quote": "After graduating from the Brera Academy in Milan in 1926, Lingeri became one of the founders of the Movimento Italiano per l'Architettura Razionale (MIAR) in 1930. He collaborated with architects such as Giuseppe Terragni, contributing to several projects of the Italian Rationalist movement, including Casa Rustici in Milan (1935).",
+    "source": "https://en.wikipedia.org/wiki/Pietro_Lingeri"
+   }
+  ],
+  "thin": true
+ },
+ {
+  "id": "house-in-white",
+  "facts": [],
+  "thin": true
+ },
+ {
   "id": "fredensborg-houses",
   "facts": [
    {
@@ -121,6 +221,11 @@
    }
   ],
   "thin": false
+ },
+ {
+  "id": "cafe-de-unie",
+  "facts": [],
+  "thin": true
  },
  {
   "id": "cocoa-house-ibadan",
@@ -251,6 +356,16 @@
   "thin": false
  },
  {
+  "id": "hubertus-house",
+  "facts": [],
+  "thin": true
+ },
+ {
+  "id": "house-n",
+  "facts": [],
+  "thin": true
+ },
+ {
   "id": "eames-house",
   "facts": [
    {
@@ -322,6 +437,17 @@
   "thin": false
  },
  {
+  "id": "25-bis-rue-franklin",
+  "facts": [
+   {
+    "fact": "Perret's first important project was an apartment building on rue Franklin in Paris (1903), where the concrete structure was left visible as part of the exterior design.",
+    "quote": "Perret immediately began experimenting with concrete. His first important project was an apartment building on rue Franklin in Paris (1903), where the concrete structure, instead of being concealed, was clearly visible and was a part of the exterior design.",
+    "source": "https://en.wikipedia.org/wiki/Auguste_Perret"
+   }
+  ],
+  "thin": true
+ },
+ {
   "id": "eastgate-centre",
   "facts": [
    {
@@ -371,6 +497,11 @@
    }
   ],
   "thin": false
+ },
+ {
+  "id": "sines-arts-centre",
+  "facts": [],
+  "thin": true
  },
  {
   "id": "jacobs-ii-house-solar-hemicycle",
@@ -531,6 +662,33 @@
   "thin": false
  },
  {
+  "id": "collegio-del-colle-urbino",
+  "facts": [
+   {
+    "fact": "Giancarlo De Carlo's Collegio del Colle student accommodation in Urbino dates from 1962–1965.",
+    "quote": "1962–1965, Collegio del Colle Student Accommodation, Urbino.",
+    "source": "https://en.wikipedia.org/wiki/Giancarlo_De_Carlo"
+   },
+   {
+    "fact": "De Carlo became closely linked with Urbino, becoming its town planner in 1958 and creating a master plan for the city.",
+    "quote": "De Carlo became closely linked with Urbino, becoming its town planner in 1958 and creating a master plan for the city.",
+    "source": "https://en.wikipedia.org/wiki/Giancarlo_De_Carlo"
+   }
+  ],
+  "thin": true
+ },
+ {
+  "id": "nantes-school-of-architecture",
+  "facts": [
+   {
+    "fact": "Lacaton & Vassal designed the Nantes School of Architecture (École nationale supérieure d'architecture de Nantes), completed in 2009.",
+    "quote": "Lacaton & Vassal began design work on the Architecture School of Nantes (L’école nationale supérieure d'architecture de Nantes), a project that was completed in 2009.",
+    "source": "https://en.wikipedia.org/wiki/Lacaton_&_Vassal"
+   }
+  ],
+  "thin": true
+ },
+ {
   "id": "mesa-laboratory-ncar",
   "facts": [
    {
@@ -647,6 +805,11 @@
    }
   ],
   "thin": false
+ },
+ {
+  "id": "casa-gilardi",
+  "facts": [],
+  "thin": true
  },
  {
   "id": "solar-do-unhao",
@@ -1187,6 +1350,22 @@
   "thin": false
  },
  {
+  "id": "malagueira-housing",
+  "facts": [
+   {
+    "fact": "In 1977, after the revolution in Portugal, the city government of Évora commissioned Siza to plan a housing project in the rural outskirts of the town.",
+    "quote": "In 1977, following the revolution in Portugal, the city government of Évora commissioned Siza to plan a housing project in the rural outskirts of the town.",
+    "source": "https://en.wikipedia.org/wiki/Álvaro_Siza_Vieira"
+   },
+   {
+    "fact": "It was one of several projects Siza did for SAAL, the national housing association, with low-cost housing units, some one-storey and some two-storey row houses, all with courtyards.",
+    "quote": "It was to be one of several that he would do for SAAL (Serviço de Apoio Ambulatório Local), the national housing association, consisting of 1,200 low-cost, housing units, some one-story and some two-story row houses, all with courtyards.",
+    "source": "https://en.wikipedia.org/wiki/Álvaro_Siza_Vieira"
+   }
+  ],
+  "thin": true
+ },
+ {
   "id": "30-rockefeller-plaza",
   "facts": [
    {
@@ -1335,6 +1514,22 @@
   "thin": false
  },
  {
+  "id": "santa-maria-da-feira-municipal-market",
+  "facts": [],
+  "thin": true
+ },
+ {
+  "id": "pousada-santa-maria-do-bouro",
+  "facts": [
+   {
+    "fact": "Between 1989 and 1997 Eduardo Souto de Moura spent eight years restoring Santa Maria do Bouro, a half-destroyed 12th-century monastery in Amares, and transformed it into a Pousada.",
+    "quote": "Between 1989 and 1997, Souto de Moura spent eight years on the restoration of Santa Maria do Bouro, a half-destroyed 12th-century monastery in Amares, transforming it into a Pousada.",
+    "source": "https://en.wikipedia.org/wiki/Eduardo_Souto_de_Moura"
+   }
+  ],
+  "thin": true
+ },
+ {
   "id": "central-saint-martins-granary",
   "facts": [
    {
@@ -1452,6 +1647,17 @@
    }
   ],
   "thin": false
+ },
+ {
+  "id": "diagoon-houses",
+  "facts": [
+   {
+    "fact": "The Diagoon Houses (1971) are experimental houses by Herman Hertzberger, who with Aldo van Eyck influenced the Dutch Structuralist movement.",
+    "quote": "Hertzberger and Aldo van Eyck influenced the development of the Dutch Structuralist movement of the 1960s and 1970s. Among his buildings are the experimental houses known as \"Diagoon Houses\" (1971)",
+    "source": "https://en.wikipedia.org/wiki/Herman_Hertzberger"
+   }
+  ],
+  "thin": true
  },
  {
   "id": "university-of-ruhuna",
@@ -1665,6 +1871,11 @@
   "thin": false
  },
  {
+  "id": "minna-no-mori-gifu-media-cosmos",
+  "facts": [],
+  "thin": true
+ },
+ {
   "id": "cymbalista-synagogue",
   "facts": [
    {
@@ -1778,6 +1989,17 @@
   "thin": false
  },
  {
+  "id": "dutch-pavilion-venice-biennale",
+  "facts": [
+   {
+    "fact": "After a revival of interest in his work, Rietveld was given many commissions, including the Dutch pavilion for the Venice Biennale (1953).",
+    "quote": "Interest in his work revived as a result. In subsequent years he was given many commissions, including the Dutch pavilion for the Venice Biennale (1953)",
+    "source": "https://en.wikipedia.org/wiki/Gerrit_Rietveld"
+   }
+  ],
+  "thin": true
+ },
+ {
   "id": "foguang-temple-east-hall",
   "facts": [
    {
@@ -1834,6 +2056,38 @@
   "thin": false
  },
  {
+  "id": "gunma-music-center",
+  "facts": [
+   {
+    "fact": "In 1955 Antonin Raymond began a commission in Takasaki, Gunma Prefecture, for a Music Centre to house the Gunma Symphony Orchestra.",
+    "quote": "In 1955, Raymond began a commission in Takasaki, Gunma Prefecture for a Music Centre to house the Gunma Symphony Orchestra.",
+    "source": "https://en.wikipedia.org/wiki/Antonin_Raymond"
+   }
+  ],
+  "thin": true
+ },
+ {
+  "id": "cosmic-rays-pavilion",
+  "facts": [
+   {
+    "fact": "The Cosmic Rays Pavilion (1951) at the National Autonomous University of Mexico was designed with Jorge González Reyna.",
+    "quote": "1951, Pabellón de Rayos Cósmicos (\"Pavilion of Cosmic Rays\"), National Autonomous University of Mexico, with Jorge González Reyna",
+    "source": "https://en.wikipedia.org/wiki/Félix_Candela"
+   },
+   {
+    "fact": "The pavilion was one of the larger projects the Mexican government gave Candela.",
+    "quote": "Many of his larger projects were given to him by the Mexican government, such as the Cosmic Rays Pavilion.",
+    "source": "https://en.wikipedia.org/wiki/Félix_Candela"
+   },
+   {
+    "fact": "Candela is known for engineering concrete structures using his thin-shell design.",
+    "quote": "Félix Candela worked as an architect upon his arrival in Mexico until 1949 when he started to engineer many concrete structures utilizing his well-known thin-shell design.",
+    "source": "https://en.wikipedia.org/wiki/Félix_Candela"
+   }
+  ],
+  "thin": true
+ },
+ {
   "id": "grady-gammage-memorial-auditorium",
   "facts": [
    {
@@ -1878,6 +2132,16 @@
    }
   ],
   "thin": false
+ },
+ {
+  "id": "vertical-courtyard-apartments",
+  "facts": [],
+  "thin": true
+ },
+ {
+  "id": "atelier-bardill",
+  "facts": [],
+  "thin": true
  },
  {
   "id": "cameron-offices",
@@ -2157,6 +2421,27 @@
   "thin": false
  },
  {
+  "id": "bacardi-bottling-plant",
+  "facts": [
+   {
+    "fact": "The Bacardi bottling plant in Cuautitlán, near Mexico City (1959–1960), is listed among Félix Candela's works.",
+    "quote": "1959–1960, Planta embotelladora Bacardi, Cuautitlán, near Mexico City",
+    "source": "https://en.wikipedia.org/wiki/Félix_Candela"
+   },
+   {
+    "fact": "Candela did most of his work in Mexico in the 1950s and into the late 60s, and was responsible for more than 300 works and 900 projects.",
+    "quote": "Félix Candela worked as an architect upon his arrival in Mexico until 1949 when he started to engineer many concrete structures utilizing his well-known thin-shell design. Candela did most of his work in Mexico throughout the 1950s and into the late 60s. He was responsible for more than 300 works and 900 projects in this time period.",
+    "source": "https://en.wikipedia.org/wiki/Félix_Candela"
+   }
+  ],
+  "thin": true
+ },
+ {
+  "id": "capilla-del-retiro",
+  "facts": [],
+  "thin": true
+ },
+ {
   "id": "e-1027",
   "facts": [
    {
@@ -2203,6 +2488,11 @@
   "thin": false
  },
  {
+  "id": "casa-papanice",
+  "facts": [],
+  "thin": true
+ },
+ {
   "id": "gartenstadt-falkenberg",
   "facts": [
    {
@@ -2221,6 +2511,11 @@
     "source": "https://en.wikipedia.org/wiki/Bruno_Taut"
    }
   ],
+  "thin": true
+ },
+ {
+  "id": "paks-catholic-church",
+  "facts": [],
   "thin": true
  },
  {
@@ -2439,6 +2734,11 @@
   "thin": true
  },
  {
+  "id": "glass-house-jeju",
+  "facts": [],
+  "thin": true
+ },
+ {
   "id": "hedmark-museum",
   "facts": [
    {
@@ -2478,5 +2778,26 @@
    }
   ],
   "thin": false
+ },
+ {
+  "id": "le-fresnoy",
+  "facts": [
+   {
+    "fact": "Bernard Tschumi designed Le Fresnoy, Studio National des Arts Contemporains, in Tourcoing, France, in 1992, and it was completed in 1999.",
+    "quote": "In 1992 he designed Le Fresnoy, Studio National des Arts Contemporains, in Tourcoing, France, which was completed in 1999.",
+    "source": "https://en.wikipedia.org/wiki/Bernard_Tschumi"
+   },
+   {
+    "fact": "The complex uses the space between the roofs of existing buildings and an added huge umbrella roof above them, creating an interstitial zone of program on ramps and catwalks.",
+    "quote": "The Le Fresnoy complex uses the space between the roofs of existing buildings and an added, huge umbrella roof above them which creates an interstitial zone of program on ramps and catwalks.",
+    "source": "https://en.wikipedia.org/wiki/Bernard_Tschumi"
+   }
+  ],
+  "thin": true
+ },
+ {
+  "id": "stegastein-viewpoint",
+  "facts": [],
+  "thin": true
  }
 ]
