@@ -552,5 +552,116 @@
     ]
    }
   ]
+ },
+ {
+  "slug": "religious-buildings",
+  "faq": [
+   {
+    "q": "What is sacred architecture?",
+    "a": "Sacred or religious architecture is the design and building of places of worship, whose plan and form carry belief. Ancient temples were often seen as a god's dwelling, and a Hindu temple is read as a model of the universe and of inner space, its sanctum crowned by a tower, the shikhara, called the vimana in the south. Bahá'í houses of worship are nine-sided, with nine entrances.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Sacred_architecture",
+     "https://en.wikipedia.org/wiki/Hindu_temple_architecture"
+    ]
+   },
+   {
+    "q": "How did mosque architecture develop?",
+    "a": "The earliest mosques were hypostyle halls, pioneered under the Umayyads, with a courtyard for Friday prayer crowds. The Ottomans introduced the central-dome mosque in the 15th century: Mimar Sinan's Süleymaniye Mosque in Istanbul (1557) buttresses its dome with half-domes, and the Selimiye Mosque in Edirne (1575) carries one wide dome on eight piers. Modern mosques reinterpret both, like Marina Tabassum's Bait Ur Rouf Mosque in Dhaka (2012).",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Mosque",
+     "wall"
+    ]
+   },
+   {
+    "q": "Which religious buildings should architecture students study?",
+    "a": "Hagia Sophia in Istanbul (537) was one of the first buildings with a fully pendentive dome. The Great Mosque of Djenné in Mali (1907) is built of mud brick, its palm-wood beams left as fixed scaffolding. Then compare Le Corbusier's Notre-Dame du Haut in Ronchamp (1955), Oscar Niemeyer's Cathedral of Brasília (1970), Tadao Ando's Church of the Light (1989) and the Lotus Temple in New Delhi (1986).",
+    "sources": [
+     "wall"
+    ]
+   },
+   {
+    "q": "How did modern materials change church design?",
+    "a": "Gothic architecture, which began in 12th-century France at the abbey church of Saint-Denis, was defined by the pointed arch. In the 20th century, steel and concrete changed church design. Kenzo Tange's St. Mary's Cathedral in Tokyo (1964) meets eight hyperbolic paraboloid shells in a cross-shaped skylight, Niemeyer's Cathedral of Brasília rings a sunken nave with sixteen curved concrete columns, and Ando cuts a cross of light into a concrete wall.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Gothic_architecture",
+     "https://en.wikipedia.org/wiki/Church_architecture",
+     "wall"
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "schools-and-campuses",
+  "faq": [
+   {
+    "q": "Why does school architecture matter?",
+    "a": "The design of a building can strongly shape how students learn, so a school's plan, light and shared spaces are part of its teaching. In the late 1960s and 1970s open classrooms became popular in North America. SANAA's Rolex Learning Center in Lausanne (2010) takes the idea further: one continuous floor rises and falls as hills and valleys, pierced by patios, in place of stairs and walls.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/School_architecture",
+     "wall"
+    ]
+   },
+   {
+    "q": "What is the difference between an American campus and a British university?",
+    "a": "A campus traditionally means the land and buildings of a college or university. In 1922 Patrick Abercrombie contrasted the American campus, its departments scattered about a park among the trees, with the formal quadrangles of Oxford and Cambridge. Gothic, which flourished in English universities from the 13th to the 15th centuries, was later revived for campuses, as in Pittsburgh's Cathedral of Learning (1937).",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Campus",
+     "https://en.wikipedia.org/wiki/School_architecture",
+     "wall"
+    ]
+   },
+   {
+    "q": "Which school and campus buildings should architecture students study?",
+    "a": "Walter Gropius founded the Bauhaus in Weimar on 1 April 1919, and his Bauhaus Dessau (1926) wraps the workshops in a glass curtain wall on a pinwheel plan. Then compare Mackintosh's Glasgow School of Art (1909), Mies's S. R. Crown Hall in Chicago (1956), Le Corbusier's Carpenter Center for the Visual Arts (1963), Louis Kahn's Phillips Exeter Academy Library (1971) and Herzog & de Meuron's Blavatnik School of Government in Oxford (2015).",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Bauhaus",
+     "wall"
+    ]
+   },
+   {
+    "q": "Why are so many university buildings brutalist?",
+    "a": "Brutalism was widely used on university campuses around the world in the 1960s and 1970s. Paul Rudolph's Yale Art and Architecture Building (1963) is a design studio built in section, with dozens of interlocking levels. Vilanova Artigas's FAU-USP in São Paulo (1969) puts an architecture school under one great roof, joined by ramps, and Denys Lasdun's ziggurats at the University of East Anglia (1968) step down to a lake.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/School_architecture",
+     "wall"
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "memorials",
+  "faq": [
+   {
+    "q": "What is memorial architecture?",
+    "a": "A memorial is an object or place that focuses memory or commemoration, and memorial architecture gives remembering a place. The most common kind is a gravestone or a plaque; temporary, makeshift memorials are called grassroots memorials. A mausoleum is a monument that encloses a burial chamber: the word comes from the tomb of Mausolus at Halicarnassus. Anitkabir in Ankara (1953), the mausoleum of Atatürk, is one modern example.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Memorial",
+     "https://en.wikipedia.org/wiki/Mausoleum",
+     "wall"
+    ]
+   },
+   {
+    "q": "Which memorials should architecture students study?",
+    "a": "Compare the Taj Mahal in Agra (1653), a white marble tomb on a raised plinth in a quartered garden; Eero Saarinen's Gateway Arch in St. Louis (1965); Enric Miralles and Carme Pinós's Igualada Cemetery (1994), a path cut into a former quarry; Peter Eisenman's Memorial to the Murdered Jews of Europe in Berlin (2005); and Michael Arad and Peter Walker's National September 11 Memorial in New York (2011).",
+    "sources": [
+     "wall"
+    ]
+   },
+   {
+    "q": "Why was the Vietnam Veterans Memorial controversial?",
+    "a": "Maya Lin's Vietnam Veterans Memorial, dedicated in 1982, is two black granite walls. Its colour, its lack of ornament and its form set below the ground were controversial at first. It is a useful case for students because each of those three choices, material, decoration and section, is what gives the memorial its meaning, and each was what critics first objected to.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Vietnam_Veterans_Memorial"
+    ]
+   },
+   {
+    "q": "How does the Memorial to the Murdered Jews of Europe work?",
+    "a": "Peter Eisenman's memorial in Berlin, opened in 2005, sets 2,711 concrete stelae of varying height on a sloping grid, forming narrow aisles that visitors walk between. There are no names or information on the stelae themselves, and critics have said that this weakens its message. Compare it with the National September 11 Memorial, where two square voids mark the towers' footprints.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Memorial_to_the_Murdered_Jews_of_Europe",
+     "wall"
+    ]
+   }
+  ]
  }
 ]
