@@ -1213,6 +1213,12 @@
       (i === 2 ? '<span>Studio tells you what it read from your drawings. One tap says yes; “Fix it” corrects it.</span><div class="bcheck pvbc" aria-hidden="true"><p class="bq"><span><b>We read:</b> 1 block · tensile roof. <b>Right?</b></span></p><div class="bopts"><span class="bopt yes">Yes</span><span class="bopt">Fix it</span></div></div>' : '<span>' + d + '</span>') +
       '</div></li>').join('') + '</ol></div>' +
     '<p class="pvgo"><button class="link" data-act="toHero">Try it with your sheets →</button></p></section>';
+  /* "Watch it work" (owner, 6 Nov 2026): the 2:43 walkthrough of the Law Garden sample, captions burned in. Nothing
+     downloads until play (preload="none"); the poster is one frame from the video. */
+  const watch = () => '<section class="wrap" id="watch"><h2 class="kicker">Watch it work</h2><p class="big hd">One real project, start to finish</p>' +
+    '<p class="lede">A student’s Law Garden sheets become an A1 board and a jury deck, and you see what the AI did to each drawing. Under three minutes, captions on.</p>' +
+    '<figure class="wvid"><video controls playsinline preload="none" poster="video/poster.webp" width="1920" height="1080" aria-label="Studio FGA walkthrough: a student’s sheets to a jury-ready A1 board and deck">' +
+    '<source src="video/studio-fga-walkthrough.mp4" type="video/mp4"></video></figure></section>';
   /* "Boards made with Studio FGA" (owner, 5 Nov 2026): five boards from our own pipeline. k5 is the real student
      project (shown with the student's permission); k1-k4 are test projects we ran on famous buildings, never called
      student work. Photo credits load from sample/gallery/credits.json; an empty one reads "Credits being added".
@@ -1295,7 +1301,7 @@
       '<p class="status">Sample: a real student’s community centre for the cloth vendors of Law Garden, Ahmedabad, shown with the owner’s permission.</p></section>' +
       '<section class="wrap" id="how"><h2 class="kicker">How it works</h2><p class="big hd">Four steps. The first three are free.</p><div class="lsteps">' +
       steps.map((t, i) => '<div class="lstep card"><span class="lnum">' + (i + 1) + '</span><svg viewBox="0 0 24 24" aria-hidden="true">' + sico[t[2]] + '</svg><h3 class="h3">' + t[0] + '</h3><p>' + t[1] + '</p></div>').join('') + '</div></section>' +
-      previewShow() +
+      watch() + previewShow() +
       '<section class="band"><div class="wrap bandin"><div><p class="big hd">See it before you pay.</p><p class="lede">Upload, answer a few questions and preview your board and deck for free. Pay only when you want the final files.</p></div>' + shiny('start', 'Start free', 'No login · preview free') + '</div></section>' +
       '<section class="wrap" id="get"><h2 class="kicker">What you get</h2><p class="big hd">Everything a jury expects, done for you</p><div class="deal deal2">' + sheets(8, '', 'h') +
       '<div class="dealtxt">' + getsList(null, F.visibleSlides(HP).length) + '</div></div></section>' +

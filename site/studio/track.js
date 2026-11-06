@@ -6,6 +6,7 @@
 //   studio/files/<screen>           files chosen or dropped
 //   studio/typed/<screen>           started typing in a box (what was typed is never sent)
 //   studio/scroll/<25|50|75|100>    how far down the landing page people read
+//   studio/video/<play|ended>       the walkthrough video started / watched to the end
 // Each is counted once per visit, so the numbers read as "how many visitors got this far".
 (function () {
   if (!window.fgaEvent) return;
@@ -43,6 +44,10 @@
     } else what = el.tagName === 'SUMMARY' ? 'open-details' : 'button';
     once('studio/click/' + screen() + '/' + what);
   }, true);
+
+  // The walkthrough video on the landing: started, and watched to the end.
+  document.addEventListener('play', function (e) { if (e.target.tagName === 'VIDEO') once('studio/video/play'); }, true);
+  document.addEventListener('ended', function (e) { if (e.target.tagName === 'VIDEO') once('studio/video/ended'); }, true);
 
   // Files chosen or dropped, and typing started (the content itself is never read).
   document.addEventListener('change', function (e) {
