@@ -36,6 +36,12 @@ Rules that hold the whole time (CLAUDE.md):
 - [ ] 8. Guide 4: The jury deck (10–15 slides that follow the board).
 - [ ] 9. Internal links: every guide linked from the hubs it mentions and from the home page's About block; `llms.txt`
       and the sitemap carry the new pages.
+- [ ] 11. Write-ups round 2: the next 300 building pages by Google impressions (`todo_4-6.json`). Three Sonnet sessions
+      gather facts (`claude/writeups-facts-4/5/6`: session_01MLZuXpm4Fji2w1CbrabzhX, session_01MLZuXn19kLBQvwhPhv2oDQ,
+      session_01MLZuXq8Kg6g9SyhLDbSNen). When their `facts_4/5/6.json` land: write (Opus agents, `in_*.json` style), then a
+      strict fact-check against the quotes, then the own-words pass (`measure.py`-style copied share under 0.15), then
+      `check_writeups.py`, then add to `writeups.json` on `claude/writeups-faqs` (PR #175, still unmerged). Process in
+      `tools/writeups/BRIEF.md`, "What actually happened".
 - [ ] 10. Final report to the owner: what went live, what waits for their decision, numbers to watch.
 
 ## Log
@@ -48,3 +54,6 @@ Rules that hold the whole time (CLAUDE.md):
   hubs with FAQPage data, guides 2-4 (precedent study, jury presentation, jury deck), guides listed in llms.txt and the
   home page's text. Next: finish the fact-check, merge `final_*.json` into `tools/writeups/results/writeups.json`, run
   `tools/writeups/check_writeups.py`, rebuild, re-shoot v38, open the PR (unmerged).
+- 6 Nov 22:05 UTC (the clock above is UTC): tasks 3, 4, 6, 7, 8, 9 finished and in **PR #175, unmerged, waiting for the
+  owner** (canvas v38 refreshed). 185 write-ups went through write, strict fact-check (made-up details removed), and own
+  words (under 15% copied; was up to 73%); hub answers rewritten so they don't repeat the intro. Round 2 started (task 11).
