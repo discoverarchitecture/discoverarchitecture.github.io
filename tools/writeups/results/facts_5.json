@@ -95,7 +95,7 @@
     "source": "https://en.wikipedia.org/wiki/Hajj_Terminal"
    },
    {
-    "fact": "Fazlur Khan wanted the main space to be open and shaded rather than fully air-conditioned.",
+    "fact": "Fazlur Khan said the main terminal space should be an open, shaded space.",
     "quote": "We felt that from a local and cultural viewpoint, the main terminal space should be an open, shaded space.",
     "source": "https://en.wikipedia.org/wiki/Hajj_Terminal"
    },
@@ -152,7 +152,7 @@
   "id": "jerusalem-theatre",
   "facts": [
    {
-    "fact": "It opened in 1971 as a centre for the performing arts.",
+    "fact": "It is a centre for the performing arts in Jerusalem.",
     "quote": "The Jerusalem Theatre (Hebrew: תיאטרון ירושלים, a.k.a. The Jerusalem Centre for the Performing Arts) is a centre for the performing arts in Jerusalem.",
     "source": "https://en.wikipedia.org/wiki/Jerusalem_Theatre"
    },
@@ -182,7 +182,7 @@
     "source": "https://en.wikipedia.org/wiki/Jerusalem_Theatre"
    },
    {
-    "fact": "Building was slow, from the 1964 cornerstone to the 1971 dedication.",
+    "fact": "The building was dedicated in October 1971.",
     "quote": "The building was dedicated in October 1971.",
     "source": "https://en.wikipedia.org/wiki/Jerusalem_Theatre"
    },
@@ -988,7 +988,7 @@
     "source": "https://en.wikipedia.org/wiki/Burrell_Collection"
    },
    {
-    "fact": "The orientation brings in natural light while protecting fragile pieces; the design was influenced by Scandinavian design.",
+    "fact": "The orientation of the building brings in as much natural light as possible while protecting the vulnerable parts of the collection.",
     "quote": "The architects used the orientation of the building to bring in as much natural light as possible, while still protecting the vulnerable parts of the collection.",
     "source": "https://en.wikipedia.org/wiki/Burrell_Collection"
    },
@@ -1470,5 +1470,1801 @@
    }
   ],
   "thin": false
+ },
+ {
+  "id": "maersk-tower",
+  "facts": [],
+  "thin": true
+ },
+ {
+  "id": "napier-street-housing",
+  "facts": [
+   {
+    "fact": "Kerstin Thompson Architects completed it in 2001; it won the RAIA Residential Multiple Award in 2002.",
+    "quote": "Completed in 2001, Napier Street Housing is a residential complex in Fitzroy, Victoria, designed by Kerstin Thompson Architects. The design was awarded the RAIA Residential Multiple Award in 2002.",
+    "source": "https://en.wikipedia.org/wiki/Napier_Street_Housing"
+   },
+   {
+    "fact": "It has eleven dwellings, each with a roof terrace.",
+    "quote": "The design includes eleven dwellings and each one includes a generous roof terrace and flexible options for occupation.",
+    "source": "https://en.wikipedia.org/wiki/Napier_Street_Housing"
+   },
+   {
+    "fact": "It responds to neighbours from historic terraces to post-war towers.",
+    "quote": "Located at the centre of an established residential precinct, this project responds to a variety of neighbouring building types ranging from historic terraces and row houses to converted industrial buildings and post-war housing towers.",
+    "source": "https://en.wikipedia.org/wiki/Napier_Street_Housing"
+   },
+   {
+    "fact": "It reconfigures the traditional terrace plan vertically.",
+    "quote": "Napier Street Housing takes the linear disposition of the traditional terrace housing – formal rooms at the front, narrow services rooms into the depth of the block, indented side light court and rear pocket garden – and reconfigures it vertically.",
+    "source": "https://en.wikipedia.org/wiki/Napier_Street_Housing"
+   },
+   {
+    "fact": "Garages and bedrooms are on the ground floor around light courts, with living areas upstairs.",
+    "quote": "The ground floor includes the garages and secondary bedrooms which are placed around narrow internal light courts.  The location of the bedrooms has allowed the architect to elevate the main living area to the first floor, where each dwelling leads out to generous open spaces.",
+    "source": "https://en.wikipedia.org/wiki/Napier_Street_Housing"
+   },
+   {
+    "fact": "The rear dwellings' street elevations act as sections of their interiors.",
+    "quote": "In the four detached rear dwellings, Thompson has continued her ongoing examination of appropriate housing models by creating street elevations that act as literal sections of their interior volumes.",
+    "source": "https://en.wikipedia.org/wiki/Napier_Street_Housing"
+   },
+   {
+    "fact": "Brick skillions at the corners are reminiscent of Alvar Aalto.",
+    "quote": "The skillions on either side of the building are reminiscent of Alvar Aalto’s work,  an influence on Thompson's design.",
+    "source": "https://en.wikipedia.org/wiki/Napier_Street_Housing"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "national-library-of-brazil",
+  "facts": [
+   {
+    "fact": "It is the largest library in Latin America, according to UNESCO.",
+    "quote": "Considered by UNESCO the largest library in Latin America and the seventh largest in the world, its collections include about 9 million items.",
+    "source": "https://en.wikipedia.org/wiki/National_Library_of_Brazil"
+   },
+   {
+    "fact": "Military engineer Sousa Aguiar designed the building in an eclectic style.",
+    "quote": "The building of the National Library, designed by the military engineer Sousa Aguiar, has an eclectic style, in which neoclassical and Art Nouveau elements are mixed, and contains ornaments by artists such as Eliseu Visconti, Henrique and Rodolfo Bernardelli, Modesto Brocos and Rodolfo Amoedo.",
+    "source": "https://en.wikipedia.org/wiki/National_Library_of_Brazil"
+   },
+   {
+    "fact": "It stands on Cinelândia Square beside the Museum of Fine Arts and the Municipal Theater.",
+    "quote": "The library building is located at Rio Branco Avenue, number 219, Cinelândia Square, in the center of Rio de Janeiro, composing with the National Museum of Fine Arts and the Municipal Theater an architectural and cultural ensemble of great value.",
+    "source": "https://en.wikipedia.org/wiki/National_Library_of_Brazil"
+   },
+   {
+    "fact": "The collection came from Lisbon's Royal Library after the 1755 earthquake, moving to Brazil from 1810.",
+    "quote": "The collection was brought in three stages, the first being in 1810 and two in 1811.",
+    "source": "https://en.wikipedia.org/wiki/National_Library_of_Brazil"
+   },
+   {
+    "fact": "The library's official founding date is 29 October 1810.",
+    "quote": "Therefore, on 29 October 1810, a date that was assigned to the official founding of the National Library, Prince Regent John (later King John VI of Portugal, Brazil and the Algarves) issued a decree which provided that a royal library should be established from the funds of the royal treasury.",
+    "source": "https://en.wikipedia.org/wiki/National_Library_of_Brazil"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "nira-house",
+  "facts": [],
+  "thin": true
+ },
+ {
+  "id": "palacio-de-aguas-corrientes",
+  "facts": [
+   {
+    "fact": "It is a water pumping station and former headquarters of Obras Sanitarias de la Nación.",
+    "quote": "The Palace of Running Waters (Spanish: Palacio de Aguas Corrientes) is an architecturally significant water pumping station in Buenos Aires, Argentina, and the former headquarters of state-owned company Obras Sanitarias de la Nación.",
+    "source": "https://en.wikipedia.org/wiki/Palacio_de_Aguas_Corrientes"
+   },
+   {
+    "fact": "It was designed in 1877 by Olaf Boye with engineers Carlos Nyströmer and John Bateman; inaugurated in 1894.",
+    "quote": "The building was designed as a water pumping station in 1877 by the Norwegian architect Olaf Boye, the Swedish engineer Carlos Nyströmer, and the British civil engineer John Baterman (Bateman, Parsons & Bateman). Construction started in 1887. It was inaugurated in 1894.",
+    "source": "https://en.wikipedia.org/wiki/Palacio_de_Aguas_Corrientes"
+   },
+   {
+    "fact": "It is a French renaissance palace covered in glazed terracotta tiles imported from Royal Doulton.",
+    "quote": "The French renaissance palace was covered in over 300,000 glazed, multi-color terra cotta tiles imported from the British ceramics maker Royal Doulton.",
+    "source": "https://en.wikipedia.org/wiki/Palacio_de_Aguas_Corrientes"
+   },
+   {
+    "fact": "It has a tin mansard roof with shields for the 14 provinces.",
+    "quote": "It features a tin mansard roof and is emblazoned with escutcheons representing the 14 Argentine provinces of the time.",
+    "source": "https://en.wikipedia.org/wiki/Palacio_de_Aguas_Corrientes"
+   },
+   {
+    "fact": "It contained twelve water tanks over three floors, on an iron structure made in Belgium.",
+    "quote": "The building contained twelve water tanks covering three floors and with a 72,000-ton total water capacity. The building is covered with 300,000 majolicas, has an iron structure that was produced in Belgium, and is sustained by 180 columns.",
+    "source": "https://en.wikipedia.org/wiki/Palacio_de_Aguas_Corrientes"
+   },
+   {
+    "fact": "It is a National Historic Monument (1989).",
+    "quote": "Inaugurated in 1894, the palace is one of the most notable eclectic-style buildings in Argentina. It was declared a National Historic Monument of Argentina in 1989.",
+    "source": "https://en.wikipedia.org/wiki/Palacio_de_Aguas_Corrientes"
+   },
+   {
+    "fact": "The water pumps were removed in 1978 and it became a museum.",
+    "quote": "In 1978, the water pumps were dismantled and the building became a museum.",
+    "source": "https://en.wikipedia.org/wiki/Palacio_de_Aguas_Corrientes"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "thanks-giving-square",
+  "facts": [
+   {
+    "fact": "It is a private park and public facility in downtown Dallas, dedicated in 1976.",
+    "quote": "Thanks-Giving Square is a private park and public facility anchoring the Thanksgiving Commercial Center district of downtown Dallas, Texas, United States. Dedicated in 1976, the complex consists of three components: a landscaped garden and non-denominational chapel building, a major section of the underground pedestrian network, and the Bullington Truck Terminal.",
+    "source": "https://en.wikipedia.org/wiki/Thanks-Giving_Square"
+   },
+   {
+    "fact": "Philip Johnson was chosen after a lengthy global search.",
+    "quote": "After a lengthy global search, Peter Stewart, a Dallas businessman and one of the founders of the Thanks-Giving Foundation, chose architect Philip Johnson to design the project.",
+    "source": "https://en.wikipedia.org/wiki/Thanks-Giving_Square"
+   },
+   {
+    "fact": "The square is set below ground level behind a wall, with fountains masking city noise.",
+    "quote": "The Square is set fifteen feet below ground level with a four-foot wall blocking the sight of automobiles to create a serene, green island. Water plays a prominent role in the landscape, with active fountains masking city noise.",
+    "source": "https://en.wikipedia.org/wiki/Thanks-Giving_Square"
+   },
+   {
+    "fact": "Religious symbolism is intentionally absent from the decoration.",
+    "quote": "Overt religious symbolism is intentionally absent from the decoration of Thanks-Giving Square.",
+    "source": "https://en.wikipedia.org/wiki/Thanks-Giving_Square"
+   },
+   {
+    "fact": "The Chapel of Thanksgiving is a spiral rising above street level.",
+    "quote": "The spiraling shape rises 90 feet (27.5 m) above street level, suggesting the infinite upward reach of the human spirit.",
+    "source": "https://en.wikipedia.org/wiki/Thanks-Giving_Square"
+   },
+   {
+    "fact": "The chapel draws on the Great Mosque in Samarra.",
+    "quote": "The chapel's design takes its inspiration from the Great Mosque in Samarra, Iraq (itself derived from the square, spiral Pillar of Gor in Iran ) and the ancient spiral of life.",
+    "source": "https://en.wikipedia.org/wiki/Thanks-Giving_Square"
+   },
+   {
+    "fact": "The chapel is entered across a bridge over a waterfall.",
+    "quote": "The entrance to the chapel is at the end of a 125-foot (38 m) bridge that runs over a cascading waterfall.",
+    "source": "https://en.wikipedia.org/wiki/Thanks-Giving_Square"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "theatro-municipal-de-sao-paulo",
+  "facts": [
+   {
+    "fact": "It hosted the 1922 Week of Modern Art and is a São Paulo landmark.",
+    "quote": "It is regarded as one of the landmarks of the city, significant both for its architectural value as well as for its historical importance, having been the venue for the Week of Modern Art in 1922, which revolutionised the arts in Brazil.",
+    "source": "https://en.wikipedia.org/wiki/Theatro_Municipal_de_S%C3%A3o_Paulo"
+   },
+   {
+    "fact": "Ramos de Azevedo and the Italian architects Cláudio and Domiziano Rossi built it.",
+    "quote": "Ramos de Azevedo was the engineer assigned to the construction. He was also helped by two Italian architects Cláudio Rossi and Domiziano Rossi.",
+    "source": "https://en.wikipedia.org/wiki/Theatro_Municipal_de_S%C3%A3o_Paulo"
+   },
+   {
+    "fact": "The architecture was inspired by the Palais Garnier, with most materials imported from Europe.",
+    "quote": "As was customary at the time, the majority of the construction materials was imported from Europe, and the architecture was inspired by the Palais Garnier of Paris.",
+    "source": "https://en.wikipedia.org/wiki/Theatro_Municipal_de_S%C3%A3o_Paulo"
+   },
+   {
+    "fact": "Construction began in 1903 and lasted about 8 years.",
+    "quote": "The construction lasted about 8 years.",
+    "source": "https://en.wikipedia.org/wiki/Theatro_Municipal_de_S%C3%A3o_Paulo"
+   },
+   {
+    "fact": "It stands on Morro do Chá (Tea Hill).",
+    "quote": "The place which was chosen for the construction was Morro do Chá, or Tea Hill, which had been the site of the new São José Theater.",
+    "source": "https://en.wikipedia.org/wiki/Theatro_Municipal_de_S%C3%A3o_Paulo"
+   },
+   {
+    "fact": "The aristocracy wanted a theatre suited to large opera productions.",
+    "quote": "The aristocrats of the São Paulo demanded the creation of a new theatre, with a structure similar to some of the best theatres in the world and suitable for staging large opera productions.",
+    "source": "https://en.wikipedia.org/wiki/Theatro_Municipal_de_S%C3%A3o_Paulo"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "toho-gakuen-school-of-music",
+  "facts": [
+   {
+    "fact": "It is a private music school in Chōfu, Tokyo.",
+    "quote": "Toho Gakuen School of Music (桐朋学園大学, Tōhō Gakuen Daigaku) is a private music school in Chōfu, Tokyo, Japan.",
+    "source": "https://en.wikipedia.org/wiki/Toho_Gakuen_School_of_Music"
+   }
+  ],
+  "thin": true
+ },
+ {
+  "id": "vasa-museum",
+  "facts": [
+   {
+    "fact": "It displays the almost fully intact 17th-century warship Vasa on Djurgården and opened in 1990.",
+    "quote": "Located on the island of Djurgården, the museum displays the only almost fully intact 17th-century ship that has ever been salvaged, the 64-gun warship Vasa that sank on her maiden voyage in 1628. The Vasa Museum opened in 1990.",
+    "source": "https://en.wikipedia.org/wiki/Vasa_Museum"
+   },
+   {
+    "fact": "A 1981 competition drew 384 entries; Marianne Dahlbäck and Göran Månsson won with \"Ask\" (box).",
+    "quote": "A total of 384 architects sent in models of their ideas and the final winners were Marianne Dahlbäck and Göran Månsson with Ask (\"box\").",
+    "source": "https://en.wikipedia.org/wiki/Vasa_Museum"
+   },
+   {
+    "fact": "It was built around the old naval dry dock.",
+    "quote": "The construction of the new building began on and around the dry dock of the old naval yard with an inauguration ceremony hosted by Prince Bertil on 2 November 1987.",
+    "source": "https://en.wikipedia.org/wiki/Vasa_Museum"
+   },
+   {
+    "fact": "A large copper roof has stylised masts at the height of Vasa when fully rigged.",
+    "quote": "The new museum is dominated by a large copper roof with stylized masts that represent the actual height of Vasa when she was fully rigged.",
+    "source": "https://en.wikipedia.org/wiki/Vasa_Museum"
+   },
+   {
+    "fact": "Wooden panels are painted dark red, blue, tar black, ochre and green; the interior has bare concrete.",
+    "quote": "Parts of the building are covered in wooden panels painted in dark red, blue, tar black, ochre yellow and dark green. The interior is similarly decorated, with large sections of bare, unpainted concrete, including the entire ceiling.",
+    "source": "https://en.wikipedia.org/wiki/Vasa_Museum"
+   },
+   {
+    "fact": "The ship can be seen from six levels.",
+    "quote": "Inside the museum the ship can be seen from six levels, from her keel to the very top of the sterncastle.",
+    "source": "https://en.wikipedia.org/wiki/Vasa_Museum"
+   },
+   {
+    "fact": "Previously Vasa was in a temporary structure with views from only two levels.",
+    "quote": "Visitors could only view the ship from two levels and the maximum distance was only 5 m (17 ft).",
+    "source": "https://en.wikipedia.org/wiki/Vasa_Museum"
+   },
+   {
+    "fact": "Replacement parts on the ship are left unpainted so they stand out from the original wood.",
+    "quote": "The replacement parts have not been treated or painted and are therefore clearly visible against the original material that has been darkened after three centuries under water.",
+    "source": "https://en.wikipedia.org/wiki/Vasa_Museum"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "wells-fargo-center",
+  "facts": [],
+  "thin": true
+ },
+ {
+  "id": "agios-dimitrios-circular-school",
+  "facts": [],
+  "thin": true
+ },
+ {
+  "id": "allen-memorial-art-museum",
+  "facts": [
+   {
+    "fact": "It is an art museum run by Oberlin College, founded in 1917.",
+    "quote": "The Allen Memorial Art Museum (AMAM) is an art museum located in Oberlin, Ohio, and run by Oberlin College. Founded in 1917, the collection contains over 15,000 works of art.",
+    "source": "https://en.wikipedia.org/wiki/Allen_Memorial_Art_Museum"
+   },
+   {
+    "fact": "Cass Gilbert designed the Italian Renaissance-style building with ironwork by Samuel Yellin.",
+    "quote": "The collection is housed in an Italian Renaissance-style building designed by Cass Gilbert, incorporating ironwork by Samuel Yellin, and named after its founder, Dr. Dudley Peter Allen (B.A., 1875), a graduate and trustee of Oberlin College and the first husband of Elisabeth Severance Prentiss, whose bequest as Mrs. F. F. Prentiss included parts of her art collection started during her first marriage.",
+    "source": "https://en.wikipedia.org/wiki/Allen_Memorial_Art_Museum"
+   },
+   {
+    "fact": "Venturi and Rauch added the 1977 Venturi Wing, an early postmodern work and \"decorated shed\".",
+    "quote": "In 1977, the architecture firm Venturi and Rauch (led by husband and wife Robert Venturi and Denise Scott Brown) designed the Venturi Wing, an addition that represents one of the earliest examples of postmodern architecture in the United States; an example of their concept of a \"decorated shed\".",
+    "source": "https://en.wikipedia.org/wiki/Allen_Memorial_Art_Museum"
+   },
+   {
+    "fact": "It is primarily a teaching museum.",
+    "quote": "The AMAM is primarily a teaching museum and is aimed at the students, faculty and staff of Oberlin College, in addition to the surrounding community.",
+    "source": "https://en.wikipedia.org/wiki/Allen_Memorial_Art_Museum"
+   },
+   {
+    "fact": "A central rotunda holds the ancient art wings.",
+    "quote": "Allen's Central Rotunda, which contains the Egyptian, Greek and Roman art wings",
+    "source": "https://en.wikipedia.org/wiki/Allen_Memorial_Art_Museum"
+   },
+   {
+    "fact": "A 2011 retrofit earned LEED Gold.",
+    "quote": "In 2011, the historic museum underwent a two-year retrofit, after which it was awarded with USGBC LEED Gold certification.",
+    "source": "https://en.wikipedia.org/wiki/Allen_Memorial_Art_Museum"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "allianz-arena",
+  "facts": [
+   {
+    "fact": "It is a Munich football stadium known for ETFE panels; the first stadium with a full colour-changing exterior.",
+    "quote": "Widely known for its exterior of inflated ETFE plastic panels, it is the first stadium in the world with a full colour changing exterior.",
+    "source": "https://en.wikipedia.org/wiki/Allianz_Arena"
+   },
+   {
+    "fact": "Herzog & de Meuron are the primary designers; built from October 2002 to May 2005.",
+    "quote": "The stadium construction began on 21 October 2002 and it was officially opened on 30 May 2005. The primary designers are architects Herzog & de Meuron.",
+    "source": "https://en.wikipedia.org/wiki/Allianz_Arena"
+   },
+   {
+    "fact": "The facade is 2,760 inflated ETFE-foil panels.",
+    "quote": "The arena facade is constructed of 2,760 ETFE-foil air panels that are kept inflated with dry air to a differential pressure of 3.5 Pa.",
+    "source": "https://en.wikipedia.org/wiki/Allianz_Arena"
+   },
+   {
+    "fact": "Each panel can be lit white, red or blue, in the home team's colours.",
+    "quote": "Each panel can be independently lit with white, red, or blue light.",
+    "source": "https://en.wikipedia.org/wiki/Allianz_Arena"
+   },
+   {
+    "fact": "The roof has built-in roller blinds for sun protection.",
+    "quote": "The roof of the stadium has built-in roller blinds which may be drawn back and forth during games to provide protection from the sun.",
+    "source": "https://en.wikipedia.org/wiki/Allianz_Arena"
+   },
+   {
+    "fact": "Entry is from an elevated esplanade above Europe's biggest underground car park.",
+    "quote": "The stadium is designed so that the main entrance to the stadium would be from an elevated esplanade separated from the parking space consisting of Europe's biggest underground car park.",
+    "source": "https://en.wikipedia.org/wiki/Allianz_Arena"
+   },
+   {
+    "fact": "The police insist on single-colour lighting after Autobahn accidents.",
+    "quote": "Other colours or multicolour or interchanging lighting schemes are theoretically possible, but the Munich Police strongly insists on using a single-colour lighting scheme due to several car accidents on the nearby A9 Autobahn with drivers being distracted by the changing lights.",
+    "source": "https://en.wikipedia.org/wiki/Allianz_Arena"
+   },
+   {
+    "fact": "The lighting concept was adopted at MetLife Stadium.",
+    "quote": "Allianz Arena's innovative stadium-facade lighting concept has been subsequently adopted in other recently built venues, like MetLife Stadium in New Jersey, which lights up in blue for the National Football League's Giants and green for the Jets.",
+    "source": "https://en.wikipedia.org/wiki/Allianz_Arena"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "allianz-tower-milan",
+  "facts": [
+   {
+    "fact": "Arata Isozaki and Andrea Maffei designed the Milan skyscraper for Allianz's Italian headquarters.",
+    "quote": "Designed by Japanese architect Arata Isozaki and Italian architect Andrea Maffei, it serves as the headquarters of the Italian subsidiary Allianz SpA.",
+    "source": "https://en.wikipedia.org/wiki/Allianz_Tower"
+   },
+   {
+    "fact": "It is made of eight modules of six floors each.",
+    "quote": "It is composed by eight modules by six floors each one, with the façade of the module composed by a triple-glass unit slightly curved to outside.",
+    "source": "https://en.wikipedia.org/wiki/Allianz_Tower"
+   },
+   {
+    "fact": "The stacked rounded forms create a slight vibration effect.",
+    "quote": "The vertical succession of rounded forms creates a feeling of slight vibration of the volume of the building as it rises upward.",
+    "source": "https://en.wikipedia.org/wiki/Allianz_Tower"
+   },
+   {
+    "fact": "The short sides are fully glazed, showing six panoramic lifts.",
+    "quote": "Elevations of the short sides are fully glazed and show the mechanical series of six panoramic lifts going up and down to the various floors of the building.",
+    "source": "https://en.wikipedia.org/wiki/Allianz_Tower"
+   },
+   {
+    "fact": "The \"endless tower\" idea is compared to Brâncuși's Endless Column.",
+    "quote": "The idea of an endless tower can be compared to previous ambitions of other artists, such as Constantin Brâncuși, for example, who in 1937–38 installed one of his endless columns of Târgu Jiu in the park to create repeatable systems indefinitely.",
+    "source": "https://en.wikipedia.org/wiki/Allianz_Tower"
+   },
+   {
+    "fact": "Emporis nominated it third-best skyscraper completed in 2015.",
+    "quote": "In 2016, Allianz Tower was nominated by Emporis as the third-best skyscraper that was completed in 2015.",
+    "source": "https://en.wikipedia.org/wiki/Allianz_Tower"
+   },
+   {
+    "fact": "Its nickname il Dritto means \"the straight one\".",
+    "quote": "Allianz Tower (Italian: Torre Allianz), also known as Isozaki Tower (Italian: Torre Isozaki) and il Dritto (\"the straight one\"), is a 50-floor, 260-metre-tall (850 ft) skyscraper in Milan, Italy.",
+    "source": "https://en.wikipedia.org/wiki/Allianz_Tower"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "aomori-museum-of-art",
+  "facts": [
+   {
+    "fact": "It opened in July 2006 in Aomori, Japan.",
+    "quote": "The Aomori Museum of Art (青森県立美術館, Aomori Kenritsu Bijutsukan) is a museum in Aomori, Japan, opened in July 2006.",
+    "source": "https://en.wikipedia.org/wiki/Aomori_Museum_of_Art"
+   },
+   {
+    "fact": "Its partially buried structure takes inspiration from the nearby Sannai-Maruyama archaeological site.",
+    "quote": "It is located near Sannai-Maruyama Site,  which the museum's design takes inspiration from in its partially-buried structure.",
+    "source": "https://en.wikipedia.org/wiki/Aomori_Museum_of_Art"
+   },
+   {
+    "fact": "It holds more than 120 works by Yoshitomo Nara.",
+    "quote": "The museum houses more than 120 works from drawings to three-dimensional works by Yoshitomo Nara, a young artist from Aomori Prefecture.",
+    "source": "https://en.wikipedia.org/wiki/Aomori_Museum_of_Art"
+   },
+   {
+    "fact": "Its Aomori Dog by Nara is its symbol.",
+    "quote": "The Aomori Dog by Yoshimoto Nara has become the museum's iconic symbol.",
+    "source": "https://en.wikipedia.org/wiki/Aomori_Museum_of_Art"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "aquarium-of-genoa",
+  "facts": [
+   {
+    "fact": "It is the largest aquarium in Italy, designed by Renzo Piano for Expo 1992.",
+    "quote": "The Aquarium of Genoa (Acquario di Genova) is the largest aquarium in Italy and one of the most significant in Europe.",
+    "source": "https://en.wikipedia.org/wiki/Aquarium_of_Genoa"
+   },
+   {
+    "fact": "It was designed as part of the urban redevelopment for Expo 1992, the Columbus anniversary.",
+    "quote": "It is located in the Old Harbour (Porto Antico) area of Genoa, Liguria, and was designed by the architect Renzo Piano as part of the urban redevelopment project created for the Expo 1992, celebrating the 500th anniversary of Christopher Columbus’s voyage to the Americas.",
+    "source": "https://en.wikipedia.org/wiki/Aquarium_of_Genoa"
+   },
+   {
+    "fact": "Some say the building looks like a ship ready to sail.",
+    "quote": "The building, which some say looks like a ship ready to head out to sea, was designed by the Genoese architect Renzo Piano of the Renzo Piano Building Workshop.",
+    "source": "https://en.wikipedia.org/wiki/Aquarium_of_Genoa"
+   },
+   {
+    "fact": "Peter Chermayeff and Cambridge Seven Associates designed the interior and first exhibits.",
+    "quote": "The interior design and initial exhibits for the opening in 1992 were designed by Peter Chermayeff leading a design team at Cambridge Seven Associates.",
+    "source": "https://en.wikipedia.org/wiki/Aquarium_of_Genoa"
+   },
+   {
+    "fact": "A 100 m ship was added by walkway in 1998.",
+    "quote": "In 1998 the aquarium was expanded with the addition of a 100-metre (330 ft) ship connected by walkway to the original building.",
+    "source": "https://en.wikipedia.org/wiki/Aquarium_of_Genoa"
+   },
+   {
+    "fact": "It first welcomed the public on 12 October 1993.",
+    "quote": "The Aquarium of Genoa first welcomed the public on October 12, 1993.",
+    "source": "https://en.wikipedia.org/wiki/Aquarium_of_Genoa"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "argo-contemporary-art-museum",
+  "facts": [
+   {
+    "fact": "It is a contemporary art museum in a former Tehran brewery from the early 1920s.",
+    "quote": "Constructed in the early 1920s, Argo Factory was one of the first industrial factories in Iran.",
+    "source": "https://en.wikipedia.org/wiki/Argo_Factory"
+   },
+   {
+    "fact": "The architects kept the original load-bearing brick walls and inserted new foundations.",
+    "quote": "The architects retained the original load-bearing brick walls, which expressed the industrial character of the factory.",
+    "source": "https://en.wikipedia.org/wiki/Argo_Factory"
+   },
+   {
+    "fact": "Five floating concrete roofs are the only new addition to the exterior.",
+    "quote": "The design taps into the DNA of traditional local metal roofs and rewrites them as five performative floating roofs: each considering an unrepeated lighting atmosphere, for the cultural program underneath it.",
+    "source": "https://en.wikipedia.org/wiki/Argo_Factory"
+   },
+   {
+    "fact": "The roofs rise above the brick walls, hide mechanical systems and let in natural light.",
+    "quote": "At the Argo Factory, five elevated concrete roof volumes rise 50 centimeters above the original brick walls, discreetly concealing climate control and mechanical systems within the Roof.",
+    "source": "https://en.wikipedia.org/wiki/Argo_Factory"
+   },
+   {
+    "fact": "The roofs are inspired by Tehran's halabi metal roofs, and concrete use was necessitated by sanctions.",
+    "quote": "Inspired by Tehran’s traditional halabi (metal) roofs, the new addition respectfully contrasts the historic structure, while the use of concrete—necessitated by sanctions—reinforces the site's industrial identity.",
+    "source": "https://en.wikipedia.org/wiki/Argo_Factory"
+   },
+   {
+    "fact": "The footprint grew about 85% to 1,890 m².",
+    "quote": "The project significantly expanded the building’s original footprint by approximately 85%, increasing the area from 480 m² to 1,890 m².",
+    "source": "https://en.wikipedia.org/wiki/Argo_Factory"
+   },
+   {
+    "fact": "Pejman Foundation reconstructed it in 2016.",
+    "quote": "In 2016, Pejman Foundation acquired and reconstructed the factory.",
+    "source": "https://en.wikipedia.org/wiki/Argo_Factory"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "arizona-biltmore",
+  "facts": [
+   {
+    "fact": "Albert Chase McArthur designed it; it opened 23 February 1929.",
+    "quote": "Designed by Albert Chase McArthur, it opened on February 23, 1929, as part of the Biltmore Hotel chain.",
+    "source": "https://en.wikipedia.org/wiki/Arizona_Biltmore_Hotel"
+   },
+   {
+    "fact": "Wright consulted on the \"Textile Block\" construction, so the design is often misattributed to him.",
+    "quote": "The Arizona Biltmore's architect of record is Albert Chase McArthur (brother of the hotel owners), yet the design is often mistakenly attributed to Frank Lloyd Wright. This is due to Wright's on-site consulting for four months in 1928 relating to the \"Textile Block\" construction used in the hotel.",
+    "source": "https://en.wikipedia.org/wiki/Arizona_Biltmore_Hotel"
+   },
+   {
+    "fact": "The block system became a signature of the hotel's appearance.",
+    "quote": "Albert McArthur had been a draftsman for Wright and specifically asked him to assist with implementing the textile block system, which became a signature element of the hotel's appearance.",
+    "source": "https://en.wikipedia.org/wiki/Arizona_Biltmore_Hotel"
+   },
+   {
+    "fact": "Drawings in the ASU archives and a 1929 Architectural Record article confirm McArthur as architect.",
+    "quote": "McArthur is indisputably the architect, as original linen drawings of the hotel in the Arizona State University Library archives attest, as does a 1929 feature article in Architectural Record magazine.",
+    "source": "https://en.wikipedia.org/wiki/Arizona_Biltmore_Hotel"
+   },
+   {
+    "fact": "The lobby shows a strong imprint of Wright's unit block design.",
+    "quote": "The hotel has similarities to several Wright buildings, especially in the main lobby, owing to a strong imprint of the unit block design that Wright had utilized on four residential buildings in the Los Angeles area six years earlier.",
+    "source": "https://en.wikipedia.org/wiki/Arizona_Biltmore_Hotel"
+   },
+   {
+    "fact": "A stained glass window Wright designed for a 1926 magazine cover is among Wright influences at the property.",
+    "quote": "This includes a stained glass window design entitled \"Saguaro Forms and Cactus Flowers\" that Wright designed as a magazine cover for Liberty Magazine in 1926.",
+    "source": "https://en.wikipedia.org/wiki/Arizona_Biltmore_Hotel"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "asakusa-culture-tourist-information-center",
+  "facts": [
+   {
+    "fact": "Kengo Kuma won a competition to design it; it opened 20 April 2012.",
+    "quote": "By 2008, the building had deteriorated and a competition was held to design a new building, with Kengo Kuma being the winner.",
+    "source": "https://en.wikipedia.org/wiki/Asakusa_Culture_Tourist_Information_Center"
+   },
+   {
+    "fact": "It is a stack of separate wooden buildings piled at different angles.",
+    "quote": "The steel-based building is essentially \"a stack of separate wooden buildings that have been piled up on top of each other at different angles\", according to architecture media company Architizer.",
+    "source": "https://en.wikipedia.org/wiki/Asakusa_Culture_Tourist_Information_Center"
+   },
+   {
+    "fact": "The exterior is mostly Japanese cedar and glass, treated to be fireproof.",
+    "quote": "The exterior focuses mostly on wood (mainly Japanese cedar) and glass, which reflects traditional Japanese architecture while adding a contemporary twist.",
+    "source": "https://en.wikipedia.org/wiki/Asakusa_Culture_Tourist_Information_Center"
+   },
+   {
+    "fact": "Height was reduced from 41.3 m to 38.9 m after concerns about the scenery.",
+    "quote": "The center was originally going to be 41.3 m (135 ft) tall, but the city's assembly raised concerns that it could disrupt the scenery around the building. Because of this, its height was reduced to 38.9 m (128 ft).",
+    "source": "https://en.wikipedia.org/wiki/Asakusa_Culture_Tourist_Information_Center"
+   },
+   {
+    "fact": "Kuma was reminded of Edo-period nagaya houses and stacked modern versions of them.",
+    "quote": "When designing the center, Kuma was reminded of the traditional nagaya houses from Tokyo's Edo period, stacking a more modern version of these dwellings on top of each other, trying to create an unbalanced void in between each of the floors.",
+    "source": "https://en.wikipedia.org/wiki/Asakusa_Culture_Tourist_Information_Center"
+   },
+   {
+    "fact": "The slanted roofs leave voids between floors used for equipment.",
+    "quote": "Kuma used these voids to store equipment and technical facilities, saying \"We are too used to the idea that the floors have to be flat, but I hope I was able to inspire people to re-think the relationships of buildings and floors.\"",
+    "source": "https://en.wikipedia.org/wiki/Asakusa_Culture_Tourist_Information_Center"
+   },
+   {
+    "fact": "The sixth floor has a terraced theatre under the slanted roof.",
+    "quote": "The first and second floors have an atrium, while the sixth floor takes advantage of the slanted roof to create a terraced floor that functions as a theater.",
+    "source": "https://en.wikipedia.org/wiki/Asakusa_Culture_Tourist_Information_Center"
+   },
+   {
+    "fact": "It won a 2012 Good Design Award.",
+    "quote": "It was a recipient of the 2012 Good Design Award.",
+    "source": "https://en.wikipedia.org/wiki/Asakusa_Culture_Tourist_Information_Center"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "astrup-fearnley-museum",
+  "facts": [
+   {
+    "fact": "Renzo Piano designed the museum's two new buildings; it opened 29 September 2012.",
+    "quote": "The new museum was designed by the architect Renzo Piano and opened on 29 September 2012",
+    "source": "https://en.wikipedia.org/wiki/Astrup_Fearnley_Museum_of_Modern_Art"
+   },
+   {
+    "fact": "It moved to Tjuvholmen in 2012.",
+    "quote": "In 2012 the museum moved to two new buildings designed by Renzo Piano in Tjuvholmen.",
+    "source": "https://en.wikipedia.org/wiki/Astrup_Fearnley_Museum_of_Modern_Art"
+   },
+   {
+    "fact": "The sculpture park around it was also by Piano.",
+    "quote": "The museum is situated in the Tjuvholmen skulpturpark, also designed by Renzo Piano.",
+    "source": "https://en.wikipedia.org/wiki/Astrup_Fearnley_Museum_of_Modern_Art"
+   },
+   {
+    "fact": "The museum is privately owned and was founded in 1993.",
+    "quote": "The Astrup Fearnley Museum (Norwegian: Astrup Fearnley Museet) is a  privately owned contemporary art museum in Oslo in Norway. It was founded and opened to the public in 1993.",
+    "source": "https://en.wikipedia.org/wiki/Astrup_Fearnley_Museum_of_Modern_Art"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "auckland-art-gallery",
+  "facts": [
+   {
+    "fact": "The original building is French Renaissance style in brick and plaster, completed 1887.",
+    "quote": "It is constructed of brick and plaster in an early French Renaissance style and was completed in 1887, with an extension built in 1916.",
+    "source": "https://en.wikipedia.org/wiki/Auckland_Art_Gallery"
+   },
+   {
+    "fact": "FJMT with Archimedia designed the extension, finished in 2011.",
+    "quote": "The expansion design by Australian architecture firm FJMT in partnership with Auckland-based Archimedia  increased exhibition space by 50%, for up to 900 artworks,  and provided dedicated education, child and family spaces.",
+    "source": "https://en.wikipedia.org/wiki/Auckland_Art_Gallery"
+   },
+   {
+    "fact": "The extension needed land from Albert Park and drew criticism.",
+    "quote": "In the late 2000s, a major extension was mooted, which drew substantial criticism from some quarters due to its cost, design and the fact that land from Albert Park would be required.",
+    "source": "https://en.wikipedia.org/wiki/Auckland_Art_Gallery"
+   },
+   {
+    "fact": "It was established in 1888 as New Zealand's first permanent art gallery.",
+    "quote": "Set below the hilltop Albert Park in the central-city area of Auckland, the gallery was established in 1888 as the first permanent art gallery in New Zealand.",
+    "source": "https://en.wikipedia.org/wiki/Auckland_Art_Gallery"
+   },
+   {
+    "fact": "It originally housed a public library too.",
+    "quote": "The building originally housed both the Auckland Art Gallery and the Auckland public library, and opened with collections donated by benefactors Governor Sir George Grey and James Tannock Mackelvie.",
+    "source": "https://en.wikipedia.org/wiki/Auckland_Art_Gallery"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "austin-hall-harvard",
+  "facts": [
+   {
+    "fact": "H. H. Richardson designed it as a Harvard Law School classroom building.",
+    "quote": "Austin Hall is a classroom building of the Harvard Law School designed by noted American architect H. H. Richardson.",
+    "source": "https://en.wikipedia.org/wiki/Austin_Hall_%28Harvard_University%29"
+   },
+   {
+    "fact": "It was the first building purpose-built for an American law school.",
+    "quote": "The first building purposely built for an American law school, it was also the first dedicated home of Harvard Law School.",
+    "source": "https://en.wikipedia.org/wiki/Austin_Hall_%28Harvard_University%29"
+   },
+   {
+    "fact": "It is Romanesque Revival, built 1882–1884, with a T-shaped plan.",
+    "quote": "The hall was built 1882–1884 in Romanesque Revival style. Single-story wings flank a heavy, two-story central mass, with the reading room extending rearwards to form an overall T shape.",
+    "source": "https://en.wikipedia.org/wiki/Austin_Hall_%28Harvard_University%29"
+   },
+   {
+    "fact": "A deep Romanesque triple arch frames the entry with an asymmetric stair tower.",
+    "quote": "A central entryway framed with Romanesque triple arch is set deep within the building's flat front facade, with an asymmetric stairway tower protruding forwards to its right.",
+    "source": "https://en.wikipedia.org/wiki/Austin_Hall_%28Harvard_University%29"
+   },
+   {
+    "fact": "Longmeadow sandstone forms checkerboard polychrome patterns, with pale Ohio sandstone arches.",
+    "quote": "The building is faced with Longmeadow sandstone in striking polychrome patterns, the light stones forming checkerboards within dark, reddish walls.",
+    "source": "https://en.wikipedia.org/wiki/Austin_Hall_%28Harvard_University%29"
+   },
+   {
+    "fact": "Three large classrooms suit the Socratic-method curriculum; the layout has been imitated.",
+    "quote": "Austin Hall's first floor contains three large classrooms; these were designed to complement the new law school curriculum that was being implemented at the time by Dean Christopher Columbus Langdell, including large core classes employing the Socratic method.",
+    "source": "https://en.wikipedia.org/wiki/Austin_Hall_%28Harvard_University%29"
+   },
+   {
+    "fact": "The reading room has an ornamented fireplace and carved tie beams.",
+    "quote": "The reading room's interior has been judged particularly fine for its ornamented fireplace and tie beams carved with the heads of dragons and boars.",
+    "source": "https://en.wikipedia.org/wiki/Austin_Hall_%28Harvard_University%29"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "autrique-house",
+  "facts": [
+   {
+    "fact": "It was Victor Horta's first town house, built 1893 in Brussels.",
+    "quote": "This house, built in 1893, was the first designed by Victor Horta in Art Nouveau style, and represents an essential step in the evolution of the Belgian architect.",
+    "source": "https://en.wikipedia.org/wiki/Autrique_House"
+   },
+   {
+    "fact": "Budget limits led the family to want a simple home, dropping custom details.",
+    "quote": "Due to budget restrictions, the family wanted a simple but comfortable home. For this reason, many custom made details, which Horta designed himself in most of the other town houses he built, were abolished.",
+    "source": "https://en.wikipedia.org/wiki/Autrique_House"
+   },
+   {
+    "fact": "Art Nouveau features include iron pillars, sgraffito, stained glass, mosaics and natural light.",
+    "quote": "All typical Art Nouveau characteristics are already present in this early work of Horta: fine iron pillars and columns of the façade, sgraffito, stained glass, mosaics, and importance of natural light and decorative elements of floral inspiration.",
+    "source": "https://en.wikipedia.org/wiki/Autrique_House"
+   },
+   {
+    "fact": "The decorative scheme made no reference to historical styles, but the plan stayed traditional.",
+    "quote": "This dwelling was already innovative for its application of a novel Art Nouveau decorative scheme that did not include references to other historical styles. However, the floor plan and spatial composition of the Autrique House remained rather traditional.",
+    "source": "https://en.wikipedia.org/wiki/Autrique_House"
+   },
+   {
+    "fact": "The middle room of the three-room suite was gloomy.",
+    "quote": "From the three-room suite, only the first and the last had windows, and so the middle room, used mostly as a dining room, was rather gloomy.",
+    "source": "https://en.wikipedia.org/wiki/Autrique_House"
+   },
+   {
+    "fact": "It was restored and opened to the public after being bought in the 1990s.",
+    "quote": "In the 1990s, it was bought by the municipality of Schaerbeek. It was thoroughly renovated and is now opened to the public.",
+    "source": "https://en.wikipedia.org/wiki/Autrique_House"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "avala-tower-belgrade",
+  "facts": [
+   {
+    "fact": "Uglješa Bogunović and Slobodan Janjić designed it with engineer Milan Krstić.",
+    "quote": "The tower was designed by architects Uglješa Bogunović and Slobodan Janjić, and engineer Milan Krstić.",
+    "source": "https://en.wikipedia.org/wiki/Avala_Tower"
+   },
+   {
+    "fact": "The original tower was finished in 1965, destroyed in 1999, and reopened in 2010.",
+    "quote": "The original tower was finished in 1965, but was destroyed on 29 April 1999, during the NATO bombing of Yugoslavia.",
+    "source": "https://en.wikipedia.org/wiki/Avala_Tower"
+   },
+   {
+    "fact": "It was the only tower with an equilateral triangle cross-section.",
+    "quote": "It was the only tower in the world to have an equilateral triangle as its cross section, and one of very few towers not perched directly into the ground, but standing on its legs.",
+    "source": "https://en.wikipedia.org/wiki/Avala_Tower"
+   },
+   {
+    "fact": "Its legs formed a tripod echoing the Serbian tronožac stool.",
+    "quote": "The legs formed a tripod, the symbol of Serbian tripod chair (tronožac).",
+    "source": "https://en.wikipedia.org/wiki/Avala_Tower"
+   },
+   {
+    "fact": "An enclosed observation deck sat between 102 m and 135 m.",
+    "quote": "Between 102 m (335 ft) and 135 m (443 ft), there was an enclosed observation deck, entered at 122 m (400 ft) and reached via two quick elevators.",
+    "source": "https://en.wikipedia.org/wiki/Avala_Tower"
+   },
+   {
+    "fact": "It was finished without any worker deaths or injuries.",
+    "quote": "The project, which was of high risk, was finished without any worker injuries or deaths, which was unusual for a project of its size.",
+    "source": "https://en.wikipedia.org/wiki/Avala_Tower"
+   },
+   {
+    "fact": "Construction of the replacement began in December 2006.",
+    "quote": "The tower's reconstruction commenced on 21 December 2006.",
+    "source": "https://en.wikipedia.org/wiki/Avala_Tower"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "avicenna-mausoleum",
+  "facts": [
+   {
+    "fact": "It is a mausoleum and museum in Hamadan with a 28 m spindle-shaped tower inspired by Kavus Tower.",
+    "quote": "Dedicated to the Persian polymath Avicenna, the complex includes a library, a small museum, and a spindle-shaped 28-metre-high (92 ft) tower inspired by the Ziyarid-era Kavus Tower.",
+    "source": "https://en.wikipedia.org/wiki/Avicenna_Mausoleum"
+   },
+   {
+    "fact": "Houshang Seyhoun won the competition and trained in France.",
+    "quote": "Houshang Seyhoun won competitions for the mausoleums of Ferdowsi and Avicenna before heading to France.",
+    "source": "https://en.wikipedia.org/wiki/Avicenna_Mausoleum"
+   },
+   {
+    "fact": "It was dedicated in May 1954 for the philosopher's millennial birth anniversary.",
+    "quote": "The mausoleum was eventually dedicated in a grand ceremony in May 1954, on the occasion of the philosopher's millennial birth anniversary, and the avenue running in front of it was also renamed in honor of Avicenna.",
+    "source": "https://en.wikipedia.org/wiki/Avicenna_Mausoleum"
+   },
+   {
+    "fact": "It was added to Iran's National Heritage List in 1997.",
+    "quote": "The mausoleum and museum complex was added to the Iran National Heritage List on 11 May 1997 and is administered by the Cultural Heritage, Handicrafts and Tourism Organization of Iran.",
+    "source": "https://en.wikipedia.org/wiki/Avicenna_Mausoleum"
+   },
+   {
+    "fact": "The square kept its name after 1979 because Khomeini admired Avicenna.",
+    "quote": "As the monument was constructed by the Pahlavi government, it was consequently in danger of being defaced, but as Khomeini was an admirer of Avicenna, the square was not renamed after the 1979 Revolution.",
+    "source": "https://en.wikipedia.org/wiki/Avicenna_Mausoleum"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "ayala-museum",
+  "facts": [
+   {
+    "fact": "It is a private museum in Makati run by the Ayala Foundation.",
+    "quote": "The Ayala Museum is a museum in Makati, Metro Manila, Philippines. It is run privately by the Ayala Foundation and houses archaeological, ethnographic, historical, fine arts, numismatics, and ecclesiastical exhibits.",
+    "source": "https://en.wikipedia.org/wiki/Ayala_Museum"
+   },
+   {
+    "fact": "The new building is six storeys of granite, steel and glass.",
+    "quote": "The museum moved to a new six-story building made from granite, steel and glass,  which was designed by Leandro V. Locsin Partners, led by Leandro Y. Locsin Jr., the son of the architect that designed the old Ayala Museum.",
+    "source": "https://en.wikipedia.org/wiki/Ayala_Museum"
+   },
+   {
+    "fact": "It was dedicated on 28 September 2004 on the site of the original museum.",
+    "quote": "It was formally dedicated at the 170th anniversary of the Ayala Corporation on September 28, 2004, and stands on the same site of the original Ayala Museum.",
+    "source": "https://en.wikipedia.org/wiki/Ayala_Museum"
+   },
+   {
+    "fact": "Leandro Locsin designed the old building, whose demolition drew heritage criticism.",
+    "quote": "The old building that hosted the old Ayala Museum was demolished which met some criticism from heritage conservationists.",
+    "source": "https://en.wikipedia.org/wiki/Ayala_Museum"
+   },
+   {
+    "fact": "The museum was established in April 1967.",
+    "quote": "Envisioned during the 1950s by Philippine abstract painter Fernando M. Zobel, as a museum of Philippine history and iconography, the Ayala Museum was established in April 1967 as a project of the Filipinas Foundation, now known as the Ayala Foundation.",
+    "source": "https://en.wikipedia.org/wiki/Ayala_Museum"
+   },
+   {
+    "fact": "It reopened on 4 December 2021 after renovation.",
+    "quote": "The museum was reopened on December 4, 2021, after a two-year renovation.",
+    "source": "https://en.wikipedia.org/wiki/Ayala_Museum"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "bahai-house-of-worship-kampala",
+  "facts": [
+   {
+    "fact": "It is a Baháʼí House of Worship dedicated in 1961, the \"mother Temple of Africa\".",
+    "quote": "The Kampala Baháʼí Temple is a Baháʼí House of Worship, known to Baháʼís as the \"mother Temple of Africa\" and located on the outskirts of Kampala, Uganda.",
+    "source": "https://en.wikipedia.org/wiki/Kampala_Bah%C3%A1%CA%BC%C3%AD_Temple"
+   },
+   {
+    "fact": "It was the tallest building in East Africa when built.",
+    "quote": "It was dedicated in 1961, making it the world's third Baháʼí House of Worship to be completed, and at that time it was the tallest building in East Africa.",
+    "source": "https://en.wikipedia.org/wiki/Kampala_Bah%C3%A1%CA%BC%C3%AD_Temple"
+   },
+   {
+    "fact": "Charles Mason Remey prepared the approved design in Haifa.",
+    "quote": "Following an initial design which had been rejected, a new design was prepared in Haifa by the Charles Mason Remey, under the direction of Shoghi Effendi, which received approval in August 1956.",
+    "source": "https://en.wikipedia.org/wiki/Kampala_Bah%C3%A1%CA%BC%C3%AD_Temple"
+   },
+   {
+    "fact": "It was built after persecution in Iran made the Tehran plan impossible.",
+    "quote": "However, an outbreak of persecution of Baháʼís in Iran in 1955 made this plan impossible, so he announced that two other Houses of Worship would be built, in Kampala, Uganda, and Sydney, Australia.",
+    "source": "https://en.wikipedia.org/wiki/Kampala_Bah%C3%A1%CA%BC%C3%AD_Temple"
+   },
+   {
+    "fact": "The dome is Italian mosaic tile and the lower roof Belgian tile.",
+    "quote": "The temple's dome is built out of fixed mosaic tiles from Italy, whereas the tiles of the lower roof are from Belgium.",
+    "source": "https://en.wikipedia.org/wiki/Kampala_Bah%C3%A1%CA%BC%C3%AD_Temple"
+   },
+   {
+    "fact": "Windows are German coloured glass; timber and stone are Ugandan.",
+    "quote": "The wall panels contain windows of green, pale blue, and amber colored glass of German origin. Both the timber used for making the doors and benches and the stone used for the walls of the temple are from within Uganda itself.",
+    "source": "https://en.wikipedia.org/wiki/Kampala_Bah%C3%A1%CA%BC%C3%AD_Temple"
+   },
+   {
+    "fact": "The foundation goes 3 metres deep as protection against earthquakes.",
+    "quote": "As a protection against earthquakes that can occur in the region, the temple has a foundation that goes 3 metres beneath the ground.",
+    "source": "https://en.wikipedia.org/wiki/Kampala_Bah%C3%A1%CA%BC%C3%AD_Temple"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "bank-of-georgia-headquarters",
+  "facts": [
+   {
+    "fact": "George Chakhava and Zurab Jalaghania designed it for the Georgian SSR highway ministry; finished 1975.",
+    "quote": "It was designed by architects George Chakhava and Zurab Jalaghania  for the Ministry of Highway Construction of the Georgian SSR and finished in 1975.",
+    "source": "https://en.wikipedia.org/wiki/Bank_of_Georgia_headquarters"
+   },
+   {
+    "fact": "Chakhava was both the client and lead architect and could choose the site.",
+    "quote": "George Chakhava was Georgia's Deputy Minister of Highway Construction in the 1970s. Therefore, he was both the client and the lead architect of this project. He could choose the site location best suited for the design himself.",
+    "source": "https://en.wikipedia.org/wiki/Bank_of_Georgia_headquarters"
+   },
+   {
+    "fact": "The design uses the \"Space City method\", covering less ground and leaving space below for nature.",
+    "quote": "The idea is to use and cover less ground and give the space below the building back to nature.",
+    "source": "https://en.wikipedia.org/wiki/Bank_of_Georgia_headquarters"
+   },
+   {
+    "fact": "The cores are like trunks and the horizontal parts like crowns.",
+    "quote": "The architect's reference was a forest: the cores are like the trunk, the horizontal parts the crowns.",
+    "source": "https://en.wikipedia.org/wiki/Bank_of_Georgia_headquarters"
+   },
+   {
+    "fact": "It echoes El Lissitzky's horizontal skyscrapers of 1924.",
+    "quote": "The architect El Lissitzky designed with his horizontal skyscrapers (Wolkenbügel) 1924 a structure that looks very similar.",
+    "source": "https://en.wikipedia.org/wiki/Bank_of_Georgia_headquarters"
+   },
+   {
+    "fact": "Fair-faced concrete and sharp geometry mean it can be seen as Brutalist.",
+    "quote": "Based on the use of fairfaced concrete and the sharp, geometrical volumes, the building can also be considered as part of the Brutalism movement.",
+    "source": "https://en.wikipedia.org/wiki/Bank_of_Georgia_headquarters"
+   },
+   {
+    "fact": "The Bank of Georgia bought it in 2007 and it gained monument status.",
+    "quote": "In 2007 the building was acquired by the Bank of Georgia. In the same year it was also conferred an Immovable Monument status under the National Monuments Acts.",
+    "source": "https://en.wikipedia.org/wiki/Bank_of_Georgia_headquarters"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "bat-yam-city-hall",
+  "facts": [],
+  "thin": true
+ },
+ {
+  "id": "beinecke-rare-book-manuscript-library",
+  "facts": [
+   {
+    "fact": "It is Yale's rare book library, designed by Gordon Bunshaft of SOM and completed in 1963.",
+    "quote": "Situated on Yale University's Hewitt Quadrangle, the building was designed by Gordon Bunshaft of Skidmore, Owings & Merrill and completed in 1963.",
+    "source": "https://en.wikipedia.org/wiki/Beinecke_Rare_Book_%26_Manuscript_Library"
+   },
+   {
+    "fact": "A glass tower of book stacks sits within a windowless facade on four corner piers.",
+    "quote": "Its six-story above-ground glass-enclosed tower of book stacks is encased by a windowless façade, supported by four monolithic piers at the corners of the building.",
+    "source": "https://en.wikipedia.org/wiki/Beinecke_Rare_Book_%26_Manuscript_Library"
+   },
+   {
+    "fact": "The facade is translucent veined marble and granite, 1.25 inches thick, letting in amber light.",
+    "quote": "The marble was quarried from Danby, Vermont, and milled to a thickness of 1.25 inches (32 mm) in order to allow filtered daylight to permeate the interior in a subtle golden amber glow.",
+    "source": "https://en.wikipedia.org/wiki/Beinecke_Rare_Book_%26_Manuscript_Library"
+   },
+   {
+    "fact": "Bunshaft recalled alabaster in a Renaissance-type palace in Istanbul as the inspiration.",
+    "quote": "Gordon Bunshaft attributed the inspiration for this effect to \"what I thought was onyx in a Renaissance-type palace in Istanbul,\"  referring to the alabaster used in the Dolmabahçe Palace hammam.",
+    "source": "https://en.wikipedia.org/wiki/Beinecke_Rare_Book_%26_Manuscript_Library"
+   },
+   {
+    "fact": "Marble panels are framed by a hexagonal granite grid on a steel frame.",
+    "quote": "These panels are framed by a hexagonal grid of Vermont Woodbury granite veneer, fastened  to a structural steel frame.",
+    "source": "https://en.wikipedia.org/wiki/Beinecke_Rare_Book_%26_Manuscript_Library"
+   },
+   {
+    "fact": "Its outside dimensions have 1:2:3 proportions.",
+    "quote": "The outside dimensions have Platonic mathematical proportions of 1:2:3 (height: width: length).",
+    "source": "https://en.wikipedia.org/wiki/Beinecke_Rare_Book_%26_Manuscript_Library"
+   },
+   {
+    "fact": "A mezzanine surrounds the glass stack tower and shows a Gutenberg Bible.",
+    "quote": "An elevated public exhibition mezzanine surrounds the glass stack tower, and displays among other things, one of the 48 extant copies of the Gutenberg Bible.",
+    "source": "https://en.wikipedia.org/wiki/Beinecke_Rare_Book_%26_Manuscript_Library"
+   },
+   {
+    "fact": "It is International Style and called a \"jewel box\".",
+    "quote": "The Beinecke Library is an International Style building.",
+    "source": "https://en.wikipedia.org/wiki/Beinecke_Rare_Book_%26_Manuscript_Library"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "bharat-bhavan",
+  "facts": [
+   {
+    "fact": "Charles Correa designed this multi-arts complex in Bhopal.",
+    "quote": "Bharat Bhavan is an autonomous multi-arts complex and museum in Bhopal, India, established and funded by the Government of Madhya Pradesh. The architect of the Bharat Bhavan is Charles Correa.",
+    "source": "https://en.wikipedia.org/wiki/Bharat_Bhavan"
+   },
+   {
+    "fact": "It opened in 1982 facing the Upper Lake.",
+    "quote": "Opened in 1982, facing the Upper Lake, Bhopal, it houses multiple art galleries, a graphic printing workshop, a ceramics workshop, an open-air amphitheatre, a studio theatre, an auditorium, a museum of tribal & folk art, and libraries of Indian poetry, classical music & folk music.",
+    "source": "https://en.wikipedia.org/wiki/Bharat_Bhavan"
+   },
+   {
+    "fact": "Indira Gandhi inaugurated it on 13 February 1982.",
+    "quote": "The institution was inaugurated on 13 February 1982  by then Prime Minister, Indira Gandhi.",
+    "source": "https://en.wikipedia.org/wiki/Bharat_Bhavan"
+   },
+   {
+    "fact": "It is run by an autonomous trust and funded by Madhya Pradesh.",
+    "quote": "It was established and funded by the Department of Culture, Government of Madhya Pradesh,  though it is run by an autonomous 12-member Bharat Bhavan Trust.",
+    "source": "https://en.wikipedia.org/wiki/Bharat_Bhavan"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "bloch-building-nelson-atkins-museum-of-art",
+  "facts": [
+   {
+    "fact": "Steven Holl won a 1999 international competition for the addition.",
+    "quote": "Architect Steven Holl won an international competition in 1999 for the design of the addition.",
+    "source": "https://en.wikipedia.org/wiki/Nelson-Atkins_Museum_of_Art"
+   },
+   {
+    "fact": "Holl and Chris McVoy designed five glass pavilions (\"lenses\") above an underground building.",
+    "quote": "Holl's concept, conceived and realized with Design Partner Chris McVoy, was to build five glass pavilions to the east of the original building which they call lenses. The lenses top a 165,000-square-foot (15,300 m ) underground building known as the Bloch Building.",
+    "source": "https://en.wikipedia.org/wiki/Nelson-Atkins_Museum_of_Art"
+   },
+   {
+    "fact": "It houses contemporary, African and photography galleries, a cafe, a library and the Noguchi Sculpture Court.",
+    "quote": "The Bloch building houses the museum's contemporary, African, photography, and special exhibitions galleries as well a new cafe, the museum's Spencer Art Reference Library, and the Isamu Noguchi Sculpture Court.",
+    "source": "https://en.wikipedia.org/wiki/Nelson-Atkins_Museum_of_Art"
+   },
+   {
+    "fact": "Other entrants proposed north-side additions; Holl placed his east, perpendicular, to engage the sculpture garden.",
+    "quote": "Instead Holl and McVoy proposed placing the addition on the east side perpendicular to the main building. Their aim was to engage the museum's iconic sculpture garden to fuse the experience of art, architecture and landscape.",
+    "source": "https://en.wikipedia.org/wiki/Nelson-Atkins_Museum_of_Art"
+   },
+   {
+    "fact": "It opened 9 June 2007.",
+    "quote": "The addition cost approximately $95 million and opened June 9, 2007.",
+    "source": "https://en.wikipedia.org/wiki/Nelson-Atkins_Museum_of_Art"
+   },
+   {
+    "fact": "Time ranked it number one on a 2007 list of architectural marvels.",
+    "quote": "In 2007, Time magazine ranked the museum's new Bloch Building number one on its list of \"The 10 Best (New and Upcoming) Architectural Marvels\" which considered candidates from around the globe.",
+    "source": "https://en.wikipedia.org/wiki/Nelson-Atkins_Museum_of_Art"
+   },
+   {
+    "fact": "The plan was controversial during construction but reviews were generally positive.",
+    "quote": "During construction, Holl's plan met with considerable controversy.",
+    "source": "https://en.wikipedia.org/wiki/Nelson-Atkins_Museum_of_Art"
+   },
+   {
+    "fact": "The original 1933 building is Beaux-Arts by Wight and Wight.",
+    "quote": "The building was designed by prominent Kansas City architects Wight and Wight, who also designed the approaches to the Liberty Memorial and the Kansas governor's mansion, Cedar Crest.",
+    "source": "https://en.wikipedia.org/wiki/Nelson-Atkins_Museum_of_Art"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "bosco-verticale",
+  "facts": [
+   {
+    "fact": "It is two residential towers in Milan's Porta Nuova with plants on the facades.",
+    "quote": "The Bosco Verticale (Vertical Forest) is a complex of two residential skyscrapers designed by Boeri Studio (Stefano Boeri, Gianandrea Barreca, and Giovanni La Varra) and located in the Porta Nuova district of Milan, Italy.",
+    "source": "https://en.wikipedia.org/wiki/Bosco_Verticale"
+   },
+   {
+    "fact": "Over ninety plant species, including trees and shrubs, grow on the facades.",
+    "quote": "The distinctive feature of the skyscrapers, both inaugurated in 2014, is the presence of over ninety plant species, including tall shrubs and trees, distributed on the facades.",
+    "source": "https://en.wikipedia.org/wiki/Bosco_Verticale"
+   },
+   {
+    "fact": "Boeri reacted against glass-clad \"mineral cities\" after a visit to Dubai.",
+    "quote": "During a visit to the metropolis of Dubai in the United Arab Emirates, the architect had the impression of being in a \"mineral city, made up of dozens of new towers and skyscrapers, all clad in glass or ceramics or metal, all reflecting sunlight and therefore generating heat in the air and especially on the ground inhabited by pedestrians.\"",
+    "source": "https://en.wikipedia.org/wiki/Bosco_Verticale"
+   },
+   {
+    "fact": "Boeri says it was inspired by Calvino's The Baron in the Trees.",
+    "quote": "According to Boeri, the building was inspired by Italo Calvino's 1957 novel The Baron in the Trees, in which the protagonist decides to abandon the ground and live in the trees for the rest of his life.",
+    "source": "https://en.wikipedia.org/wiki/Bosco_Verticale"
+   },
+   {
+    "fact": "Together the towers have 800 trees, 5,000 shrubs and 1,500 perennials.",
+    "quote": "The project was named Bosco Verticale, or in English \"Vertical Forest\", because together the towers have 800 trees, 5,000 shrubs and 1,500 perennial plants, which help mitigate smog and produce oxygen.",
+    "source": "https://en.wikipedia.org/wiki/Bosco_Verticale"
+   },
+   {
+    "fact": "The vegetation shades interiors, blocks wind, and cuts noise and dust.",
+    "quote": "It is also used to moderate temperatures in the buildings in the winter and summer, by shading the interiors from the sun and blocking harsh winds. The vegetation also protects the interior spaces from noise pollution and dust from street-level traffic.",
+    "source": "https://en.wikipedia.org/wiki/Bosco_Verticale"
+   },
+   {
+    "fact": "It won the International Highrise Award in 2014.",
+    "quote": "In addition to the International Highrise Award in 2014, it was acknowledged by the Council on Tall Buildings and Urban Habitat as the \"most beautiful and innovative skyscraper in the world\" in 2015 and as one of the \"fifty most iconic skyscrapers in the world\" in 2019.",
+    "source": "https://en.wikipedia.org/wiki/Bosco_Verticale"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "bracken-house-london",
+  "facts": [
+   {
+    "fact": "Sir Albert Richardson designed it as a late example of modern classicism on a bomb site.",
+    "quote": "A late example of modern classicism, it was designed  by Sir Albert Richardson and constructed on a cleared bomb site southeast of St Paul's Cathedral.",
+    "source": "https://en.wikipedia.org/wiki/Bracken_House%2C_London"
+   },
+   {
+    "fact": "It is clad in pink Hollington sandstone, a nod to the Financial Times's pink paper.",
+    "quote": "The building was clad in pink sandstone from Hollington, Staffordshire, as an allusion to the characteristic pink colour of the newspaper, with red bricks and bronze windows, contrasting with the verdigris of the copper roof.",
+    "source": "https://en.wikipedia.org/wiki/Bracken_House%2C_London"
+   },
+   {
+    "fact": "An astronomical clock above the Cannon Street entrance has Churchill's face at the centre.",
+    "quote": "Above the entrance on Cannon Street is an astronomical clock, designed by Frank Dobson and Philip Bentham and made by Thwaites & Reed.",
+    "source": "https://en.wikipedia.org/wiki/Bracken_House%2C_London"
+   },
+   {
+    "fact": "It was among the first post-war English buildings to be listed, in 1987.",
+    "quote": "It became a Grade II listed building in 1987 – the first building built in England after the Second World War to become listed – and was upgraded to Grade II* in 2013.",
+    "source": "https://en.wikipedia.org/wiki/Bracken_House%2C_London"
+   },
+   {
+    "fact": "Michael Hopkins and Partners redesigned the central part between 1988 and 1992.",
+    "quote": "The central part of the building was redesigned by Michael Hopkins and Partners between 1988 and 1992.",
+    "source": "https://en.wikipedia.org/wiki/Bracken_House%2C_London"
+   },
+   {
+    "fact": "The new centre is glass and gunmetal with oriel windows inspired by Oriel Chambers.",
+    "quote": "The altered building retained the old ranges to the north and south, but replaced the central printing hall with a new glass and structural gunmetal structure on a Hollington sandstone plinth, with boxy oriel windows inspired by Oriel Chambers in Liverpool, constructed in 1864.",
+    "source": "https://en.wikipedia.org/wiki/Bracken_House%2C_London"
+   },
+   {
+    "fact": "The Financial Times moved back in 2019.",
+    "quote": "After refurbishments by John Robertson Architects, the Financial Times moved back into Bracken House in spring 2019.",
+    "source": "https://en.wikipedia.org/wiki/Bracken_House%2C_London"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "british-library",
+  "facts": [
+   {
+    "fact": "Colin St John Wilson designed it with his wife MJ Long.",
+    "quote": "The new library was designed by the architect Colin St John Wilson  in collaboration with his wife MJ Long.",
+    "source": "https://en.wikipedia.org/wiki/British_Library"
+   },
+   {
+    "fact": "It was the largest public building built in the UK in the 20th century.",
+    "quote": "It was the largest public building constructed in the United Kingdom in the 20th century.",
+    "source": "https://en.wikipedia.org/wiki/British_Library"
+   },
+   {
+    "fact": "A large piazza on Euston Road holds sculptures by Paolozzi and Gormley.",
+    "quote": "Facing Euston Road is a large piazza that includes pieces of public art, such as large sculptures by Eduardo Paolozzi (a bronze statue based on William Blake's study of Isaac Newton) and Antony Gormley.",
+    "source": "https://en.wikipedia.org/wiki/British_Library"
+   },
+   {
+    "fact": "A six-storey glass tower, inspired by one at the Beinecke Library, holds the King's Library.",
+    "quote": "A central six-storey glass tower inspired by a similar structure in the Beinecke Library, contains the King's Library with 65,000 printed volumes along with other pamphlets, manuscripts and maps collected by King George III between 1763 and 1820.",
+    "source": "https://en.wikipedia.org/wiki/British_Library"
+   },
+   {
+    "fact": "It stands next to St Pancras station and opened on 25 June 1998.",
+    "quote": "The Library's purpose-built building stands next to St Pancras station in London. It was officially opened by Elizabeth II on 25 June 1998, and is classified as a Grade I listed building \"of exceptional interest\" for its architecture and history.",
+    "source": "https://en.wikipedia.org/wiki/British_Library"
+   },
+   {
+    "fact": "Eleven new reading rooms opened as stock moved from the old Round Reading Room.",
+    "quote": "Before the end of that year the first of eleven new reading rooms had opened and the moving of stock was continuing.",
+    "source": "https://en.wikipedia.org/wiki/British_Library"
+   },
+   {
+    "fact": "It was Grade I listed on 1 August 2015.",
+    "quote": "The Euston Road building was Grade I listed on 1 August 2015.",
+    "source": "https://en.wikipedia.org/wiki/British_Library"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "byker-wall",
+  "facts": [
+   {
+    "fact": "It is a long unbroken block of 620 maisonettes in Newcastle designed by Ralph Erskine.",
+    "quote": "The Byker Wall is a long, unbroken block of 620 maisonettes in the Byker district of Newcastle upon Tyne, England. They were designed by Ralph Erskine and constructed in the 1970s.",
+    "source": "https://en.wikipedia.org/wiki/Byker_Wall"
+   },
+   {
+    "fact": "It replaced Victorian slum terraces condemned in 1953.",
+    "quote": "The Wall, along with the low-rise dwellings built to its south, replaced Victorian slum terraced housing. There were nearly 1200 houses on the site at Byker. They had been condemned as unfit for human habitation in 1953, and demolition began in 1966.",
+    "source": "https://en.wikipedia.org/wiki/Byker_Wall"
+   },
+   {
+    "fact": "Erskine opened a site office to build trust with residents.",
+    "quote": "The architects opened an office on site to develop communication and trust between the existing residents.",
+    "source": "https://en.wikipedia.org/wiki/Byker_Wall"
+   },
+   {
+    "fact": "The wall shields the estate from a motorway that was never built.",
+    "quote": "The new high-rise block was designed to shield the site from an intended motorway, which was never built.",
+    "source": "https://en.wikipedia.org/wiki/Byker_Wall"
+   },
+   {
+    "fact": "Cheap concrete, brick and timber, bright colours and brick bands marking floors were used.",
+    "quote": "Construction materials for Byker Wall were relatively cheap, concrete, brick and timber. Surfaces were treated with bright colours, while brick bandings were used on the 'Wall' to indicate floor levels.",
+    "source": "https://en.wikipedia.org/wiki/Byker_Wall"
+   },
+   {
+    "fact": "Its \"Functionalist Romantic\" styling broke with Brutalist high-rise orthodoxy.",
+    "quote": "Its Functionalist Romantic styling with textured, complex facades, colourful brick, wood and plastic panels, attention to context, and relatively low-rise construction represented a major break with the Brutalist high-rise architectural orthodoxy of the time.",
+    "source": "https://en.wikipedia.org/wiki/Byker_Wall"
+   },
+   {
+    "fact": "Design began in 1968 and construction ran 1969–1982.",
+    "quote": "Design began in 1968  and construction took place between 1969 and 1982.",
+    "source": "https://en.wikipedia.org/wiki/Byker_Wall"
+   },
+   {
+    "fact": "Fewer than 20% of the original residents were rehoused there.",
+    "quote": "Following completion, fewer than 20% of the original local residents were housed at Byker Wall.",
+    "source": "https://en.wikipedia.org/wiki/Byker_Wall"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "cape-town-city-hall",
+  "facts": [
+   {
+    "fact": "It is an Edwardian building of 1905 in honey-coloured limestone imported from Bath.",
+    "quote": "Cape Town City Hall  is a large Edwardian building, built in 1905, and located in Cape Town's city centre. It is located on the Grand Parade, to the west of the Castle, and is built from honey-coloured oolitic limestone, imported from Bath in England.",
+    "source": "https://en.wikipedia.org/wiki/Cape_Town_City_Hall"
+   },
+   {
+    "fact": "A public competition was won by Harry Austin Reid and Frederick George Green.",
+    "quote": "The winning architects were Messrs Harry Austin Reid and Frederick George Green, with the contractors being Messrs T. Howard and F. G. Scott.",
+    "source": "https://en.wikipedia.org/wiki/Cape_Town_City_Hall"
+   },
+   {
+    "fact": "Much of the material and fittings were imported from Europe.",
+    "quote": "Much of the building material, including fixtures and fittings was imported from Europe.",
+    "source": "https://en.wikipedia.org/wiki/Cape_Town_City_Hall"
+   },
+   {
+    "fact": "A city hall had been mooted in 1887 for Queen Victoria's Golden Jubilee.",
+    "quote": "In 1887, around the Queen Victoria's Golden Jubilee, the construction of a city hall was mooted as a  tribute, Six years later (1893) once the town council had approved of a scheme, a public competition was organized with H S Greaves, the chief architect of Public Works, as assessor.",
+    "source": "https://en.wikipedia.org/wiki/Cape_Town_City_Hall"
+   },
+   {
+    "fact": "The auditorium organ has 3,165 pipes.",
+    "quote": "There are altogether 3165 pipes varying from 32 feet (10 metres) to  3⁄4 inch (19 millimetres).",
+    "source": "https://en.wikipedia.org/wiki/Cape_Town_City_Hall"
+   },
+   {
+    "fact": "The tower has a turret clock chiming Westminster quarters.",
+    "quote": "The tower of the City Hall has a Turret Clock which strikes the hours and chimes the Westminster quarters.",
+    "source": "https://en.wikipedia.org/wiki/Cape_Town_City_Hall"
+   },
+   {
+    "fact": "A carillon was installed as a WWI war memorial.",
+    "quote": "The City Hall's carillon was installed as a World War I war memorial, with 22 additional bells",
+    "source": "https://en.wikipedia.org/wiki/Cape_Town_City_Hall"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "cardboard-cathedral",
+  "facts": [
+   {
+    "fact": "It is Christchurch's transitional cathedral, built after the 2011 earthquake.",
+    "quote": "The Cardboard Cathedral, formally called the Transitional Cathedral, in Christchurch, New Zealand, is the transitional pro-cathedral of the Anglican Diocese of Christchurch, replacing ChristChurch Cathedral, which was significantly damaged in the 2011 Christchurch earthquake.",
+    "source": "https://en.wikipedia.org/wiki/Cardboard_Cathedral"
+   },
+   {
+    "fact": "Shigeru Ban designed it with Warren and Mahoney; it opened in August 2013.",
+    "quote": "The Cardboard Cathedral was designed by the Japanese architect Shigeru Ban in association with Warren and Mahoney and opened in August 2013.",
+    "source": "https://en.wikipedia.org/wiki/Cardboard_Cathedral"
+   },
+   {
+    "fact": "The nickname comes from over 90 large cardboard tubes in the walls and roof.",
+    "quote": "The church gets its nickname from the use of over 90 large cardboard tubes for its walls and roof.",
+    "source": "https://en.wikipedia.org/wiki/Cardboard_Cathedral"
+   },
+   {
+    "fact": "Ban designed it pro bono and is called a \"disaster architect\".",
+    "quote": "Ban, who is characterised as a \"disaster architect\", designed the building pro bono,  in collaboration with Christchurch architecture firm Warren and Mahoney.",
+    "source": "https://en.wikipedia.org/wiki/Cardboard_Cathedral"
+   },
+   {
+    "fact": "It is A-frame in style, rising 24 metres, with tubes atop shipping containers.",
+    "quote": "A-frame in style, rising 24 metres (79 ft), it incorporated 86 cardboard tubes of 500 kilograms (1,100 lb) each atop 6 metres (20 ft) long containers.",
+    "source": "https://en.wikipedia.org/wiki/Cardboard_Cathedral"
+   },
+   {
+    "fact": "It stands on the site of the demolished St John the Baptist Church.",
+    "quote": "It was originally the site of St John the Baptist Church, the first church built in permanent materials by Anglicans in Christchurch, which was demolished after the 2011 Christchurch earthquake.",
+    "source": "https://en.wikipedia.org/wiki/Cardboard_Cathedral"
+   },
+   {
+    "fact": "It combines cardboard, wood and glass.",
+    "quote": "Construction details; cardboard, wood and glass",
+    "source": "https://en.wikipedia.org/wiki/Cardboard_Cathedral"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "casa-klotz",
+  "facts": [],
+  "thin": true
+ },
+ {
+  "id": "casa-rotalinti",
+  "facts": [],
+  "thin": true
+ },
+ {
+  "id": "cathedral-of-saint-mary-of-the-assumption",
+  "facts": [
+   {
+    "fact": "The present cathedral, completed in 1970, replaced one destroyed by fire in 1962.",
+    "quote": "The third and present Saint Mary's Cathedral, completed in 1970, is located in the Cathedral Hill neighborhood. It replaced the second Saint Mary's Cathedral, built in 1891 and destroyed by fire in 1962.",
+    "source": "https://en.wikipedia.org/wiki/Cathedral_of_Saint_Mary_of_the_Assumption_%28San_Francisco%29"
+   },
+   {
+    "fact": "The archdiocese added Pier Luigi Nervi and Pietro Belluschi to the design team after early options drew negative feedback.",
+    "quote": "However, the options that the architects originally presented received negative feedback. The archdiocese then added the Italian architect Pier Luigi Nervi and the American architect Pietro Belluschi to the design team.",
+    "source": "https://en.wikipedia.org/wiki/Cathedral_of_Saint_Mary_of_the_Assumption_%28San_Francisco%29"
+   },
+   {
+    "fact": "The brief asked for a structure where crowds could surround the altar.",
+    "quote": "a cathedral that would accommodate large numbers of people; one that would enable even large crowds to surround the altar; and a structure that would be a statement that God is present in beauty in the earthly city.",
+    "source": "https://en.wikipedia.org/wiki/Cathedral_of_Saint_Mary_of_the_Assumption_%28San_Francisco%29"
+   },
+   {
+    "fact": "The saddle roof is eight hyperbolic paraboloid segments, square at the base and cross-shaped at the top.",
+    "quote": "Its saddle roof is composed of eight segments of hyperbolic paraboloids. The bottom horizontal cross section of the roof is a square and the top cross section is a cross.",
+    "source": "https://en.wikipedia.org/wiki/Cathedral_of_Saint_Mary_of_the_Assumption_%28San_Francisco%29"
+   },
+   {
+    "fact": "The upper portion is precast concrete.",
+    "quote": "Precast concrete work, the entire top portion of the building, was constructed by Terracon and the DiRegolo Family of Hayward, California.",
+    "source": "https://en.wikipedia.org/wiki/Cathedral_of_Saint_Mary_of_the_Assumption_%28San_Francisco%29"
+   },
+   {
+    "fact": "It measures 255 feet square and 190 feet high, crowned by a golden cross.",
+    "quote": "Measuring 255 feet (78 m) square, Saint Mary's Cathedral is 190 feet (58 m) high and is crowned with a 55 feet (17 m) golden cross.",
+    "source": "https://en.wikipedia.org/wiki/Cathedral_of_Saint_Mary_of_the_Assumption_%28San_Francisco%29"
+   },
+   {
+    "fact": "Many Catholics disliked it, with nicknames such as \"Our Lady of Maytag\".",
+    "quote": "Some called it \"Our Lady of Perpetual Agitation\" or \"Our Lady of Maytag\" because the roof (designed to look like a conquistador's helmet) resembled the agitator in a washing machine.",
+    "source": "https://en.wikipedia.org/wiki/Cathedral_of_Saint_Mary_of_the_Assumption_%28San_Francisco%29"
+   },
+   {
+    "fact": "The AIA's San Francisco chapter listed it among the city's top 25 buildings in 2007.",
+    "quote": "Saint Mary's Cathedral was selected in 2007 by the local chapter of the American Institute of Architects for a list of San Francisco's top 25 buildings.",
+    "source": "https://en.wikipedia.org/wiki/Cathedral_of_Saint_Mary_of_the_Assumption_%28San_Francisco%29"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "centro-de-exposicoes-centro-administrativo-da-bahia",
+  "facts": [
+   {
+    "fact": "It is a brutalist building by João Filgueiras Lima nicknamed the \"Balance Building\".",
+    "quote": "The Centro de Exposições do Centro Administrativo da Bahia, known as the \"Prédio da Balança\", \"Balance Building\" is a brutalist building by João Filgueiras Lima at the Centro Administrativo da Bahia [pt] in Bahia, Brazil.",
+    "source": "https://en.wikipedia.org/wiki/Centro_de_Exposi%C3%A7%C3%B5es_do_Centro_Administrativo_da_Bahia"
+   },
+   {
+    "fact": "It was designed in 1974 and marks the entrance to the administrative centre.",
+    "quote": "The building was designed in 1974 by architect João Filgueiras Lima who was selected by Mário Kertész, the Secretary of Planning, Science, and Technology. The structure marks the entrance to Centro Administrativo da Bahia.",
+    "source": "https://en.wikipedia.org/wiki/Centro_de_Exposi%C3%A7%C3%B5es_do_Centro_Administrativo_da_Bahia"
+   },
+   {
+    "fact": "A concrete box is suspended by cables from two identical towers.",
+    "quote": "The rectangular concrete building is 52 metres (171 ft) long by 9 metres (30 ft) wide. It is suspended 5 metres (16 ft) above the ground by cables which extend from two identical side towers.",
+    "source": "https://en.wikipedia.org/wiki/Centro_de_Exposi%C3%A7%C3%B5es_do_Centro_Administrativo_da_Bahia"
+   },
+   {
+    "fact": "One tower holds stairs, the other an elevator.",
+    "quote": "Each tower contains a 4-metre (13 ft) cylindrical shaft, with one tower having stairs and the other an elevator.",
+    "source": "https://en.wikipedia.org/wiki/Centro_de_Exposi%C3%A7%C3%B5es_do_Centro_Administrativo_da_Bahia"
+   },
+   {
+    "fact": "The exhibition hall has a pyramidal ceiling with a skylight and the amphitheater inverts that space.",
+    "quote": "The exhibition hall on one end of the building has a pyramidal ceiling which contains a skylight. The amphitheater at the other end is the inversion of the exhibition hall space.",
+    "source": "https://en.wikipedia.org/wiki/Centro_de_Exposi%C3%A7%C3%B5es_do_Centro_Administrativo_da_Bahia"
+   },
+   {
+    "fact": "To show it was stable, Lima and Kertész stood under it as supports were removed.",
+    "quote": "To demonstrate it was stable, Lima and Kertész stood underneath as the construction supports were removed.",
+    "source": "https://en.wikipedia.org/wiki/Centro_de_Exposi%C3%A7%C3%B5es_do_Centro_Administrativo_da_Bahia"
+   },
+   {
+    "fact": "It was in disrepair by 2021, with emergency shoring in 2024.",
+    "quote": "As of 2021, the building was in disrepair and no longer used. Renovations have been needed for decades.",
+    "source": "https://en.wikipedia.org/wiki/Centro_de_Exposi%C3%A7%C3%B5es_do_Centro_Administrativo_da_Bahia"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "century-plaza-towers",
+  "facts": [
+   {
+    "fact": "Minoru Yamasaki designed two 44-storey twin towers for Alcoa, completed 1975.",
+    "quote": "Commissioned by Alcoa, the towers were designed by Minoru Yamasaki and completed in 1975.",
+    "source": "https://en.wikipedia.org/wiki/Century_Plaza_Towers"
+   },
+   {
+    "fact": "They resemble Yamasaki's original World Trade Center in twin form, vertical lines and aluminium exteriors.",
+    "quote": "The towers resemble Yamasaki's iconic work, the original World Trade Center in New York City, with their twin configuration, vertical black and gray lines, and aluminum exteriors.",
+    "source": "https://en.wikipedia.org/wiki/Century_Plaza_Towers"
+   },
+   {
+    "fact": "They have an unusual triangular footprint.",
+    "quote": "The towers have an unusual triangular footprint and are landmarks that are clearly seen around the Los Angeles Westside.",
+    "source": "https://en.wikipedia.org/wiki/Century_Plaza_Towers"
+   },
+   {
+    "fact": "They stand above one of the world's largest underground garages.",
+    "quote": "The towers sit atop one of the world's largest underground parking garages with a capacity of roughly 5,000 cars.",
+    "source": "https://en.wikipedia.org/wiki/Century_Plaza_Towers"
+   },
+   {
+    "fact": "They are the tallest buildings in California outside downtown LA and San Francisco.",
+    "quote": "They are the tallest buildings in California outside Downtown Los Angeles and San Francisco.",
+    "source": "https://en.wikipedia.org/wiki/Century_Plaza_Towers"
+   },
+   {
+    "fact": "They appear in TV shows and films.",
+    "quote": "In television, the towers were the location for the offices of two separate fictional 1980s private detectives.",
+    "source": "https://en.wikipedia.org/wiki/Century_Plaza_Towers"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "chapel-of-the-holy-cross",
+  "facts": [
+   {
+    "fact": "It is a Catholic chapel built 1954–1956 into the red rock buttes of Sedona.",
+    "quote": "The Chapel of the Holy Cross is a Roman Catholic chapel built from 1954 to 1956 into the red rock buttes of Sedona, Arizona, within the Coconino National Forest.",
+    "source": "https://en.wikipedia.org/wiki/Chapel_of_the_Holy_Cross_%28Sedona%2C_Arizona%29"
+   },
+   {
+    "fact": "August K. Strotz and Richard Hein of Anshen & Allen designed it for Marguerite Brunswig Staude.",
+    "quote": "It was inspired and commissioned by local rancher and sculptor Marguerite Brunswig Staude, and was designed by August K. Strotz of the firm of Anshen & Allen, with Richard Hein of the firm as the project architect.",
+    "source": "https://en.wikipedia.org/wiki/Chapel_of_the_Holy_Cross_%28Sedona%2C_Arizona%29"
+   },
+   {
+    "fact": "Staude was inspired by the Empire State Building to build such a church.",
+    "quote": "The chapel was inspired and commissioned by local rancher and sculptor Marguerite Brunswig Staude, who had been inspired in 1932 by the newly constructed Empire State Building to build such a church.",
+    "source": "https://en.wikipedia.org/wiki/Chapel_of_the_Holy_Cross_%28Sedona%2C_Arizona%29"
+   },
+   {
+    "fact": "The architects aimed to understate against the landscape.",
+    "quote": "The architects started the design in 1953 and said the following after viewing the site, \"Nature has done everything here. All we have to do is understate.\"",
+    "source": "https://en.wikipedia.org/wiki/Chapel_of_the_Holy_Cross_%28Sedona%2C_Arizona%29"
+   },
+   {
+    "fact": "A 90 ft iron cross on the wall is both symbol and structure.",
+    "quote": "The main feature of the chapel is a 90 ft (27.4 m) tall iron cross on the southwestern wall, which serves both aesthetic and structural purposes.",
+    "source": "https://en.wikipedia.org/wiki/Chapel_of_the_Holy_Cross_%28Sedona%2C_Arizona%29"
+   },
+   {
+    "fact": "Walls are 1-foot reinforced concrete, sandblasted to show the aggregate.",
+    "quote": "The walls and cross are constructed with reinforced coarse-aggregate concrete, 1 foot (0.3 m) in thickness. Inside and out, the walls were sandblasted to unveil the textured aggregate.",
+    "source": "https://en.wikipedia.org/wiki/Chapel_of_the_Holy_Cross_%28Sedona%2C_Arizona%29"
+   },
+   {
+    "fact": "Smoky-grey glass at the ends reduces glare.",
+    "quote": "To reduce glare, smokey-gray-colored glass is utilized at the two ends of the chapel.",
+    "source": "https://en.wikipedia.org/wiki/Chapel_of_the_Holy_Cross_%28Sedona%2C_Arizona%29"
+   },
+   {
+    "fact": "It was built in 18 months and moved 25 tons of rock without dynamite.",
+    "quote": "Upwards of 25 tons of rock was moved without the use of dynamite.",
+    "source": "https://en.wikipedia.org/wiki/Chapel_of_the_Holy_Cross_%28Sedona%2C_Arizona%29"
+   },
+   {
+    "fact": "The AIA gave it an Award of Honor in 1957.",
+    "quote": "The American Institute of Architects gave the Chapel its Award of Honor in 1957.",
+    "source": "https://en.wikipedia.org/wiki/Chapel_of_the_Holy_Cross_%28Sedona%2C_Arizona%29"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "chateau-frontenac",
+  "facts": [
+   {
+    "fact": "Bruce Price designed this railway hotel in the Château style; the Canadian Pacific Railway built it.",
+    "quote": "The Château Frontenac was designed by New York architect Bruce Price in the Château style.  It was built by the Canadian Pacific Railway company.",
+    "source": "https://en.wikipedia.org/wiki/Ch%C3%A2teau_Frontenac"
+   },
+   {
+    "fact": "It opened in 1893 with 18 floors and was a National Historic Site in 1981.",
+    "quote": "Opened in 1893, the building has 18 floors; its 79.9-metre (262-foot) height is augmented by its 54-metre (177-foot) ground elevation.  It was one of the first of Canada's grand railway hotels, and was designated a National Historic Site of Canada in 1981.",
+    "source": "https://en.wikipedia.org/wiki/Ch%C3%A2teau_Frontenac"
+   },
+   {
+    "fact": "It stands on the Quebec promontory above the Saint Lawrence River.",
+    "quote": "The Château Frontenac is situated on 1, rue des Carrières, at the eastern edge of Old Quebec's Upper Town, built on the promontory of Quebec, a raised mass of land that projects into the Saint Lawrence River.",
+    "source": "https://en.wikipedia.org/wiki/Ch%C3%A2teau_Frontenac"
+   },
+   {
+    "fact": "Terrasse Dufferin wraps around it overlooking the river.",
+    "quote": "Terrasse Dufferin is a terrace that wraps around the hotel from the northeast to the southeast, overlooking the Saint Lawrence River.",
+    "source": "https://en.wikipedia.org/wiki/Ch%C3%A2teau_Frontenac"
+   },
+   {
+    "fact": "Two public roads run through the hotel.",
+    "quote": "Two public roads run through the hotel, rue du Trésor, and rue des Carrières.",
+    "source": "https://en.wikipedia.org/wiki/Ch%C3%A2teau_Frontenac"
+   },
+   {
+    "fact": "It was expanded three times, last in 1993.",
+    "quote": "The hotel was expanded on three occasions, with the last major expansion taking place in 1993.",
+    "source": "https://en.wikipedia.org/wiki/Ch%C3%A2teau_Frontenac"
+   },
+   {
+    "fact": "It is considered the most photographed hotel in the world.",
+    "quote": "It is considered the most photographed hotel in the world.",
+    "source": "https://en.wikipedia.org/wiki/Ch%C3%A2teau_Frontenac"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "choux-de-creteil",
+  "facts": [
+   {
+    "fact": "It is a group of ten cylindrical 15-storey buildings in Créteil, completed in 1974.",
+    "quote": "Les Choux de Créteil is a group of ten cylindrical buildings, each 15 stories in height, in the Paris suburb of Créteil.",
+    "source": "https://en.wikipedia.org/wiki/Choux_de_Cr%C3%A9teil"
+   },
+   {
+    "fact": "Gérard Grandval designed it; the nickname \"cabbages\" comes from the balconies.",
+    "quote": "The project is known as Les Choux (the cabbages), due to the unusual shape of their balconies. The buildings were designed by architect Gérard Grandval, and were completed in 1974.",
+    "source": "https://en.wikipedia.org/wiki/Choux_de_Cr%C3%A9teil"
+   },
+   {
+    "fact": "The shape is meant to be functional, with living spaces near windows and 2 m balconies for privacy.",
+    "quote": "The buildings' unique shape is intended to be functional; the apartments' living spaces are closer to the windows, and the 2-meter-tall balconies provide outdoor access and privacy at the same time.",
+    "source": "https://en.wikipedia.org/wiki/Choux_de_Cr%C3%A9teil"
+   },
+   {
+    "fact": "Balconies were meant to be planted, but this was never carried out.",
+    "quote": "The curved balconies  were intended to be planted with all sorts of ornamental plants and small trees, thus causing the aspect of the buildings to change according to seasons, but that part of the project was never carried out.",
+    "source": "https://en.wikipedia.org/wiki/Choux_de_Cr%C3%A9teil"
+   },
+   {
+    "fact": "The site had long grown vegetables for Paris.",
+    "quote": "The project was initiated in 1966, in an area which had been used for a century to produce much of the vegetables for Parisian tables.",
+    "source": "https://en.wikipedia.org/wiki/Choux_de_Cr%C3%A9teil"
+   },
+   {
+    "fact": "It was recognised as a \"Heritage of the 20th Century\" in 2008.",
+    "quote": "The project was recognized as a \"Heritage of the 20th Century\" by the French Ministry of Culture (16 December 2008); at the time the work was regarded as a symbol of 1970s French architecture.",
+    "source": "https://en.wikipedia.org/wiki/Choux_de_Cr%C3%A9teil"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "christian-science-plaza",
+  "facts": [
+   {
+    "fact": "It is a 13.5-acre plaza in Boston's Back Bay, a Boston Landmark since 2011.",
+    "quote": "The Christian Science Plaza is a 13.5-acre (5.5 ha) site on the corner of Massachusetts Avenue and Huntington Avenue in the Back Bay neighborhood of Boston, Massachusetts.",
+    "source": "https://en.wikipedia.org/wiki/Christian_Science_Plaza"
+   },
+   {
+    "fact": "It has 10.4 acres of open space and a 690 × 100 ft reflecting pool.",
+    "quote": "The Christian Science Plaza comprises 10.4 acres (4.2 ha) of open space, a 690 × 100 ft (210 × 30 m) reflecting pool, a children's fountain, and six buildings:",
+    "source": "https://en.wikipedia.org/wiki/Christian_Science_Plaza"
+   },
+   {
+    "fact": "Araldo Cossutta of I. M. Pei & Associates designed three 1970s buildings.",
+    "quote": "Three buildings, designed by Araldo Cossutta of I. M. Pei & Associates,  constructed when the site was extended in the 1970s:",
+    "source": "https://en.wikipedia.org/wiki/Christian_Science_Plaza"
+   },
+   {
+    "fact": "The 26-storey Administration Building (1972) is now leased as offices.",
+    "quote": "177 Huntington, formerly the Administration Building (1972). This 26-story building housed the church's administrative staff until 2008, when they moved to Christian Science Publishing House.   The building is now leased out as office space.",
+    "source": "https://en.wikipedia.org/wiki/Christian_Science_Plaza"
+   },
+   {
+    "fact": "The Boston Landmarks Commission called it a \"heavily-used public space\".",
+    "quote": "The plaza, which is owned by the Church of Christ, Scientist (the Christian Science church),   was designated as a Boston Landmark by the Boston Landmarks Commission in 2011, with the Commission describing it as a \"heavily-used public space\".",
+    "source": "https://en.wikipedia.org/wiki/Christian_Science_Plaza"
+   },
+   {
+    "fact": "The Mother Church of 1894 and 1906 extension stand with it.",
+    "quote": "The First Church of Christ, Scientist, 250 Massachusetts Avenue, consisting of two buildings: the original Mother Church (1894) and the Church Extension (1906).",
+    "source": "https://en.wikipedia.org/wiki/Christian_Science_Plaza"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "concord-pavilion",
+  "facts": [
+   {
+    "fact": "It is an amphitheatre in Concord, California that opened in 1975.",
+    "quote": "The Pavilion has a capacity of 12,500 people and opened in 1975 as the Concord Pavilion.",
+    "source": "https://en.wikipedia.org/wiki/Concord_Pavilion"
+   },
+   {
+    "fact": "Frank Gehry and landscape architect Peter Walker designed it.",
+    "quote": "The Pavilion was designed by architect Frank Gehry and landscape architect Peter Walker.",
+    "source": "https://en.wikipedia.org/wiki/Concord_Pavilion"
+   },
+   {
+    "fact": "Gehry designed its 1996 renovation and expansion.",
+    "quote": "Gehry also designed its 1996 renovation and expansion, which included more parking and seats.",
+    "source": "https://en.wikipedia.org/wiki/Concord_Pavilion"
+   },
+   {
+    "fact": "It hosts concerts, community events and graduations.",
+    "quote": "It is used for concerts, local community events (including an annual jazz festival) and local high school graduations.",
+    "source": "https://en.wikipedia.org/wiki/Concord_Pavilion"
+   },
+   {
+    "fact": "It is owned by the City of Concord and run by Live Nation.",
+    "quote": "It is owned by the City of Concord and operated by Live Nation.",
+    "source": "https://en.wikipedia.org/wiki/Concord_Pavilion"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "copenhill",
+  "facts": [
+   {
+    "fact": "It is a waste-to-energy plant with an 85 m recreational slope, in Copenhagen.",
+    "quote": "combined heat and power waste-to-energy plant (new resource handling centre) and a 85 m (279 ft) tall recreational facility in Amager, Copenhagen, Denmark,  located prominently within view of the city's downtown.",
+    "source": "https://en.wikipedia.org/wiki/CopenHill"
+   },
+   {
+    "fact": "BIG designed the sports facility whose sloped roof is a ski slope, hiking slope and climbing wall.",
+    "quote": "It also houses a sports facility designed by Bjarke Ingels Group with an 85 meters tall sloped roof that doubles as year-round artificial ski slope, hiking slope and climbing wall, which opened to the public 4–6 October 2019.",
+    "source": "https://en.wikipedia.org/wiki/CopenHill"
+   },
+   {
+    "fact": "The climbing wall is the world's tallest permanent one at 80 metres.",
+    "quote": "The climbing wall, manufactured by Walltopia, is the world's tallest permanent climbing wall at 80 meters.",
+    "source": "https://en.wikipedia.org/wiki/CopenHill"
+   },
+   {
+    "fact": "The plant opened 30 March 2017.",
+    "quote": "The plant opened on 30 March 2017.",
+    "source": "https://en.wikipedia.org/wiki/CopenHill"
+   },
+   {
+    "fact": "The chimney was designed to emit smoke rings, an idea later abandoned.",
+    "quote": "The chimney was originally designed to not emit its exhaust continuously, but instead in the form of \"smoke\" rings (consisting of water vapor rather than actual smoke).   Due to technical difficulties, this idea was later abandoned.",
+    "source": "https://en.wikipedia.org/wiki/CopenHill"
+   },
+   {
+    "fact": "It was named World Building of the Year 2021.",
+    "quote": "Copenhill was named the World Building of the Year 2021 at the fourteenth annual World Architecture Festival.",
+    "source": "https://en.wikipedia.org/wiki/CopenHill"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "danish-maritime-museum",
+  "facts": [
+   {
+    "fact": "BIG designed the museum around a former dry dock in Helsingør; it opened in October 2013.",
+    "quote": "A new museum designed by Bjarke Ingels Group (BIG) opened in October 2013. Located in a former Helsingør dry dock, it is placed in an underground area of 7,600 square metres (82,000 sq ft) with an interior designed by Dutch architects Kossmann.dejong.",
+    "source": "https://en.wikipedia.org/wiki/Danish_Maritime_Museum"
+   },
+   {
+    "fact": "It is underground because height limits protect the view of nearby Kronborg.",
+    "quote": "BIG's decision to build underground was the result of height restrictions imposed on the design in order to protect the viewshed of nearby Kronborg.",
+    "source": "https://en.wikipedia.org/wiki/Danish_Maritime_Museum"
+   },
+   {
+    "fact": "Dock walls were reinforced; the empty dock is crossed by ramps and bridges.",
+    "quote": "The old dry dock, 150 metres (490 ft)  long, 25 metres (82 ft)  wide and 9 metres (30 ft) deep, proved to be an ideal location but it was first necessary to reinforce the old dock walls before constructing the museum on its periphery. The dock itself will remain an empty space crossed by ramps and bridges providing access to the museum and the exhibition areas.",
+    "source": "https://en.wikipedia.org/wiki/Danish_Maritime_Museum"
+   },
+   {
+    "fact": "The intention is for a ship's-deck feel.",
+    "quote": "The overall intention is to give the museum the feel of a ship's deck.",
+    "source": "https://en.wikipedia.org/wiki/Danish_Maritime_Museum"
+   },
+   {
+    "fact": "The museum was established in 1915 and moved from Kronborg Castle.",
+    "quote": "The museum was originally located at Kronborg Castle. In 2013, the museum moved into new underground premises designed by Bjarke Ingels Group (BIG) around a former dry dock.",
+    "source": "https://en.wikipedia.org/wiki/Danish_Maritime_Museum"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "deere-and-company-headquarters",
+  "facts": [
+   {
+    "fact": "Eero Saarinen designed the main and display buildings of the Moline headquarters.",
+    "quote": "Eero Saarinen designed the original two structures, namely the main and display buildings.",
+    "source": "https://en.wikipedia.org/wiki/John_Deere_World_Headquarters"
+   },
+   {
+    "fact": "The buildings are clad in Cor-Ten weathering steel and glass.",
+    "quote": "The main building, display building, and Deere West are clad with Cor-Ten weathering steel and glass.",
+    "source": "https://en.wikipedia.org/wiki/John_Deere_World_Headquarters"
+   },
+   {
+    "fact": "The seven-storey main building sits in a ravine, reached by footbridges on the fourth floor.",
+    "quote": "The seven-story main building is located in a ravine and is accessed by footbridges on its fourth floor, which lead east to the display building and west to Deere West.",
+    "source": "https://en.wikipedia.org/wiki/John_Deere_World_Headquarters"
+   },
+   {
+    "fact": "The display building has an auditorium and a sculpture mural by Alexander Girard.",
+    "quote": "The display building contains an auditorium with two levels, along with a display area with a sculpture mural by Alexander Girard.",
+    "source": "https://en.wikipedia.org/wiki/John_Deere_World_Headquarters"
+   },
+   {
+    "fact": "Sasaki Associates designed the landscape with two lakes.",
+    "quote": "The landscape, designed by Sasaki Associates, includes two lakes.",
+    "source": "https://en.wikipedia.org/wiki/John_Deere_World_Headquarters"
+   },
+   {
+    "fact": "Saarinen died just after construction began; it opened 20 April 1964.",
+    "quote": "Hewitt hired Saarinen, whose plans were approved in 1958; Saarinen died just after construction started in 1962. The complex opened on April 20, 1964, and included provisions for connections to additional buildings in the south and west.",
+    "source": "https://en.wikipedia.org/wiki/John_Deere_World_Headquarters"
+   },
+   {
+    "fact": "It received the Twenty-five Year Award.",
+    "quote": "It has also received numerous awards, including the Twenty-five Year Award for architectural excellence.",
+    "source": "https://en.wikipedia.org/wiki/John_Deere_World_Headquarters"
+   },
+   {
+    "fact": "Roche-Dinkeloo added Deere West in 1978, with offices around a glass-roofed atrium.",
+    "quote": "Roche-Dinkeloo was hired in 1975 to design Deere West, which opened in 1978.",
+    "source": "https://en.wikipedia.org/wiki/John_Deere_World_Headquarters"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "dennis-chavez-federal-building",
+  "facts": [
+   {
+    "fact": "It is a high-rise federal office building and courthouse in Albuquerque, completed in 1965.",
+    "quote": "The Dennis Chavez Federal Building is a high-rise federal office building and courthouse located at 500 Gold Avenue SW in Downtown Albuquerque, New Mexico. It was completed in 1965",
+    "source": "https://en.wikipedia.org/wiki/Dennis_Chavez_Federal_Building"
+   },
+   {
+    "fact": "It was renamed for Senator Dennis Chavez in 1976.",
+    "quote": "Originally known simply as the U.S. Courthouse and Federal Office Building, the building was renamed in honor of longtime U.S. Senator Dennis Chavez in 1976.",
+    "source": "https://en.wikipedia.org/wiki/Dennis_Chavez_Federal_Building"
+   },
+   {
+    "fact": "An Albuquerque firm, Flatow, Moore, Bryan, and Fairburn, designed it.",
+    "quote": "The Dennis Chavez Building was designed by the Albuquerque firm of Flatow, Moore, Bryan, and Fairburn, which had previously been responsible for other local highrises like the Simms Building and Bank of the West Tower.",
+    "source": "https://en.wikipedia.org/wiki/Dennis_Chavez_Federal_Building"
+   },
+   {
+    "fact": "It has a steel frame, polished granite facing and New Mexico marble in the lobby.",
+    "quote": "The steel-framed building is faced with polished granite, with New Mexico marble used in the ground floor lobby.",
+    "source": "https://en.wikipedia.org/wiki/Dennis_Chavez_Federal_Building"
+   },
+   {
+    "fact": "It has 13 floors above ground.",
+    "quote": "It is 197 feet (60 m) in height and has 13 above-ground floors with a basement and underground parking garage.",
+    "source": "https://en.wikipedia.org/wiki/Dennis_Chavez_Federal_Building"
+   },
+   {
+    "fact": "It was listed on the National Register of Historic Places in 2023.",
+    "quote": "The building was listed on the National Register of Historic Places in 2023.",
+    "source": "https://en.wikipedia.org/wiki/Dennis_Chavez_Federal_Building"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "design-research-building",
+  "facts": [
+   {
+    "fact": "It housed Design Research, a store founded in 1953 that introduced the lifestyle store.",
+    "quote": "Design Research (abbreviated and trademarked as D/R) was a retail store founded in 1953 by Ben Thompson in Cambridge, Massachusetts, and which introduced the concept of lifestyle store.",
+    "source": "https://en.wikipedia.org/wiki/Design_Research_Building"
+   },
+   {
+    "fact": "Benjamin Thompson and Associates designed the 1969 building at 48 Brattle Street, Harvard Square.",
+    "quote": "In 1969, Thompson moved the original Cambridge store to a revolutionary new 24,000-square-foot (2,200 m ) building designed by his firm, Benjamin Thompson and Associates, at 48 Brattle Street in Harvard Square, on a block that came to be known as \"Architects' Corner\".",
+    "source": "https://en.wikipedia.org/wiki/Design_Research_Building"
+   },
+   {
+    "fact": "It has five storeys of concrete slabs on interior columns, enclosed by frameless tempered glass.",
+    "quote": "The 5-story building consists of flat concrete slabs supported by interior columns, and enclosed by frameless tempered glass walls.",
+    "source": "https://en.wikipedia.org/wiki/Design_Research_Building"
+   },
+   {
+    "fact": "Butted glass without frames or mullions was unprecedented.",
+    "quote": "The use of butted glass with no frame or mullions was unprecedented, and \"allowed D/R to be a building almost 'without architecture'\".",
+    "source": "https://en.wikipedia.org/wiki/Design_Research_Building"
+   },
+   {
+    "fact": "It was conceived as a glass showcase faceted like a diamond.",
+    "quote": "is conceived as a five-story glass showcase, faceted like the surface of a diamond.",
+    "source": "https://en.wikipedia.org/wiki/Design_Research_Building"
+   },
+   {
+    "fact": "Reviews praised it as pointing to glass building that could warm the city.",
+    "quote": "It immediately received favorable reviews: \"points the way to a method of glass building that could create a warmer city, adding color and light and optimism to the life of the streets\".",
+    "source": "https://en.wikipedia.org/wiki/Design_Research_Building"
+   },
+   {
+    "fact": "The store carried furniture by designers such as Breuer, Wegner, Aalto and Colombo.",
+    "quote": "It carried furnishings by such designers as Marcel Breuer, Hans Wegner, Alvar Aalto, and Joe Colombo.",
+    "source": "https://en.wikipedia.org/wiki/Design_Research_Building"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "dialogue-centre-przelomy",
+  "facts": [],
+  "thin": true
  }
 ]
