@@ -663,5 +663,114 @@
     ]
    }
   ]
+ },
+ {
+  "slug": "london",
+  "faq": [
+   {
+    "q": "Why is London's architecture worth studying?",
+    "a": "London has been rebuilt again and again on its old ground. The Great Fire of 1666, which destroyed about nine tenths of the city, was a turning point: Wren's grid plan was set aside, and the city was rebuilt on its medieval streets under a 1667 act asking for brick houses of uniform height and plot size. Victorian London then built the world's first underground railway.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Architecture_of_London"
+    ]
+   },
+   {
+    "q": "Which modern buildings in London should architecture students visit?",
+    "a": "A good route takes in Denys Lasdun's Royal National Theatre (1976), whose concrete terraces step toward the Thames; the Barbican Estate (1982); Richard Rogers's Lloyd's Building (1986); Tate Modern (2000), a power station turned museum; Foster and Partners' 30 St Mary Axe (2004), a diagrid tower; and Renzo Piano's The Shard (2012), London's first supertall skyscraper.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Architecture_of_London",
+     "wall"
+    ]
+   },
+   {
+    "q": "Where can I see brutalist architecture in London?",
+    "a": "London has some of the best-known brutalist buildings anywhere. The Barbican Estate and Barbican Centre (1982) lift housing, an arts centre and a lake onto walkways above the street. Ernő Goldfinger's Balfron Tower (1967) and Trellick Tower (1972) put their lifts in separate towers linked to the flats by bridges every third floor, and the Royal National Theatre (1976) sits on the South Bank.",
+    "sources": [
+     "wall"
+    ]
+   },
+   {
+    "q": "Which historic buildings in London should architecture students know?",
+    "a": "Wren's dome for St Paul's Cathedral was praised by Pevsner as among the most perfect in the world. John Nash laid out Regent Street with James Burton and remodelled Buckingham House into Buckingham Palace. Sir John Soane's Museum (1824) draws daylight down through narrow, layered rooms, and the Palace of Westminster (1876), by Charles Barry and Augustus Pugin, wraps parliament in Perpendicular Gothic Revival detail.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Architecture_of_London",
+     "https://en.wikipedia.org/wiki/John_Nash_(architect)",
+     "wall"
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "new-york",
+  "faq": [
+   {
+    "q": "Why is New York's architecture worth studying?",
+    "a": "New York has one of the largest and most varied collections of skyscrapers in the world, and its rules shaped them. The 1916 Zoning Resolution required setbacks and limited towers to a share of the lot, and Art Deco towers such as the Chrysler and Empire State buildings took their tapered tops from those rules. Grand Central Terminal was built in the Beaux-Arts style.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Architecture_of_New_York_City"
+    ]
+   },
+   {
+    "q": "Which skyscrapers in New York should architecture students study?",
+    "a": "In date order: the Flatiron Building (1902), filling a triangular block; Cass Gilbert's Woolworth Building (1913), a steel frame in Gothic Revival terracotta; the Chrysler Building (1930), which many historians and architects rank among the city's finest; the Empire State Building (1931), the first to pass 100 storeys; the Seagram Building (1958); and Herzog & de Meuron's 56 Leonard Street (2017).",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Architecture_of_New_York_City",
+     "wall"
+    ]
+   },
+   {
+    "q": "Which modern buildings in New York should architecture students visit?",
+    "a": "Frank Lloyd Wright's Solomon R. Guggenheim Museum (1959) replaces floors with one spiral ramp. Mies van der Rohe's Seagram Building (1958) stands back behind a plaza; the critic Paul Goldberger called it one of the city's most copied buildings. Add Eero Saarinen's TWA Flight Center (1962), the Ford Foundation Building (1967), with its glazed garden atrium, and the High Line (2009), a railway turned park.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Architecture_of_New_York_City",
+     "wall"
+    ]
+   },
+   {
+    "q": "What are the best examples of International Style buildings in New York?",
+    "a": "The Seagram Building and 330 West 42nd Street are named as early, influential examples of the International Style in the United States. On the wall you can compare the United Nations Headquarters (1952), a thin Secretariat slab with glass curtain-wall faces; SOM's Manufacturers Trust Company Building (1954), a glass-walled bank on Fifth Avenue; and the Seagram Building (1958), whose bronze mullions express the frame.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Architecture_of_New_York_City",
+     "wall"
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "chicago",
+  "faq": [
+   {
+    "q": "Why is Chicago important in architecture?",
+    "a": "Chicago is where the skyscraper was worked out. After the Great Chicago Fire of 1871 destroyed most of downtown, the city rebuilt. The Montauk Building (1882–83) was the first to be called a skyscraper, and Jenney's Home Insurance Building (1885) is considered the first with steel in its structural frame. A steel skeleton meant height was no longer limited by the strength of the walls.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Architecture_of_Chicago",
+     "https://en.wikipedia.org/wiki/Chicago_school_(architecture)"
+    ]
+   },
+   {
+    "q": "What is the Chicago School of architecture?",
+    "a": "The Chicago School grew out of the city's rebuilding on steel frames, which freed height from the strength of the walls. Louis Sullivan set aside historical precedent to stress height. The Reliance Building (1895) was the first skyscraper with large plate-glass windows over most of its surface. From 1963 a \"Second Chicago School\" grew from Mies van der Rohe's work at IIT, where his S. R. Crown Hall (1956) stands.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Chicago_school_(architecture)",
+     "https://en.wikipedia.org/wiki/Architecture_of_Chicago",
+     "wall"
+    ]
+   },
+   {
+    "q": "Which buildings in Chicago should architecture students visit?",
+    "a": "Start with Burnham & Root's Rookery Building (1888) and the Monadnock Building (1893), the tallest load-bearing masonry building ever built. Add Frank Lloyd Wright's Robie House (1910); Mies's 860-880 Lake Shore Drive (1951), two steel and glass towers at right angles; Bruce Graham and Fazlur Khan's John Hancock Center (1969) and Willis Tower (1973); and Jeanne Gang's Aqua Tower (2009), whose balconies form undulating contours.",
+    "sources": [
+     "wall"
+    ]
+   },
+   {
+    "q": "Who were the most important Chicago architects?",
+    "a": "The key names start with Daniel Burnham, who led the design of the 1893 World's Columbian Exposition, the \"White City\", and with John Root built the Rookery and the Monadnock. Then Louis Sullivan, whose Sullivan Center sets a white terracotta grid over an ornate cast-iron base. Later came Mies van der Rohe, whose work at IIT started a Second Chicago School, and SOM's Bruce Graham and Fazlur Khan, who designed the John Hancock Center's X-braced tube.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Architecture_of_Chicago",
+     "wall"
+    ]
+   }
+  ]
  }
 ]
