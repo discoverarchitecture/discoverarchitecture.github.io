@@ -338,6 +338,14 @@ def writeup_block(b):
                else (f'<p class="src">Sources: {" · ".join(src)}</p>' if src else '')) + '</section>')
 
 
+def guide_links():
+    """The guides (tools/guides/*.json), for the home page's text block."""
+    gs = sorted((json.loads(f.read_text()) for f in (ROOT / 'tools' / 'guides').glob('*.json')), key=lambda g: g['published'])
+    if not gs:
+        return ''
+    return ('  <h3><a href="guides/">Guides</a></h3>\n  <p>' + ' · '.join(f'<a href="guides/{g["slug"]}/">{e(g["title"].split(":")[0])}</a>' for g in gs) + '</p>\n')
+
+
 def hub_links():
     """The hub pages by kind, for the home page's text block, so crawlers (and people without JavaScript) can reach them."""
     if not HUBS:
@@ -367,7 +375,7 @@ def home_block(items):
             f'Spin the globe to explore buildings from all over the world, <a href="buildings/">see them all A–Z</a>, '
             f'or test yourself with the <a href="play/">guess-the-building games</a>. '
             f'Short building videos on <a href="https://www.youtube.com/@findgreatarchitecture" rel="noopener">YouTube</a>.</p>\n'
-            f'{hub_links()}'
+            f'{hub_links()}{guide_links()}'
             f'  <h3>Most looked-up buildings</h3>\n  <ol>{"".join(row(b) for b in top)}</ol>\n'
             f'  <div class="about-legal">{legal_foot("")}</div>\n'
             f'</section>')
