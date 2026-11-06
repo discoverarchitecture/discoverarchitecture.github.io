@@ -147,12 +147,32 @@
   "id": "sky-house",
   "facts": [
    {
-    "fact": "Kiyonori Kikutake often worked with structural engineer Gengo Matsui on well-known projects including the Sky House.",
+    "fact": "Kikutake designed the Sky House as his own home, and Kenzo Tange presented it, with the Tower-shaped City, at the last CIAM meeting, CIAM '59 in Otterlo.",
+    "quote": "Kenzo Tange was invited to the CIAM '59 meeting of the association in Otterlo, Netherlands. In what was to be the last meeting of CIAM, he presented two theoretical projects by the architect Kiyonori Kikutake: the Tower-shaped City and Kikutake's own home, the Sky House.",
+    "source": "https://en.wikipedia.org/wiki/Metabolism_(architecture)"
+   },
+   {
+    "fact": "The Sky House is built on a hillside as a platform supported on four concrete panels with a hyperbolic paraboloid shell roof.",
+    "quote": "Constructed on a hillside, the Sky House is a platform supported on four concrete panels with a hyperbolic paraboloid shell roof.",
+    "source": "https://en.wikipedia.org/wiki/Metabolism_(architecture)"
+   },
+   {
+    "fact": "It is a single space divided by storage units, with the kitchen and bathroom on the outer edge, designed so they could be moved to suit the use.",
+    "quote": "Constructed on a hillside, the Sky House is a platform supported on four concrete panels with a hyperbolic paraboloid shell roof. It is a single space divided by storage units with the kitchen and bathroom on the outer edge. These latter two were designed so that they could be moved to suit the use",
+    "source": "https://en.wikipedia.org/wiki/Metabolism_(architecture)"
+   },
+   {
+    "fact": "Louis Kahn was invited to the Sky House after his 13 May lecture and had a long conversation with Japanese architects including the Metabolists.",
+    "quote": "After his 13 May lecture, Louis Kahn was invited to Kikutake's Sky House and had a long conversation with a number of Japanese architects including the Metabolists.",
+    "source": "https://en.wikipedia.org/wiki/Metabolism_(architecture)"
+   },
+   {
+    "fact": "Kikutake often worked with structural engineer Gengo Matsui on well-known projects including the Sky House.",
     "quote": "Kikutake often collaborated with the prominent Japanese structural engineer Gengo Matsui. Starting from the early 1950s, they worked together on the design of more than 40 buildings, including on well-known projects like the Sky House",
     "source": "https://en.wikipedia.org/wiki/Kiyonori_Kikutake"
    }
   ],
-  "thin": true
+  "thin": false
  },
  {
   "id": "hillside-terrace",
@@ -179,6 +199,32 @@
  {
   "id": "house-in-white",
   "facts": [],
+  "thin": true
+ },
+ {
+  "id": "paper-house",
+  "facts": [
+   {
+    "fact": "Shigeru Ban was the first architect in Japan to construct a building primarily out of paper with his Paper House, and it needed special approval to pass Japan's building code.",
+    "quote": "He was the first architect in Japan to construct a building primarily out of paper with his paper house, and required special approval for his building to pass Japan's building code.",
+    "source": "https://en.wikipedia.org/wiki/Shigeru_Ban"
+   },
+   {
+    "fact": "Ban is attracted to paper because it is low cost, recyclable, low-tech and replaceable.",
+    "quote": "Ban is attracted to using paper because it is low cost, recyclable, low-tech and replaceable.",
+    "source": "https://en.wikipedia.org/wiki/Shigeru_Ban"
+   },
+   {
+    "fact": "Ban's work with paper is heavily based on sustainability, because it produces very little waste.",
+    "quote": "The last aspect of Ban's influences is his humanitarianism and his attraction to ecological architecture. Ban's work with paper and other materials is heavily based on its sustainability and because it produces very little waste.",
+    "source": "https://en.wikipedia.org/wiki/Shigeru_Ban"
+   },
+   {
+    "fact": "Ban's experimental development of paper tubing structures began in 1986, before any of his programmatic commissions.",
+    "quote": "Ban's experimental development of paper tubing structures came in 1986, before any of his programmatic commissions.",
+    "source": "https://en.wikipedia.org/wiki/Shigeru_Ban"
+   }
+  ],
   "thin": true
  },
  {
@@ -226,6 +272,42 @@
   "id": "cafe-de-unie",
   "facts": [],
   "thin": true
+ },
+ {
+  "id": "baker-house",
+  "facts": [
+   {
+    "fact": "Alvar Aalto designed the Baker House student dormitory at MIT, completed in 1949, after returning to MIT after the Second World War.",
+    "quote": "After the war, he returned to MIT, where he designed the student dormitory Baker House, completed in 1949.",
+    "source": "https://en.wikipedia.org/wiki/Alvar_Aalto"
+   },
+   {
+    "fact": "The dormitory flanks the Charles River, and its undulating form gives maximum view and ventilation for each resident.",
+    "quote": "The dormitory flanked the Charles River, and its undulating form provided maximum view and ventilation for each resident.",
+    "source": "https://en.wikipedia.org/wiki/Alvar_Aalto"
+   },
+   {
+    "fact": "It was the first building of Aalto's red-brick period; brick was used to signify the Ivy League university tradition.",
+    "quote": "This was the first building of Aalto's redbrick period.",
+    "source": "https://en.wikipedia.org/wiki/Alvar_Aalto"
+   },
+   {
+    "fact": "Baker House, at 362 Memorial Drive, is a co-ed dormitory at MIT designed by Alvar Aalto in 1947–1948 and built in 1949.",
+    "quote": "Baker House, located at 362 Memorial Drive, is a co-ed dormitory at MIT designed by the Finnish architect Alvar Aalto in 1947–1948 and built in 1949.",
+    "source": "https://en.wikipedia.org/wiki/Housing_at_the_Massachusetts_Institute_of_Technology"
+   },
+   {
+    "fact": "A 1999 renovation updated the building's services and removed some later interior changes that were not in Aalto's original design.",
+    "quote": "Baker House was renovated for its fiftieth anniversary in 1999, modernizing the plumbing, telecommunications, and electrical systems and removing some of the interior changes made over the years that were not in Aalto's original design.",
+    "source": "https://en.wikipedia.org/wiki/Housing_at_the_Massachusetts_Institute_of_Technology"
+   },
+   {
+    "fact": "Aalto went on to use red brick in a number of key buildings after returning to Finland.",
+    "quote": "This was the first building of Aalto's redbrick period. Originally used in Baker House to signify the Ivy League university tradition, Aalto went on to use it in a number of key buildings after his return to Finland, most notably in several of the buildings in the new Helsinki University of Technology",
+    "source": "https://en.wikipedia.org/wiki/Alvar_Aalto"
+   }
+  ],
+  "thin": false
  },
  {
   "id": "cocoa-house-ibadan",
@@ -407,31 +489,6 @@
     "fact": "The pavilions occupy a hillside along the site's western boundary, while the rest of the site has trees and a meadow.",
     "quote": "The pavilions occupy a hillside along the site's western boundary, while the rest of the site has trees and a meadow.",
     "source": "https://en.wikipedia.org/wiki/Eames_House"
-   },
-   {
-    "fact": "The facade is a steel grid with panels in different materials and colours.",
-    "quote": "The 17-foot-tall (5.2 m) facade is a steel grid with panels in different materials and colors.",
-    "source": "https://en.wikipedia.org/wiki/Eames_House"
-   },
-   {
-    "fact": "The panels are glass, aluminium, stucco, asbestos or Cemesto, and the Eameses researched the materials extensively.",
-    "quote": "Charles and Ray extensively researched the materials used in these panels. As built, the panels are made of materials such as glass, aluminum, stucco, asbestos, or Cemesto.",
-    "source": "https://en.wikipedia.org/wiki/Eames_House"
-   },
-   {
-    "fact": "Because of its geometric appearance, the Eameses likened the facade's frame to a web and a jungle gym.",
-    "quote": "Because of its geometric appearance, the Eameses likened the facade's frame to a web and a jungle gym.",
-    "source": "https://en.wikipedia.org/wiki/Eames_House"
-   },
-   {
-    "fact": "The arrangement of the Eameses' possessions, such as furniture, toys, artwork and antiques, is a major element of the interior design.",
-    "quote": "The arrangement of the Eameses' possessions—such as furniture, toys, artwork, antiques, and decorative ornaments—is also a major element of the interior design.",
-    "source": "https://en.wikipedia.org/wiki/Eames_House"
-   },
-   {
-    "fact": "The house inspired other architects, including Frank Gehry and British high-tech architects Richard Rogers, Michael Hopkins and Norman Foster.",
-    "quote": "Around the world, the house's design also inspired other architects and various residences. Frank Gehry, for example, cited the house as an influence on his work. The design was particularly attractive to high-tech style British architects. These included Richard Rogers, Michael Hopkins, and Norman Foster, many of whom came to visit.",
-    "source": "https://en.wikipedia.org/wiki/Eames_House"
    }
   ],
   "thin": false
@@ -489,11 +546,6 @@
     "fact": "Passively cooled, Eastgate is reported to use only 10% of the energy of a conventionally cooled building of similar space.",
     "quote": "Passively cooled, Eastgate uses only 10% of the energy required by conventionally cooled building with similar space.",
     "source": "https://en.wikipedia.org/wiki/Eastgate_Centre,_Harare"
-   },
-   {
-    "fact": "Eastgate is described as a forerunner of green building in sub-Saharan Africa and is emulated by London's Portcullis House.",
-    "quote": "The construction of Eastgate, Zimbabwe became the \"forerunner in incorporating green building technologies in the sub-Saharan Africa\".",
-    "source": "https://en.wikipedia.org/wiki/Eastgate_Centre,_Harare"
    }
   ],
   "thin": false
@@ -545,21 +597,6 @@
     "fact": "The exterior stonework is limestone slabs laid horizontally, alternating protruding and recessed stones to give the impression of natural outcrops.",
     "quote": "The exterior stonework consists of limestone slabs, which are laid horizontally, with alternating protruding and recessed stones to give the impression of natural outcrops.",
     "source": "https://en.wikipedia.org/wiki/Herbert_and_Katherine_Jacobs_Second_House"
-   },
-   {
-    "fact": "The second floor is suspended from the ceiling and holds three bedrooms and a bathroom.",
-    "quote": "Suspended from the ceiling is the second floor, which contains three bedrooms and a bathroom.",
-    "source": "https://en.wikipedia.org/wiki/Herbert_and_Katherine_Jacobs_Second_House"
-   },
-   {
-    "fact": "It was added to the National Register of Historic Places in 1974 and declared a National Historic Landmark in 2003.",
-    "quote": "The house was added to the National Register of Historic Places in 1974 and declared a National Historic Landmark in 2003.",
-    "source": "https://en.wikipedia.org/wiki/Herbert_and_Katherine_Jacobs_Second_House"
-   },
-   {
-    "fact": "Wright went on to design other houses with circular motifs, in Florida, Maryland, Michigan and Virginia.",
-    "quote": "Wright went on to design other houses with circular design motifs, including in Florida, Maryland, Michigan, and Virginia.",
-    "source": "https://en.wikipedia.org/wiki/Herbert_and_Katherine_Jacobs_Second_House"
    }
   ],
   "thin": false
@@ -605,16 +642,6 @@
    {
     "fact": "Sadler House, four storeys becoming five as the land drops away, runs in a sinuous curve between the plaza and the terrace houses of Rosebery Avenue.",
     "quote": "Sadler House, four storeys becoming five as the land drops away, runs in a sinuous curve between this plaza and the extant terrace houses of Rosebery Avenue.",
-    "source": "https://en.wikipedia.org/wiki/Spa_Green_Estate"
-   },
-   {
-    "fact": "Everyone has a balcony on the street side, and no resident is overshadowed by another.",
-    "quote": "Lubetkin's design made sure that everyone had a balcony on the street side.",
-    "source": "https://en.wikipedia.org/wiki/Spa_Green_Estate"
-   },
-   {
-    "fact": "Nikolaus Pevsner called it the most innovative public housing in England at the time.",
-    "quote": "Nikolaus Pevsner called it ‘the most innovative public housing in England at the time’ and praised the ‘visual kick’ of the balconies, porches and façades, though he did grumble that ‘the buildings are placed in any old direction’.",
     "source": "https://en.wikipedia.org/wiki/Spa_Green_Estate"
    }
   ],
@@ -987,31 +1014,6 @@
     "fact": "Engineer August Komendant re-engineered the structure and trained construction workers to produce a highly refined concrete finish.",
     "quote": "August Komendant re-engineered the structure and produced a new set of drawings with a speed that professor Leslie described as \"legendary\". Komendant also trained the construction workers in techniques for producing a highly refined concrete finish.",
     "source": "https://en.wikipedia.org/wiki/Salk_Institute_for_Biological_Studies"
-   },
-   {
-    "fact": "Inside the laboratories, ducts and vents are carried by concrete Vierendeel trusses supported by post-tensioned columns.",
-    "quote": "Inside the laboratories, the ducts and vents are reinforced by concrete Vierendeel trusses supported by post-tensioned columns.",
-    "source": "https://en.wikipedia.org/wiki/Salk_Institute_for_Biological_Studies"
-   },
-   {
-    "fact": "After seeing Luis Barragán's work at MoMA, Kahn invited him to collaborate on the court; Barragán advised a plaza with a single water feature and no plants.",
-    "quote": "When he saw an exhibit of Luis Barragan's work at the Museum of Modern Art in New York, Kahn invited Baragan to collaborate on the court that separated the two buildings. Barragan told Kahn that he should not add one leaf, nor plant, not one flower, nor dirt, instead, make it a plaza with a single water feature.",
-    "source": "https://en.wikipedia.org/wiki/Salk_Institute_for_Biological_Studies"
-   },
-   {
-    "fact": "The concrete is said to use volcanic ash, following ancient Roman techniques, and gives a warm, pinkish glow.",
-    "quote": "According to A. Perez, the concrete was made with volcanic ash relying on the basis of ancient Roman concrete making techniques, and as a result gives off a warm, pinkish glow.",
-    "source": "https://en.wikipedia.org/wiki/Salk_Institute_for_Biological_Studies"
-   },
-   {
-    "fact": "The AIA gave the building its Twenty-five Year Award in 1992.",
-    "quote": "In 1992 the American Institute of Architects (AIA) gave this building its prestigious Twenty-five Year Award, which is given to only one building per year.",
-    "source": "https://en.wikipedia.org/wiki/Salk_Institute_for_Biological_Studies"
-   },
-   {
-    "fact": "The original buildings were designated a historical landmark in 1991.",
-    "quote": "The original buildings of the Salk Institute were designated a historical landmark in 1991.",
-    "source": "https://en.wikipedia.org/wiki/Salk_Institute_for_Biological_Studies"
    }
   ],
   "thin": false
@@ -1057,11 +1059,6 @@
    {
     "fact": "Roberto Burle Marx designed the landscape.",
     "quote": "The distinctive landscape of the church is the work of Roberto Burle Marx, a longtime Niemeyer collaborator.",
-    "source": "https://en.wikipedia.org/wiki/Church_of_Saint_Francis_of_Assisi,_Pampulha"
-   },
-   {
-    "fact": "It became a UNESCO World Heritage Site in July 2016 as part of the Pampulha Modern Ensemble.",
-    "quote": "The Church of Saint Francis of Assisi became a UNESCO World Heritage Site in July 2016.",
     "source": "https://en.wikipedia.org/wiki/Church_of_Saint_Francis_of_Assisi,_Pampulha"
    }
   ],
@@ -1212,11 +1209,6 @@
     "fact": "Floor levels are irregular and rooms have different heights.",
     "quote": "The levels of the floors are not regular and rooms have different heights.",
     "source": "https://en.wikipedia.org/wiki/Luis_Barragán_House_and_Studio"
-   },
-   {
-    "fact": "The entrance foyer is bare and dim, acting as a buffer between the interior and the outside world.",
-    "quote": "After entering the door at #14, one enters a bare and dim foyer, whose main purpose is that of a buffer between the interior of the house and outside world.",
-    "source": "https://en.wikipedia.org/wiki/Luis_Barragán_House_and_Studio"
    }
   ],
   "thin": false
@@ -1289,24 +1281,14 @@
     "fact": "It scored 98.5% against the BREEAM sustainability assessment, the highest design-stage score for any major office development.",
     "quote": "It achieved a 98.5% score against the BREEAM sustainability assessment method, the highest design-stage score ever achieved by any major office development.",
     "source": "https://en.wikipedia.org/wiki/Bloomberg_London"
-   },
-   {
-    "fact": "Custom aluminium ceiling 'petals', inspired by New York pressed-metal ceilings, act as light diffusers, cooling elements and acoustic attenuation.",
-    "quote": "The ceilings are custom aluminium \"petals\", inspired by the pressed metal ceilings of New York, which act as light diffusers, cooling elements and acoustic attenuation.",
-    "source": "https://en.wikipedia.org/wiki/Bloomberg_London"
-   },
-   {
-    "fact": "The RIBA awarded the Stirling Prize to Bloomberg London in 2018.",
-    "quote": "In 2018, the RIBA awarded the Stirling Prize to Bloomberg London.",
-    "source": "https://en.wikipedia.org/wiki/Bloomberg_London"
-   },
-   {
-    "fact": "It has been criticised as wasteful for its specialised solutions and imported materials.",
-    "quote": "The design and building process of the building has been criticised as wasteful: it required developing specialised solutions not applicable anywhere else, and the construction required 600 tonnes of Japanese bronze and 10,000 tonnes of imported Indian granite, rather than using locally sourced or recycled materials.",
-    "source": "https://en.wikipedia.org/wiki/Bloomberg_London"
    }
   ],
   "thin": false
+ },
+ {
+  "id": "church-on-the-wind",
+  "facts": [],
+  "thin": true
  },
  {
   "id": "bergpolderflat",
@@ -1407,11 +1389,6 @@
     "fact": "Critic Paul Goldberger wrote that its form was 'made sumptuous by its mounting setbacks'.",
     "quote": "Goldberger wrote that the RCA Building's form was \"made sumptuous by its mounting setbacks\"",
     "source": "https://en.wikipedia.org/wiki/30_Rockefeller_Plaza"
-   },
-   {
-    "fact": "The observation deck, now Top of the Rock, was originally decorated in the style of an ocean liner.",
-    "quote": "The deck originally had dimensions of 190 by 21 feet (57.9 by 6.4 m) and was decorated in the style of an ocean liner, with furnishings such as slatted chairs.",
-    "source": "https://en.wikipedia.org/wiki/30_Rockefeller_Plaza"
    }
   ],
   "thin": false
@@ -1503,11 +1480,6 @@
    {
     "fact": "A large sun shield tracks the sun electronically and blocks direct sunlight, which would cause solar gain and dazzle those below.",
     "quote": "A large sun shield tracks the movement of the sun electronically and blocks direct sunlight which would not only cause large solar gain, but dazzle those below.",
-    "source": "https://en.wikipedia.org/wiki/Reichstag_building"
-   },
-   {
-    "fact": "The dome was erected as a gesture to the original 1894 cupola, and the Reichstag is now the second most visited attraction in Germany.",
-    "quote": "Reconstruction was completed in 1999, with the Bundestag convening there officially for the first time on 19 April of that year. The Reichstag is now the second most visited attraction in Germany, not least because of the huge glass dome that was erected on the roof as a gesture to the original 1894 cupola, giving an impressive view over the city, especially at night.",
     "source": "https://en.wikipedia.org/wiki/Reichstag_building"
    }
   ],
@@ -1663,6 +1635,11 @@
   "id": "university-of-ruhuna",
   "facts": [
    {
+    "fact": "At the University of Ruhuna, Geoffrey Bawa distributed pavilions, loggias, courtyards and terraces across two rocky hills, closely joining the campus to its landscape.",
+    "quote": "At the University of Ruhuna, pavilions, loggias, courtyards and terraces were distributed across two rocky hills, closely joining the campus to its landscape.",
+    "source": "https://en.wikipedia.org/wiki/Geoffrey_Bawa"
+   },
+   {
     "fact": "The Universities Act of 1978 enabled the University Grants Commission to establish Ruhuna University College.",
     "quote": "The enactment of the Universities Act No. 46 of 1978 enabled the University Grants Commission to establish the Ruhuna University College.",
     "source": "https://en.wikipedia.org/wiki/University_of_Ruhuna"
@@ -1675,11 +1652,6 @@
    {
     "fact": "The main campus was placed at Wellamadama, facing the Matara-Kataragama main road.",
     "quote": "The new location was selected for the main campus at Wellamadama, two kilometers from Matara facing the Matara-Kataragama main road.",
-    "source": "https://en.wikipedia.org/wiki/University_of_Ruhuna"
-   },
-   {
-    "fact": "It is the only university in the southern region of Sri Lanka.",
-    "quote": "It is the only university in the southern region of Sri Lanka (also referred to as the Kingdom of Ruhuna).",
     "source": "https://en.wikipedia.org/wiki/University_of_Ruhuna"
    }
   ],
@@ -1861,11 +1833,6 @@
     "fact": "A spine of sixteen cast-iron Ionic columns divides the reading room into twin aisles and supports openwork iron arches carrying barrel vaults of plaster reinforced with iron mesh; Modernists revere it for introducing high technology into a monumental building.",
     "quote": "The iron structure of this reading room—a spine of sixteen slender, cast-iron Ionic columns dividing the space into twin aisles and supporting openwork iron arches that carry barrel vaults of plaster reinforced by iron mesh—is revered by Modernists for its introduction of high technology into a monumental building.",
     "source": "https://en.wikipedia.org/wiki/Sainte-Geneviève_Library"
-   },
-   {
-    "fact": "Charles Follen McKim used it as the model for the Boston Public Library, and it influenced several US university libraries.",
-    "quote": "Later in the century, the American architect Charles Follen McKim used the Sainte-Geneviève Library building as the model his design of the main building of the Boston Public Library.",
-    "source": "https://en.wikipedia.org/wiki/Sainte-Geneviève_Library"
    }
   ],
   "thin": false
@@ -1974,16 +1941,6 @@
     "fact": "The main living areas are on the upper level, with bedrooms to the south and family rooms to the north, laid out to capture winter sunlight from the south.",
     "quote": "The main living areas are placed on the upper level, with the bedrooms to the south, the family rooms to the north, and a kitchen and dining area in between. The layout was intended to capture as much sunlight as possible during the winter (when the sun was low and to the south), while also taking advantage of morning light.",
     "source": "https://en.wikipedia.org/wiki/Marcel_Breuer_House_II"
-   },
-   {
-    "fact": "The house became part of the 'Harvard Five' circle of modernist architects in New Canaan.",
-    "quote": "Breuer became part of the Harvard Five group of architects who lived in the town, along with Noyes, Johnson, John M. Johansen, and Landis Gores.",
-    "source": "https://en.wikipedia.org/wiki/Marcel_Breuer_House_II"
-   },
-   {
-    "fact": "Architectural Record wrote that Breuer had done a house which would undoubtedly find its way into future texts on architecture.",
-    "quote": "When the house was completed, the Architectural Record wrote that \"Breuer has done a house which undoubtedly will find its way into future texts on architecture\".",
-    "source": "https://en.wikipedia.org/wiki/Marcel_Breuer_House_II"
    }
   ],
   "thin": false
@@ -2041,16 +1998,6 @@
     "fact": "The hall is a single-storey structure seven bays by four, supported by inner and outer sets of columns.",
     "quote": "It is a single storey structure measuring seven bays by four or 34 by 17.7 metres (110 by 58 ft), and is supported by inner and outer sets of columns.",
     "source": "https://en.wikipedia.org/wiki/Foguang_Temple"
-   },
-   {
-    "fact": "Each column carries a complicated bracket set containing seven bracket types, one-half as high as the column itself.",
-    "quote": "On top of each column is a complicated set of brackets containing seven different bracket types that are one-second as high as the column itself.",
-    "source": "https://en.wikipedia.org/wiki/Foguang_Temple"
-   },
-   {
-    "fact": "A lattice ceiling conceals much of the roof frame from view.",
-    "quote": "The hall has a lattice ceiling that conceals much of the roof frame from view.",
-    "source": "https://en.wikipedia.org/wiki/Foguang_Temple"
    }
   ],
   "thin": false
@@ -2062,6 +2009,32 @@
     "fact": "In 1955 Antonin Raymond began a commission in Takasaki, Gunma Prefecture, for a Music Centre to house the Gunma Symphony Orchestra.",
     "quote": "In 1955, Raymond began a commission in Takasaki, Gunma Prefecture for a Music Centre to house the Gunma Symphony Orchestra.",
     "source": "https://en.wikipedia.org/wiki/Antonin_Raymond"
+   }
+  ],
+  "thin": true
+ },
+ {
+  "id": "centre-for-development-studies",
+  "facts": [
+   {
+    "fact": "The 10-acre campus of the Centre for Development Studies in Thiruvananthapuram was designed and delivered by architect and builder Laurie Baker.",
+    "quote": "The 10-acre campus is designed and delivered by renowned architect and builder Padma Shri Laurie Baker .",
+    "source": "https://en.wikipedia.org/wiki/Centre_for_Development_Studies"
+   },
+   {
+    "fact": "Laurie Baker's signature style was low-cost, high-quality homes, derived creatively from local culture and building traditions while keeping designs minimal and frugal with resources (from his own Wikipedia page, not specific to this campus).",
+    "quote": "Throughout his practice, Baker developed a signature style in designing and building low cost, high quality, beautiful homes, with a great portion of his work suited to or built for lower-middle to lower class clients.",
+    "source": "https://en.wikipedia.org/wiki/Laurie_Baker"
+   },
+   {
+    "fact": "Baker suggested savings such as the rat-trap bond for brick walls, bends in walls that increase strength and provide ready-made shelves, and thin concrete roofs (general to his work).",
+    "quote": "Baker made many simple suggestions for cost reduction including the use of Rat trap bond for brick walls, having bends in walls that increased the strength and provided readymade shelves, thin concrete roofs and even simple precautions like shifting dug up soil into the built area rather that out of it.",
+    "source": "https://en.wikipedia.org/wiki/Laurie_Baker"
+   },
+   {
+    "fact": "Baker's roofs are typically traditional Indian sloping roofs with Mangalore tile and gables and vents that let rising hot air escape (general to his work).",
+    "quote": "Another significant Baker feature is irregular, pyramid-like structures on roofs, with one side left open and tilting into the wind.",
+    "source": "https://en.wikipedia.org/wiki/Laurie_Baker"
    }
   ],
   "thin": true
@@ -2283,11 +2256,6 @@
     "fact": "The fan-shaped section has extensive roof lights to bring maximum natural daylight onto the shelves along the interior walls.",
     "quote": "The fan-shaped section has extensive roof lights designed to allow the maximum amount of natural daylight to enter the building, especially falling on the bookshelves positioned along the interior walls.",
     "source": "https://en.wikipedia.org/wiki/Rovaniemi_Library"
-   },
-   {
-    "fact": "The exterior roof is clad with copper plates.",
-    "quote": "The exterior roof is clad with copper plates.",
-    "source": "https://en.wikipedia.org/wiki/Rovaniemi_Library"
    }
   ],
   "thin": false
@@ -2333,11 +2301,6 @@
    {
     "fact": "It was declared a National Historic Monument in 1989.",
     "quote": "The theatre was declared a National Historic Monument in 1989.",
-    "source": "https://en.wikipedia.org/wiki/Teatro_Colón"
-   },
-   {
-    "fact": "The theatre was closed for refurbishment from October 2006 to May 2010.",
-    "quote": "After an initial start of works to restore the landmark in 2005, the theatre was closed for refurbishment from October 2006 to May 2010.",
     "source": "https://en.wikipedia.org/wiki/Teatro_Colón"
    }
   ],
@@ -2560,11 +2523,6 @@
     "fact": "The auditorium is a separate building, with the seating cantilevered out towards the foyer on a massive column holding the emergency stairs.",
     "quote": "The QEH auditorium is a separate building from the foyer. The auditorium building is aligned with the rear of its stage parallel to Waterloo Bridge and the seating area cantilevered out towards the foyer, supported by a massive column containing the emergency escape staircases at the rear.",
     "source": "https://en.wikipedia.org/wiki/Queen_Elizabeth_Hall"
-   },
-   {
-    "fact": "The undercroft has been popular with skateboarders since the early 1970s, a 'found space' widely acknowledged as London's most distinctive skateboarding area.",
-    "quote": "The undercroft of the foyer building has been popular with skateboarders since the early 1970s and it is widely acknowledged to be London's most distinctive and popular skateboarding area.",
-    "source": "https://en.wikipedia.org/wiki/Queen_Elizabeth_Hall"
    }
   ],
   "thin": false
@@ -2656,11 +2614,6 @@
    {
     "fact": "The building has seven floors, with a restaurant on the roof.",
     "quote": "The first pile went into the ground on March 17, 2017.",
-    "source": "https://en.wikipedia.org/wiki/Depot_Museum_Boijmans_Van_Beuningen"
-   },
-   {
-    "fact": "It was officially opened on 5 November 2021.",
-    "quote": "It was officially opened to the public in a ceremony with King Willem-Alexander on November 5, 2021.",
     "source": "https://en.wikipedia.org/wiki/Depot_Museum_Boijmans_Van_Beuningen"
    }
   ],
@@ -2797,7 +2750,18 @@
  },
  {
   "id": "stegastein-viewpoint",
-  "facts": [],
+  "facts": [
+   {
+    "fact": "The viewpoint platform is steel and laminated pine, overlooking Aurlandsvangen and the Aurlandsfjord.",
+    "quote": "The 30-metre (98 ft) long and 4-metre (13 ft) wide platform of steel and laminated pine overlooks Aurlandsvangen and the Aurlandsfjord.",
+    "source": "https://en.wikipedia.org/wiki/Stegastein"
+   },
+   {
+    "fact": "The project is part of a national program of tourist routes commissioned by the Norwegian Highway Department.",
+    "quote": "This project is part of a national program of tourist routes commissioned by the Norwegian Highway Department.",
+    "source": "https://en.wikipedia.org/wiki/Stegastein"
+   }
+  ],
   "thin": true
  }
 ]
