@@ -40,15 +40,17 @@ Gaps found:
 
 ## Done
 
-(PR links as they open)
+- 03:40 IST · PR A [#170](https://github.com/discoverarchitecture/discoverarchitecture.github.io/pull/170): sitemap
+  lastmod, llms.txt guide list, guide sets cross-linked, guide image data; build_guides.py now updates sitemap + llms.txt.
+- 04:30 IST · Guides batch 1 [#172](https://github.com/discoverarchitecture/discoverarchitecture.github.io/pull/172)
+  (branch `seo/guides-batch-1`, built on #170): `architecture-jury-presentation-ideas`,
+  `architecture-sheet-sizes-a1-a0-24x36`.
 
 ## Next
 
-1. PR A: sitemap lastmod + llms.txt + cross-links + guide image data.
-2. New guides, one PR each, in this order (search → guide):
-   - architecture jury presentation ideas → `architecture-jury-presentation-ideas`
-   - architecture presentation board (step by step) → `how-to-make-an-architecture-presentation-board`
-   - A1 vs A0 vs 24×36 sheet sizes → `architecture-sheet-sizes-a1-a0-24x36`
+1. New guides, added to batch PRs (each guide's own commit), in this order (search → guide):
+   - (skipped: "how to make a presentation board step by step" would near-duplicate `/guides/a1-presentation-board/`
+     and `how-to-lay-out-an-a1-architecture-board`; strengthen those instead)
    - concept diagram ideas → `architecture-concept-diagram-ideas`
    - site analysis presentation → `how-to-present-site-analysis`
    - what jurors look for → `what-architecture-jurors-look-for`

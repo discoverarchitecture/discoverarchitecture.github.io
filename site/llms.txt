@@ -37,6 +37,7 @@ Practical guides for architecture students, written by an architect (CEPT Univer
 - [How to prepare for an architecture jury in 48 hours, without an all-nighter](https://findgreatarchitecture.com/studio/guides/architecture-jury-preparation-48-hours/): A realistic 48-hour plan before an architecture jury: freeze the design, finish drawings, lay out the board, plot early, rehearse, and still sleep both nights.
 - [12 architecture jury presentation ideas that make a project stick](https://findgreatarchitecture.com/studio/guides/architecture-jury-presentation-ideas/): Twelve ways to present an architecture project at a jury: the walk-through, the same view before and after, one section, the model on the table, zoom-in sequences and more.
 - [A1, A0 or 24 × 36? Architecture presentation sheet sizes explained](https://findgreatarchitecture.com/studio/guides/architecture-sheet-sizes-a1-a0-24x36/): A1, A0, A2 and the US ARCH sizes such as 24 × 36 in, in millimetres, inches and pixels, with what changes when you move a board between them, and how to scale drawings safely.
+- [Architecture concept diagram ideas: 10 diagrams juries understand at a glance](https://findgreatarchitecture.com/studio/guides/architecture-concept-diagram-ideas/): Ten kinds of architecture concept diagram, from metaphor-to-form and massing moves to exploded axonometrics, circulation, light and public-to-private, with rules for drawing them clearly.
 
 ## Browse buildings
 
