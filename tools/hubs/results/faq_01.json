@@ -1110,5 +1110,82 @@
     ]
    }
   ]
+ },
+ {
+  "slug": "timber",
+  "faq": [
+   {
+    "q": "What is mass timber?",
+    "a": "Mass timber is a class of large engineered wood parts that carry a building's structure. Cross-laminated timber (CLT), one kind, stacks layers of boards at right angles for strength and serves for walls, floors and roofs. Mass timber buildings go up faster than steel or concrete ones and perform very well in earthquakes. Lacol's La Borda in Barcelona (2018) is cooperative housing built in cross-laminated timber.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Mass_timber",
+     "https://en.wikipedia.org/wiki/Cross-laminated_timber",
+     "wall"
+    ]
+   },
+   {
+    "q": "What are good examples of timber architecture?",
+    "a": "Compare Alvar Aalto's Villa Mairea (1939), modernism softened with timber; E. Fay Jones's Thorncrown Chapel (1980), a lattice of small pine members sized to be carried by hand; Renzo Piano's Jean-Marie Tjibaou Cultural Centre (1998); Shigeru Ban's Centre Pompidou-Metz (2010), under a woven glulam grid; K2S's Kamppi Chapel in Helsinki (2012); and Kengo Kuma's Japan National Stadium (2019), with timber louvres from all 47 prefectures.",
+    "sources": [
+     "wall"
+    ]
+   },
+   {
+    "q": "What is the tallest wooden building?",
+    "a": "Voll Arkitekter's Mjøstårnet in Brumunddal, Norway, finished in 2019, was the world's tallest wooden building when it was completed: an 18-storey glulam frame. For the largest, J. Mayer H.'s Metropol Parasol in Seville (2011) is marketed as the world's largest wooden structure, spreading giant timber parasols over a market and Roman ruins, with a walkway on top.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Mj%C3%B8st%C3%A5rnet",
+     "https://en.wikipedia.org/wiki/Metropol_Parasol",
+     "wall"
+    ]
+   },
+   {
+    "q": "What are the oldest timber buildings?",
+    "a": "Building in wood is very old. The oldest known half-timbered building is in Roman Herculaneum. The Pagoda of Fogong Temple in Yingxian (1056) is the oldest fully wooden pagoda still standing in China, and the Ise Grand Shrine in Japan is traditionally rebuilt in cypress every 20 years, which keeps the craft alive. Kyoto's Katsura Imperial Villa (17th century) shows tatami-module rooms and sliding screens.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Timber_framing",
+     "https://en.wikipedia.org/wiki/Pagoda_of_Fogong_Temple",
+     "https://en.wikipedia.org/wiki/Ise_Grand_Shrine",
+     "wall"
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "tensile-structures",
+  "faq": [
+   {
+    "q": "What is a tensile structure?",
+    "a": "A tensile structure carries only tension, with no compression or bending, and it should not be confused with tensegrity. Because tensile structures span long distances economically, they are most often roofs, and pretensioning keeps their flexible parts stiff under load. Kenzo Tange's Yoyogi National Gymnasium in Tokyo (1964) hangs its roof from two concrete masts, and the Munich Olympic Stadium (1972) spreads a cable-net roof over its seating.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Tensile_structure",
+     "wall"
+    ]
+   },
+   {
+    "q": "Who was Frei Otto?",
+    "a": "Frei Otto championed tensile structures. He founded the Institute for Lightweight Structures in Stuttgart in 1964, first used a tensile roof for the West German pavilion at Expo 67, and then for the Munich Olympic Stadium (1972), designed with Behnisch & Partner, whose cable-net roof carries acrylic glass panels. An earlier pioneer, Vladimir Shukhov, was one of the first to calculate the stresses in such structures.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Frei_Otto",
+     "https://en.wikipedia.org/wiki/Tensile_structure",
+     "wall"
+    ]
+   },
+   {
+    "q": "What are good examples of tensile structures?",
+    "a": "Maciej Nowicki's J. S. Dorton Arena in Raleigh (1952) was the first structure in the world with a cable-supported roof. Then compare Eero Saarinen's Washington Dulles Airport Terminal (1962), whose concrete roof hangs in a catenary curve; the Yoyogi National Gymnasium (1964); SOM's Hajj Terminal in Jeddah (1981); Eduardo Souto de Moura's Braga Municipal Stadium (2003); and Hopkins Architects' London Velodrome (2011), a cable-net roof shaped like the track.",
+    "sources": [
+     "wall"
+    ]
+   },
+   {
+    "q": "What materials are used for tensile roofs?",
+    "a": "Common fabrics are PTFE-coated fibreglass and PVC-coated polyester, and some roofs use ETFE film in single layers or cushions. Richard Rogers's Millennium Dome in London (1999) hangs a PTFE-coated fabric roof on cables from twelve yellow masts. Shigeru Ban's Centre Pompidou-Metz (2010) stretches a PTFE membrane over a woven timber grid, and Foster + Partners' Khan Shatyr Entertainment Center in Astana (2010) is a tilted cable-net tent of ETFE cushions.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Tensile_structure",
+     "wall"
+    ]
+   }
+  ]
  }
 ]
