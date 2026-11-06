@@ -251,6 +251,77 @@
   "thin": false
  },
  {
+  "id": "eames-house",
+  "facts": [
+   {
+    "fact": "Charles and Ray Eames built the house in 1949 for themselves, in the mid-century modern style, as Case Study House No. 8.",
+    "quote": "Designed in the mid-century modern style, the house was constructed in 1949 by Eames Office designers Charles and Ray Eames for themselves.",
+    "source": "https://en.wikipedia.org/wiki/Eames_House"
+   },
+   {
+    "fact": "It is two standalone rectangular pavilions, a residence and a studio, built of various materials.",
+    "quote": "It consists of two standalone rectangular pavilions—a residence and a standalone studio—both constructed of various materials.",
+    "source": "https://en.wikipedia.org/wiki/Eames_House"
+   },
+   {
+    "fact": "It was part of Arts & Architecture magazine's Case Study House program, announced by John Entenza in 1945.",
+    "quote": "The house was developed as part of Arts & Architecture magazine's Case Study House program, announced by John Entenza in 1945.",
+    "source": "https://en.wikipedia.org/wiki/Eames_House"
+   },
+   {
+    "fact": "The Eameses and Eero Saarinen first proposed an elevated, L-shaped structure, which was later revised into two pavilions.",
+    "quote": "After Entenza acquired the site, the Eameses and Eero Saarinen initially proposed an elevated, L-shaped structure. Charles and Ray later revised the design to create two pavilions.",
+    "source": "https://en.wikipedia.org/wiki/Eames_House"
+   },
+   {
+    "fact": "House 8 was completely redesigned from its original plan, and the reasons for the redesign are disputed.",
+    "quote": "While House 9 was built to its original plan, House 8 ended up being completely redesigned. The reasons for the redesign are disputed.",
+    "source": "https://en.wikipedia.org/wiki/Eames_House"
+   },
+   {
+    "fact": "The frame went up in one and a half days in 1949.",
+    "quote": "Work began in 1948, and the frame was constructed in one-and-a-half days in 1949.",
+    "source": "https://en.wikipedia.org/wiki/Eames_House"
+   },
+   {
+    "fact": "The residence and studio flank a central courtyard to the south and north, respectively.",
+    "quote": "The residence and studio flank a central courtyard to the south and north, respectively.",
+    "source": "https://en.wikipedia.org/wiki/Eames_House"
+   },
+   {
+    "fact": "The pavilions occupy a hillside along the site's western boundary, while the rest of the site has trees and a meadow.",
+    "quote": "The pavilions occupy a hillside along the site's western boundary, while the rest of the site has trees and a meadow.",
+    "source": "https://en.wikipedia.org/wiki/Eames_House"
+   },
+   {
+    "fact": "The facade is a steel grid with panels in different materials and colours.",
+    "quote": "The 17-foot-tall (5.2 m) facade is a steel grid with panels in different materials and colors.",
+    "source": "https://en.wikipedia.org/wiki/Eames_House"
+   },
+   {
+    "fact": "The panels are glass, aluminium, stucco, asbestos or Cemesto, and the Eameses researched the materials extensively.",
+    "quote": "Charles and Ray extensively researched the materials used in these panels. As built, the panels are made of materials such as glass, aluminum, stucco, asbestos, or Cemesto.",
+    "source": "https://en.wikipedia.org/wiki/Eames_House"
+   },
+   {
+    "fact": "Because of its geometric appearance, the Eameses likened the facade's frame to a web and a jungle gym.",
+    "quote": "Because of its geometric appearance, the Eameses likened the facade's frame to a web and a jungle gym.",
+    "source": "https://en.wikipedia.org/wiki/Eames_House"
+   },
+   {
+    "fact": "The arrangement of the Eameses' possessions, such as furniture, toys, artwork and antiques, is a major element of the interior design.",
+    "quote": "The arrangement of the Eameses' possessions—such as furniture, toys, artwork, antiques, and decorative ornaments—is also a major element of the interior design.",
+    "source": "https://en.wikipedia.org/wiki/Eames_House"
+   },
+   {
+    "fact": "The house inspired other architects, including Frank Gehry and British high-tech architects Richard Rogers, Michael Hopkins and Norman Foster.",
+    "quote": "Around the world, the house's design also inspired other architects and various residences. Frank Gehry, for example, cited the house as an influence on his work. The design was particularly attractive to high-tech style British architects. These included Richard Rogers, Michael Hopkins, and Norman Foster, many of whom came to visit.",
+    "source": "https://en.wikipedia.org/wiki/Eames_House"
+   }
+  ],
+  "thin": false
+ },
+ {
   "id": "eastgate-centre",
   "facts": [
    {
@@ -297,6 +368,103 @@
     "fact": "Eastgate is described as a forerunner of green building in sub-Saharan Africa and is emulated by London's Portcullis House.",
     "quote": "The construction of Eastgate, Zimbabwe became the \"forerunner in incorporating green building technologies in the sub-Saharan Africa\".",
     "source": "https://en.wikipedia.org/wiki/Eastgate_Centre,_Harare"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "spa-green-estate",
+  "facts": [
+   {
+    "fact": "Spa Green Estate in Clerkenwell, London, by Berthold Lubetkin was conceived as public housing and is described as the most complete post-war realisation of a 1930s radical plan for social regeneration through Modernist architecture.",
+    "quote": "Spa Green Estate between Rosebery Avenue and St John St in Clerkenwell, London EC1, England, is the most complete post-war realisation of a 1930s radical plan for social regeneration through Modernist architecture.",
+    "source": "https://en.wikipedia.org/wiki/Spa_Green_Estate"
+   },
+   {
+    "fact": "It received a Grade II* listing in 1998, and a major 2008 restoration brought back the original colour scheme, recalling Lubetkin's contacts with Russian Constructivism.",
+    "quote": "In 1998 this work by the architect Berthold Lubetkin received a Grade II* listing for its architectural significance, and the major 2008 restoration brought back the original colour scheme, which recalls Lubetkin's contacts with Russian Constructivism.",
+    "source": "https://en.wikipedia.org/wiki/Spa_Green_Estate"
+   },
+   {
+    "fact": "It was first designed in 1938 and developed in 1943, and Tecton aimed to fulfil the utopian promise of the welfare state.",
+    "quote": "In Spa Green, first designed in 1938 and developed in 1943, Tecton aimed to fulfill this utopian promise.",
+    "source": "https://en.wikipedia.org/wiki/Spa_Green_Estate"
+   },
+   {
+    "fact": "Lubetkin intended it as a manifesto for modern architecture, rational but also exciting: 'we will deliberately create exhilaration'.",
+    "quote": "Lubetkin intended this project as a manifesto for modern architecture, rational but also exciting: 'we will deliberately create exhilaration'.",
+    "source": "https://en.wikipedia.org/wiki/Spa_Green_Estate"
+   },
+   {
+    "fact": "It adapted features of Lubetkin's luxury Highpoint flats for working families: lifts, central heating, balconies, daylight and ventilation from several directions, and a roof terrace.",
+    "quote": "Spa Green adapted for working families many features from Lubetkin's luxury Highpoint flats, including lifts, central heating, balconies, daylight and ventilation from multiple directions, large entry spaces, and a roof terrace.",
+    "source": "https://en.wikipedia.org/wiki/Spa_Green_Estate"
+   },
+   {
+    "fact": "Ove Arup's concrete box-frame or 'egg-crate' construction gave each flat clear views and interiors uncluttered by beams, columns or pipes.",
+    "quote": "Ove Arup’s innovative concrete box-frame or 'egg-crate' construction gave each flat clear views and interiors uncluttered by beams, columns, or pipes, while his aerodynamic 'wind-roofs' and open terraces provided a communal area for drying clothes, social gathering and enjoying views of St Paul's Cathedral, the Old Bailey and the Houses of Parliament.",
+    "source": "https://en.wikipedia.org/wiki/Spa_Green_Estate"
+   },
+   {
+    "fact": "Two parallel eight-storey blocks, Tunbridge and Wells Houses, define a central plaza that also holds a single-storey nursery school.",
+    "quote": "Two parallel blocks of eight storeys (Tunbridge and Wells Houses) define a central plaza, which also contains a single-storey nursery school (of later date, but conceived in the original design).",
+    "source": "https://en.wikipedia.org/wiki/Spa_Green_Estate"
+   },
+   {
+    "fact": "Sadler House, four storeys becoming five as the land drops away, runs in a sinuous curve between the plaza and the terrace houses of Rosebery Avenue.",
+    "quote": "Sadler House, four storeys becoming five as the land drops away, runs in a sinuous curve between this plaza and the extant terrace houses of Rosebery Avenue.",
+    "source": "https://en.wikipedia.org/wiki/Spa_Green_Estate"
+   },
+   {
+    "fact": "Everyone has a balcony on the street side, and no resident is overshadowed by another.",
+    "quote": "Lubetkin's design made sure that everyone had a balcony on the street side.",
+    "source": "https://en.wikipedia.org/wiki/Spa_Green_Estate"
+   },
+   {
+    "fact": "Nikolaus Pevsner called it the most innovative public housing in England at the time.",
+    "quote": "Nikolaus Pevsner called it ‘the most innovative public housing in England at the time’ and praised the ‘visual kick’ of the balconies, porches and façades, though he did grumble that ‘the buildings are placed in any old direction’.",
+    "source": "https://en.wikipedia.org/wiki/Spa_Green_Estate"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "bilbao-metro-fosteritos",
+  "facts": [
+   {
+    "fact": "The design of the underground stations was awarded to Norman Foster and partners in 1988 after an open competition.",
+    "quote": "The design for the underground stations was awarded to the architects Sir Norman Foster and partners in 1988 following an open competition.",
+    "source": "https://en.wikipedia.org/wiki/Bilbao_Metro"
+   },
+   {
+    "fact": "Access to the Metro is through 'fosteritos', glass structures named after their designer, Norman Foster.",
+    "quote": "Access to the Metro is provided by fosteritos, glass structures named after the architect who designed them, Norman Foster.",
+    "source": "https://en.wikipedia.org/wiki/Bilbao_Metro"
+   },
+   {
+    "fact": "Large caverns were dug for the stations, creating large open spaces instead of the traditional sets of linked tunnels.",
+    "quote": "Large caverns of a 160 m2 (1,700 sq ft) cross section were dug for stations, creating large open spaces, as opposed to the traditional sets of linked tunnels.",
+    "source": "https://en.wikipedia.org/wiki/Bilbao_Metro"
+   },
+   {
+    "fact": "The ticket hall shares the space with the trains, using steel 'mezzanines' built over the tracks, and trains are fully accessible by lifts and escalators.",
+    "quote": "For example, the ticket line is in the same space as the trains, for this purpose steel structures called 'mezzanines' have been built over the tracks. Trains are fully accessible by lifts and escalators.",
+    "source": "https://en.wikipedia.org/wiki/Bilbao_Metro"
+   },
+   {
+    "fact": "Materials such as steel and concrete are used throughout.",
+    "quote": "Materials such as steel and concrete have been used throughout.",
+    "source": "https://en.wikipedia.org/wiki/Bilbao_Metro"
+   },
+   {
+    "fact": "Sarriko station won the 1998 Brunel Award for Railway Design; in place of a fosterito, a vast glazed atrium pours natural light into the whole station.",
+    "quote": "Sarriko station won the 1998 Brunel Award for Railway Design. It is noticeably different from the rest of the stations in the network: in place of the standard fosterito, a vast glazed atrium pours natural light into the entire station, and the long, unbroken escalator ride to the ticket hall from street level gives a dramatic sense of character to the station.",
+    "source": "https://en.wikipedia.org/wiki/Bilbao_Metro"
+   },
+   {
+    "fact": "The system was inaugurated in 1995.",
+    "quote": "The system was inaugurated in 1995, partially taking over a suburban railway line operated by Euskotren, first opened in 1887.",
+    "source": "https://en.wikipedia.org/wiki/Bilbao_Metro"
    }
   ],
   "thin": false
@@ -1628,6 +1796,257 @@
     "fact": "Four bronze Evangelist sculptures stand in the access square.",
     "quote": "In the square access to the cathedral are four 2.5-meter (8 ft 2 in) tall bronze sculptures representing the four Evangelists, created by sculptors Alfredo Ceschiatti and Dante Croce in 1968.",
     "source": "https://en.wikipedia.org/wiki/Cathedral_of_Brasília"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "e-1027",
+  "facts": [
+   {
+    "fact": "Irish architect and furniture designer Eileen Gray and architect Jean Badovici designed and built E-1027 between 1926 and 1929.",
+    "quote": "It was designed and built from 1926–1929 by the Irish architect and furniture designer Eileen Gray and the French/Romanian Architect Jean Badovici.",
+    "source": "https://en.wikipedia.org/wiki/E-1027"
+   },
+   {
+    "fact": "It is L-shaped and flat-roofed, with floor-to-ceiling windows and a spiral stairway to the guest room, both open and compact.",
+    "quote": "L-shaped and flat-roofed with floor-to-ceiling windows and a spiral stairway to the guest room, E-1027 was both open and compact.",
+    "source": "https://en.wikipedia.org/wiki/E-1027"
+   },
+   {
+    "fact": "It is considered Gray's first major work, blurring the border between architecture and decoration and tailored to the lifestyle of its intended occupants.",
+    "quote": "This is considered to be Gray's first major work, making indistinct the border between architecture and decoration, and highly personalized to be in accord with the lifestyle of its intended occupants.",
+    "source": "https://en.wikipedia.org/wiki/E-1027"
+   },
+   {
+    "fact": "The name is a code: E for Eileen, 10 for Jean, 2 for Badovici and 7 for Gray.",
+    "quote": "The name of the house, E-1027, is a code of Eileen Gray and Jean Badovici ('E' standing for Eileen, '10' Jean, '2' Badovici, '7' Gray), reflecting their relationship as lovers during its construction.",
+    "source": "https://en.wikipedia.org/wiki/E-1027"
+   },
+   {
+    "fact": "It is impossible to identify the exact individual contributions of Gray and Badovici.",
+    "quote": "It is impossible to identify the exact individual contributions of Gray or Badovici to E-1027.",
+    "source": "https://en.wikipedia.org/wiki/E-1027"
+   },
+   {
+    "fact": "Gray also designed furniture for the house, including a tubular steel table with an adjustable top that caught crumbs.",
+    "quote": "Gray also designed furniture for the house, including a tubular steel table which would enable her sister to eat breakfast in bed without leaving crumbs on sheets, due to an adjustable top that caught the crumbs.",
+    "source": "https://en.wikipedia.org/wiki/E-1027"
+   },
+   {
+    "fact": "Le Corbusier painted murals on the white walls in 1938 and 1939, which Gray considered vandalism.",
+    "quote": "While staying as a guest of Badovici in his house in 1938 and 1939, Le Corbusier painted bright murals on its plain white walls with his permission, sometimes in the nude. That change to her ex-lover's house infuriated Gray, who considered the murals outright vandalism.",
+    "source": "https://en.wikipedia.org/wiki/E-1027"
+   },
+   {
+    "fact": "After a lengthy restoration it opened to the public in July 2021.",
+    "quote": "After its lengthy restoration, E-1027 opened to the public in July 2021.",
+    "source": "https://en.wikipedia.org/wiki/E-1027"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "queen-elizabeth-hall",
+  "facts": [
+   {
+    "fact": "The Queen Elizabeth Hall opened in 1967 on the South Bank in London with a concert conducted by Benjamin Britten.",
+    "quote": "The Queen Elizabeth Hall (QEH) is a music venue on the South Bank in London, England, that hosts classical, jazz, and avant-garde music, talks and dance performances. It was opened in 1967, with a concert conducted by Benjamin Britten.",
+    "source": "https://en.wikipedia.org/wiki/Queen_Elizabeth_Hall"
+   },
+   {
+    "fact": "The QEH and the smaller Purcell Room were built together as part of the Southbank Centre, beside the Royal Festival Hall and the Hayward Gallery.",
+    "quote": "The QEH was built along with the smaller Purcell Room as part of Southbank Centre arts complex.",
+    "source": "https://en.wikipedia.org/wiki/Queen_Elizabeth_Hall"
+   },
+   {
+    "fact": "A team led by Hubert Bennett of the Greater London Council's architects department, with Jack Whittle, F. G. West and Geoffrey Horsefall, designed the two auditoriums.",
+    "quote": "The two auditoriums were designed by a team led by Hubert Bennett, head of the architects department of the Greater London Council, with Jack Whittle, F.G. West and Geoffrey Horsefall.",
+    "source": "https://en.wikipedia.org/wiki/Queen_Elizabeth_Hall"
+   },
+   {
+    "fact": "The design shows the separate masses and elements of the building so as not to compete with the scale of the Royal Festival Hall.",
+    "quote": "The design of the QEH was intended to show to a high degree the separate masses and elements of the building, to avoid competing with the scale and presence of the RFH.",
+    "source": "https://en.wikipedia.org/wiki/Queen_Elizabeth_Hall"
+   },
+   {
+    "fact": "It uses minimal decoration and was designed for circulation at multiple levels around the building.",
+    "quote": "The QEH uses minimal decoration and was designed to allow circulation at multiple levels around the building.",
+    "source": "https://en.wikipedia.org/wiki/Queen_Elizabeth_Hall"
+   },
+   {
+    "fact": "The powerful forms and austere materials are an example of brutalist architecture, highlighting the plasticity of concrete.",
+    "quote": "The original arrangements provided for circulation above and below the foyer (no longer allowed for security reasons, although the roof terrace has been opened for the Summer of Fun festival in 2011), right around the sides and rear of the two auditoriums, and also a bridge link to the Hayward Gallery. The powerful forms and austere materials are an example of brutalist architecture, and the design also highlights the plasticity of concrete.",
+    "source": "https://en.wikipedia.org/wiki/Queen_Elizabeth_Hall"
+   },
+   {
+    "fact": "The foyer is a vee-shaped building raised on octagonal concrete columns, linked to the auditorium by cast concrete tubes reminiscent of a spaceship's docking arrangement.",
+    "quote": "The foyer is at first-floor level, and the foyer building is supported on octagonal reinforced concrete columns, with an undercroft below, and is vee-shaped. The two arms of the vee-shape are linked to the QEH auditorium by cast concrete tubes, reminiscent of a spaceship's docking arrangement.",
+    "source": "https://en.wikipedia.org/wiki/Queen_Elizabeth_Hall"
+   },
+   {
+    "fact": "The auditorium is a separate building, with the seating cantilevered out towards the foyer on a massive column holding the emergency stairs.",
+    "quote": "The QEH auditorium is a separate building from the foyer. The auditorium building is aligned with the rear of its stage parallel to Waterloo Bridge and the seating area cantilevered out towards the foyer, supported by a massive column containing the emergency escape staircases at the rear.",
+    "source": "https://en.wikipedia.org/wiki/Queen_Elizabeth_Hall"
+   },
+   {
+    "fact": "The undercroft has been popular with skateboarders since the early 1970s, a 'found space' widely acknowledged as London's most distinctive skateboarding area.",
+    "quote": "The undercroft of the foyer building has been popular with skateboarders since the early 1970s and it is widely acknowledged to be London's most distinctive and popular skateboarding area.",
+    "source": "https://en.wikipedia.org/wiki/Queen_Elizabeth_Hall"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "chemosphere",
+  "facts": [
+   {
+    "fact": "John Lautner designed the Chemosphere, a modernist house in Los Angeles, in 1960.",
+    "quote": "The Chemosphere is a modernist house at 7776 Torreyson Drive in Los Angeles, California, designed by John Lautner in 1960.",
+    "source": "https://en.wikipedia.org/wiki/Chemosphere"
+   },
+   {
+    "fact": "It is admired for the ingenuity of its solution to the site and for its unique octagonal design.",
+    "quote": "The building, which the Encyclopædia Britannica once called \"the most modern home built in the world\", is admired both for the ingenuity of its solution to the problem of the site and for its unique octagonal design.",
+    "source": "https://en.wikipedia.org/wiki/Chemosphere"
+   },
+   {
+    "fact": "It is a one-storey octagon with around 2,200 square feet of living space.",
+    "quote": "It is a one-story octagon with around 2,200 square feet (200 m2) of living space.",
+    "source": "https://en.wikipedia.org/wiki/Chemosphere"
+   },
+   {
+    "fact": "The octagon on a column was Lautner's solution to a site with a slope of 45 degrees that was thought practically unbuildable.",
+    "quote": "Most distinctively, the house is perched atop a 5-foot-wide (1.5 m) concrete column nearly 30 feet (9 m) high. This design was Lautner's solution to a site that, with a slope of 45 degrees, was thought to be practically unbuildable.",
+    "source": "https://en.wikipedia.org/wiki/Chemosphere"
+   },
+   {
+    "fact": "A concrete pedestal buried under the earth supports the column, and the house has survived earthquakes and heavy rains; it is reached by a funicular.",
+    "quote": "Because of a concrete pedestal, almost 20 feet (6 m) in diameter, buried under the earth and supporting the column, the house has survived earthquakes and heavy rains. The house is reached by a funicular.",
+    "source": "https://en.wikipedia.org/wiki/Chemosphere"
+   },
+   {
+    "fact": "The house is bisected by a central exposed brick wall with a fireplace.",
+    "quote": "Chemosphere is bisected by a central exposed brick wall with a fireplace, abutted by subdued seating, in the middle.",
+    "source": "https://en.wikipedia.org/wiki/Chemosphere"
+   },
+   {
+    "fact": "The lot was given to a young aerospace engineer, Leonard Malin, by his father-in-law, and he was determined to live there despite limited means.",
+    "quote": "The lot had been given to a young aerospace engineer by his father-in-law; despite his own limited means, the engineer, Leonard Malin, was determined to live there.",
+    "source": "https://en.wikipedia.org/wiki/Chemosphere"
+   },
+   {
+    "fact": "The cost was subsidised partly by barter with two sponsoring companies; Chem Seal supplied experimental coatings and resins and inspired the name, though Lautner originally wanted to call it Chapiteau.",
+    "quote": "The cost to build Chemosphere, $140,000 (equivalent to $1.52 million in 2025), was subsidized partly by barter with two sponsoring companies, the Southern California Gas Company and the Chem Seal Corporation. Chem Seal provided the experimental coatings and resins to put the house together and inspired the name Chemosphere. (Lautner originally wanted to call the house Chapiteau.",
+    "source": "https://en.wikipedia.org/wiki/Chemosphere"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "custom-house-dublin",
+  "facts": [
+   {
+    "fact": "The Custom House is a neoclassical 18th-century building on the north bank of the River Liffey in Dublin, now housing a government department.",
+    "quote": "The Custom House (Irish: Teach an Chustaim) is a neoclassical 18th century building in Dublin, Ireland which houses the Department of Housing, Local Government and Heritage.",
+    "source": "https://en.wikipedia.org/wiki/The_Custom_House,_Dublin"
+   },
+   {
+    "fact": "The new Custom House was the idea of John Beresford, who became first commissioner of revenue for Ireland in 1780.",
+    "quote": "The building of a new Custom House for Dublin was the idea of John Beresford, who became the first commissioner of revenue for Ireland in 1780.",
+    "source": "https://en.wikipedia.org/wiki/The_Custom_House,_Dublin"
+   },
+   {
+    "fact": "James Gandon was appointed architect in 1781 after the original architect, Thomas Cooley, died; it was Gandon's first large-scale commission.",
+    "quote": "In 1781 he appointed James Gandon as architect, after Thomas Cooley, the original architect on the project, had died. This was Gandon's first large-scale commission.",
+    "source": "https://en.wikipedia.org/wiki/The_Custom_House,_Dublin"
+   },
+   {
+    "fact": "Dublin Corporation and some merchants opposed it, complaining that it moved the axis of the city, left little room for shipping and was built on a swamp.",
+    "quote": "The new Custom House was unpopular with the Dublin Corporation and some city merchants who complained that it moved the axis of the city, would leave little room for shipping, and was being built on what at the time was a swamp and is detailed as reclaimed land on John Roque's 1756 map of Dublin as being part of Amory's Grant.",
+    "source": "https://en.wikipedia.org/wiki/The_Custom_House,_Dublin"
+   },
+   {
+    "fact": "Foundation work was disrupted by a mob led by the High Sheriff and members of the Dublin Corporation, but Beresford ignored the protests.",
+    "quote": "Purchase of land was delayed and proved exorbitant and the laying of foundations was disrupted by the High Sheriff and members of the Dublin Corporation with a mob of several thousand. However, Beresford was determined to complete the project and ignored the protests.",
+    "source": "https://en.wikipedia.org/wiki/The_Custom_House,_Dublin"
+   },
+   {
+    "fact": "Gandon used Irish artists and craftsmen as assistants, and every available mason in Dublin was engaged.",
+    "quote": "Construction started in 1781, and for his assistants, Gandon chose Irish artists such as Meath stone-cutter Henry Darley, mason John Semple and carpenter Hugh Henry. Every available mason in Dublin was engaged in the work.",
+    "source": "https://en.wikipedia.org/wiki/The_Custom_House,_Dublin"
+   },
+   {
+    "fact": "The four facades are decorated with coats-of-arms and ornamental sculptures by Edward Smyth representing Ireland's rivers.",
+    "quote": "The four facades of the building are decorated with coats-of-arms and ornamental sculptures (by Edward Smyth) representing Ireland's rivers.",
+    "source": "https://en.wikipedia.org/wiki/The_Custom_House,_Dublin"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "atira-ahmedabad",
+  "facts": [
+   {
+    "fact": "Achyut Kanvinde was the architect of the ATIRA building.",
+    "quote": "The architect of the ATIRA building is Achyut Kanvinde.",
+    "source": "https://en.wikipedia.org/wiki/Ahmedabad_Textile_Industry's_Research_Association"
+   },
+   {
+    "fact": "The foundation stone was laid in 1950 and the complex was inaugurated by Jawaharlal Nehru in 1954.",
+    "quote": "The foundation stone for the ATIRA complex was laid by Vallabhbhai Patel on 1 November 1950 which was inaugurated by the then Prime Minister Jawaharlal Nehru on completion on 10 April 1954.",
+    "source": "https://en.wikipedia.org/wiki/Ahmedabad_Textile_Industry's_Research_Association"
+   },
+   {
+    "fact": "The building's exterior is described as influenced by Walter Gropius.",
+    "quote": "The exterior of the building are influenced by Walter Gropius.",
+    "source": "https://en.wikipedia.org/wiki/Ahmedabad_Textile_Industry's_Research_Association"
+   },
+   {
+    "fact": "ATIRA was conceived by Vikram Sarabhai, Kasturbhai Lalbhai and Shanti Swaroop Bhatnagar.",
+    "quote": "The idea of ATIRA was conceived by Vikram Sarabhai, Kasturbhai Lalbhai and Shanti Swaroop Bhatnagar.",
+    "source": "https://en.wikipedia.org/wiki/Ahmedabad_Textile_Industry's_Research_Association"
+   }
+  ],
+  "thin": true
+ },
+ {
+  "id": "hedmark-museum",
+  "facts": [
+   {
+    "fact": "The Hedmark museum in Hamar is a regional museum that includes the medieval cathedral ruins mentioned in Sigrid Undset's Kristin Lavransdatter.",
+    "quote": "Anno Museum (formerly Hedmarks fylkesmuseum) in Hamar, Norway, is a regional museum for the municipalities of Stange, Hamar, Løten, and Ringsaker in central eastern Norway. It includes the medieval Cathedral Ruins in Hamar mentioned in Sigrid Undset's literary magnum opus Kristin Lavransdatter.",
+    "source": "https://en.wikipedia.org/wiki/Anno_Museum"
+   },
+   {
+    "fact": "Storhamarlåven was designed by Sverre Fehn in concrete, wood and glass to contrast with the stone of the medieval ruins.",
+    "quote": "Storhamarlåven was designed by architect Sverre Fehn (1924–2009) in concrete, wood and glass to contrast with the stone of the medieval ruins.",
+    "source": "https://en.wikipedia.org/wiki/Anno_Museum"
+   },
+   {
+    "fact": "It was originally a barn built beside the ruins in the 17th century for the farm Storhamar.",
+    "quote": "It was originally a barn built beside the ruins in the 17th century for the farm Storhamar.",
+    "source": "https://en.wikipedia.org/wiki/Anno_Museum"
+   },
+   {
+    "fact": "The architect sought to highlight both the original medieval structure and the more recent farm building.",
+    "quote": "The architect sought to both highlight the original medieval structure and the more recent farm building.",
+    "source": "https://en.wikipedia.org/wiki/Anno_Museum"
+   },
+   {
+    "fact": "Ramps provide the means to view the museum from above.",
+    "quote": "Ramps provide the means to view the museum from above.",
+    "source": "https://en.wikipedia.org/wiki/Anno_Museum"
+   },
+   {
+    "fact": "Its design won the Betongtavlen architectural award in 1976.",
+    "quote": "Its design won the Betongtavlen architectural award in 1976.",
+    "source": "https://en.wikipedia.org/wiki/Anno_Museum"
+   },
+   {
+    "fact": "The cathedral ruins are secured under a glass shelter designed by Lund & Slaatto and completed in 1998.",
+    "quote": "The cathedral ruins are secured under a glass shelter designed by Lund & Slaatto Architects and completed in 1998.",
+    "source": "https://en.wikipedia.org/wiki/Anno_Museum"
    }
   ],
   "thin": false
