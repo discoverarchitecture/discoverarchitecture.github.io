@@ -854,6 +854,78 @@
   "thin": false
  },
  {
+  "id": "reichstag",
+  "facts": [
+   {
+    "fact": "The Neo-Renaissance Reichstag was built between 1884 and 1894 to plans by Paul Wallot and housed the legislature of the German Empire and the Weimar Republic.",
+    "quote": "The Neo-Renaissance building was constructed between 1884 and 1894 in the Tiergarten district on the left bank of the River Spree based on plans by the architect Paul Wallot. It housed the Reichstag (legislature) of the German Empire and subsequent Weimar Republic.",
+    "source": "https://en.wikipedia.org/wiki/Reichstag_building"
+   },
+   {
+    "fact": "Severe damage in the 1933 Reichstag fire prevented further use, and the legislature moved to the nearby Kroll Opera House.",
+    "quote": "The building was initially used by the Reichstag for Nazi Germany, but severe damage in the Reichstag fire of 1933 prevented further use and the Reichstag moved to the nearby Kroll Opera House.",
+    "source": "https://en.wikipedia.org/wiki/Reichstag_building"
+   },
+   {
+    "fact": "After the war it was modernised and partly restored in the 1950s and used for exhibitions and events, because its location in West Berlin prevented use as a parliament building.",
+    "quote": "After the war, the building was modernised and partially restored in the 1950s and used for exhibitions and special events, as its location in West Berlin prevented its use as a parliament building by either of the two Germanies.",
+    "source": "https://en.wikipedia.org/wiki/Reichstag_building"
+   },
+   {
+    "fact": "From 1995 to 1999 Norman Foster fundamentally redesigned it as the permanent home of the Bundestag in reunified Germany.",
+    "quote": "From 1995 to 1999, the Reichstag was fundamentally redesigned by Norman Foster for its permanent use as a parliament building in the now reunified Germany.",
+    "source": "https://en.wikipedia.org/wiki/Reichstag_building"
+   },
+   {
+    "fact": "Christo and Jeanne-Claude wrapped the Reichstag in 1995 before reconstruction began, attracting millions of visitors.",
+    "quote": "Before reconstruction began, the Reichstag was wrapped by the Bulgarian-American artists Christo and his wife Jeanne-Claude in 1995, attracting millions of visitors.",
+    "source": "https://en.wikipedia.org/wiki/Reichstag_building"
+   },
+   {
+    "fact": "The building was gutted to its outer walls, but the architects had to keep traces of history visible, including bullet holes and graffiti left by Soviet soldiers in 1945.",
+    "quote": "During the reconstruction, the building was first almost completely gutted, taking out everything except the outer walls, including all changes made by Baumgarten in the 1960s. Respect for the historic aspects of the building was one of the conditions stipulated to the architects, so traces of historical events were to be retained in a visible state. Among them were bullet holes and graffiti left by Soviet soldiers after the final battle for Berlin in April–May 1945.",
+    "source": "https://en.wikipedia.org/wiki/Reichstag_building"
+   },
+   {
+    "fact": "The glass dome lets visitors look out over Berlin and down into the debating chamber, and natural light from above radiates down to the parliament floor.",
+    "quote": "The large glass dome at the very top of the Reichstag has a 360° view of the surrounding Berlin cityscape. The main hall (debating chamber) of the parliament below can also be seen from inside the dome, and natural light from above radiates down to the parliament floor.",
+    "source": "https://en.wikipedia.org/wiki/Reichstag_building"
+   },
+   {
+    "fact": "A large sun shield tracks the sun electronically and blocks direct sunlight, which would cause solar gain and dazzle those below.",
+    "quote": "A large sun shield tracks the movement of the sun electronically and blocks direct sunlight which would not only cause large solar gain, but dazzle those below.",
+    "source": "https://en.wikipedia.org/wiki/Reichstag_building"
+   },
+   {
+    "fact": "The dome was erected as a gesture to the original 1894 cupola, and the Reichstag is now the second most visited attraction in Germany.",
+    "quote": "Reconstruction was completed in 1999, with the Bundestag convening there officially for the first time on 19 April of that year. The Reichstag is now the second most visited attraction in Germany, not least because of the huge glass dome that was erected on the roof as a gesture to the original 1894 cupola, giving an impressive view over the city, especially at night.",
+    "source": "https://en.wikipedia.org/wiki/Reichstag_building"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "central-saint-martins-granary",
+  "facts": [
+   {
+    "fact": "Central Saint Martins moved in 2011 to a converted warehouse complex on Granary Square at King's Cross.",
+    "quote": "Central Saint Martins moved to a converted warehouse complex on Granary Square at King's Cross in 2011.",
+    "source": "https://en.wikipedia.org/wiki/Central_Saint_Martins"
+   },
+   {
+    "fact": "Most of the college is housed in the King's Cross complex, with other premises in Archway and Holborn.",
+    "quote": "Most of the college is housed there, but it also uses the former Byam Shaw building in Elthorne Road, Archway, and premises in Richbell Place, Holborn.",
+    "source": "https://en.wikipedia.org/wiki/Central_Saint_Martins"
+   },
+   {
+    "fact": "The college is a constituent college of the University of the Arts London and teaches acting, art, design, fashion, graphics, jewellery and textiles.",
+    "quote": "As of 2014, teaching at Central Saint Martins is organised into nine programmes, which include acting, art, design, fashion, graphics, jewellery, and textiles, as well as foundation courses.",
+    "source": "https://en.wikipedia.org/wiki/Central_Saint_Martins"
+   }
+  ],
+  "thin": true
+ },
+ {
   "id": "commerzbank-tower",
   "facts": [
    {
@@ -921,6 +993,641 @@
     "fact": "The Musée de la Musique shows instruments from Western classical, modern and non-European music from the sixteenth century to the present.",
     "quote": "The museum's collection, which opened to the public in 1864, and was relocated at the Cité de la Musique in 1997, contains instruments used in Western classical, modern and non-European music from the sixteenth century to the present time.",
     "source": "https://en.wikipedia.org/wiki/Cité_de_la_Musique"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "university-of-ruhuna",
+  "facts": [
+   {
+    "fact": "The Universities Act of 1978 enabled the University Grants Commission to establish Ruhuna University College.",
+    "quote": "The enactment of the Universities Act No. 46 of 1978 enabled the University Grants Commission to establish the Ruhuna University College.",
+    "source": "https://en.wikipedia.org/wiki/University_of_Ruhuna"
+   },
+   {
+    "fact": "The college shifted to new premises in 1984 and was elevated to full university status.",
+    "quote": "The Ruhuna University College shifted to its new premises in 1984 following which it was elevated to full university status.",
+    "source": "https://en.wikipedia.org/wiki/University_of_Ruhuna"
+   },
+   {
+    "fact": "The main campus was placed at Wellamadama, facing the Matara-Kataragama main road.",
+    "quote": "The new location was selected for the main campus at Wellamadama, two kilometers from Matara facing the Matara-Kataragama main road.",
+    "source": "https://en.wikipedia.org/wiki/University_of_Ruhuna"
+   },
+   {
+    "fact": "It is the only university in the southern region of Sri Lanka.",
+    "quote": "It is the only university in the southern region of Sri Lanka (also referred to as the Kingdom of Ruhuna).",
+    "source": "https://en.wikipedia.org/wiki/University_of_Ruhuna"
+   }
+  ],
+  "thin": true
+ },
+ {
+  "id": "state-trading-corporation-building",
+  "facts": [
+   {
+    "fact": "Raj Rewal designed the State Trading Corporation building (Jawahar Vyapar Bhawan) in New Delhi, built between 1976 and 1989.",
+    "quote": "State Trading Corporation building (also known as Jawahar Vyapar Bhawan) in New Delhi, India, was designed by the architect Raj Rewal, and is home to the government-owned State Trading Corporation of India. Built between 1976 and 1989, it is considered to be an important example of modernist architecture in post-Independence India.",
+    "source": "https://en.wikipedia.org/wiki/State_Trading_Corporation_building"
+   },
+   {
+    "fact": "Rewal used elements of Japanese Metabolism but drew on Mughal architecture instead, seen in the polychromatic sandstone cladding instead of concrete.",
+    "quote": "Rewal used elements from the Japanese Metabolism style, but departed from it by drawing inspiration from Mughal architecture, as seen in the polychromatic sandstone cladding, instead of concrete.",
+    "source": "https://en.wikipedia.org/wiki/State_Trading_Corporation_building"
+   },
+   {
+    "fact": "The 'structurally expressive' design employs Vierendeel trusses.",
+    "quote": "The \"structurally expressive\" design employs Vierendeel trusses.",
+    "source": "https://en.wikipedia.org/wiki/State_Trading_Corporation_building"
+   },
+   {
+    "fact": "Apart from offices, it houses the Central Cottage Industries Emporium, a government-run store selling Indian crafts.",
+    "quote": "Apart from offices, the building houses the Central Cottage Industries Emporium, a government-run store that retails Indian crafts products.",
+    "source": "https://en.wikipedia.org/wiki/State_Trading_Corporation_building"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "braga-municipal-stadium",
+  "facts": [
+   {
+    "fact": "Eduardo Souto de Moura designed the stadium, and he was awarded the Pritzker Architecture Prize in part for this design.",
+    "quote": "The stadium was designed by Portuguese architect Eduardo Souto de Moura who was awarded the Pritzker Architecture Prize in part for this design.",
+    "source": "https://en.wikipedia.org/wiki/Estádio_Municipal_de_Braga"
+   },
+   {
+    "fact": "It was built in 2003 as a venue for UEFA Euro 2004, and its nickname is A Pedreira (The Quarry) because it was carved into a hillside.",
+    "quote": "Its nickname is A Pedreira (The Quarry), since it was carved into the side of a hill at its south end. The stadium was built in 2003 as a designated venue for the UEFA Euro 2004.",
+    "source": "https://en.wikipedia.org/wiki/Estádio_Municipal_de_Braga"
+   },
+   {
+    "fact": "The stadium was carved from the Monte do Castro quarry; stands were built on either side of the pitch, while one goal backdrop is the rock wall of the quarry.",
+    "quote": "The stadium was carved from the Monte do Castro quarry that overlooked Braga; stands were constructed on either side of the pitch, while one of the goal backdrops was carved from the rock walls of the quarry.",
+    "source": "https://en.wikipedia.org/wiki/Estádio_Municipal_de_Braga"
+   },
+   {
+    "fact": "Each stand has a canopy-style roof, and the two are connected by dozens of steel strings, a design inspired by ancient South American Incan bridges.",
+    "quote": "Each stand is covered with a canopy-style roof and connected by dozens of steel strings, a design inspired by ancient South American Incan bridges.",
+    "source": "https://en.wikipedia.org/wiki/Estádio_Municipal_de_Braga"
+   },
+   {
+    "fact": "Movement between the stands is through a plaza under the pitch.",
+    "quote": "Movement between stands is accomplished through a 5,000 square metres (54,000 sq ft) plaza under the pitch.",
+    "source": "https://en.wikipedia.org/wiki/Estádio_Municipal_de_Braga"
+   },
+   {
+    "fact": "The large rock-moving process drove the cost far above the initial estimate, making it the most expensive of the Euro 2004 stadiums.",
+    "quote": "The enormous rock moving process contributed heavily to the exorbitant final €200 million cost, when the estimated cost for the initial project was just 29.9 million euros. This made it the most expensive of the ten new stadiums built for Euro 2004",
+    "source": "https://en.wikipedia.org/wiki/Estádio_Municipal_de_Braga"
+   },
+   {
+    "fact": "The stadium won the Chicago Athenaeum International Architecture Award in 2006 for the best new global design.",
+    "quote": "In 2006 the stadium won the Chicago Athenaeum International Architecture Award for the best new global design.",
+    "source": "https://en.wikipedia.org/wiki/Estádio_Municipal_de_Braga"
+   },
+   {
+    "fact": "A Financial Times article called it a breathtaking arena carved into the side of a rock face on the site of a former quarry.",
+    "quote": "A Financial Times article on Britain's stadia referred to the municipal stadium as one of the four examples of \"beautiful grounds\", noting that: \"There has been nothing in this country to match the architectural delight of Eduardo Souto de Moura’s stadium for Braga in Portugal, a breathtaking arena carved into the side of a rock face on the site of a former quarry.",
+    "source": "https://en.wikipedia.org/wiki/Estádio_Municipal_de_Braga"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "casa-malaparte",
+  "facts": [
+   {
+    "fact": "Casa Malaparte is a house on Punta Massullo on the eastern side of Capri, considered one of the best examples of Italian modern and contemporary architecture.",
+    "quote": "Casa Malaparte (also Villa Malaparte) is a house on Punta Massullo, on the eastern side of the isle of Capri, Italy.",
+    "source": "https://en.wikipedia.org/wiki/Casa_Malaparte"
+   },
+   {
+    "fact": "Curzio Malaparte conceived the house around 1937 and built it himself with the help of a local stonemason, Adolfo Amitrano.",
+    "quote": "The house was conceived around 1937 by Curzio Malaparte. Malaparte built the home himself with the help of Adolfo Amitrano, a local stonemason.",
+    "source": "https://en.wikipedia.org/wiki/Casa_Malaparte"
+   },
+   {
+    "fact": "It is a red masonry box with reverse pyramidal stairs leading to the roof patio, where a freestanding curving white wall of increasing height stands.",
+    "quote": "Casa Malaparte is a red masonry box with reverse pyramidal stairs leading to the roof patio.",
+    "source": "https://en.wikipedia.org/wiki/Casa_Malaparte"
+   },
+   {
+    "fact": "It sits on a cliff above the sea, overlooking the Gulf of Salerno, and can be reached only on foot across the island or by boat and a staircase cut into the cliff.",
+    "quote": "It sits on a dangerous cliff 32 metres above the sea overlooking the Gulf of Salerno. Access to this private property is either by foot from the town of Capri or by boat and a staircase cut into the cliff.",
+    "source": "https://en.wikipedia.org/wiki/Casa_Malaparte"
+   },
+   {
+    "fact": "The house and its rooftop patio feature prominently in Jean-Luc Godard's 1963 film Contempt.",
+    "quote": "Casa Malaparte's interior and exterior (particularly the rooftop patio) are prominently featured in Jean-Luc Godard's 1963 film, Contempt (Le Mépris).",
+    "source": "https://en.wikipedia.org/wiki/Casa_Malaparte"
+   },
+   {
+    "fact": "It was abandoned after Malaparte's death in 1957, was seriously damaged, and was first seriously renovated in the late 1980s and early 1990s.",
+    "quote": "Casa Malaparte was abandoned and neglected after the death of Curzio Malaparte in 1957. It suffered vandalism and unmitigated exposure to the elements for many years and was seriously damaged, including the desecration of a cocklestove, before the first serious renovation started in the late 1980s and early 1990s.",
+    "source": "https://en.wikipedia.org/wiki/Casa_Malaparte"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "bibliotheque-sainte-genevieve",
+  "facts": [
+   {
+    "fact": "Henri Labrouste built a new reading room for the library between 1838 and 1851, with an innovative iron frame supporting the roof.",
+    "quote": "A new reading room for the library, with an innovative iron frame supporting the roof, was built between 1838 and 1851 by architect Henri Labrouste.",
+    "source": "https://en.wikipedia.org/wiki/Sainte-Geneviève_Library"
+   },
+   {
+    "fact": "It was the first library in Paris to be constructed specifically as a library.",
+    "quote": "It was the first library in Paris to be constructed specifically as a library.",
+    "source": "https://en.wikipedia.org/wiki/Sainte-Geneviève_Library"
+   },
+   {
+    "fact": "The new building showed the influence of beaux-arts style and of Florence and Rome, but was strikingly original; the base and facade resemble Roman buildings, with simple arched windows and discreet bands of sculpture.",
+    "quote": "The new library showed the influence of the prevailing academic beaux-arts style and the influence of Florence and Rome, but in other ways it was strikingly original. The base and facade resembled Roman buildings, with simple arched windows and discreet bands of sculpture.",
+    "source": "https://en.wikipedia.org/wiki/Sainte-Geneviève_Library"
+   },
+   {
+    "fact": "The facade is exactly the length of the reading room and its large windows express the building's function; its main decoration is a list of famous scholars' names.",
+    "quote": "The façade, exactly the length of the reading room, and the large windows, expressed the function of the building.",
+    "source": "https://en.wikipedia.org/wiki/Sainte-Geneviève_Library"
+   },
+   {
+    "fact": "The main decoration is the architecture of the reading room: slender iron columns and lace-like cast iron arches under the roof are left exposed, which with large windows give an immediate impression of space and lightness, a major step in the creation of modern architecture.",
+    "quote": "Unlike earlier buildings, the major decorative element of the building was not on the façade, but in the architecture of the reading room. The slender iron columns and the lace-like cast iron arches under the roof were not concealed; combined with the large windows they gave an immediate impression of space and lightness. It was a major step in the creation of modern architecture.",
+    "source": "https://en.wikipedia.org/wiki/Sainte-Geneviève_Library"
+   },
+   {
+    "fact": "The plan is simple: stacks and offices on the lower floor, with a central vestibule and stairway leading to the reading room that fills the entire upper story.",
+    "quote": "The large (278 by 69 feet) two-storied structure filling a wide, shallow site is deceptively simple in plan: the lower floor is occupied by stacks to the left, rare-book storage and office space to the right, with a central vestibule and stairway leading to the reading room which fills the entire upper story.",
+    "source": "https://en.wikipedia.org/wiki/Sainte-Geneviève_Library"
+   },
+   {
+    "fact": "The vestibule was designed to symbolise the beginning of a journey in search of knowledge.",
+    "quote": "The vestibule was designed to symbolize the beginning of a journey in search of knowledge, the visitors arrives through a space decorated with murals of gardens and forest and passes busts of famous French scholars and scientists.",
+    "source": "https://en.wikipedia.org/wiki/Sainte-Geneviève_Library"
+   },
+   {
+    "fact": "A spine of sixteen cast-iron Ionic columns divides the reading room into twin aisles and supports openwork iron arches carrying barrel vaults of plaster reinforced with iron mesh; Modernists revere it for introducing high technology into a monumental building.",
+    "quote": "The iron structure of this reading room—a spine of sixteen slender, cast-iron Ionic columns dividing the space into twin aisles and supporting openwork iron arches that carry barrel vaults of plaster reinforced by iron mesh—is revered by Modernists for its introduction of high technology into a monumental building.",
+    "source": "https://en.wikipedia.org/wiki/Sainte-Geneviève_Library"
+   },
+   {
+    "fact": "Charles Follen McKim used it as the model for the Boston Public Library, and it influenced several US university libraries.",
+    "quote": "Later in the century, the American architect Charles Follen McKim used the Sainte-Geneviève Library building as the model his design of the main building of the Boston Public Library.",
+    "source": "https://en.wikipedia.org/wiki/Sainte-Geneviève_Library"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "cymbalista-synagogue",
+  "facts": [
+   {
+    "fact": "Mario Botta designed the synagogue and cultural centre in the Modernist style in 1996, and it was built between 1997 and 1998.",
+    "quote": "The building was designed in the Modernist style by Mario Botta in 1996 and constructed between 1997 and 1998.",
+    "source": "https://en.wikipedia.org/wiki/Cymbalista_Synagogue_and_Jewish_Heritage_Center"
+   },
+   {
+    "fact": "Two matching towers, square in plan and merging to circles at the top, rise from a rectangular base and are connected by a rectangular lobby.",
+    "quote": "The floor plan of the building comprises approximately 800 m2 (8,600 sq ft). From a rectangular base rise two matching towers both square in plan and merging to circles at their highest points of 13.5 m (44 ft). A rectangular lobby connects the two towers.",
+    "source": "https://en.wikipedia.org/wiki/Cymbalista_Synagogue_and_Jewish_Heritage_Center"
+   },
+   {
+    "fact": "The towers are described as a realisation in stone of the geometric problem of squaring the circle.",
+    "quote": "The original architectural form of the towers is a realisation in stone of the geometrical squaring the circle.",
+    "source": "https://en.wikipedia.org/wiki/Cymbalista_Synagogue_and_Jewish_Heritage_Center"
+   },
+   {
+    "fact": "A square 'canopy' at the circular top of each tower drapes natural light onto the walls.",
+    "quote": "In each tower at the circular top is installed a square \"canopy\" which drapes natural light onto the walls of the hybrid cylinder and rectangle volume.",
+    "source": "https://en.wikipedia.org/wiki/Cymbalista_Synagogue_and_Jewish_Heritage_Center"
+   },
+   {
+    "fact": "These skylights resemble the traditional Jewish wedding canopy, the chuppah, made permanent and cast in light.",
+    "quote": "These installations resemble the traditional Jewish wedding canopy, the chuppah, here permanent and poetically cast in light.",
+    "source": "https://en.wikipedia.org/wiki/Cymbalista_Synagogue_and_Jewish_Heritage_Center"
+   },
+   {
+    "fact": "The Torah Ark is partially lit by translucent onyx.",
+    "quote": "The Torah Ark is partially lit by translucent onyx.",
+    "source": "https://en.wikipedia.org/wiki/Cymbalista_Synagogue_and_Jewish_Heritage_Center"
+   },
+   {
+    "fact": "In 2022 it was designated a protected heritage site by the Council for the Conservation of Heritage Sites in Israel.",
+    "quote": "In 2022, the building was designated as a protected heritage site by the Council for the Conservation of Heritage Sites in Israel.",
+    "source": "https://en.wikipedia.org/wiki/Cymbalista_Synagogue_and_Jewish_Heritage_Center"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "dominus-winery",
+  "facts": [
+   {
+    "fact": "Swiss architects Jacques Herzog and Pierre de Meuron built a new winery at Dominus Estate in 1996, their first project in the United States, using stone-filled gabions to protect from the heat by day and the cold at night.",
+    "quote": "With the previous thirteen vintages crushed and aged at the nearby facility Rombauer Winery, a new winery was constructed by the Swiss architects Jaques Herzog and Pierre de Meuron in 1996, a $5 million, 50,000 sq ft (4,600 m2) structure. The architects' first U.S. project, it was constructed from stone-filled gabions to provide protection from scorching heat by day and the cold at night.",
+    "source": "https://en.wikipedia.org/wiki/Dominus_Estate"
+   },
+   {
+    "fact": "Dominus Estate is a California wine estate in Yountville, in Napa Valley, producing Bordeaux-style blends.",
+    "quote": "Dominus Estate is a California wine estate producing Bordeaux style blends, owned by Christian Moueix.",
+    "source": "https://en.wikipedia.org/wiki/Dominus_Estate"
+   }
+  ],
+  "thin": true
+ },
+ {
+  "id": "breuer-house-ii-new-canaan",
+  "facts": [
+   {
+    "fact": "Marcel Breuer designed the two-storey modernist house in New Canaan, Connecticut, in 1947 as a home for his family.",
+    "quote": "Built in 1947, it was designed by architect Marcel Breuer as a home for his family.",
+    "source": "https://en.wikipedia.org/wiki/Marcel_Breuer_House_II"
+   },
+   {
+    "fact": "The cantilevered design with glazing, wood and stone helped bring attention to Breuer's fledgling New York practice.",
+    "quote": "The cantilevered design, featuring glazing, wood, and stone finishes, helped bring attention to Breuer's fledgling architectural practice in New York City.",
+    "source": "https://en.wikipedia.org/wiki/Marcel_Breuer_House_II"
+   },
+   {
+    "fact": "Breuer moved his office to New York City in 1946 and then decided to build a house in New Canaan, Connecticut, where land was cheaper than in the city.",
+    "quote": "After practicing architecture in Massachusetts for nine years, Breuer relocated his office to New York City in 1946. Following several mishaps in which Tamas got lost in a Macy's store and pulled a fire alarm in the Metropolitan Museum of Art, Breuer decided to build a house in the town of New Canaan, Connecticut, in the city's northeastern suburbs. Land was cheaper in New Canaan than in the city itself",
+    "source": "https://en.wikipedia.org/wiki/Marcel_Breuer_House_II"
+   },
+   {
+    "fact": "The house is an early example of Breuer's 'long house' or 'long box' designs and was influenced by Bauhaus principles.",
+    "quote": "The design of the house was influenced by the Bauhaus principles that had guided Marcel Breuer's early career. It is an early example of Breuer's \"long house\" or \"long box\" designs, a style he later refined with the construction of the Breuer House III in Cape Cod, Massachusetts.",
+    "source": "https://en.wikipedia.org/wiki/Marcel_Breuer_House_II"
+   },
+   {
+    "fact": "Breuer experimented with balloon framing, cantilevering the upper storey out from a set of cables.",
+    "quote": "In designing the Breuer House II, Breuer experimented extensively with balloon framing, cantilevering the upper story outward from a set of cables.",
+    "source": "https://en.wikipedia.org/wiki/Marcel_Breuer_House_II"
+   },
+   {
+    "fact": "It is a wooden structure with steel suspension cables supporting the cantilevered upper storey, which projects on all sides over a lower storey embedded in the hill.",
+    "quote": "The Breuer House II is a wooden structure with steel suspension cables supporting the cantilevered upper story.",
+    "source": "https://en.wikipedia.org/wiki/Marcel_Breuer_House_II"
+   },
+   {
+    "fact": "The cantilevers sagged: temporary supports had to be reinstalled soon after completion, and later shoring walls and columns reduced the cantilevers' effect.",
+    "quote": "Over the years, the cantilevered section has been shored up with additional walls to deal with sagging, blunting the cantilevers' effect.",
+    "source": "https://en.wikipedia.org/wiki/Marcel_Breuer_House_II"
+   },
+   {
+    "fact": "The main living areas are on the upper level, with bedrooms to the south and family rooms to the north, laid out to capture winter sunlight from the south.",
+    "quote": "The main living areas are placed on the upper level, with the bedrooms to the south, the family rooms to the north, and a kitchen and dining area in between. The layout was intended to capture as much sunlight as possible during the winter (when the sun was low and to the south), while also taking advantage of morning light.",
+    "source": "https://en.wikipedia.org/wiki/Marcel_Breuer_House_II"
+   },
+   {
+    "fact": "The house became part of the 'Harvard Five' circle of modernist architects in New Canaan.",
+    "quote": "Breuer became part of the Harvard Five group of architects who lived in the town, along with Noyes, Johnson, John M. Johansen, and Landis Gores.",
+    "source": "https://en.wikipedia.org/wiki/Marcel_Breuer_House_II"
+   },
+   {
+    "fact": "Architectural Record wrote that Breuer had done a house which would undoubtedly find its way into future texts on architecture.",
+    "quote": "When the house was completed, the Architectural Record wrote that \"Breuer has done a house which undoubtedly will find its way into future texts on architecture\".",
+    "source": "https://en.wikipedia.org/wiki/Marcel_Breuer_House_II"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "foguang-temple-east-hall",
+  "facts": [
+   {
+    "fact": "The Dongda (East) Hall was built in 857 AD during the Tang dynasty and is the third earliest preserved timber structure in China.",
+    "quote": "The major hall of the temple is the Dongda Hall, built in 857 AD, during the Tang dynasty (618–907). It is the third earliest preserved timber structure in China.",
+    "source": "https://en.wikipedia.org/wiki/Foguang_Temple"
+   },
+   {
+    "fact": "It is the only building to combine Tang-dynasty architecture, sculpture, mural painting and calligraphic inscriptions in one structure, known as the 'Four Supremacies'.",
+    "quote": "The Dongda Hall is the only building to contain Tang-dynasty architecture, sculpture, mural painting, and calligraphic inscriptions in a single structure, known as the \"Four Supremacies\", and the temple is regarded as China's foremost national treasure of ancient architecture.",
+    "source": "https://en.wikipedia.org/wiki/Foguang_Temple"
+   },
+   {
+    "fact": "Architectural historians Liang Sicheng and Lin Huiyin rediscovered the temple in 1937.",
+    "quote": "The temple was rediscovered by architectural historians Liang Sicheng and Lin Huiyin in 1937, while an older smaller hall at Nanchan Temple was discovered by the same team a year later.",
+    "source": "https://en.wikipedia.org/wiki/Foguang_Temple"
+   },
+   {
+    "fact": "The temple was rebuilt in 857 with the Dongda Hall; a woman named Ning Gongyu provided most of the funds and a monk named Yuancheng led construction.",
+    "quote": "Twelve years later in 857 the temple was rebuilt, with the Dongda Hall being built on the former site of a three-storey pavilion. A woman named Ning Gongyu provided most of the funds needed to construct the hall, and its construction was led by a monk named Yuancheng.",
+    "source": "https://en.wikipedia.org/wiki/Foguang_Temple"
+   },
+   {
+    "fact": "Its hillside site encloses it on three sides and opens west to a valley, so the temple faces west, unlike most Chinese temples, which face south.",
+    "quote": "This topography dictated the temple's unusual east–west orientation, unlike most Chinese temples, which face south, Foguang Temple faces west, with its principal hall built against the eastern hillside at the highest point of the complex.",
+    "source": "https://en.wikipedia.org/wiki/Foguang_Temple"
+   },
+   {
+    "fact": "The buildings are arranged on three terraced platforms ascending the slope from west to east.",
+    "quote": "The temple's buildings are arranged on three terraced platforms ascending the slope from west to east.",
+    "source": "https://en.wikipedia.org/wiki/Foguang_Temple"
+   },
+   {
+    "fact": "The highest terrace is raised on a massive stone retaining wall reached by a stairway, and supports the Tang-dynasty East Great Hall with a panoramic westward view.",
+    "quote": "The lowest and broadest terrace contains the Jin dynasty Wenshu Hall; the middle terrace holds subsidiary courtyards; and the highest terrace, raised approximately 13 metres above the courtyard on a massive stone retaining wall reached by a stairway, supports the Tang-dynasty East Great Hall, which commands a panoramic westward view across the valley.",
+    "source": "https://en.wikipedia.org/wiki/Foguang_Temple"
+   },
+   {
+    "fact": "The hall is a single-storey structure seven bays by four, supported by inner and outer sets of columns.",
+    "quote": "It is a single storey structure measuring seven bays by four or 34 by 17.7 metres (110 by 58 ft), and is supported by inner and outer sets of columns.",
+    "source": "https://en.wikipedia.org/wiki/Foguang_Temple"
+   },
+   {
+    "fact": "Each column carries a complicated bracket set containing seven bracket types, one-half as high as the column itself.",
+    "quote": "On top of each column is a complicated set of brackets containing seven different bracket types that are one-second as high as the column itself.",
+    "source": "https://en.wikipedia.org/wiki/Foguang_Temple"
+   },
+   {
+    "fact": "A lattice ceiling conceals much of the roof frame from view.",
+    "quote": "The hall has a lattice ceiling that conceals much of the roof frame from view.",
+    "source": "https://en.wikipedia.org/wiki/Foguang_Temple"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "grady-gammage-memorial-auditorium",
+  "facts": [
+   {
+    "fact": "The auditorium at Arizona State University in Tempe is considered one of Frank Lloyd Wright's last public commissions and was built from 1962 to 1964.",
+    "quote": "The auditorium, which bears the name of former ASU President Grady Gammage, is considered to be one of the last public commissions of American architect Frank Lloyd Wright. It was built from 1962 to 1964.",
+    "source": "https://en.wikipedia.org/wiki/ASU_Gammage"
+   },
+   {
+    "fact": "President Grady Gammage wanted a unique facility for the campus after a 1956 roof collapse left the combination auditorium/gymnasium unusable.",
+    "quote": "The process that led to construction of the auditorium began in 1957 when incumbent university President Grady Gammage desired a unique facility for the ASU campus. In 1956, a collapsed roof rendered the school's combination auditorium/gymnasium unusable.",
+    "source": "https://en.wikipedia.org/wiki/ASU_Gammage"
+   },
+   {
+    "fact": "Gammage recruited his friend Frank Lloyd Wright, who based the design, with budget-related alterations, on a circular opera house he had conceived for Baghdad.",
+    "quote": "Gammage recruited his friend Frank Lloyd Wright to design the new building. He would, with various budget related alterations, base its design on a circular opera house that he had conceptualized for the city of Baghdad sometime prior upon the invitation of Iraqi King Faisal II.",
+    "source": "https://en.wikipedia.org/wiki/ASU_Gammage"
+   },
+   {
+    "fact": "Wright and Gammage both died in 1959, and Wright's protégé William Wesley Peters completed the building.",
+    "quote": "Wright and Gammage both died in 1959, leaving Wright's protégé William Wesley Peters to undertake completion of the auditorium.",
+    "source": "https://en.wikipedia.org/wiki/ASU_Gammage"
+   },
+   {
+    "fact": "Fifty concrete columns support the round roof, which has a pattern of interlocking circles.",
+    "quote": "Fifty concrete columns support the round roof with its pattern of interlocking circles.",
+    "source": "https://en.wikipedia.org/wiki/ASU_Gammage"
+   },
+   {
+    "fact": "Twin 'flying buttress' pedestrian ramps extend from the north and east sides to connect the building to the parking lot.",
+    "quote": "Twin \"flying buttress\" pedestrian ramps extending 200 feet (61 m) from the north and east sides of the structure connect the building to the parking lot.",
+    "source": "https://en.wikipedia.org/wiki/ASU_Gammage"
+   },
+   {
+    "fact": "The stage can be adapted for opera, theatricals, musicals, concerts and lectures.",
+    "quote": "The stage can be adapted for opera, theatricals, musicals, concerts, and lectures.",
+    "source": "https://en.wikipedia.org/wiki/ASU_Gammage"
+   },
+   {
+    "fact": "It was listed on the National Register of Historic Places in 1985.",
+    "quote": "ASU Gammage was listed on the National Register of Historic Places in 1985.",
+    "source": "https://en.wikipedia.org/wiki/ASU_Gammage"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "cameron-offices",
+  "facts": [
+   {
+    "fact": "John Andrews designed the Cameron Offices in a brutalist structuralism style for the National Capital Development Commission; they were built between 1970 and 1976.",
+    "quote": "The Cameron Offices are a group of former government offices commissioned by the National Capital Development Commission and designed by John Andrews in the brutalist structuralism style of architecture. The offices were constructed between 1970 and 1976",
+    "source": "https://en.wikipedia.org/wiki/Cameron_Offices"
+   },
+   {
+    "fact": "They were the first major buildings in Belconnen and formed part of the original town plan for a compact, pedestrian-oriented scheme.",
+    "quote": "The Cameron Offices were the first major buildings to be built in Belconnen. They formed part of the original town plan, in which the aim was to provide a relatively compact pedestrian-oriented scheme on a north–south axis following the slope of the land from housing to the south through the office areas, transport interchange and shopping centre on to the man-made Lake Ginninderra, which was to have cultural buildings and housing along its shore.",
+    "source": "https://en.wikipedia.org/wiki/Cameron_Offices"
+   },
+   {
+    "fact": "Andrews returned to Australia from Toronto to take the job, wanting a truly Australian modern large-scale building suited to Australian conditions.",
+    "quote": "Andrews was chosen by Sir John Overall of the National Capital Development Commission as the architect, mainly on the recommendation of Professor Gordon Stephenson. Andrews, who was a professor of architecture at the University of Toronto at the time, returned to Australia specifically to undertake the project. Andrews wished to create a truly Australian modern large-scale building suited to Australian conditions",
+    "source": "https://en.wikipedia.org/wiki/Cameron_Offices"
+   },
+   {
+    "fact": "The complex used in-situ concrete for much of the Mall and precast, mostly post-tensioned concrete for the office wings, with precasting done on site.",
+    "quote": "Built over a 2.4-hectare (6-acre) site, the complex was constructed with in-situ concrete – much of the Mall, and precast concrete (mostly post-tensioned) – the office wings, with precasting being done on site.",
+    "source": "https://en.wikipedia.org/wiki/Cameron_Offices"
+   },
+   {
+    "fact": "It won worldwide acclaim through a listing on the Union of International Architects Heritage register.",
+    "quote": "The design qualities of the Cameron Offices were recognised as significant at the time of their construction and won worldwide acclaim through a listing on the Union of International Architects Heritage register.",
+    "source": "https://en.wikipedia.org/wiki/Cameron_Offices"
+   },
+   {
+    "fact": "Voids within the wings created wind-tunnel effects and the sprawl made walking between offices slow, making the buildings unpopular with many public servants.",
+    "quote": "The nature of the voids within the wings resulted in windtunnel effects, which combined with the buildings' concrete design to make them unpleasant to walk around, particularly in the winter.",
+    "source": "https://en.wikipedia.org/wiki/Cameron_Offices"
+   },
+   {
+    "fact": "Only three of the original nine wings and the pedestrian bridge remain; two of the wings were converted to student accommodation.",
+    "quote": "Today, only three of the original nine wings (3, 4 and 5) and the pedestrian bridge remain. Wing 3 was previously occupied by Commonwealth Superannuation Corporation (CSC), the organisation responsible for providing superannuation products and services to government employees. Wings 4 and 5 have since been converted from government offices into student accommodation for the nearby University of Canberra.",
+    "source": "https://en.wikipedia.org/wiki/Cameron_Offices"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "robarts-library",
+  "facts": [
+   {
+    "fact": "Robarts Library is the main humanities and social sciences library of the University of Toronto Libraries, on the St. George campus.",
+    "quote": "The John P. Robarts Research Library, commonly referred to as Robarts Library (ROH-barts), is the main humanities and social sciences library of the University of Toronto Libraries and the largest individual library at the university, located on the St. George campus in downtown Toronto.",
+    "source": "https://en.wikipedia.org/wiki/Robarts_Library"
+   },
+   {
+    "fact": "It is an example of brutalist architecture: a towering structure on an equilateral triangular footprint with triangular geometric patterns throughout.",
+    "quote": "The library building is an example of brutalist architecture. Its towering main structure rests on an equilateral triangular footprint and features extensive use of triangular geometric patterns throughout.",
+    "source": "https://en.wikipedia.org/wiki/Robarts_Library"
+   },
+   {
+    "fact": "It is the main part of a three-tower complex with the Thomas Fisher Rare Book Library and the Claude T. Bissell Building.",
+    "quote": "It forms the main component of a three-tower complex that also includes the Thomas Fisher Rare Book Library and the Claude T. Bissell Building, which houses the Faculty of Information.",
+    "source": "https://en.wikipedia.org/wiki/Robarts_Library"
+   },
+   {
+    "fact": "Mathers & Haldenby Architects headed the design, consulting with the New York firm Warner, Burns, Toan & Lunde, which specialised in precast concrete buildings.",
+    "quote": "The design of the Robarts Library complex was headed by Mathers & Haldenby Architects with consultation from Warner, Burns, Toan & Lunde, the New York architectural firm whose earlier works included the libraries at Cornell and Brown universities and who specialized in precast concrete buildings.",
+    "source": "https://en.wikipedia.org/wiki/Robarts_Library"
+   },
+   {
+    "fact": "Construction ran from 1968 to 1973, and the initial plan was expanded by three storeys during the Canadian Centennial celebrations.",
+    "quote": "Coinciding with the Canadian Centennial celebrations, the initial plan was expanded to add three more storeys to the original design. Construction of the library began in 1968 and completed in 1973",
+    "source": "https://en.wikipedia.org/wiki/Robarts_Library"
+   },
+   {
+    "fact": "Each side of the triangle is 330 feet, the length of a Canadian football field, and from the southeast corner the building appears as a peacock.",
+    "quote": "The building rests on an equilateral triangle footprint with each side measuring 330 feet (100 m), the same length as a Canadian football field from goal post to goal post. The building is oriented such that one side of the equilateral triangle faces west while the other two sides face northeast and southeast. From the southeast corner, the building appears as a peacock.",
+    "source": "https://en.wikipedia.org/wiki/Robarts_Library"
+   },
+   {
+    "fact": "The concrete elevation varies in texture: smooth horizontal lines and rough vertical ones, with steel-framed bay windows reminiscent of medieval overhanging towers.",
+    "quote": "The elevation is mostly concrete, albeit differing in textures and directionality: smooth concrete lines the façade in a horizontal manner, the rough concrete lining vertically. The steel-framed windows are situated onto the bays protruding from the façade, and are reminiscent of overhanging towers in medieval castle architecture.",
+    "source": "https://en.wikipedia.org/wiki/Robarts_Library"
+   },
+   {
+    "fact": "Fourteen storeys plus two underground floors, with raised podia and a suspended fourth floor; a mezzanine connects it to the neighbouring towers.",
+    "quote": "Comprising fourteen storeys, plus two underground floors, the brutalist and futurist structure features raised podia and a suspended fourth floor. A mezzanine level physically connects Robarts Library to the Thomas Fisher Rare Book Library building at its southeastern side, and to the Claude T. Bissell Building, housing the Faculty of Information, at its northeastern side.",
+    "source": "https://en.wikipedia.org/wiki/Robarts_Library"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "rovaniemi-library",
+  "facts": [
+   {
+    "fact": "Alvar Aalto designed the library, the main municipal public library of Rovaniemi, Finland.",
+    "quote": "Rovaniemi Library is the main municipal public library of the city of Rovaniemi, Finland.",
+    "source": "https://en.wikipedia.org/wiki/Rovaniemi_Library"
+   },
+   {
+    "fact": "It was part of rebuilding the city after the Lapland War, in which up to 90% of Rovaniemi's building stock was destroyed.",
+    "quote": "The building where the library used to operate was, along with up to 90% of Rovaniemi's building stock, destroyed during the Lapland War by the retreating German forces, necessitating the rebuilding of the city centre.",
+    "source": "https://en.wikipedia.org/wiki/Rovaniemi_Library"
+   },
+   {
+    "fact": "Aalto's town plan, the 'Reindeer Antler Plan', has five arterial roads forming the shape of a reindeer antler.",
+    "quote": "Aalto's eventual design, approved in 1946, is called Poronsarvikaava (literally, \"Reindeer Antler Plan\"), and incorporates five arterial roads forming the shape of a reindeer antler.",
+    "source": "https://en.wikipedia.org/wiki/Rovaniemi_Library"
+   },
+   {
+    "fact": "The library sits at the centre of the plan in the 'Aalto Centre', with the Lappia Hall and city hall, and the complex is protected as a nationally important built cultural environment.",
+    "quote": "At the centre of the plan, a complex of Aalto-designed public and administrative buildings, commonly referred to as 'Aalto Centre', comprises the Lappia Hall arts and conference venue and the Rovaniemi city hall alongside the library. The complex has been designated and protected by the Finnish Heritage Agency as a nationally important built cultural environment",
+    "source": "https://en.wikipedia.org/wiki/Rovaniemi_Library"
+   },
+   {
+    "fact": "The library building was completed in 1965.",
+    "quote": "The library building was completed in 1965.",
+    "source": "https://en.wikipedia.org/wiki/Rovaniemi_Library"
+   },
+   {
+    "fact": "The layout is a long rectangular office wing and a central fan-shaped area for lending and reading.",
+    "quote": "The overall layout of the building consists of a long, rectangular office wing, and a central, fan-shaped area housing the main lending section and reading areas.",
+    "source": "https://en.wikipedia.org/wiki/Rovaniemi_Library"
+   },
+   {
+    "fact": "The reading areas sit in a lower-level, recessed 'reading well', a signature feature of many of Aalto's libraries.",
+    "quote": "The reading areas are situated in a lower-level, recessed 'reading well', a signature feature of many of Aalto's library designs.",
+    "source": "https://en.wikipedia.org/wiki/Rovaniemi_Library"
+   },
+   {
+    "fact": "The fan-shaped section has extensive roof lights to bring maximum natural daylight onto the shelves along the interior walls.",
+    "quote": "The fan-shaped section has extensive roof lights designed to allow the maximum amount of natural daylight to enter the building, especially falling on the bookshelves positioned along the interior walls.",
+    "source": "https://en.wikipedia.org/wiki/Rovaniemi_Library"
+   },
+   {
+    "fact": "The exterior roof is clad with copper plates.",
+    "quote": "The exterior roof is clad with copper plates.",
+    "source": "https://en.wikipedia.org/wiki/Rovaniemi_Library"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "teatro-colon",
+  "facts": [
+   {
+    "fact": "Teatro Colón is a historic opera house in Buenos Aires that National Geographic considers one of the ten best opera houses in the world.",
+    "quote": "The Teatro Colón (English: Colón Theatre) is a historic opera house in Buenos Aires, Argentina.",
+    "source": "https://en.wikipedia.org/wiki/Teatro_Colón"
+   },
+   {
+    "fact": "A survey by acoustics expert Leo Beranek found it has the best acoustics for opera and the second best for concerts in the world.",
+    "quote": "According to a survey carried out by the acoustics expert Leo Beranek among leading international opera and orchestra directors, the Teatro Colón has the room with the best acoustics for opera and the second best for concerts in the world.",
+    "source": "https://en.wikipedia.org/wiki/Teatro_Colón"
+   },
+   {
+    "fact": "The present theatre replaced an original theatre that opened in 1857 and opened in 1908 with Verdi's Aida after a 20-year process.",
+    "quote": "The present Colón replaced an original theatre which opened in 1857. Towards the end of the century, it became clear that a new theatre was needed, and after a 20-year process, the present theatre opened on 25 May 1908, with Giuseppe Verdi's Aïda.",
+    "source": "https://en.wikipedia.org/wiki/Teatro_Colón"
+   },
+   {
+    "fact": "The cornerstone was laid in 1889 under architect Francesco Tamburini and his pupil Vittorio Meano, who designed a theatre in the Italian style.",
+    "quote": "The cornerstone of the present Teatro Colón was laid in 1889 under the direction of architect Francesco Tamburini and his pupil, Vittorio Meano, who designed a theatre in the Italian style on a scale and with amenities which matched those in Europe.",
+    "source": "https://en.wikipedia.org/wiki/Teatro_Colón"
+   },
+   {
+    "fact": "Delays followed from financial difficulties, arguments about location, and the deaths of Tamburini (1891), Meano (1904) and the financier Angelo Ferrari.",
+    "quote": "However, delays followed due to financial difficulties, arguments regarding the location, the death of Tamburini in 1891, the murder of Meano in 1904 and the death of Angelo Ferrari, an Italian businessman who was financing the new theatre.",
+    "source": "https://en.wikipedia.org/wiki/Teatro_Colón"
+   },
+   {
+    "fact": "The Belgian architect Julio Dormal finished it in 1908, changing some of the structure and leaving his mark in the French style of the decoration.",
+    "quote": "The building was finally completed in 1908 under the direction of the Belgian architect Julio Dormal who made some changes in the structure and left his mark in the French style of the decoration.",
+    "source": "https://en.wikipedia.org/wiki/Teatro_Colón"
+   },
+   {
+    "fact": "The bas-reliefs and busts on the facade are by sculptor Luigi Trinchero.",
+    "quote": "The bas-reliefs and busts on the facade are the work of sculptor Luigi Trinchero.",
+    "source": "https://en.wikipedia.org/wiki/Teatro_Colón"
+   },
+   {
+    "fact": "It was declared a National Historic Monument in 1989.",
+    "quote": "The theatre was declared a National Historic Monument in 1989.",
+    "source": "https://en.wikipedia.org/wiki/Teatro_Colón"
+   },
+   {
+    "fact": "The theatre was closed for refurbishment from October 2006 to May 2010.",
+    "quote": "After an initial start of works to restore the landmark in 2005, the theatre was closed for refurbishment from October 2006 to May 2010.",
+    "source": "https://en.wikipedia.org/wiki/Teatro_Colón"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "cathedral-of-brasilia",
+  "facts": [
+   {
+    "fact": "Oscar Niemeyer designed the cathedral and structural engineer Joaquim Cardozo engineered it; it was completed and dedicated on 31 May 1970.",
+    "quote": "It was designed by Brazilian architect Oscar Niemeyer and engineered by Brazilian structural engineer Joaquim Cardozo, and was completed and dedicated on May 31, 1970.",
+    "source": "https://en.wikipedia.org/wiki/Cathedral_of_Brasília"
+   },
+   {
+    "fact": "The cathedral is a hyperboloid structure built from 16 concrete columns weighing 90 tons each.",
+    "quote": "The cathedral is a hyperboloid structure constructed from 16 concrete columns weighing 90 tons each.",
+    "source": "https://en.wikipedia.org/wiki/Cathedral_of_Brasília"
+   },
+   {
+    "fact": "Visitors enter through a tunnel and emerge into a bright space with a glass roof.",
+    "quote": "Visitors enter into the cathedral through a tunnel and emerge into a bright space with a glass roof.",
+    "source": "https://en.wikipedia.org/wiki/Cathedral_of_Brasília"
+   },
+   {
+    "fact": "The roof is made of 16 fibreglass pieces inserted between the concrete pillars, with a large stained glass work suspended beneath.",
+    "quote": "The outer roof of the cathedral is composed of 16 pieces of fiberglass, each 10 meters (33 ft) wide at the base and 30 meters (98 ft) long inserted between the concrete pillars. Under this is suspended a 2,000-square-meter (22,000 sq ft) stained glass work created in 1990 by Marianne Peretti in shades of blue, green, white and brown.",
+    "source": "https://en.wikipedia.org/wiki/Cathedral_of_Brasília"
+   },
+   {
+    "fact": "A reflecting pool around the roof helps cool the building, and visitors pass under it when entering.",
+    "quote": "A 12-meter (39 ft) wide, 40-centimeter (16 in) deep reflecting pool surrounds the cathedral roof and helps cool the building. Visitors pass under this pool when entering the cathedral.",
+    "source": "https://en.wikipedia.org/wiki/Cathedral_of_Brasília"
+   },
+   {
+    "fact": "Three angel sculptures hang over the nave from steel cables.",
+    "quote": "Over the nave are sculptures of three angels suspended by steel cables.",
+    "source": "https://en.wikipedia.org/wiki/Cathedral_of_Brasília"
+   },
+   {
+    "fact": "The cathedral can hold up to 4,000 people.",
+    "quote": "The cathedral can hold up to 4,000 people.",
+    "source": "https://en.wikipedia.org/wiki/Cathedral_of_Brasília"
+   },
+   {
+    "fact": "Four bronze Evangelist sculptures stand in the access square.",
+    "quote": "In the square access to the cathedral are four 2.5-meter (8 ft 2 in) tall bronze sculptures representing the four Evangelists, created by sculptors Alfredo Ceschiatti and Dante Croce in 1968.",
+    "source": "https://en.wikipedia.org/wiki/Cathedral_of_Brasília"
    }
   ],
   "thin": false
