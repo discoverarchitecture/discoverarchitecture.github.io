@@ -778,3 +778,7 @@ body[data-screen="upload"] .btn.primary::after, body[data-screen="q"] .btn.prima
 .glimg.zoom { align-items: flex-start; } .glimg.zoom img { max-height: none; cursor: zoom-out; }
 @media (max-width: 560px) { .glbar { padding: 8px 8px 8px 12px; } .glbar b { font-size: 14px; flex-basis: calc(100% - 56px); order: -1; } .glbar .gx { order: -1; margin-left: auto; } .glbar .spacer { display: none; } .glimg { padding: 8px; } }
 @media (max-width: 560px) { .gimg { aspect-ratio: auto; padding: 14px; } .gimg img { position: static; width: 100%; max-width: 100%; max-height: none; } }
+/* "Watch it work": the walkthrough video, framed like the other landing cards */
+.wvid { margin: 0; border: 2px solid var(--line); border-radius: 18px; overflow: hidden; box-shadow: 5px 5px 0 var(--shadow); background: #1B1A17; }
+.wvid video { display: block; width: 100%; height: auto; aspect-ratio: 16 / 9; background: #1B1A17; }
+@media (max-width: 560px) { .wvid { border-radius: 12px; box-shadow: 3px 3px 0 var(--shadow); } }
