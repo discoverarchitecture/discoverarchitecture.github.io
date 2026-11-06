@@ -5,7 +5,7 @@ seo_title: Architecture Jury Presentation Tips: What to Show and Say
 description: How to present at an architecture jury or crit: open with your idea, talk in the order of your board, point at drawings, and handle tough questions calmly.
 kicker: Juries
 published: 2026-11-05
-related: architecture-jury-preparation-48-hours, architecture-jury-presentation-slides, how-to-lay-out-an-a1-architecture-board
+related: architecture-jury-preparation-48-hours, architecture-jury-presentation-slides, how-to-lay-out-an-a1-architecture-board, architecture-jury-presentation-ideas
 ---
 A jury is not an exam you pass by covering everything. It is a short conversation about whether your idea holds up, and whether you understand your own project. The best presentations open with the idea in a sentence, walk through the drawings in the order they are pinned, and leave time for the conversation that follows.
 
