@@ -832,6 +832,42 @@
   "thin": false
  },
  {
+  "id": "churchill-gardens-estate",
+  "facts": [
+   {
+    "fact": "A large housing estate in Pimlico, Westminster, developed 1946 to 1962 by Powell and Moya, replacing Victorian terraces damaged in the Blitz.",
+    "quote": "Churchill Gardens is a large housing estate in the Pimlico area of Westminster, London.",
+    "source": "https://en.wikipedia.org/wiki/Churchill_Gardens"
+   },
+   {
+    "fact": "The only housing project completed under the Abercrombie Plan; tall slabs are enclosed by seven-storey blocks and interspersed with maisonettes and terraces.",
+    "quote": "Comprising 1,600 homes in 32 blocks, the estate is notable as the only housing project completed under the ambitious Abercrombie Plan to redevelop the capital on more \"efficient\" lines.",
+    "source": "https://en.wikipedia.org/wiki/Churchill_Gardens"
+   },
+   {
+    "fact": "A pioneering example of mixed development that acted as a model for many later public housing projects.",
+    "quote": "A pioneering example of mixed development, it acted as a model for many subsequent public housing projects, although few matched its size and even fewer achieved its architectural distinction or social diversity.",
+    "source": "https://en.wikipedia.org/wiki/Churchill_Gardens"
+   },
+   {
+    "fact": "Many tall blocks are reached by lifts leading directly onto the street.",
+    "quote": "Many of the estate's tall buildings are accessible using lifts leading directly onto the street, with a local lift serving all floors and an express lift serving only floors that are multiples of 3. The estate is also notable for its early and rare example of district heating in the UK, the Pimlico District Heating Undertaking.",
+    "source": "https://en.wikipedia.org/wiki/Churchill_Gardens"
+   },
+   {
+    "fact": "An early district heating system used heat from Battersea Power Station, collected in a glass-faced accumulator tower.",
+    "quote": "The estate is also notable for its early and rare example of district heating in the UK, the Pimlico District Heating Undertaking.",
+    "source": "https://en.wikipedia.org/wiki/Churchill_Gardens"
+   },
+   {
+    "fact": "The landscape is Grade II listed on the Register of Historic Parks and Gardens, with several buildings individually listed.",
+    "quote": "The landscape of the Churchill Gardens estate is Grade II listed on the Register of Historic Parks and Gardens.",
+    "source": "https://en.wikipedia.org/wiki/Churchill_Gardens"
+   }
+  ],
+  "thin": false
+ },
+ {
   "id": "city-of-arts-and-sciences",
   "facts": [
    {
@@ -960,6 +996,37 @@
   "thin": false
  },
  {
+  "id": "beitou-public-library",
+  "facts": [
+   {
+    "fact": "A public library in Beitou Park, Taipei; Taiwan's first green library.",
+    "quote": "Taipei Public Library Beitou Branch (Chinese: 臺北市立圖書館北投分館; pinyin: Táiběi Shìlì Túshūguǎn Běitóu Fēnguǎn) is a public library in Beitou Park, located within Beitou District, Taipei, Taiwan.",
+    "source": "https://en.wikipedia.org/wiki/Taipei_Public_Library_Beitou_Branch"
+   },
+   {
+    "fact": "Opened in November 2006.",
+    "quote": "The library was opened in November 2006.",
+    "source": "https://en.wikipedia.org/wiki/Taipei_Public_Library_Beitou_Branch"
+   },
+   {
+    "fact": "A two-storey eco-friendly green building designed to curb water and electricity consumption, by Bio-Architecture Formosana.",
+    "quote": "It is a two-story building and it is notable as being constructed to be an eco-friendly green building, in which the building was designed to curb water and electricity consumption.",
+    "source": "https://en.wikipedia.org/wiki/Taipei_Public_Library_Beitou_Branch"
+   },
+   {
+    "fact": "Large windows reduce lighting electricity use.",
+    "quote": "The building uses large windows to reduce the consumption of lighting electricity.",
+    "source": "https://en.wikipedia.org/wiki/Taipei_Public_Library_Beitou_Branch"
+   },
+   {
+    "fact": "The roof is partly covered with photovoltaic cells and captures rain water to flush toilets.",
+    "quote": "The roof was designed to be partially covered with photovoltaic cells to generate electricity and also designed to capture rain water to be stored and used to flush toilets.",
+    "source": "https://en.wikipedia.org/wiki/Taipei_Public_Library_Beitou_Branch"
+   }
+  ],
+  "thin": false
+ },
+ {
   "id": "bevin-court",
   "facts": [
    {
@@ -991,6 +1058,42 @@
     "fact": "Listed grade II* in December 1998 and restored by Islington in 2014–2016.",
     "quote": "The building was given grade II* listed status in December 1998 and was restored by the London Borough of Islington in 2014–2016.",
     "source": "https://en.wikipedia.org/wiki/Bevin_Court"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "castello-di-rivoli",
+  "facts": [
+   {
+    "fact": "A former residence of the Royal House of Savoy in Rivoli near Turin, now the Castello di Rivoli museum of contemporary art.",
+    "quote": "The Rivoli Castle is a former Residence of the Royal House of Savoy in Rivoli (Metropolitan City of Turin, Italy).",
+    "source": "https://en.wikipedia.org/wiki/Rivoli_Castle"
+   },
+   {
+    "fact": "Listed as a UNESCO World Heritage Site in 1997 with other Savoy residences.",
+    "quote": "In 1997, it was placed on the UNESCO World Heritage Site list along with 13 other residences of the House of Savoy.",
+    "source": "https://en.wikipedia.org/wiki/Rivoli_Castle"
+   },
+   {
+    "fact": "Probably built in the 9th–10th centuries; first mentioned in 1159.",
+    "quote": "The castle was probably built in the 9th–10th centuries.",
+    "source": "https://en.wikipedia.org/wiki/Rivoli_Castle"
+   },
+   {
+    "fact": "Filippo Juvarra planned a grandiose project in 1716 but only the two eastern wings were finished, leaving an unfinished facade.",
+    "quote": "The latter followed the construction sites for another three years, until Filippo Juvarra intervened in 1716; the famous architect in fact had a grandiose project in mind, but the works were not completed.",
+    "source": "https://en.wikipedia.org/wiki/Rivoli_Castle"
+   },
+   {
+    "fact": "Heavily damaged in World War II, it remained abandoned until restoration works began in 1979.",
+    "quote": "The edifice was heavily damaged during World War II, and remained in a substantial state of abandon until 1979, when new works of restoration were begun.",
+    "source": "https://en.wikipedia.org/wiki/Rivoli_Castle"
+   },
+   {
+    "fact": "Postwar renovation was carried out under Turin architect Andrea Bruno.",
+    "quote": "The first post-World War II renovation works were carried out under the Turin architect Andrea Bruno.",
+    "source": "https://en.wikipedia.org/wiki/Rivoli_Castle"
    }
   ],
   "thin": false
@@ -1269,6 +1372,37 @@
   "thin": false
  },
  {
+  "id": "centro-cultural-sao-paulo",
+  "facts": [
+   {
+    "fact": "A public institution that includes the Pinacoteca Municipal, libraries, exhibition spaces, theatres and a cinema.",
+    "quote": "The São Paulo Cultural Center (English: Centro Cultural São Paulo) is a public institution subordinated to the Municipal Department of Culture of São Paulo that includes the Pinacoteca Municipal, the Oneyda Alvarenga Record Collection, the collection of Mário de Andrade's Folklore Research Mission, a set of libraries, exhibition spaces, an area for various courses, theaters and a cinema.",
+    "source": "https://en.wikipedia.org/wiki/S%C3%A3o_Paulo_Cultural_Center"
+   },
+   {
+    "fact": "Opened in 1982 and one of the first institutions in São Paulo considered a 'cultural center' in the strict sense.",
+    "quote": "It is considered one of the city's main cultural spaces and one of the first institutions in São Paulo to be considered a \"cultural center\" in the strict sense of the term.",
+    "source": "https://en.wikipedia.org/wiki/S%C3%A3o_Paulo_Cultural_Center"
+   },
+   {
+    "fact": "After a bidding process the city hired architects Eurico Prado Lopes and Luiz Benedito de Castro Telles.",
+    "quote": "After a competitive bidding process, São Paulo City Hall hired architects Eurico Prado Lopes and Luiz Benedito de Castro Telles to design the new library, using part of the 300,000 square meter area of the now-defunct Nova Vergueiro project, located to the north of the subway station of the same name.",
+    "source": "https://en.wikipedia.org/wiki/S%C3%A3o_Paulo_Cultural_Center"
+   },
+   {
+    "fact": "The project was redesigned based on the Centre Pompidou in Paris instead of being only an extension of the Mário de Andrade Library.",
+    "quote": "Instead of concentrating just an extension of the Mário de Andrade Library, the project was redesigned based on the Centre Pompidou in Paris.",
+    "source": "https://en.wikipedia.org/wiki/S%C3%A3o_Paulo_Cultural_Center"
+   },
+   {
+    "fact": "The site came from land cleared for the Vergueiro metro station and its construction sites.",
+    "quote": "After the creation of the Companhia do Metropolitano de São Paulo in 1968, São Paulo City Hall carried out numerous expropriations for the construction of the North-South Line.",
+    "source": "https://en.wikipedia.org/wiki/S%C3%A3o_Paulo_Cultural_Center"
+   }
+  ],
+  "thin": false
+ },
+ {
   "id": "dz-bank-building",
   "facts": [
    {
@@ -1473,5 +1607,154 @@
    }
   ],
   "thin": false
+ },
+ {
+  "id": "stazione-di-venezia-santa-lucia",
+  "facts": [
+   {
+    "fact": "The central station of Venice, a terminus at the northern edge of the historic city.",
+    "quote": "Venezia Santa Lucia (Italian: Stazione di Venezia Santa Lucia) (IATA: XVQ) is the central station of Venice in the north-east of Italy.",
+    "source": "https://en.wikipedia.org/wiki/Venezia_Santa_Lucia_railway_station"
+   },
+   {
+    "fact": "The Ponte degli Scalzi bridge links the concourse in front of the station with Santa Croce.",
+    "quote": "A bridge over the Grand Canal, the Ponte degli Scalzi (or Ponte dei Scalzi) (English: Bridge of the Discalced), links the concourse in front of the station with the sestiere of Santa Croce.",
+    "source": "https://en.wikipedia.org/wiki/Venezia_Santa_Lucia_railway_station"
+   },
+   {
+    "fact": "Construction began in 1860 under the Austrian Empire; a convent and a church were demolished to make room for the station and forecourt.",
+    "quote": "Construction of Santa Lucia railway station began in 1860 under the Austrian Empire.",
+    "source": "https://en.wikipedia.org/wiki/Venezia_Santa_Lucia_railway_station"
+   },
+   {
+    "fact": "The current station is the result of plans begun by rationalist architect Angiolo Mazzoni in 1924.",
+    "quote": "It is the result of a series of plans started up by the rationalist architect Angiolo Mazzoni in 1924 and developed by him over the next decade.",
+    "source": "https://en.wikipedia.org/wiki/Venezia_Santa_Lucia_railway_station"
+   },
+   {
+    "fact": "Virgilio Vallot won a 1934 contest for the detailed design; Mazzoni and Vallot built the station building between 1936 and 1943.",
+    "quote": "In 1934, a contest for a detailed design for the current station was won by Virgilio Vallot.",
+    "source": "https://en.wikipedia.org/wiki/Venezia_Santa_Lucia_railway_station"
+   },
+   {
+    "fact": "Completed in 1952 on a design developed by another architect, Paul Perilli.",
+    "quote": "In 1952, the station was completed on a design which had been developed by another architect, Paul Perilli.",
+    "source": "https://en.wikipedia.org/wiki/Venezia_Santa_Lucia_railway_station"
+   },
+   {
+    "fact": "The facade flanks are decorated with Venetian lions, and behind it is a large main hall with ticketing, shops and offices.",
+    "quote": "The flanks of its façade are decorated with Venetian lions.",
+    "source": "https://en.wikipedia.org/wiki/Venezia_Santa_Lucia_railway_station"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "vivocity",
+  "facts": [
+   {
+    "fact": "A shopping mall in the HarbourFront precinct of Bukit Merah, Singapore.",
+    "quote": "VivoCity is a shopping mall located in the HarbourFront precinct of Bukit Merah, Singapore.",
+    "source": "https://en.wikipedia.org/wiki/VivoCity"
+   },
+   {
+    "fact": "Designed by Japanese architect Toyo Ito; the name is derived from 'vivacity'.",
+    "quote": "It was designed by the Japanese architect Toyo Ito, and its name is derived from the word vivacity.",
+    "source": "https://en.wikipedia.org/wiki/VivoCity"
+   },
+   {
+    "fact": "Built on the site of the Expo Gateway and Harbour Pavilion exhibition halls, it opened in 2006 and is the largest mall in Singapore.",
+    "quote": "VivoCity was built on the site of the Expo Gateway and Harbour Pavilion exhibition halls of the former World Trade Centre (now the HarbourFront Centre) in June 2003.",
+    "source": "https://en.wikipedia.org/wiki/VivoCity"
+   },
+   {
+    "fact": "Officially opened on 1 December 2006 with fireworks and concerts at the amphitheatre.",
+    "quote": "The shopping mall opened officially on 1 December 2006 after a topping-out ceremony on 18 April and a soft launch on 7 October that year.",
+    "source": "https://en.wikipedia.org/wiki/VivoCity"
+   },
+   {
+    "fact": "The rooftop amphitheatre hosts public events such as the 2007 Countdown.",
+    "quote": "The 2007 Countdown, held from 31 December 2006 to 1 January 2007, was held at the rooftop amphitheatre and included performances by well-known homegrown artists from Mediacorp Channel 5 and 8, as well as the Top 11 finalists of the second season of Singapore Idol.",
+    "source": "https://en.wikipedia.org/wiki/VivoCity"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "alexandra-road-estate",
+  "facts": [
+   {
+    "fact": "A housing estate in the London Borough of Camden, often called Rowley Way after its main thoroughfare.",
+    "quote": "The Alexandra Road Estate (officially the Alexandra and Ainsworth Estate, but often referred to as Rowley Way, the name of its main thoroughfare) is a housing estate in the London Borough of Camden, North London, England.",
+    "source": "https://en.wikipedia.org/wiki/Alexandra_Road_Estate"
+   },
+   {
+    "fact": "Designed in a brutalist style in 1968 by Neave Brown of Camden Council's Architects Department; built 1972 to 1978.",
+    "quote": "It was designed in a brutalist style in 1968 by Neave Brown of Camden Council's Architects Department.",
+    "source": "https://en.wikipedia.org/wiki/Alexandra_Road_Estate"
+   },
+   {
+    "fact": "Built of site-cast, board-marked, white, unpainted reinforced concrete.",
+    "quote": "It is constructed from site-cast, board-marked, white, unpainted reinforced concrete.",
+    "source": "https://en.wikipedia.org/wiki/Alexandra_Road_Estate"
+   },
+   {
+    "fact": "Besides apartments, the site includes a school, community centre, youth club, heating complex, tenants hall and parkland.",
+    "quote": "Along with 520 apartments, the site also includes a school, community centre, youth club, heating complex, tenants hall, and parkland.",
+    "source": "https://en.wikipedia.org/wiki/Alexandra_Road_Estate"
+   },
+   {
+    "fact": "Three parallel east–west blocks on a crescent-shaped site beside the West Coast Main Line.",
+    "quote": "The estate consists of three parallel east–west blocks, and occupies a crescent-shaped site bounded on the south by Boundary Road, Loudoun Road on the east, Abbey Road on the west, and by the West Coast Main Line to the north.",
+    "source": "https://en.wikipedia.org/wiki/Alexandra_Road_Estate"
+   },
+   {
+    "fact": "Controlling train noise and vibration was a major consideration in the layout.",
+    "quote": "The desire to control the sound and vibration from passing trains was a major consideration in the layout of the estate.",
+    "source": "https://en.wikipedia.org/wiki/Alexandra_Road_Estate"
+   },
+   {
+    "fact": "The tall block beside the railway is a ziggurat that blocks train noise, its foundations resting on rubber pads that eliminate vibration.",
+    "quote": "The higher, eight-story block directly adjacent to the railway line is organised in the form of a ziggurat, and acts as a noise barrier that blocks the noise of the trains from reaching the interior portion of the site, and its foundations rest on rubber pads that eliminate vibration.",
+    "source": "https://en.wikipedia.org/wiki/Alexandra_Road_Estate"
+   },
+   {
+    "fact": "The flat roofs of the stepped elevation give every home a private outdoor area.",
+    "quote": "The flat roofs of the stepped elevation provide private outdoor areas for every home.",
+    "source": "https://en.wikipedia.org/wiki/Alexandra_Road_Estate"
+   },
+   {
+    "fact": "Granted Grade II* listing in 1993, the first post-war council housing estate to be listed.",
+    "quote": "The estate has suffered less vandalism than many Camden estates, and it was granted Grade II* listed status on 18 August 1993, the first post-war council housing estate to be listed.",
+    "source": "https://en.wikipedia.org/wiki/Alexandra_Road_Estate"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "azerbaijan-carpet-museum",
+  "facts": [
+   {
+    "fact": "A museum in Baku displaying Azerbaijani carpets and rugs with the largest collection of Azerbaijani carpets in the world; it moved to a new building in the Baku seafront park in 2014.",
+    "quote": "Azerbaijan National Carpet Museum (Azerbaijani: Azərbaycan Milli Xalça Muzeyi, formerly called the Azerbaijan Carpet Museum) is a museum located in Baku that displays Azerbaijani carpets and rugs with historical and modern weaving techniques and materials.",
+    "source": "https://en.wikipedia.org/wiki/Azerbaijan_Carpet_Museum"
+   },
+   {
+    "fact": "Plans for a purpose-built building began in 2010; the museum opened there on 26 August 2014.",
+    "quote": "Plans to move the collection to a new purpose-built building began in 2010, and a new building was due to open in late 2012 with a visit being made by President Ilham Aliyev in September 2013.",
+    "source": "https://en.wikipedia.org/wiki/Azerbaijan_Carpet_Museum"
+   },
+   {
+    "fact": "The museum was established in 1967 and first housed in the Juma Mosque in Icheri Sheher.",
+    "quote": "The museum was established in 1967 and was initially located in the Juma Mosque in Icheri Sheher.",
+    "source": "https://en.wikipedia.org/wiki/Azerbaijan_Carpet_Museum"
+   },
+   {
+    "fact": "Its aim is to collect, preserve, research and promote carpet art.",
+    "quote": "The main objectives of the Azerbaijan National Carpet Museum are to collect, preserve, research, demonstrate, and promote unique samples of carpet art, which is the national heritage of Azerbaijan.",
+    "source": "https://en.wikipedia.org/wiki/Azerbaijan_Carpet_Museum"
+   }
+  ],
+  "thin": true
  }
 ]
