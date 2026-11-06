@@ -21,3 +21,12 @@
   .hub .rail h1 { font-size: 40px; }
   .hub .cols, .hub .col { gap: 10px; }
 }
+/* Questions students ask (tools/hubs/results/faq_*.json), in the guide's question look (guide.css, v36). */
+.hub .faq details { border-bottom: 1px solid var(--line); padding: 10px 0; }
+.hub .faq details:first-of-type { padding-top: 4px; }
+.hub .faq summary { cursor: pointer; font-weight: 600; font-size: 16px; line-height: 1.35; list-style: none; display: flex; justify-content: space-between; gap: 12px; }
+.hub .faq summary::-webkit-details-marker { display: none; }
+.hub .faq summary::after { content: '+'; flex: none; color: var(--graphite); }
+.hub .faq details[open] summary::after { content: '\2013'; }
+.hub .faq details p { margin: 8px 0 2px; font-size: 15px; line-height: 1.55; color: var(--ink); }
+@media (hover: hover) { .hub .faq summary:hover { color: var(--red); } }

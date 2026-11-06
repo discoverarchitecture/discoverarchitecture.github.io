@@ -64,7 +64,10 @@ def load():
     items = json.loads(text.split('window.BUILDINGS = ', 1)[1].rstrip().rstrip(';'))
     found = read_js('links.js', 'LINKS')  # from tools/find_links.py
     about = read_js('summaries.js', 'SUMMARIES')  # from tools/fetch_summaries.py
-    return [{**b, **found.get(b['id'], {}), **({'about': about[b['id']]} if b['id'] in about else {})} for b in items]
+    wf = ROOT / 'tools' / 'writeups' / 'results' / 'writeups.json'  # our own paragraphs from sourced facts (tools/writeups/BRIEF.md)
+    wu = {r['id']: r for r in json.loads(wf.read_text())} if wf.exists() else {}
+    return [{**b, **found.get(b['id'], {}), **({'about': about[b['id']]} if b['id'] in about else {}),
+             **({'writeup': wu[b['id']]} if b['id'] in wu else {})} for b in items]
 
 
 def place_full(b):
@@ -318,6 +321,21 @@ def about_block(b):
     return (f'<section class="block about"><h2>About {e(b["name"])}</h2>{paras}'
             f'<p class="src">Shortened from <a href="{e(a["url"])}" rel="noopener">Wikipedia</a>, '
             f'<a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="noopener">CC BY-SA 4.0</a>.</p></section>\n')
+
+
+def writeup_block(b):
+    """Our own paragraph about the building, written only from sourced facts (tools/writeups/), under Key features:
+    the page's real text for students and search engines. Its sources are named under it. Most pages have none yet."""
+    w = b.get('writeup')
+    if not w:
+        return ''
+    src = []
+    for u in w.get('sources') or []:
+        t = urllib.parse.unquote(u.rstrip('/').rsplit('/', 1)[-1]).replace('_', ' ') if 'wikipedia.org/wiki/' in u else urllib.parse.urlparse(u).netloc
+        src.append(f'<a href="{e(u)}" rel="noopener">{e(t)}</a>')
+    return (f'<section class="writeup"><h2>About the building</h2><p>{e(w["text"])}</p>'
+            + (f'<p class="src">Sources: {" · ".join(src)} (Wikipedia)</p>' if src and all('wikipedia.org' in u for u in w['sources'])
+               else (f'<p class="src">Sources: {" · ".join(src)}</p>' if src else '')) + '</section>')
 
 
 def hub_links():
@@ -778,6 +796,7 @@ def building_page(b, items):
     <div class="whowhere">{byline_html(b, up, mine)}{where_html(b, up)}</div>
     <p class="meta">{e(b['year'])}</p>
     <p class="study"><span>Key features</span>{e(b['study'])}</p>
+    {writeup_block(b)}
     {threads_html(b, up, C['idea'].get(idea, 0))}
     {''.join(rows)}
     {films_for_building(b, up)}
