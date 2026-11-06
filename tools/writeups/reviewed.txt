@@ -1,0 +1,16 @@
+# Write-ups whose flags were checked by eye against the quotes and are fine (SEO strategy chat, 7 Nov 2026).
+# id | first 12 characters of the text's md5: a later change to the text brings the flags back.
+spa-green-estate | e7a609e8b606
+mesa-laboratory-ncar | c5b4386d31ee
+skovshoved-petrol-station | 445cc7bb8e12
+villa-tugendhat | 953bef58b739
+cauchie-house-brussels | 016f3d881def
+blue-building-athens | 954abb53f385
+calouste-gulbenkian-museum | d9244fe332f9
+66-portland-place-riba | 15c9ae2a173c
+bode-museum | 7ffb80f3fde1
+des-moines-art-center | 353cda23019d
+castello-di-rivoli | 197bba526057
+ocbc-centre | 009e0f693e7c
+national-centre-for-the-performing-arts | 31cdce487bcf
+antigone-montpellier | 3f4c46d72274
