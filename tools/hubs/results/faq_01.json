@@ -1,0 +1,329 @@
+[
+ {
+  "slug": "brutalism",
+  "faq": [
+   {
+    "q": "What is Brutalist architecture?",
+    "a": "Brutalist architecture uses exposed, unpainted concrete or brick, and treats honest materials as an ethic as much as a look. The name is often traced to béton brut, Le Corbusier's phrase for his rough concrete. Swedish architect Hans Asplund coined the word nybrutalism for a brick house designed in 1950, Alison Smithson first printed \"new brutalism\" in 1953, and the critic Reyner Banham used it in a 1955 essay.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Brutalist_architecture",
+     "https://en.wikipedia.org/wiki/New_Brutalism"
+    ]
+   },
+   {
+    "q": "What are the key features of Brutalism?",
+    "a": "The defining material is exposed, unpainted concrete or brick. Many brutalist buildings also show their structure and circulation openly. Park Hill in Sheffield runs wide deck \"streets in the sky\" along its slabs, Balfron Tower in London puts its lifts in a separate tower linked to the flats by bridges every third floor, and Boston City Hall is an inverted ziggurat whose form shows the city government's work from outside.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Brutalist_architecture",
+     "wall"
+    ]
+   },
+   {
+    "q": "Which brutalist buildings should architecture students study?",
+    "a": "Start with Le Corbusier's Unité d'Habitation in Marseille (1952), often cited as the style's first inspiration: a vertical neighbourhood of duplex flats on internal streets. Then compare Park Hill in Sheffield (1961), Habitat 67 in Montréal (1967), with its stacked prefabricated modules, Denys Lasdun's Royal National Theatre in London (1976) and the Barbican Estate (1982), a walkway city of housing, arts centre and lake above the street.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Unité_d'Habitation",
+     "wall"
+    ]
+   },
+   {
+    "q": "Where can I see brutalist buildings?",
+    "a": "The style spread to regions around the world, so there is brutalism on every continent. London has the Barbican, Trellick Tower and the Royal National Theatre; Boston has its City Hall; Le Corbusier's Capitol Complex stands in Chandigarh, India. Further afield are the Kenyatta International Convention Centre in Nairobi, the Bank of London and South America in Buenos Aires and the Museum of Modern Art in Rio de Janeiro.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Brutalist_architecture",
+     "wall"
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "modernism",
+  "faq": [
+   {
+    "q": "What is modernist architecture?",
+    "a": "Modernist architecture builds with new construction technology and rejects ornament, so volume, structure and plan carry the design. It emerged at the end of the 19th century and was dominant from the Second World War until the 1980s. Under the name International Style it spread throughout the world. Le Corbusier's white houses of the 1920s, for example, had no ornament inside or out.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Modern_architecture",
+     "https://en.wikipedia.org/wiki/International_Style_(architecture)"
+    ]
+   },
+   {
+    "q": "What are the principles of modernist architecture?",
+    "a": "In 1932 Hitchcock and Johnson's exhibition at MoMA in New York named three: architecture as volume, regularity in the facade rather than symmetry, and no applied ornament. You can see them at work in Le Corbusier's Villa Savoye (1931), which puts his Five Points of Architecture into one house, and in the Barcelona Pavilion (1929), where free-standing walls under a floating roof let space flow.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/International_Style_(architecture)",
+     "wall"
+    ]
+   },
+   {
+    "q": "Which modernist buildings should architecture students study?",
+    "a": "A short list runs in date order: the Fagus Factory in Alfeld (1911), whose glass wall turns the corners with no column; Bauhaus Dessau (1926), with its pinwheel plan; the Barcelona Pavilion (1929); Villa Savoye (1931); Fallingwater (1939), cantilevered over a waterfall; and the Seagram Building in New York (1958), set back behind a plaza with bronze mullions that express the frame.",
+    "sources": [
+     "wall"
+    ]
+   },
+   {
+    "q": "Which modernist houses should I study?",
+    "a": "Houses show modernism's ideas most clearly. Compare the Rietveld Schröder House in Utrecht (1924), De Stijl in three dimensions; Villa Tugendhat in Brno (1930), whose glass walls drop away to the garden; Fallingwater (1939); the Eames House in Los Angeles (1949), built from off-the-shelf industrial parts; Philip Johnson's Glass House (1949); and the Farnsworth House (1951), a single glass room lifted above a floodplain.",
+    "sources": [
+     "wall"
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "contemporary",
+  "faq": [
+   {
+    "q": "What is contemporary architecture?",
+    "a": "Contemporary architecture is the architecture of the 21st century, from 2000 to today, and no single style leads it. It is shaped by method more than style, and it is global, with important new buildings in China, Russia and India as well as Europe and the Americas. Examples range from Snøhetta's Oslo Opera House (2008) to OMA's CCTV Headquarters in Beijing (2012).",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Contemporary_architecture",
+     "wall"
+    ]
+   },
+   {
+    "q": "What are the features of contemporary architecture?",
+    "a": "New structural systems let buildings be taller, lighter and stronger than in the 20th century, and designs are modelled in 3D on computers. Some designers favour natural, ecological materials, and energy efficiency over a building's whole life is a primary goal of sustainable design. Shigeru Ban's Centre Pompidou-Metz, for example, roofs its galleries with a woven grid of glued laminated timber.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Contemporary_architecture",
+     "https://en.wikipedia.org/wiki/Sustainable_architecture"
+    ]
+   },
+   {
+    "q": "Which contemporary buildings should architecture students study?",
+    "a": "Good starting points are Toyo Ito's Sendai Mediatheque (2001), where thirteen lattice tubes carry thin floors; OMA's Seattle Central Library (2004), with its book spiral as one continuous ramp; Tate Modern in London (2000), a power station turned museum; the Oslo Opera House (2008); and Herzog & de Meuron's Elbphilharmonie in Hamburg (2017), a glass crown on a brick warehouse.",
+    "sources": [
+     "wall"
+    ]
+   },
+   {
+    "q": "Where can I see contemporary architecture?",
+    "a": "Almost anywhere, because the field is global. In Asia and the Middle East there are the CCTV Headquarters in Beijing, the Burj Khalifa in Dubai, once the tallest building in the world, and Foster + Partners' Queen Alia International Airport in Amman. In Europe, see Casa da Música in Porto or the Markthal in Rotterdam; in North America, the High Line in New York.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Contemporary_architecture",
+     "wall"
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "deconstructivism",
+  "faq": [
+   {
+    "q": "What is deconstructivist architecture?",
+    "a": "Deconstructivist architecture breaks a building into fragments, with no obvious harmony, continuity or symmetry; its look is often described as controlled chaos. The name plays on Russian Constructivism and on the ideas of the French philosopher Jacques Derrida. The style came to public notice with the 1982 competition for the Parc de la Villette in Paris, and a 1988 exhibition at MoMA crystallised the movement.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Deconstructivism"
+    ]
+   },
+   {
+    "q": "Who are the main deconstructivist architects?",
+    "a": "The 1988 MoMA exhibition, curated by Mark Wigley and Philip Johnson, made seven architects famous: Peter Eisenman, Frank Gehry, Zaha Hadid, Coop Himmelblau, Rem Koolhaas, Daniel Libeskind and Bernard Tschumi. The label does not fit all of them comfortably: Gehry refused it, as he refused any other, even though his Guggenheim Bilbao (1997) and Walt Disney Concert Hall (2003) are often shown as examples.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Deconstructivism",
+     "https://en.wikipedia.org/wiki/Deconstructivist_architecture",
+     "https://en.wikipedia.org/wiki/Postmodern_architecture",
+     "wall"
+    ]
+   },
+   {
+    "q": "Which deconstructivist buildings should architecture students study?",
+    "a": "Compare Eisenman's Wexner Center for the Arts in Columbus (1989), Gehry's Vitra Design Museum (1989) and Hadid's first built work, the Vitra Fire Station (1993), both in Weil am Rhein. Then study Libeskind's Jewish Museum Berlin (2001), a zigzag plan cut through by voids you can see but not enter, and his Imperial War Museum North in Manchester (2002), built from fragmented, intersecting curved volumes.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Deconstructivism",
+     "wall"
+    ]
+   },
+   {
+    "q": "Where can I see deconstructivist buildings?",
+    "a": "Germany has a cluster: the Vitra Design Museum and Vitra Fire Station in Weil am Rhein, BMW Welt in Munich, and the Jewish Museum Berlin. Frank Gehry's work is spread widely, from the Guggenheim Bilbao and the Dancing House in Prague to the Walt Disney Concert Hall in Los Angeles and the Biomuseo in Panama City. In Rotterdam, OMA's Kunsthal threads ramps through a box.",
+    "sources": [
+     "wall"
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "parametric",
+  "faq": [
+   {
+    "q": "What is parametric architecture?",
+    "a": "Parametric architecture designs buildings with algorithms: the architect sets input parameters, and the model changes as they change. In parametricism every element of a design can vary and adapt to the others. It rejects both serial repetition and a heap of unrelated pieces, aiming for complex space that stays legible. Patrik Schumacher coined the term in 2008 and described it as a successor to modernism and postmodernism.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Parametric_design",
+     "https://en.wikipedia.org/wiki/Parametricism"
+    ]
+   },
+   {
+    "q": "How does parametric design work?",
+    "a": "The architect writes rules rather than drawing each part: an algorithm takes input parameters, and the model updates whenever one changes, so every element can adapt to the others. Grasshopper, a visual programming tool built on Rhino, is one tool for such models. The Canton Tower in Guangzhou (2010) shows the idea: a lattice of inclined steel columns twisted between two rotated ellipses.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Parametric_design",
+     "https://en.wikipedia.org/wiki/Parametricism",
+     "wall"
+    ]
+   },
+   {
+    "q": "Who are the main parametric architects?",
+    "a": "Patrik Schumacher, who named parametricism, worked with Zaha Hadid, whose office designed many of the best-known examples, from MAXXI in Rome (2010) to the Heydar Aliyev Center in Baku (2012). Early practitioners also included Greg Lynn, Jesse Reiser, Lars Spuybroek and Kas Oosterhuis. On the wall you will also find UNStudio, J. Mayer H. and Studio Fuksas.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Parametricism",
+     "wall"
+    ]
+   },
+   {
+    "q": "What are good examples of parametric architecture?",
+    "a": "Study Zaha Hadid's Heydar Aliyev Center in Baku (2012), one continuous surface folding from plaza to roof; UNStudio's Mercedes-Benz Museum in Stuttgart (2006), with double-helix ramps on a trefoil plan; J. Mayer H.'s Metropol Parasol in Seville (2011), giant timber parasols over a market; and Studio Fuksas's Shenzhen Bao'an International Airport Terminal 3 (2013), wrapped in a double honeycomb skin.",
+    "sources": [
+     "wall"
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "high-tech",
+  "faq": [
+   {
+    "q": "What is high-tech architecture?",
+    "a": "High-tech architecture shows how a building is made and how it works: structure, lifts, stairs and ducts are put on display instead of hidden. It emerged in the 1970s as a form of late modernism and was first developed in Britain. Steel, aluminium and glass dominate, and the style is used most for factories, offices and galleries.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/High-tech_architecture"
+    ]
+   },
+   {
+    "q": "What are the key features of high-tech architecture?",
+    "a": "Interiors have no internal load-bearing walls, so the space can be rearranged, and services such as stairs and lifts often move outside into separate towers. The Lloyd's Building in London (1986) sets its lifts, stairs and ducts in plug-in towers around a 60-metre atrium, and the HSBC Main Building in Hong Kong (1986) hangs its floors from suspension trusses, freeing a public plaza beneath.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/High-tech_architecture",
+     "wall"
+    ]
+   },
+   {
+    "q": "Who are the main high-tech architects?",
+    "a": "The leading names are Michael and Patty Hopkins, Norman Foster, Richard Rogers, Renzo Piano and Santiago Calatrava. Many early leaders were British. Their key works on the wall include the Hopkins House in London (1976), Piano and Rogers's Centre Pompidou in Paris (1977), Foster's 30 St Mary Axe in London (2004) and Calatrava's Museum of Tomorrow in Rio de Janeiro (2015).",
+    "sources": [
+     "https://en.wikipedia.org/wiki/High-tech_architecture",
+     "wall"
+    ]
+   },
+   {
+    "q": "Which high-tech buildings should architecture students study?",
+    "a": "Begin with the Centre Pompidou in Paris (1977), which moves structure and colour-coded services outside and leaves free floors and a public piazza. Then compare the Lloyd's Building (1986), the HSBC Main Building (1986), Renzo Piano's New York Times Building (2007), screened by ceramic rods, and Ken Yeang's Menara Mesiniaga in Malaysia (1992), which cools a round tower with sky gardens.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/High-tech_architecture",
+     "wall"
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "postmodernism",
+  "faq": [
+   {
+    "q": "What is postmodern architecture?",
+    "a": "Postmodern architecture brings back what modernism took out: historical references, ornament, colour and wit. It emerged in the 1960s as a reaction against the austerity and sameness of modern buildings. Denise Scott Brown and Robert Venturi are credited with introducing it, and Venturi set it out in a 1966 book that declared, \"I am for messy vitality over obvious unity.\" In the late 1990s it split into many new tendencies.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Postmodern_architecture"
+    ]
+   },
+   {
+    "q": "What are the key features of postmodern architecture?",
+    "a": "Postmodern buildings borrow historical elements and allusions and use unusual materials. Robert Venturi's Vanna Venturi House in Philadelphia (1964) splits a gable facade over a broken arch. Michael Graves's Portland Building (1982) paints giant pilasters and a keystone onto a cubic block, and the AT&T Building in New York (1984), by Philip Johnson and John Burgee, caps a granite tower with a broken pediment.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Postmodern_architecture",
+     "wall"
+    ]
+   },
+   {
+    "q": "Which postmodern buildings should architecture students study?",
+    "a": "Charles Moore's Piazza d'Italia in New Orleans (1978), a public square with a fountain shaped like Italy, is among the most famous works. Add the Vanna Venturi House (1964), the Portland Building (1982), James Stirling's Neue Staatsgalerie in Stuttgart (1984), which ramps a public path through a drum courtyard, and Venturi, Scott Brown and Associates' Sainsbury Wing at the National Gallery in London (1991).",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Postmodern_architecture",
+     "wall"
+    ]
+   },
+   {
+    "q": "Was postmodern architecture only American?",
+    "a": "It is best known as an American style, but notable examples appeared in Europe and beyond. In Europe there are Ricardo Bofill's Walden 7 near Barcelona (1975), Piet Blom's Cube Houses in Rotterdam (1984), Hans Hollein's Haas House in Vienna (1990) and Aldo Rossi's Bonnefanten Museum in Maastricht (1995). In Asia, Taipei 101 (2004) stacks eight pagoda-like modules, and Kenzo Tange's Tokyo Metropolitan Government Building (1991) splits into twin towers.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Postmodern_architecture",
+     "wall"
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "art-deco",
+  "faq": [
+   {
+    "q": "What is Art Deco architecture?",
+    "a": "Art Deco architecture pairs bold geometry with rich decoration: setbacks, sunbursts, metal ornament and decorated crowns. It first appeared in Paris in the 1910s, just before the First World War, growing from the geometric forms of the Vienna Secession and Cubism. Its name comes from the 1925 exhibition of decorative and industrial arts in Paris. It was an international style that flourished in the 1920s and early 1930s.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Art_Deco"
+    ]
+   },
+   {
+    "q": "What are the key features of Art Deco buildings?",
+    "a": "Look for bold geometry paired with rich decoration: stepped setbacks, sunbursts, metal ornament and decorated crowns. Reinforced concrete gave architects more freedom of form. The Chrysler Building in New York (1930) stacks a stainless-steel crown of sunburst arches above its setbacks, Radio City Music Hall (1932) shapes its auditorium ceiling from nested semicircles, and the Adler Planetarium in Chicago (1930) is a twelve-sided block in rainbow granite.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Art_Deco",
+     "wall"
+    ]
+   },
+   {
+    "q": "Which Art Deco buildings should architecture students study?",
+    "a": "The best-known skyscraper monuments are the Chrysler Building (1930) and the Empire State Building (1931) in New York. Before them, Auguste Perret's Théâtre des Champs-Élysées in Paris (1913) spans its auditorium with a concrete frame behind a flat marble front. Then compare the Fisher Building in Detroit (1928), with its barrel-vaulted arcade, and the stepped Kavanagh building in Buenos Aires (1936).",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Art_Deco",
+     "wall"
+    ]
+   },
+   {
+    "q": "Where can I see Art Deco architecture?",
+    "a": "Miami Beach has the world's largest concentration of Art Deco buildings, and New York has its skyscrapers, from 30 Rockefeller Plaza to 70 Pine Street. Because the style was international, examples reach far beyond: the Parliament House in Helsinki, the Manila Metropolitan Theater with its Philippine plant motifs, the Australian War Memorial in Canberra and the Estadio Centenario in Montevideo, built for the first World Cup.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Art_Deco",
+     "wall"
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "art-nouveau",
+  "faq": [
+   {
+    "q": "What is Art Nouveau architecture?",
+    "a": "Art Nouveau architecture takes its lines from nature: the curves of plants and flowers, asymmetry and whiplash lines that give a sense of movement. The first Art Nouveau houses appeared in Brussels in the 1890s, and the style spread from Britain, Belgium and France across Europe. In German it is called Jugendstil, after the art journal Jugend. By the start of the First World War in 1914 it was largely exhausted.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Art_Nouveau",
+     "https://en.wikipedia.org/wiki/Jugendstil"
+    ]
+   },
+   {
+    "q": "What materials did Art Nouveau architects use?",
+    "a": "They used the new materials of their time: iron, glass, ceramics and, later, concrete. Victor Horta's Hôtel Tassel in Brussels, a defining example, lets exposed iron columns and whiplash ornament flow through a top-lit stair hall. Otto Wagner's Majolikahaus in Vienna (1899) covers a flat apartment front in weatherproof tiles printed with flowers, and Hector Guimard brought the style to the street with his Paris Métro entrances.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Art_Nouveau",
+     "wall"
+    ]
+   },
+   {
+    "q": "Which Art Nouveau buildings should architecture students study?",
+    "a": "Begin in Brussels with Victor Horta's Hôtel Tassel and Horta House (1901), then Josef Hoffmann's Stoclet Palace (1911). In Glasgow, Charles Rennie Mackintosh's Glasgow School of Art (1909) sets huge north-light studio windows in a stone front. In Barcelona, Antoni Gaudí's Casa Batlló (1906) and Casa Milà (1912) show the style at its most sculptural, and Eliel Saarinen's Helsinki Central Station (1919) shows its late, granite form.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Art_Nouveau",
+     "wall"
+    ]
+   },
+   {
+    "q": "Is Gaudí's work Art Nouveau?",
+    "a": "On this site it is grouped with Art Nouveau, the movement of his time. Gaudí's buildings share its natural forms and movement but push them into structure: the Sagrada Família, begun in 1882, uses branching tree-like columns and hyperboloid vaults, and the Crypt of Colonia Güell (1914) has leaning columns and vaults found with a hanging model. Park Güell (1914) edges a terrace with a serpentine tiled bench.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Art_Nouveau",
+     "wall"
+    ]
+   }
+  ]
+ }
+]
