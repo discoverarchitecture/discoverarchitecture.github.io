@@ -29,7 +29,7 @@ Rules that hold the whole time (CLAUDE.md):
       (`tools/writeups/BRIEF.md`), shown in the building page's About section.
 - [ ] 4. Hub FAQs: review `claude/hub-faqs` (`tools/hubs/results/faq_01.json`), then show 3–4 questions on each hub
       page in the guide's FAQ look, with FAQPage data.
-- [ ] 5. Hub introductions for the hubs that have none (those pages are noindex until they do).
+- [x] 5. Hub introductions for the hubs that have none (those pages are noindex until they do).
 - [ ] 6. Guide 2: How to do an architecture precedent study (case study): the question students ask most that the
       wall answers; links into the wall, the hubs and the architect pages.
 - [ ] 7. Guide 3: Architecture jury presentation tips.
@@ -42,3 +42,9 @@ Rules that hold the whole time (CLAUDE.md):
 
 - 6 Nov 21:15 UTC: plan written; search merged.
 - 6 Nov 22:40 UTC: tasks 1 and 2 merged (PR #173): the box on every page, and search/none counting.
+- 7 Nov 00:30 UTC: task 5 needs nothing (all 32 hubs already have introductions). Tasks 3, 4, 6, 7, 8 and 9 are built on
+  branch `claude/writeups-faqs` and shown on the canvas as v38, **waiting for the owner's approval** (the briefs promised
+  it): 185 write-ups (4 Opus writers, then 2 strict fact-checkers; the 115 thin ones left out), hub questions on all 32
+  hubs with FAQPage data, guides 2-4 (precedent study, jury presentation, jury deck), guides listed in llms.txt and the
+  home page's text. Next: finish the fact-check, merge `final_*.json` into `tools/writeups/results/writeups.json`, run
+  `tools/writeups/check_writeups.py`, rebuild, re-shoot v38, open the PR (unmerged).
