@@ -57,3 +57,4 @@ Rules that hold the whole time (CLAUDE.md):
 - 6 Nov 22:05 UTC (the clock above is UTC): tasks 3, 4, 6, 7, 8, 9 finished and in **PR #175, unmerged, waiting for the
   owner** (canvas v38 refreshed). 185 write-ups went through write, strict fact-check (made-up details removed), and own
   words (under 15% copied; was up to 73%); hub answers rewritten so they don't repeat the intro. Round 2 started (task 11).
+- 6 Nov 22:15 UTC check-in: tasks 3-9 wait for the owner (PR #175). Task 11: facts_4 has 30 of 100 (2 thin); facts_5 and facts_6 not pushed yet. Writing starts when a whole file lands.
