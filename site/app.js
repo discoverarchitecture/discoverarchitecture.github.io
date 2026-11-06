@@ -59,6 +59,7 @@
   ALL.forEach(b => {
     const c = b.place.split(', ').pop();
     b.country = CODE_FIX[c] || c;
+    b.cname = (window.WORLD && window.WORLD.names[b.country]) || ''; // so a search for "Canada" finds "Winnipeg, CA"
     b.arch = NAMES.list(b.by);
     b.decade = !b.y ? -1 : b.y < 1880 ? 0 : Math.min(15, Math.floor((b.y - 1880) / 10) + 1); // -1: year unavailable, in no decade
   });
@@ -157,7 +158,7 @@
     if (skip !== 'decades' && d && (b.decade < d[0] || b.decade > d[1])) return false;
     if (state.where && !state.where(b)) return false;
     if (!state.q) return true;
-    const hay = fold([b.name, b.by, b.place, b.year, b.type, b.movement, b.region, b.study, (b.concepts || []).join(' ')].join(' '));
+    const hay = fold([b.name, b.by, b.place, b.cname, b.year, b.type, b.movement, b.region, b.study, (b.concepts || []).join(' ')].join(' '));
     return state.q.split(/\s+/).every(w => hay.includes(w));
   }
   function matchesBook(b) {
