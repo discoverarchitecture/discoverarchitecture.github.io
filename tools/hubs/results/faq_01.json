@@ -885,5 +885,120 @@
     ]
    }
   ]
+ },
+ {
+  "slug": "barcelona",
+  "faq": [
+   {
+    "q": "Why is Barcelona important in architecture?",
+    "a": "Barcelona is studied for one plan and one movement. Ildefons Cerdà's Eixample of 1859, the city's biggest expansion, laid a grid of wide avenues and blocks with cut corners. Modernisme ran from the city's first World Fair in 1888 to 1911. Older layers survive too: the city began as the Roman town of Barcino, and the Gothic Quarter holds its oldest parts.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Eixample",
+     "https://en.wikipedia.org/wiki/Catalan_modernism",
+     "https://en.wikipedia.org/wiki/Architecture_of_Barcelona",
+     "https://en.wikipedia.org/wiki/Gothic_Quarter,_Barcelona"
+    ]
+   },
+   {
+    "q": "Which Gaudí buildings should architecture students visit?",
+    "a": "Antoni Gaudí is Modernisme's best-known architect. See Casa Vicens (1885), his first major project; Palau Güell (1890), with a central hall under a perforated dome; Casa Batlló (1906), whose light well is tiled from deep to pale blue to even out the daylight; Casa Milà (1912), with its undulating stone facade; Park Güell (1914); and the Sagrada Familia, begun in 1882.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Catalan_modernism",
+     "wall"
+    ]
+   },
+   {
+    "q": "Who was Domènech i Montaner?",
+    "a": "Lluís Domènech i Montaner was the Modernisme architect who offered a genuine alternative to Gaudí. His Palau de la Música Catalana (1908) uses a steel frame to open walls of glass and a stained-glass skylight over the concert hall. His Hospital de Sant Pau sets brick ward pavilions in gardens linked by underground service tunnels, so the hospital reads as a garden of small buildings.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Catalan_modernism",
+     "wall"
+    ]
+   },
+   {
+    "q": "Which modern buildings in Barcelona should architecture students visit?",
+    "a": "The Barcelona Pavilion by Mies van der Rohe and Lilly Reich, built for the 1929 Exposition, was demolished in 1930 and rebuilt permanently in 1983–86. Then see Josep Lluís Sert's Fundació Joan Miró (1975), Arata Isozaki's Palau Sant Jordi (1990), Jean Nouvel's Torre Glòries (2005), Enric Ruiz-Geli's Media-TIC (2010), wrapped in ETFE cushions, and Lacol's La Borda (2018), cooperative housing in cross-laminated timber.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Barcelona_Pavilion",
+     "wall"
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "los-angeles",
+  "faq": [
+   {
+    "q": "What is Los Angeles architecture known for?",
+    "a": "Los Angeles mixes many styles, from Mission Revival onward, but it is studied above all for its modern houses. The Case Study Houses changed how American homes were designed. Googie, the roadside Space Age style, was named after a Hollywood coffee shop. In 1978 the Los Angeles Conservancy was founded to save the Central Library from demolition.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Architecture_of_Los_Angeles",
+     "https://en.wikipedia.org/wiki/Googie_architecture",
+     "https://en.wikipedia.org/wiki/Los_Angeles_Conservancy"
+    ]
+   },
+   {
+    "q": "Which Case Study Houses should architecture students know?",
+    "a": "Arts & Architecture launched the programme in 1945 and asked for houses that could be repeated, not one-off performances. Charles and Ray Eames's Eames House (1949) is assembled from off-the-shelf industrial parts. Pierre Koenig's Stahl House (Case Study House #22), from 1960, cantilevers an L-shaped steel and glass pavilion over the Hollywood Hills, and its photograph is one of the most famous of Los Angeles.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Case_Study_Houses",
+     "wall"
+    ]
+   },
+   {
+    "q": "Which modern houses in Los Angeles should architecture students visit?",
+    "a": "Begin with Frank Lloyd Wright's Hollyhock House (1921), which he called his \"California Romanza\", and Rudolph Schindler's house (1922), a live/work experiment for two families that set a precedent for California architecture. Then see Richard Neutra's Lovell Health House (1929), often called the first steel-frame house in the US, the Eames House (1949), John Lautner's Chemosphere (1960) and the Stahl House (1960).",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Hollyhock_House",
+     "https://en.wikipedia.org/wiki/Schindler_House",
+     "wall"
+    ]
+   },
+   {
+    "q": "Which public buildings in Los Angeles should architecture students study?",
+    "a": "Frank Gehry's Walt Disney Concert Hall (2003) wraps a vineyard-style hall in curved stainless steel, swapped in for the stone first planned. Compare Richard Meier's Getty Center (1997), a hilltop campus on two shifted grids; Rafael Moneo's Cathedral of Our Lady of the Angels (2002), lit through alabaster windows; and Morphosis's Caltrans District 7 Headquarters (2004), an office slab in a perforated aluminium skin.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Walt_Disney_Concert_Hall",
+     "wall"
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "adaptive-reuse",
+  "faq": [
+   {
+    "q": "What is adaptive reuse in architecture?",
+    "a": "Adaptive reuse gives an existing building a new purpose instead of pulling it down. It avoids the cost of demolition and keeps the energy already spent on the original building, and it keeps a community's link to its past. An old building can also be mined for materials for new projects. A classic example is Tate Modern in London, a gallery in a power station that opened in 2000.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Adaptive_reuse",
+     "https://en.wikipedia.org/wiki/Tate_Modern"
+    ]
+   },
+   {
+    "q": "What are good examples of adaptive reuse?",
+    "a": "The Musée d'Orsay in Paris (1986) fills a former railway station. Lina Bo Bardi's SESC Pompéia in São Paulo (1986) keeps a drum factory as a leisure centre. Tate Modern's Turbine Hall became an indoor street, the High Line in New York (2009) is a park on an old elevated railway, and the Elbphilharmonie in Hamburg (2017) sets a glass crown on a brick warehouse.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Mus%C3%A9e_d%27Orsay",
+     "https://en.wikipedia.org/wiki/High_Line",
+     "wall"
+    ]
+   },
+   {
+    "q": "What are the challenges of adaptive reuse?",
+    "a": "The usual hurdles are the existing structure and building codes, so a condition survey decides whether a project works. The design then has to decide what to keep and where a new cut can open the old structure. Zeitz MOCAA in Cape Town (2017) carves a grain silo into an atrium shaped like a single grain of corn, and Peter Zumthor's Kolumba Museum (2007) builds a brick veil over a ruined Gothic church.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Adaptive_reuse",
+     "wall"
+    ]
+   },
+   {
+    "q": "How do architects add new parts to old buildings?",
+    "a": "Compare three approaches. Carlo Scarpa's Castelvecchio Museum in Verona (1975) reworks a medieval castle with precise new joints, cuts and display stands. OMA's Fondazione Prada in Milan (2015) joins former distillery buildings with new galleries and a tower. Zaha Hadid Architects' Port House in Antwerp (2016) hovers a faceted glass extension, shaped like a ship's bow, on concrete piers above an old fire station.",
+    "sources": [
+     "wall"
+    ]
+   }
+  ]
  }
 ]
