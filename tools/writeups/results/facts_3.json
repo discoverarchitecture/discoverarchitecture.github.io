@@ -49,7 +49,7 @@
     "source": "https://en.wikipedia.org/wiki/Sapporo_Dome"
    },
    {
-    "fact": "Opened in 2001 and hosted matches at the 2002 FIFA World Cup.",
+    "fact": "Opened in 2001.",
     "quote": "Sapporo Dome opened in 2001 with 41,580 seats.",
     "source": "https://en.wikipedia.org/wiki/Sapporo_Dome"
    },
@@ -308,6 +308,11 @@
   "thin": false
  },
  {
+  "id": "bankinter-building",
+  "facts": [],
+  "thin": true
+ },
+ {
   "id": "baron-empain-palace",
   "facts": [
    {
@@ -496,6 +501,11 @@
    }
   ],
   "thin": false
+ },
+ {
+  "id": "casa-planells",
+  "facts": [],
+  "thin": true
  },
  {
   "id": "centraal-beheer",
@@ -687,6 +697,16 @@
    }
   ],
   "thin": false
+ },
+ {
+  "id": "teleton-children-s-rehabilitation-centre",
+  "facts": [],
+  "thin": true
+ },
+ {
+  "id": "villa-gans",
+  "facts": [],
+  "thin": true
  },
  {
   "id": "arts-tower-sheffield",
@@ -884,6 +904,16 @@
   "thin": false
  },
  {
+  "id": "delta-shelter",
+  "facts": [],
+  "thin": true
+ },
+ {
+  "id": "diar-es-saada",
+  "facts": [],
+  "thin": true
+ },
+ {
   "id": "edificio-basurto",
   "facts": [
    {
@@ -965,6 +995,11 @@
    }
   ],
   "thin": false
+ },
+ {
+  "id": "bloco-das-aguas-livres",
+  "facts": [],
+  "thin": true
  },
  {
   "id": "new-world-center",
@@ -1297,6 +1332,16 @@
   "thin": false
  },
  {
+  "id": "unidad-vecinal-portales",
+  "facts": [],
+  "thin": true
+ },
+ {
+  "id": "usera-library",
+  "facts": [],
+  "thin": true
+ },
+ {
   "id": "66-portland-place-riba",
   "facts": [
    {
@@ -1351,6 +1396,11 @@
     "source": "https://en.wikipedia.org/wiki/Academy_of_Arts,_Berlin"
    }
   ],
+  "thin": true
+ },
+ {
+  "id": "asahi-group-oyamazaki-villa-museum-of-art",
+  "facts": [],
   "thin": true
  },
  {
@@ -1429,6 +1479,11 @@
    }
   ],
   "thin": false
+ },
+ {
+  "id": "burkina-institute-of-technology",
+  "facts": [],
+  "thin": true
  },
  {
   "id": "church-of-the-autostrada-del-sole",
@@ -2074,6 +2129,89 @@
   "thin": false
  },
  {
+  "id": "acropolis-and-philopappou-hill-paths",
+  "facts": [
+   {
+    "fact": "The formation of the archaeological site around the Acropolis and Philopappou hill is perhaps Dimitris Pikionis's most important work.",
+    "quote": "Among them is the formation of the archaeological site around the Acropolis and Philopappou hill, perhaps his most important work, and the tourist pavilion of St. Demetrios Loubardiaris, seeking its ideal.",
+    "source": "https://en.wikipedia.org/wiki/Dimitris_Pikionis"
+   },
+   {
+    "fact": "Pikionis is revered for the landscaping of pedestrian areas around the Acropolis, done in the 1950s.",
+    "quote": "Although he actually built few buildings, Pikionis is revered for the landscaping work in pedestrian areas around the Acropolis of Athens, a work done in the 1950s.",
+    "source": "https://en.wikipedia.org/wiki/Dimitris_Pikionis"
+   },
+   {
+    "fact": "His works bridge universalism with regionalism; he is often called a founding father of critical regionalism.",
+    "quote": "All of his subsequent architectural works were based on the idea of bridging universalism with regionalism.",
+    "source": "https://en.wikipedia.org/wiki/Dimitris_Pikionis"
+   }
+  ],
+  "thin": true
+ },
+ {
+  "id": "astley-castle",
+  "facts": [
+   {
+    "fact": "A ruinous moated fortified 16th-century manor house in North Warwickshire, Grade II* listed since 1952.",
+    "quote": "Astley Castle is a ruinous moated fortified 16th century manor house in North Warwickshire, England.",
+    "source": "https://en.wikipedia.org/wiki/Astley_Castle"
+   },
+   {
+    "fact": "Reopened as a holiday let in 2012 after renovations that combine modern elements within the mostly Renaissance remains.",
+    "quote": "The building reopened as a holiday let in 2012 after extensive and novel renovations that combine modern elements within the (mostly) renaissance remains.",
+    "source": "https://en.wikipedia.org/wiki/Astley_Castle"
+   },
+   {
+    "fact": "Won the RIBA Stirling Prize in 2013 as an 'exceptional example' of blending an ancient monument with modern architecture.",
+    "quote": "In 2013, Astley Castle won the Royal Institute of British Architects Stirling Prize for architecture, as an \"exceptional example\" of the blending of an ancient monument with modern architecture.",
+    "source": "https://en.wikipedia.org/wiki/Astley_Castle"
+   },
+   {
+    "fact": "Severely damaged by fire in 1978 while a hotel, it stayed derelict and was officially a Building at Risk.",
+    "quote": "It was derelict and neglected since it was severely damaged by fire in 1978 whilst in use as a hotel and was officially a Building at Risk.",
+    "source": "https://en.wikipedia.org/wiki/Astley_Castle"
+   },
+   {
+    "fact": "The Greys rebuilt the manor house in 1555 and most remains date from then or later.",
+    "quote": "The Greys rebuilt the manor house in 1555 and most of the remains date from this time or later.",
+    "source": "https://en.wikipedia.org/wiki/Astley_Castle"
+   },
+   {
+    "fact": "Renovations were carried out by Witherford Watson Mann Architects with engineers Mann Williams and Price & Myers.",
+    "quote": "The renovations were carried out by Witherford Watson Mann Architects and consulting engineers Mann Williams and Price & Myers.",
+    "source": "https://en.wikipedia.org/wiki/Astley_Castle"
+   },
+   {
+    "fact": "Owners, English Heritage, the local authority and the Landmark Trust planned the restoration in the early 2000s.",
+    "quote": "In the early 2000s the owners together with English Heritage, the local authority and the Landmark Trust planned for restorations that were finished in 2012.",
+    "source": "https://en.wikipedia.org/wiki/Astley_Castle"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "bandung-institute-of-technology",
+  "facts": [
+   {
+    "fact": "The university descends from the Technische Hoogeschool te Bandoeng, founded in the Dutch colonial era.",
+    "quote": "Bandung Institute of Technology traces its origin to the Technische Hoogeschool te Bandoeng (THB) which was founded during the Dutch colonial era.",
+    "source": "https://en.wikipedia.org/wiki/Bandung_Institute_of_Technology"
+   },
+   {
+    "fact": "The school building was designed in 1918 by Dutch architect Henri Maclaine Pont, blending Indonesian vernacular architecture with modern elements.",
+    "quote": "The school building was designed in 1918 by a Dutch architect named Henri Maclaine Pont by blending Indonesian vernacular architecture with modern elements.",
+    "source": "https://en.wikipedia.org/wiki/Bandung_Institute_of_Technology"
+   },
+   {
+    "fact": "The school first opened on 3 July 1920.",
+    "quote": "The school first opened its doors on 3 July 1920.",
+    "source": "https://en.wikipedia.org/wiki/Bandung_Institute_of_Technology"
+   }
+  ],
+  "thin": true
+ },
+ {
   "id": "bmw-headquarters",
   "facts": [
    {
@@ -2110,6 +2248,37 @@
   "thin": false
  },
  {
+  "id": "bruder-klaus-field-chapel",
+  "facts": [],
+  "thin": true
+ },
+ {
+  "id": "casals-hall-ochanomizu",
+  "facts": [
+   {
+    "fact": "A concert hall in Ochanomizu, Tokyo, named in honour of cellist Pau Casals.",
+    "quote": "Casals Hall (カザルスホール, Kazarusu Hōru) is a concert hall in Ochanomizu, Tokyo, Japan.",
+    "source": "https://en.wikipedia.org/wiki/Casals_Hall"
+   },
+   {
+    "fact": "Opened in 1987 for chamber music, with a shoebox-style auditorium; Arata Isozaki was the architect with acoustic design by Nagata Acoustics.",
+    "quote": "The hall opened in 1987 as a venue for chamber music and has a shoebox-style auditorium which seats 511.",
+    "source": "https://en.wikipedia.org/wiki/Casals_Hall"
+   },
+   {
+    "fact": "A 41-stop organ by Jürgen Ahrend was installed in 1997.",
+    "quote": "In 1997, for the tenth anniversary celebrations, a 41 stop organ by Jürgen Ahrend was installed.",
+    "source": "https://en.wikipedia.org/wiki/Casals_Hall"
+   },
+   {
+    "fact": "Funding was withdrawn in 2000; the university that bought the building closed the hall in 2010, and a campaign to reopen it followed.",
+    "quote": "The hall had originally been owned and sponsored by publishers Shufunotomo Company (主婦の友社) but economic conditions resulted in the withdrawal of funding in 2000.",
+    "source": "https://en.wikipedia.org/wiki/Casals_Hall"
+   }
+  ],
+  "thin": false
+ },
+ {
   "id": "centro-cultural-sao-paulo",
   "facts": [
    {
@@ -2139,6 +2308,17 @@
    }
   ],
   "thin": false
+ },
+ {
+  "id": "das-gelbe-haus-flims",
+  "facts": [
+   {
+    "fact": "Valerio Olgiati's projects include the Yellow House Museum in Flims.",
+    "quote": "His projects include the School Building in Paspels and the Yellow House Museum in Flims.",
+    "source": "https://en.wikipedia.org/wiki/Valerio_Olgiati"
+   }
+  ],
+  "thin": true
  },
  {
   "id": "dz-bank-building",
@@ -2201,6 +2381,27 @@
    }
   ],
   "thin": false
+ },
+ {
+  "id": "national-museum-of-the-republic",
+  "facts": [
+   {
+    "fact": "In 1956 Niemeyer was invited by President Kubitschek to design the civic buildings of the new capital, Brasília, where the museum stands.",
+    "quote": "In 1956, Niemeyer was invited by Brazil's new president, Juscelino Kubitschek, to design the civic buildings for Brazil's new capital, Brasília.",
+    "source": "https://en.wikipedia.org/wiki/Oscar_Niemeyer"
+   }
+  ],
+  "thin": true
+ },
+ {
+  "id": "termas-geometricas",
+  "facts": [],
+  "thin": true
+ },
+ {
+  "id": "cedar-rock-lowell-walter-house",
+  "facts": [],
+  "thin": true
  },
  {
   "id": "hong-kong-coliseum",
@@ -2311,6 +2512,47 @@
   "thin": false
  },
  {
+  "id": "one-woodward-avenue",
+  "facts": [
+   {
+    "fact": "An office tower in downtown Detroit overlooking Hart Plaza, designed by Minoru Yamasaki in the International style and completed in 1962.",
+    "quote": "One Woodward Avenue (formerly known as the Michigan Consolidated Gas Company Building and American Natural Resources Building) is a 28-story office tower in downtown Detroit, Michigan.",
+    "source": "https://en.wikipedia.org/wiki/One_Woodward_Avenue"
+   },
+   {
+    "fact": "It was Yamasaki's first skyscraper, and he reused elements of its design for the original World Trade Center in New York.",
+    "quote": "Minoru Yamasaki designed the new headquarters for the Michigan Consolidated Gas Company in 1962.",
+    "source": "https://en.wikipedia.org/wiki/One_Woodward_Avenue"
+   },
+   {
+    "fact": "The main structure sits on a raised platform that conceals the loading dock and service entrances.",
+    "quote": "The main structure sits on a raised platform that conceals the loading dock and service entrances.",
+    "source": "https://en.wikipedia.org/wiki/One_Woodward_Avenue"
+   },
+   {
+    "fact": "The two-storey lobby is enclosed by glass panels framed in chrome, with accent panels echoing the hexagonal window frames above.",
+    "quote": "The lobby rises two stories from the base and is enclosed by glass panels framed in chrome.",
+    "source": "https://en.wikipedia.org/wiki/One_Woodward_Avenue"
+   },
+   {
+    "fact": "Recessed lobby walls create a loggia on all four sides.",
+    "quote": "The lobby walls are recessed from the building facade to create a loggia on all four sides of the building.",
+    "source": "https://en.wikipedia.org/wiki/One_Woodward_Avenue"
+   },
+   {
+    "fact": "In the 1980s a pedestrian bridge was added over West Larned Street at the 14th floor.",
+    "quote": "In the 1980s, the building became the American Natural Resources Building when that company was formed as the parent of Michigan Consolidated Gas.",
+    "source": "https://en.wikipedia.org/wiki/One_Woodward_Avenue"
+   },
+   {
+    "fact": "In 2012 Dan Gilbert's Rock Ventures bought the building.",
+    "quote": "In December 2012, Quicken Loans founder Dan Gilbert announced that his company, Rock Ventures, had purchased the building and that Quicken Loans would occupy eight-floors in the structure.",
+    "source": "https://en.wikipedia.org/wiki/One_Woodward_Avenue"
+   }
+  ],
+  "thin": false
+ },
+ {
   "id": "pennzoil-place",
   "facts": [
    {
@@ -2345,6 +2587,11 @@
    }
   ],
   "thin": false
+ },
+ {
+  "id": "st-anna-duren",
+  "facts": [],
+  "thin": true
  },
  {
   "id": "stazione-di-venezia-santa-lucia",
@@ -2388,6 +2635,11 @@
   "thin": false
  },
  {
+  "id": "venezuela-pavilion-venice",
+  "facts": [],
+  "thin": true
+ },
+ {
   "id": "vivocity",
   "facts": [
    {
@@ -2417,6 +2669,11 @@
    }
   ],
   "thin": false
+ },
+ {
+  "id": "yatsushiro-municipal-museum",
+  "facts": [],
+  "thin": true
  },
  {
   "id": "academy-of-arts-pariser-platz",
@@ -2491,6 +2748,42 @@
   "thin": false
  },
  {
+  "id": "antigone-montpellier",
+  "facts": [
+   {
+    "fact": "A neighbourhood of Montpellier, best known for its architectural design by Ricardo Bofill Taller de Arquitectura.",
+    "quote": "Antigone is a neighbourhood of Montpellier, France, east of the city centre.",
+    "source": "https://en.wikipedia.org/wiki/Antigone,_Montpellier"
+   },
+   {
+    "fact": "Built on the grounds of the former Joffre Barracks; Mayor Georges Frêche began the process in 1977.",
+    "quote": "The district is built on the grounds of the former Joffre Barracks, of which only Montpellier's citadel remains.",
+    "source": "https://en.wikipedia.org/wiki/Antigone,_Montpellier"
+   },
+   {
+    "fact": "Bofill designed grand neo-classical structures, enlarging classical motifs such as pediments, entablatures and pilasters to gigantic scale.",
+    "quote": "The district's architect was the Spaniard Ricardo Bofill and his Taller de Arquitectura.",
+    "source": "https://en.wikipedia.org/wiki/Antigone,_Montpellier"
+   },
+   {
+    "fact": "It forms a visual axis with Bofill's Hôtel de la Région across the river Lez, nicknamed the Champs-Élysées of Montpellier.",
+    "quote": "The district is located between the old centre of Montpellier and the river Lez.",
+    "source": "https://en.wikipedia.org/wiki/Antigone,_Montpellier"
+   },
+   {
+    "fact": "Mostly low-income housing, public facilities and local shops.",
+    "quote": "The buildings consist mostly of low-income housing, public facilities and local shops.",
+    "source": "https://en.wikipedia.org/wiki/Antigone,_Montpellier"
+   },
+   {
+    "fact": "Bofill created the master plan and most buildings, so plazas, facades and street furniture are proportionally and thematically related.",
+    "quote": "The architect Ricardo Bofill created the master plan and most of the buildings in Antigone.",
+    "source": "https://en.wikipedia.org/wiki/Antigone,_Montpellier"
+   }
+  ],
+  "thin": false
+ },
+ {
   "id": "aqua-tower",
   "facts": [
    {
@@ -2537,6 +2830,52 @@
   "thin": false
  },
  {
+  "id": "australia-square",
+  "facts": [
+   {
+    "fact": "An office and retail skyscraper in Sydney's central business district.",
+    "quote": "Australia Square Tower is an office and retail skyscraper in the Sydney central business district, Australia.",
+    "source": "https://en.wikipedia.org/wiki/Australia_Square"
+   },
+   {
+    "fact": "Conceived in 1961; the final design by Harry Seidler & Associates dates from 1964 after collaboration with structural engineer Pier Luigi Nervi.",
+    "quote": "The building was first conceived in 1961, and its final design by Harry Seidler & Associates was in 1964 after collaboration with structural engineer Pier Luigi Nervi.",
+    "source": "https://en.wikipedia.org/wiki/Australia_Square"
+   },
+   {
+    "fact": "The tower was the tallest building in Sydney from its completion in 1967 until 1976.",
+    "quote": "The outstanding feature of the square is the Tower Building; from its completion in 1967 until 1976 it was the tallest building in Sydney.",
+    "source": "https://en.wikipedia.org/wiki/Australia_Square"
+   },
+   {
+    "fact": "It was the world's tallest lightweight concrete building when built.",
+    "quote": "It was the world's tallest lightweight concrete building at the time it was built.",
+    "source": "https://en.wikipedia.org/wiki/Australia_Square"
+   },
+   {
+    "fact": "The circular plan and setback from the street helped Seidler minimise the 'dark canyon effect'.",
+    "quote": "The circular plan of the main tower allowed Seidler to minimise what he called \"the dark canyon effect\", an approach further helped by setting the tower back from the street.",
+    "source": "https://en.wikipedia.org/wiki/Australia_Square"
+   },
+   {
+    "fact": "The tower has projecting vertical columns tapering to the summit supporting interlocking ribs and radial beams.",
+    "quote": "The tower is constructed of lightweight concrete, with 20 projecting vertical columns tapering to the summit and supporting a combination of interlocking rib-structured reinforcement and radial support beams.",
+    "source": "https://en.wikipedia.org/wiki/Australia_Square"
+   },
+   {
+    "fact": "The Plaza Building was completed first to generate rental income while the round tower was built.",
+    "quote": "Facing Pitt Street is the 13-storey Plaza Building, a comparatively simple rectangular office building (designed 1961, construction started 1962, completed 1964).",
+    "source": "https://en.wikipedia.org/wiki/Australia_Square"
+   },
+   {
+    "fact": "Refurbished in the mid-1990s and again in 2003, including Italian porphyry paving in public areas.",
+    "quote": "Originally owned by Lendlease, in 1981 it was sold to GPT. It is jointly owned by GPT and Dexus.",
+    "source": "https://en.wikipedia.org/wiki/Australia_Square"
+   }
+  ],
+  "thin": false
+ },
+ {
   "id": "azerbaijan-carpet-museum",
   "facts": [
    {
@@ -2560,6 +2899,11 @@
     "source": "https://en.wikipedia.org/wiki/Azerbaijan_Carpet_Museum"
    }
   ],
+  "thin": true
+ },
+ {
+  "id": "bagno-pubblico-bellinzona",
+  "facts": [],
   "thin": true
  }
 ]
