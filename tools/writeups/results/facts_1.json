@@ -254,7 +254,7 @@
   "id": "eames-house",
   "facts": [
    {
-    "fact": "Charles and Ray Eames built the house in 1949 for themselves, in the mid-century modern style, as Case Study House No. 8.",
+    "fact": "Charles and Ray Eames built the house in 1949 for themselves, in the mid-century modern style.",
     "quote": "Designed in the mid-century modern style, the house was constructed in 1949 by Eames Office designers Charles and Ray Eames for themselves.",
     "source": "https://en.wikipedia.org/wiki/Eames_House"
    },
@@ -368,6 +368,67 @@
     "fact": "Eastgate is described as a forerunner of green building in sub-Saharan Africa and is emulated by London's Portcullis House.",
     "quote": "The construction of Eastgate, Zimbabwe became the \"forerunner in incorporating green building technologies in the sub-Saharan Africa\".",
     "source": "https://en.wikipedia.org/wiki/Eastgate_Centre,_Harare"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "jacobs-ii-house-solar-hemicycle",
+  "facts": [
+   {
+    "fact": "Frank Lloyd Wright designed the house in Madison, Wisconsin, built 1946–1948, for the journalist Herbert Jacobs and his wife Katherine, whose first house he had designed a decade earlier.",
+    "quote": "Designed by Frank Lloyd Wright and built in 1946–1948, the house was designed for the journalist Herbert Jacobs and his wife Katherine, whose first house he had designed a decade earlier.",
+    "source": "https://en.wikipedia.org/wiki/Herbert_and_Katherine_Jacobs_Second_House"
+   },
+   {
+    "fact": "The name Solar Hemicycle comes from the house's semicircular-arc floor plan, its use of natural materials and its energy-saving orientation.",
+    "quote": "The Solar Hemicycle name is derived from the house's semicircular-arc floor plan, its use of natural materials, and its energy-saving orientation.",
+    "source": "https://en.wikipedia.org/wiki/Herbert_and_Katherine_Jacobs_Second_House"
+   },
+   {
+    "fact": "After the Jacobses rejected his first design, Wright proposed the Solar Hemicycle, partly embedded in an earthen berm.",
+    "quote": "After they rejected his first design, Wright proposed the Solar Hemicycle, which was partially embedded into an earthen berm.",
+    "source": "https://en.wikipedia.org/wiki/Herbert_and_Katherine_Jacobs_Second_House"
+   },
+   {
+    "fact": "The Jacobses built much of the house themselves because of contractor delays and a misunderstanding that prompted Wright to resign.",
+    "quote": "The Jacobses ended up constructing much of the house themselves because of contractor delays and a misunderstanding that prompted Wright to resign.",
+    "source": "https://en.wikipedia.org/wiki/Herbert_and_Katherine_Jacobs_Second_House"
+   },
+   {
+    "fact": "The north side is partly built into a berm with a circular stone-faced stair tower, while the south side is a curved glass wall facing a sunken garden.",
+    "quote": "The northern elevation of the house's facade is partially built into a berm, with a circular, stone-faced staircase tower protruding from it. On the southern elevation is a curved glass wall, which faces a sunken garden surrounded by a stone terrace.",
+    "source": "https://en.wikipedia.org/wiki/Herbert_and_Katherine_Jacobs_Second_House"
+   },
+   {
+    "fact": "The house is entered through a tunnel that passes through the berm.",
+    "quote": "The house is topped by a flat roof with overhanging eaves, and it is accessed by a tunnel that travels through the berm.",
+    "source": "https://en.wikipedia.org/wiki/Herbert_and_Katherine_Jacobs_Second_House"
+   },
+   {
+    "fact": "A narrow band of clerestory windows just above the berm lets light and air into the rear of the house and provides ventilation in summer.",
+    "quote": "There is a narrow band of clerestory windows just above the berm, allowing light and air to enter the rear of the house and providing ventilation during the summer.",
+    "source": "https://en.wikipedia.org/wiki/Herbert_and_Katherine_Jacobs_Second_House"
+   },
+   {
+    "fact": "The exterior stonework is limestone slabs laid horizontally, alternating protruding and recessed stones to give the impression of natural outcrops.",
+    "quote": "The exterior stonework consists of limestone slabs, which are laid horizontally, with alternating protruding and recessed stones to give the impression of natural outcrops.",
+    "source": "https://en.wikipedia.org/wiki/Herbert_and_Katherine_Jacobs_Second_House"
+   },
+   {
+    "fact": "The second floor is suspended from the ceiling and holds three bedrooms and a bathroom.",
+    "quote": "Suspended from the ceiling is the second floor, which contains three bedrooms and a bathroom.",
+    "source": "https://en.wikipedia.org/wiki/Herbert_and_Katherine_Jacobs_Second_House"
+   },
+   {
+    "fact": "It was added to the National Register of Historic Places in 1974 and declared a National Historic Landmark in 2003.",
+    "quote": "The house was added to the National Register of Historic Places in 1974 and declared a National Historic Landmark in 2003.",
+    "source": "https://en.wikipedia.org/wiki/Herbert_and_Katherine_Jacobs_Second_House"
+   },
+   {
+    "fact": "Wright went on to design other houses with circular motifs, in Florida, Maryland, Michigan and Virginia.",
+    "quote": "Wright went on to design other houses with circular design motifs, including in Florida, Maryland, Michigan, and Virginia.",
+    "source": "https://en.wikipedia.org/wiki/Herbert_and_Katherine_Jacobs_Second_House"
    }
   ],
   "thin": false
@@ -588,6 +649,140 @@
   "thin": false
  },
  {
+  "id": "solar-do-unhao",
+  "facts": [
+   {
+    "fact": "Solar do Unhão is Salvador's main cultural center.",
+    "quote": "Solar do Unhão is Salvador's main cultural center.",
+    "source": "https://en.wikipedia.org/wiki/Lina_Bo_Bardi"
+   },
+   {
+    "fact": "Lina Bo Bardi was invited by the governor of Bahia to direct a new art museum in the North East of Brazil.",
+    "quote": "It was founded by Lina Bo Bardi after an invitation by the governor of Bahia to direct a new art museum in the North East of Brazil.",
+    "source": "https://en.wikipedia.org/wiki/Lina_Bo_Bardi"
+   },
+   {
+    "fact": "Solar do Unhão used to be a sugar mill, named after the 17th-century Brazilian high court judge Pedro Unhão Castelo Branco.",
+    "quote": "Solar do Unhão used to be a sugar mill and was named after the 17th-century Brazilian high court judge, Pedro Unhão Castelo Branco.",
+    "source": "https://en.wikipedia.org/wiki/Lina_Bo_Bardi"
+   },
+   {
+    "fact": "Bo Bardi was commissioned to restore the sugar mill into a museum of modern art, in construction from 1959 to 1963.",
+    "quote": "Bo Bardi was commissioned to restore the sugar mill into a museum of modern art. The construction lasted from 1959–1963.",
+    "source": "https://en.wikipedia.org/wiki/Lina_Bo_Bardi"
+   },
+   {
+    "fact": "Her goal was to restore existing buildings in ways that neither pandered to nostalgia nor ignored context: she left the colonial exterior intact and added a modern staircase.",
+    "quote": "Her goal was to restore extant buildings in ways that neither pandered to nostalgia nor ignored context. To do this, she left the colonial exterior intact and added the modern staircase.",
+    "source": "https://en.wikipedia.org/wiki/Lina_Bo_Bardi"
+   },
+   {
+    "fact": "She wanted the museum to show primitive art from the North East of Brazil and the practical nature of its designs.",
+    "quote": "Bo Bardi wanted this museum to show primitive art from the North East of Brazil, as well as the practical nature of their designs.",
+    "source": "https://en.wikipedia.org/wiki/Lina_Bo_Bardi"
+   },
+   {
+    "fact": "The museum reflects her belief that a museum should be an active site of knowledge and not a mausoleum of the past; it held classes for locals.",
+    "quote": "Solar do Unhão reflects Bo Bardi's belief that a museum should also be a place for education. When the museum was first built it held many classes that educated the locals in art and history. Bo Bardi believed that a museum should not be a mausoleum of the past and should instead be an active site of knowledge.",
+    "source": "https://en.wikipedia.org/wiki/Lina_Bo_Bardi"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "gando-primary-school",
+  "facts": [
+   {
+    "fact": "Kéré's primary school, the first for Gando, was completed in 2001.",
+    "quote": "Kéré's primary school, the first for Gando, was completed in 2001.",
+    "source": "https://en.wikipedia.org/wiki/Diébédo_Francis_Kéré"
+   },
+   {
+    "fact": "The association Schulbausteine für Gando (now the Kéré Foundation), 'Building Blocks for Gando', was set up to fund the construction of a primary school for his village.",
+    "quote": "(now Kéré Foundation), which loosely translates as \"Building Blocks for Gando\", to fund the construction of a primary school for his village.",
+    "source": "https://en.wikipedia.org/wiki/Diébédo_Francis_Kéré"
+   },
+   {
+    "fact": "School buildings in Burkina Faso are routinely concrete, which is expensive and ill-suited to the climate because the interior becomes intolerably hot; Kéré chose locally available earth in the form of mud bricks.",
+    "quote": "Schools in Burkina Faso are routinely built out of concrete, an expensive and energy consumptive material to produce, ill-suited to the local climate, as the interior becomes intolerably hot. Kéré wanted to use locally available resources and chose to build with earth in the form of mud bricks.",
+    "source": "https://en.wikipedia.org/wiki/Diébédo_Francis_Kéré"
+   },
+   {
+    "fact": "A wide, raised tin roof protects the walls from rain and lets air circulate underneath to cool the building.",
+    "quote": "Kéré's innovative design consisted of a wide, raised tin roof to protect the walls from rain, and allow air to circulate underneath for building cooling.",
+    "source": "https://en.wikipedia.org/wiki/Diébédo_Francis_Kéré"
+   },
+   {
+    "fact": "Kéré drew plans in the sand to communicate with villagers, many of whom were illiterate, and they engaged fully with the project.",
+    "quote": "Kéré drew preliminary building plans in the sand to communicate with villagers, many of whom were illiterate, and found they fully engaged with the project, with many generating their own suggestions for improvement.",
+    "source": "https://en.wikipedia.org/wiki/Diébédo_Francis_Kéré"
+   },
+   {
+    "fact": "The aim was to combine knowledge gained in Europe with traditional building methods from Burkina Faso.",
+    "quote": "His objective was to combine the knowledge he had gained in Europe, with traditional building methods from Burkina Faso.",
+    "source": "https://en.wikipedia.org/wiki/Diébédo_Francis_Kéré"
+   },
+   {
+    "fact": "The Aga Khan Award for Architecture (2004) was given for the Gando Primary School, his first building.",
+    "quote": "His architectural practice has been recognized internationally with awards including the Aga Khan Award for Architecture (2004) for his first building, the Gando Primary School in Burkina Faso, and the Global Holcim Award for Sustainable Construction (2012 Gold).",
+    "source": "https://en.wikipedia.org/wiki/Diébédo_Francis_Kéré"
+   },
+   {
+    "fact": "A 2012 addition containing a library has dozens of bottomless clay pots set into the roof to let light into the reading room, made by locals.",
+    "quote": "A later addition to the primary school, completed by Kéré in 2012, contains a public library. As in the original building, locals took part in the construction, producing dozens of bottomless clay pots which are set into the roof to allow light into the library's reading room.",
+    "source": "https://en.wikipedia.org/wiki/Diébédo_Francis_Kéré"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "cdg-terminal-1",
+  "facts": [
+   {
+    "fact": "Terminal 1 is the oldest of the three terminals at Charles de Gaulle Airport.",
+    "quote": "Charles de Gaulle Airport has three terminals: Terminal 1 is the oldest and situated opposite to Terminal 3; Terminal 2 is located at another side with 7 sub-terminal buildings (2A to 2G).",
+    "source": "https://en.wikipedia.org/wiki/Paris_Charles_de_Gaulle_Airport"
+   },
+   {
+    "fact": "A 2023 refurbishment added a junction building linking satellites 1, 2 and 3, and design details pay homage to the circular shape of Andreu's original design.",
+    "quote": "ADP used this time for a €250 million refurbishment. Completed in 2023, the refurbishment included the creation of a new junction building linking satellites 1, 2 and 3, and modernisation of the central body of the terminal. Various design details in the refurbished terminal pay homage to the circular shape of the original Andreu design.",
+    "source": "https://en.wikipedia.org/wiki/Paris_Charles_de_Gaulle_Airport"
+   },
+   {
+    "fact": "Terminal 2, unlike Terminal 1, was designed with a traditional linear layout.",
+    "quote": "Unlike Terminal 1, Terminal 2 was designed with a traditional linear layout, but has evolved over time into a series of distinct terminals, designated as 2A through to 2G.",
+    "source": "https://en.wikipedia.org/wiki/Paris_Charles_de_Gaulle_Airport"
+   },
+   {
+    "fact": "Paul Andreu was in charge of planning and constructing Charles de Gaulle Airport from 1967.",
+    "quote": "He was in charge of planning and constructing Charles de Gaulle Airport (Roissy) in Paris from 1967 on.",
+    "source": "https://en.wikipedia.org/wiki/Paul_Andreu"
+   }
+  ],
+  "thin": true
+ },
+ {
+  "id": "rabindra-bhavan-delhi",
+  "facts": [
+   {
+    "fact": "In the early 1960s Habib Rahman was commissioned to design the Rabindra Bhavan, which would house the Lalit Kala, Sangeet Natak and Sahitya academies.",
+    "quote": "In the early 1960s, he was commissioned to design the Rabindra Bhavan, which would house the Lalit Kala, Sangeet Natak and Sahitya academies.",
+    "source": "https://en.wikipedia.org/wiki/Habib_Rahman_(architect)"
+   },
+   {
+    "fact": "Rahman moved to Delhi in 1953 to work for the central government and designed various public buildings, including the Rabindra Bhavan.",
+    "quote": "In 1953, Rahman moved to Delhi to work for the central government, and designed various public buildings, including the National Zoological Park, and the Rabindra Bhavan.",
+    "source": "https://en.wikipedia.org/wiki/Habib_Rahman_(architect)"
+   },
+   {
+    "fact": "Sources date the design to 1961 (or 1963).",
+    "quote": "He designed the Rabindra Bhavan in 1961 (or 1963), the World Health Organization in Delhi in 1962 (demolished in July 2019), the Sardar Patel Bhawan in 1973 (opposite to the Dak Bhawan).",
+    "source": "https://en.wikipedia.org/wiki/Habib_Rahman_(architect)"
+   }
+  ],
+  "thin": true
+ },
+ {
   "id": "salk-institute",
   "facts": [
    {
@@ -749,6 +944,22 @@
    }
   ],
   "thin": false
+ },
+ {
+  "id": "ecole-de-plein-air-suresnes",
+  "facts": [
+   {
+    "fact": "Eugène Beaudouin and Marcel Lods built the school at Mont Valérien between 1932 and 1935, as a distinguished example of the open-air school.",
+    "quote": "A distinguished example is the École de plein air de Suresnes not far from Paris, which was built by Eugène Beaudouin and Marcel Lods at Mont Valérien between 1932 and 1935.",
+    "source": "https://en.wikipedia.org/wiki/Open_air_school"
+   },
+   {
+    "fact": "Advanced open-air schools were built on the traditional 'pavilion plan', also used for sanatoria, with long window-lined hallways like hospital architecture.",
+    "quote": "The architecture of some more advanced open air schools in Britain and Europe was built on the traditional 'pavilion plan' which was also used for sanatoria, with a similar internal layout to that used in hospital architecture, with long window-lined hallways.",
+    "source": "https://en.wikipedia.org/wiki/Open_air_school"
+   }
+  ],
+  "thin": true
  },
  {
   "id": "michael-lee-chin-crystal",
@@ -976,6 +1187,57 @@
   "thin": false
  },
  {
+  "id": "30-rockefeller-plaza",
+  "facts": [
+   {
+    "fact": "30 Rockefeller Plaza is the centrepiece skyscraper of Rockefeller Center in Manhattan, completed in 1933 in the Art Deco style by Raymond Hood, the complex's lead architect.",
+    "quote": "Completed in 1933, the 66-story, 850-foot-tall (10,200 in; 260 m) building was designed in the Art Deco style by Raymond Hood, Rockefeller Center's lead architect.",
+    "source": "https://en.wikipedia.org/wiki/30_Rockefeller_Plaza"
+   },
+   {
+    "fact": "The massing is in three parts: the main tower to the east, a windowless section at the centre and a shorter annex to the west.",
+    "quote": "30 Rockefeller Plaza's massing consists of three parts: the main 66-story tower to the east, a windowless section at the center, and a 16-story annex to the west.",
+    "source": "https://en.wikipedia.org/wiki/30_Rockefeller_Plaza"
+   },
+   {
+    "fact": "The design conforms to the 1916 Zoning Resolution, shaped mostly as a slab with setbacks primarily for aesthetic value.",
+    "quote": "The building's design conforms with the 1916 Zoning Resolution; it is shaped mostly as a slab with setbacks primarily for aesthetic value.",
+    "source": "https://en.wikipedia.org/wiki/30_Rockefeller_Plaza"
+   },
+   {
+    "fact": "The facade is limestone with granite at the base, with about 6,000 windows separated by aluminium spandrels.",
+    "quote": "The facade is made of limestone, with granite at the base, as well as about 6,000 windows separated by aluminum spandrels.",
+    "source": "https://en.wikipedia.org/wiki/30_Rockefeller_Plaza"
+   },
+   {
+    "fact": "The windowless centre section housed NBC's studios.",
+    "quote": "At the middle of the site was a windowless nine-story section, which housed NBC's studios.",
+    "source": "https://en.wikipedia.org/wiki/30_Rockefeller_Plaza"
+   },
+   {
+    "fact": "The lobby's main entrance has bronze-and-glass doors beneath a cast-glass wall designed by Lee Lawrie.",
+    "quote": "The lobby's main entrance is from Rockefeller Plaza to the east, with revolving and double-leaf bronze-and-glass doors underneath a paneled bronze screen. The doors are topped by a cast-glass wall designed by Lee Lawrie, which measures 15 feet (4.6 m) high by 55 feet (17 m) wide.",
+    "source": "https://en.wikipedia.org/wiki/30_Rockefeller_Plaza"
+   },
+   {
+    "fact": "The Council on Tall Buildings and Urban Habitat said its massing 'marked the emergence of a new form of the skyscraper', the slab-like form.",
+    "quote": "According to the Council on Tall Buildings and Urban Habitat, the RCA Building's massing \"marked the emergence of a new form of the skyscraper\", namely the slab-like form.",
+    "source": "https://en.wikipedia.org/wiki/30_Rockefeller_Plaza"
+   },
+   {
+    "fact": "Critic Paul Goldberger wrote that its form was 'made sumptuous by its mounting setbacks'.",
+    "quote": "Goldberger wrote that the RCA Building's form was \"made sumptuous by its mounting setbacks\"",
+    "source": "https://en.wikipedia.org/wiki/30_Rockefeller_Plaza"
+   },
+   {
+    "fact": "The observation deck, now Top of the Rock, was originally decorated in the style of an ocean liner.",
+    "quote": "The deck originally had dimensions of 190 by 21 feet (57.9 by 6.4 m) and was decorated in the style of an ocean liner, with furnishings such as slatted chairs.",
+    "source": "https://en.wikipedia.org/wiki/30_Rockefeller_Plaza"
+   }
+  ],
+  "thin": false
+ },
+ {
   "id": "louvre-lens",
   "facts": [
    {
@@ -1135,6 +1397,32 @@
   "thin": false
  },
  {
+  "id": "museum-frieder-burda",
+  "facts": [
+   {
+    "fact": "Frieder Burda opened the museum in Baden-Baden in 2004, in a building designed by Richard Meier.",
+    "quote": "In 2004, he opened Museum Frieder Burda in Baden-Baden, in a €20 million building designed by architect Richard Meier.",
+    "source": "https://en.wikipedia.org/wiki/Frieder_Burda"
+   },
+   {
+    "fact": "The two-storey glass and aluminium building sits at the edge of the town's main park and is connected by a glass-sheathed bridge to the existing Staatliche Kunsthalle Baden-Baden.",
+    "quote": "The two-story glass and aluminum building itself is set on the edge of the main park in the town connected by a glass-sheathed bridge to the existing small Baden-Baden art museum, the Staatliche Kunsthalle Baden-Baden.",
+    "source": "https://en.wikipedia.org/wiki/Frieder_Burda"
+   },
+   {
+    "fact": "Meier's building won the American Institute of Architects Honor Award for Architecture in 2006.",
+    "quote": "A stand of enormous trees, including historic oaks and a blood beech, tower over the buildings. Meier's building won the American Institute of Architects Honor Award for Architecture in 2006.",
+    "source": "https://en.wikipedia.org/wiki/Frieder_Burda"
+   },
+   {
+    "fact": "Burda had first planned a museum near Mougins, France, where he had a house.",
+    "quote": "Burda initially planned to build a museum near Mougins, France, where he had a house.",
+    "source": "https://en.wikipedia.org/wiki/Frieder_Burda"
+   }
+  ],
+  "thin": false
+ },
+ {
   "id": "cite-de-la-musique",
   "facts": [
    {
@@ -1190,6 +1478,32 @@
    }
   ],
   "thin": true
+ },
+ {
+  "id": "casa-ogorman-1929",
+  "facts": [
+   {
+    "fact": "In 1929 Juan O'Gorman bought a plot with two tennis courts in San Ángel, Mexico City.",
+    "quote": "In 1929, O'Gorman purchased a plot containing two tennis courts in Mexico City's San Ángel colonia.",
+    "source": "https://en.wikipedia.org/wiki/Juan_O'Gorman"
+   },
+   {
+    "fact": "On it he built a small house and studio intended for his father, now known as the Cecil O'Gorman House.",
+    "quote": "On the plot, O'Gorman constructed a small house and studio intended for use by his father, now known as the Cecil O'Gorman House.",
+    "source": "https://en.wikipedia.org/wiki/Juan_O'Gorman"
+   },
+   {
+    "fact": "O'Gorman called it the first functionalist structure in Latin America.",
+    "quote": "O'Gorman dubbed the house the first functionalist structure in Latin America.",
+    "source": "https://en.wikipedia.org/wiki/Juan_O'Gorman"
+   },
+   {
+    "fact": "Diego Rivera was impressed by the design and commissioned O'Gorman to design a home for him and Frida Kahlo on an adjacent plot.",
+    "quote": "Diego Rivera, a contemporary of O'Gorman, impressed with the design of the Cecil O'Gorman House, commissioned the architect to design a home for him and Frida Kahlo on an adjacent plot (O'Gorman and Kahlo had been friends since high school in Coyoacan).",
+    "source": "https://en.wikipedia.org/wiki/Juan_O'Gorman"
+   }
+  ],
+  "thin": false
  },
  {
   "id": "state-trading-corporation-building",
@@ -1607,6 +1921,17 @@
   "thin": false
  },
  {
+  "id": "naoshima-ferry-terminal",
+  "facts": [
+   {
+    "fact": "SANAA, the Japanese architects Kazuyo Sejima and Ryue Nishizawa, designed a ferry terminal building for Naoshima, unveiled in 2006.",
+    "quote": "SANAA, consisting of Japanese architects Kazuyo Sejima and Ryue Nishizawa, previously designed a ferry terminal building for Naoshima which was unveiled in 2006.",
+    "source": "https://en.wikipedia.org/wiki/Naoshima_Port_Terminal"
+   }
+  ],
+  "thin": true
+ },
+ {
   "id": "robarts-library",
   "facts": [
    {
@@ -1801,6 +2126,37 @@
   "thin": false
  },
  {
+  "id": "supreme-court-of-pakistan",
+  "facts": [
+   {
+    "fact": "Japanese architect Kenzo Tange designed the Supreme Court Building in a modernist style complementing the Parliament Building.",
+    "quote": "The Supreme Court Building is designed by the renowned Japanese architect, Kenzo Tange, in a modernist style complementing the Parliament Building.",
+    "source": "https://en.wikipedia.org/wiki/Supreme_Court_of_Pakistan"
+   },
+   {
+    "fact": "It stands on Constitution Avenue in Islamabad, flanked by the Prime Minister's Office to the south and the Presidential Palace and Parliament Building to the north.",
+    "quote": "The Supreme Court Building is located at the Constitution Avenue in Islamabad, flanked by the Prime Minister's Office to the south, the Presidential Palace and the Parliament Building to the north.",
+    "source": "https://en.wikipedia.org/wiki/Supreme_Court_of_Pakistan"
+   },
+   {
+    "fact": "Engineering and infrastructure were supervised by the CDA throughout a lengthy construction that began in the 1960s.",
+    "quote": "The CDA Engineering and the Environmental Protection Agency supervised the engineering the Supreme Court's monument and civil works infrastructure throughout its lengthy construction since the 1960s.",
+    "source": "https://en.wikipedia.org/wiki/Supreme_Court_of_Pakistan"
+   },
+   {
+    "fact": "The court complex has a Main Central Block, a Judges' Chambers block and an Administrative Block.",
+    "quote": "The Court Complex is comprised on Main Central Block, Judges Chamber's block, and Administrative Block, covering 339,861sq. ft2.",
+    "source": "https://en.wikipedia.org/wiki/Supreme_Court_of_Pakistan"
+   },
+   {
+    "fact": "The judges' chambers are a separate building with the law library, meeting spaces and a lecture auditorium; the library is in the basement.",
+    "quote": "The Court complex judges' chambers, a separate building consisting of the law library, various meeting spaces, and auxiliary services including a lecture auditorium.",
+    "source": "https://en.wikipedia.org/wiki/Supreme_Court_of_Pakistan"
+   }
+  ],
+  "thin": false
+ },
+ {
   "id": "e-1027",
   "facts": [
    {
@@ -1845,6 +2201,27 @@
    }
   ],
   "thin": false
+ },
+ {
+  "id": "gartenstadt-falkenberg",
+  "facts": [
+   {
+    "fact": "Taut's first large project came in 1913 and showed his commitment to the Garden City movement, as in his design for the Falkenberg Estate.",
+    "quote": "Taut's first large projects came in 1913.",
+    "source": "https://en.wikipedia.org/wiki/Bruno_Taut"
+   },
+   {
+    "fact": "He applied lively, clashing colours to the 1912 Gartenstadt Falkenberg housing estate in Berlin, which became known as the 'Paint Box Estates'.",
+    "quote": "As in Magdeburg, he applied lively, clashing colours to his first major commission, the 1912 Gartenstadt Falkenberg housing estate in Berlin, which became known as the \"Paint Box Estates\".",
+    "source": "https://en.wikipedia.org/wiki/Bruno_Taut"
+   },
+   {
+    "fact": "Taut was distinguished among European modernists by his devotion to colour.",
+    "quote": "A lifelong painter, Taut was distinguished from his European modernist contemporaries by his devotion to colour.",
+    "source": "https://en.wikipedia.org/wiki/Bruno_Taut"
+   }
+  ],
+  "thin": true
  },
  {
   "id": "queen-elizabeth-hall",
@@ -1939,6 +2316,57 @@
     "fact": "The cost was subsidised partly by barter with two sponsoring companies; Chem Seal supplied experimental coatings and resins and inspired the name, though Lautner originally wanted to call it Chapiteau.",
     "quote": "The cost to build Chemosphere, $140,000 (equivalent to $1.52 million in 2025), was subsidized partly by barter with two sponsoring companies, the Southern California Gas Company and the Chem Seal Corporation. Chem Seal provided the experimental coatings and resins to put the house together and inspired the name Chemosphere. (Lautner originally wanted to call the house Chapiteau.",
     "source": "https://en.wikipedia.org/wiki/Chemosphere"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "depot-boijmans-van-beuningen",
+  "facts": [
+   {
+    "fact": "It is the first publicly accessible art depot in the world, popularly called 'The Pot'.",
+    "quote": "Depot Boijmans Van Beuningen (initially called 'het Collectiegebouw' (Collection Building), popularly called 'The Pot') is an art depot of Museum Boijmans Van Beuningen in Rotterdam.",
+    "source": "https://en.wikipedia.org/wiki/Depot_Museum_Boijmans_Van_Beuningen"
+   },
+   {
+    "fact": "MVRDV, a Dutch architectural firm, designed it.",
+    "quote": "Depot Boijmans Van Beuningen was designed by the Dutch architectural firm MVRDV.",
+    "source": "https://en.wikipedia.org/wiki/Depot_Museum_Boijmans_Van_Beuningen"
+   },
+   {
+    "fact": "The bowl-shaped building is covered with reflective plates that create a reduced mirror image of the surroundings.",
+    "quote": "The building is a 39.5 meter high, bowl-shaped building that is covered with reflective plates. The plates are more or less contiguous, creating a reduced mirror image of the surrounding environment.",
+    "source": "https://en.wikipedia.org/wiki/Depot_Museum_Boijmans_Van_Beuningen"
+   },
+   {
+    "fact": "Some plates on the side facing the neighbouring hospital are matt for patient privacy, and rooms needing daylight have normal glass.",
+    "quote": "To guarantee the privacy of patients of the adjacent Erasmus MC, a number of plates have been made matt on that side.",
+    "source": "https://en.wikipedia.org/wiki/Depot_Museum_Boijmans_Van_Beuningen"
+   },
+   {
+    "fact": "An aluminium-coloured IKEA bowl served as inspiration for the shape.",
+    "quote": "An aluminum-coloured IKEA bowl served as inspiration for the shape of the building.",
+    "source": "https://en.wikipedia.org/wiki/Depot_Museum_Boijmans_Van_Beuningen"
+   },
+   {
+    "fact": "Severe flooding in the previous below-sea-level storage in 2013 gave impetus to an open depot, so the public could see art not shown in the main museum.",
+    "quote": "In 2013, there was severe flooding in the previous museum storage space.",
+    "source": "https://en.wikipedia.org/wiki/Depot_Museum_Boijmans_Van_Beuningen"
+   },
+   {
+    "fact": "Objects are arranged in storage compartments with five different climates, each for material needing different conditions.",
+    "quote": "More than 151,000 objects are housed together, arranged in fourteen storage compartments with five different climates.",
+    "source": "https://en.wikipedia.org/wiki/Depot_Museum_Boijmans_Van_Beuningen"
+   },
+   {
+    "fact": "The building has seven floors, with a restaurant on the roof.",
+    "quote": "The first pile went into the ground on March 17, 2017.",
+    "source": "https://en.wikipedia.org/wiki/Depot_Museum_Boijmans_Van_Beuningen"
+   },
+   {
+    "fact": "It was officially opened on 5 November 2021.",
+    "quote": "It was officially opened to the public in a ceremony with King Willem-Alexander on November 5, 2021.",
+    "source": "https://en.wikipedia.org/wiki/Depot_Museum_Boijmans_Van_Beuningen"
    }
   ],
   "thin": false
