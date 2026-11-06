@@ -2254,5 +2254,936 @@
    }
   ],
   "thin": false
+ },
+ {
+  "id": "cgac-santiago",
+  "facts": [
+   {
+    "fact": "Portuguese architect Álvaro Siza designed it.",
+    "quote": "It was designed by the Portuguese architect Álvaro Siza Vieira (Matosinhos, 1933).",
+    "source": "https://en.wikipedia.org/wiki/Centro_Galego_de_Arte_Contempor%C3%A1nea"
+   },
+   {
+    "fact": "Santiago is the only city outside Portugal with two Siza works; the other is the Faculty of Journalism.",
+    "quote": "This is the only city outside Portugal that has two works by this architect, the other being the Faculty of Journalism, at the University of Santiago de Compostela.",
+    "source": "https://en.wikipedia.org/wiki/Centro_Galego_de_Arte_Contempor%C3%A1nea"
+   },
+   {
+    "fact": "The building began to take shape in 1988; it was presented in 1992 and built in 1993–94.",
+    "quote": "The building began to take shape in 1988, the project being presented in 1992 and construction being completed between 1993 and 1994.",
+    "source": "https://en.wikipedia.org/wiki/Centro_Galego_de_Arte_Contempor%C3%A1nea"
+   },
+   {
+    "fact": "Three floors hold an entrance porch, auditorium, café, library, offices and exhibition halls.",
+    "quote": "The structure has three floors that include an entrance porch, auditorium, coffee shop, library, administrative offices and exhibition halls.",
+    "source": "https://en.wikipedia.org/wiki/Centro_Galego_de_Arte_Contempor%C3%A1nea"
+   },
+   {
+    "fact": "The accessible terrace looks over the old quarter's roofs and the Convent of San Domingos de Bonaval.",
+    "quote": "The terrace is accessible and provides a view of the roofs of the old quarter of the city and the Convent of San Domingos de Bonaval.",
+    "source": "https://en.wikipedia.org/wiki/Centro_Galego_de_Arte_Contempor%C3%A1nea"
+   },
+   {
+    "fact": "The centre was established in 1993 with an exhibition by Maruja Mallo.",
+    "quote": "It was established in 1993, with an anthological exhibition by Maruja Mallo, and has had a stable program since the end of 1994, starting with Itínere. Camiño e camiñantes exhibition.",
+    "source": "https://en.wikipedia.org/wiki/Centro_Galego_de_Arte_Contempor%C3%A1nea"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "chiesa-madre-di-gibellina",
+  "facts": [],
+  "thin": true
+ },
+ {
+  "id": "church-of-san-giovanni-battista",
+  "facts": [
+   {
+    "fact": "It was built in 1994–96 on the site of a 1636 church levelled by an avalanche in 1986.",
+    "quote": "It was built between 1994 and 1996 on the site of an older church (from 1636), which was levelled by an avalanche in 1986.",
+    "source": "https://en.wikipedia.org/wiki/Church_of_San_Giovanni_Battista%2C_Mogno"
+   },
+   {
+    "fact": "Mario Botta designed it using marble and granite from local valleys.",
+    "quote": "The new church was designed by the Swiss architect Mario Botta who used marble and granite from the valleys of the area.",
+    "source": "https://en.wikipedia.org/wiki/Church_of_San_Giovanni_Battista%2C_Mogno"
+   },
+   {
+    "fact": "It has an elliptical plan with an inclined circular glass surface as a roof.",
+    "quote": "The church has a structure with an elliptical plan, with an inclined circular glass surface that serves as a roof.",
+    "source": "https://en.wikipedia.org/wiki/Church_of_San_Giovanni_Battista%2C_Mogno"
+   },
+   {
+    "fact": "The rampant arch symbolizes the old church's arch that protected part of the village from the avalanche.",
+    "quote": "With respect to a longitudinal plane it can be noted that the most significant element is the rampant arch, which, according to the will of the designer, symbolizes the arch of the ancient church that protected part of the village of Mogno from the avalanche of April 25, 1986 that completely overwhelmed and destroyed the old church.",
+    "source": "https://en.wikipedia.org/wiki/Church_of_San_Giovanni_Battista%2C_Mogno"
+   },
+   {
+    "fact": "The two 1746 bells are the only elements recovered after the avalanche.",
+    "quote": "The two bells, dated back to 1746, are the only elements recovered after the avalanche.",
+    "source": "https://en.wikipedia.org/wiki/Church_of_San_Giovanni_Battista%2C_Mogno"
+   },
+   {
+    "fact": "The interior is very simple: two rows of wooden benches and a white marble altar of two blocks.",
+    "quote": "The interior set-up is very simple: it consists exclusively of two rows of wooden benches arranged in axis with respect to the altar: the altar, of white marble, consists exclusively of two blocks.",
+    "source": "https://en.wikipedia.org/wiki/Church_of_San_Giovanni_Battista%2C_Mogno"
+   },
+   {
+    "fact": "Materials are gneiss from Riveo, white marble from Peccia valley, and an iron and glass roof.",
+    "quote": "The construction materials are: the gneiss (such as Beola) coming from Riveo quarries, the white marble of Peccia valley, iron for the supporting structure of the roof, and glass for the roof.",
+    "source": "https://en.wikipedia.org/wiki/Church_of_San_Giovanni_Battista%2C_Mogno"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "cinematheque-francaise",
+  "facts": [
+   {
+    "fact": "The organisation's new site at 51 rue de Bercy opened to the public on 28 September 2005.",
+    "quote": "On February 28, 2005, the halls of the Palais de Chaillot and the Grands Boulevards were closed and the new site of the Cinémathèque française, at 51 rue de Bercy, opened to the public on September 28.",
+    "source": "https://en.wikipedia.org/wiki/Cin%C3%A9math%C3%A8que_fran%C3%A7aise"
+   },
+   {
+    "fact": "It is based in Paris's 12th arrondissement.",
+    "quote": "Based in Paris' 12th arrondissement, the archive offers daily screenings of films from around the world.",
+    "source": "https://en.wikipedia.org/wiki/Cin%C3%A9math%C3%A8que_fran%C3%A7aise"
+   }
+  ],
+  "thin": true
+ },
+ {
+  "id": "coonley-house-riverside",
+  "facts": [
+   {
+    "fact": "Frank Lloyd Wright designed the Prairie-style house in 1908–1909.",
+    "quote": "Constructed in 1908–1909, it was designed by Frank Lloyd Wright in the Prairie style.",
+    "source": "https://en.wikipedia.org/wiki/Avery_Coonley_House"
+   },
+   {
+    "fact": "The estate has a carriage house and gardener's cottage also designed by Wright.",
+    "quote": "It is part of the 10-acre (4.0 ha) Coonley Estate, which has two additional buildings designed by Wright: a carriage house and a gardener's cottage.",
+    "source": "https://en.wikipedia.org/wiki/Avery_Coonley_House"
+   },
+   {
+    "fact": "Jens Jensen designed the raised and sunken gardens.",
+    "quote": "The landscape, consisting of extensive raised and sunken gardens, was designed by the landscape architect Jens Jensen.",
+    "source": "https://en.wikipedia.org/wiki/Avery_Coonley_House"
+   },
+   {
+    "fact": "The two-storey house is frame and stucco on a flat concrete foundation.",
+    "quote": "The structure itself is two stories high and is made of frame and stucco on a flat concrete foundation.",
+    "source": "https://en.wikipedia.org/wiki/Avery_Coonley_House"
+   },
+   {
+    "fact": "The ground floor, treated as a basement, holds the entrance hall, playroom and storage.",
+    "quote": "The entrance hall, playroom, and storage space are on the ground floor, which is treated as a basement.",
+    "source": "https://en.wikipedia.org/wiki/Avery_Coonley_House"
+   },
+   {
+    "fact": "The upper floor is a U-shaped zoned plan, the first in Wright's work, grouping rooms by function.",
+    "quote": "The upper story, with a U-shaped arrangement, is the first example in Wright's work of a zoned plan, with rooms grouped in zones according to function.",
+    "source": "https://en.wikipedia.org/wiki/Avery_Coonley_House"
+   },
+   {
+    "fact": "Wright considered it his most successful design of the time.",
+    "quote": "The house has been praised over the years, and Wright considered the design his most successful work of the time.",
+    "source": "https://en.wikipedia.org/wiki/Avery_Coonley_House"
+   },
+   {
+    "fact": "It was divided into two residences in the 1950s.",
+    "quote": "The Coonley House, once a single residence, was divided into two residences—300 Scottswood Road and 281 Bloomingbank Road—during the 1950s.",
+    "source": "https://en.wikipedia.org/wiki/Avery_Coonley_House"
+   },
+   {
+    "fact": "The estate is a National Historic Landmark.",
+    "quote": "The Coonley Estate is a National Historic Landmark (NHL) and is included in the Riverside Historic District, a NHL district.",
+    "source": "https://en.wikipedia.org/wiki/Avery_Coonley_House"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "david-and-gladys-wright-house",
+  "facts": [
+   {
+    "fact": "Frank Lloyd Wright designed it in an organic style for his son David and daughter-in-law Gladys; it was built 1950–1952.",
+    "quote": "Designed by Frank Lloyd Wright in an organic style for his son David and daughter-in-law Gladys, it was built from 1950 to 1952.",
+    "source": "https://en.wikipedia.org/wiki/David_and_Gladys_Wright_House"
+   },
+   {
+    "fact": "The curved concrete house sits on seven piers and is reached by a spiralling ramp.",
+    "quote": "The main house is a curved structure made of concrete and sits on seven piers; it is accessed by a spiraling ramp.",
+    "source": "https://en.wikipedia.org/wiki/David_and_Gladys_Wright_House"
+   },
+   {
+    "fact": "It is made of concrete blocks and mahogany boards.",
+    "quote": "The house has 2,553 square feet (237.2 m2) of space, with three bedrooms and four bathrooms, and is made of concrete blocks and mahogany boards.",
+    "source": "https://en.wikipedia.org/wiki/David_and_Gladys_Wright_House"
+   },
+   {
+    "fact": "The house forms a 270-degree arc around an interior courtyard.",
+    "quote": "The house forms a 270-degree arc around an interior courtyard, with a kitchen to the northeast, a living room to the southwest, and bedrooms to the southeast.",
+    "source": "https://en.wikipedia.org/wiki/David_and_Gladys_Wright_House"
+   },
+   {
+    "fact": "Circular motifs, geometric shapes and Wright-designed furnishings such as a carpet fill the interior.",
+    "quote": "The interior uses circular motifs and geometric shapes, in addition to furnishings designed by Wright, such as a carpet.",
+    "source": "https://en.wikipedia.org/wiki/David_and_Gladys_Wright_House"
+   },
+   {
+    "fact": "A smaller guesthouse of similar materials stands to the northeast.",
+    "quote": "The guesthouse is built of similar materials to the main house but is much smaller, with one primary room.",
+    "source": "https://en.wikipedia.org/wiki/David_and_Gladys_Wright_House"
+   },
+   {
+    "fact": "The main house is on the National Register of Historic Places.",
+    "quote": "The main house is listed on the National Register of Historic Places.",
+    "source": "https://en.wikipedia.org/wiki/David_and_Gladys_Wright_House"
+   },
+   {
+    "fact": "By the 2010s it was one of four remaining Wright buildings in Phoenix.",
+    "quote": "By the 2010s, the house was one of four remaining buildings designed by Frank Lloyd Wright in Phoenix and one of nine such buildings in Arizona.",
+    "source": "https://en.wikipedia.org/wiki/David_and_Gladys_Wright_House"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "heichal-hatarbut-tel-aviv",
+  "facts": [
+   {
+    "fact": "It is Tel Aviv's largest concert hall and home to the Israel Philharmonic Orchestra.",
+    "quote": "is the largest concert hall in Tel Aviv, Israel, and home to the Israel Philharmonic Orchestra.",
+    "source": "https://en.wikipedia.org/wiki/Heichal_HaTarbut"
+   },
+   {
+    "fact": "It opened in October 1957 at Habima Square as the Fredric R. Mann Auditorium.",
+    "quote": "Heichal HaTarbut, originally named the Fredric R. Mann Auditorium, opened in October 1957 at Habima Square.",
+    "source": "https://en.wikipedia.org/wiki/Heichal_HaTarbut"
+   },
+   {
+    "fact": "Dov Karmi, Ze'ev Rechter and Yaakov Rechter designed it.",
+    "quote": "The building was designed by Dov Karmi, Ze'ev Rechter and Yaakov Rechter.",
+    "source": "https://en.wikipedia.org/wiki/Heichal_HaTarbut"
+   },
+   {
+    "fact": "Leonard Bernstein conducted the inaugural concert with Arthur Rubinstein as soloist.",
+    "quote": "Leonard Bernstein conducted the inaugural concert, with the Israel Philharmonic and pianist Arthur Rubinstein as a soloist.",
+    "source": "https://en.wikipedia.org/wiki/Heichal_HaTarbut"
+   },
+   {
+    "fact": "Ofer Kolker supervised renovations from 2011 to 2013.",
+    "quote": "Renovations under the supervision of Israeli architect Ofer Kolker were undertaken from 2011 to 2013.",
+    "source": "https://en.wikipedia.org/wiki/Heichal_HaTarbut"
+   },
+   {
+    "fact": "Yasuhisa Toyota designed the new acoustics.",
+    "quote": "The new acoustics were designed by Japanese Yasuhisa Toyota.",
+    "source": "https://en.wikipedia.org/wiki/Heichal_HaTarbut"
+   },
+   {
+    "fact": "It reopened in 2013 as the Charles Bronfman Auditorium.",
+    "quote": "In 2013, the renovated venue was reopened as Charles Bronfman Auditorium, after Canadian-American businessman and donor Charles Bronfman.",
+    "source": "https://en.wikipedia.org/wiki/Heichal_HaTarbut"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "museum-liner-appenzell",
+  "facts": [],
+  "thin": true
+ },
+ {
+  "id": "palacio-municipal-montevideo",
+  "facts": [
+   {
+    "fact": "Uruguayan architect Mauricio Cravotto designed it.",
+    "quote": "It was designed by Uruguayan architect Mauricio Cravotto.",
+    "source": "https://en.wikipedia.org/wiki/City_Hall_of_Montevideo"
+   },
+   {
+    "fact": "It stands on the old English Cemetery property.",
+    "quote": "It had to be built on the old property of the English Cemetery, a property acquired several years ago by the state in which it was originally intended to build a building to house the Executive branch of the government and the Judiciary.",
+    "source": "https://en.wikipedia.org/wiki/City_Hall_of_Montevideo"
+   },
+   {
+    "fact": "Built from 1935 and inaugurated 16 July 1941, it differs from Cravotto's 1929 model: the tower rose to 78 m instead of 114 m for financial reasons.",
+    "quote": "Construction began in 1935 and was inaugurated on July 16, 1941, although the actual building differs from the original 1929 Cravotto model; his main tower measured 114m, which would have become the tallest building in the city, for financial reasons rose to only 78m, remaining in second place after the Palacio Salvo.",
+    "source": "https://en.wikipedia.org/wiki/City_Hall_of_Montevideo"
+   },
+   {
+    "fact": "The side wings, underground concourse and garage were added later.",
+    "quote": "The side wings, the underground concourse, and the garage were built later, giving the building its current appearance.",
+    "source": "https://en.wikipedia.org/wiki/City_Hall_of_Montevideo"
+   },
+   {
+    "fact": "Its position on the crest of a ridge on 18 de Julio Avenue makes it look more impressive.",
+    "quote": "While not the tallest building in Montevideo, its location on 18 de Julio Avenue, built on the crest of a ridge or long hill, makes the building look more impressive.",
+    "source": "https://en.wikipedia.org/wiki/City_Hall_of_Montevideo"
+   },
+   {
+    "fact": "A bronze replica of Michelangelo's David stands in front of the main entrance.",
+    "quote": "In front of the main entrance is an impressive bronze replica of David of Michelangelo.",
+    "source": "https://en.wikipedia.org/wiki/City_Hall_of_Montevideo"
+   },
+   {
+    "fact": "An external elevator on the back goes to a city observatory on floor 22.",
+    "quote": "On the back side of the building, there is an external elevator taking the public to floor 22 of the building where there is a city observatory.",
+    "source": "https://en.wikipedia.org/wiki/City_Hall_of_Montevideo"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "palau-de-la-musica-catalana",
+  "facts": [
+   {
+    "fact": "Lluís Domènech i Montaner designed it in the Catalan modernista style, built 1905–1908 for the choral society Orfeó Català.",
+    "quote": "Designed in the Catalan modernista style by the architect Lluís Domènech i Montaner, it was built between 1905 and 1908 for Orfeó Català, a choral society founded in 1891 that was a leading force in the Catalan cultural movement that came to be known as the Renaixença (Catalan Rebirth).",
+    "source": "https://en.wikipedia.org/wiki/Palau_de_la_M%C3%BAsica_Catalana"
+   },
+   {
+    "fact": "Curves, dynamic shapes and floral decoration dominate its Catalan modernist design.",
+    "quote": "The design of the palace is typical of Catalan modernism in that curves predominate over straight lines, dynamic shapes are preferred over static forms, and rich decoration that emphasizes floral and other organic motifs is used extensively.",
+    "source": "https://en.wikipedia.org/wiki/Palau_de_la_M%C3%BAsica_Catalana"
+   },
+   {
+    "fact": "It pays strict attention to function and uses up-to-date materials such as steel framing.",
+    "quote": "It pays strict attention to function and makes full use of the most up-to-date materials and technologies available at the beginning of the 20th century (e.g., steel framing).",
+    "source": "https://en.wikipedia.org/wiki/Palau_de_la_M%C3%BAsica_Catalana"
+   },
+   {
+    "fact": "Exposed red brick and iron, mosaics, stained glass and glazed tiles give a feeling of openness and transparency.",
+    "quote": "The exposed red brick and iron, the mosaics, the stained glass, and the glazed tiles were chosen and situated to give a feeling of openness and transparency.",
+    "source": "https://en.wikipedia.org/wiki/Palau_de_la_M%C3%BAsica_Catalana"
+   },
+   {
+    "fact": "The 2,200-seat concert hall is the only auditorium in Europe lit entirely by natural light during the day.",
+    "quote": "The concert hall of the palace, which seats about 2,200 people, is the only auditorium in Europe illuminated entirely by natural light during the day.",
+    "source": "https://en.wikipedia.org/wiki/Palau_de_la_M%C3%BAsica_Catalana"
+   },
+   {
+    "fact": "Stained-glass walls and a skylight by Antoni Rigalt, with an inverted golden dome for the sun and sky.",
+    "quote": "The walls on two sides consist primarily of arched stained-glass panes and an overhead stained glass skylight, designed by Antoni Rigalt, whose centerpiece is an inverted dome in shades of gold surrounded by blue, representing the sun and the sky.",
+    "source": "https://en.wikipedia.org/wiki/Palau_de_la_M%C3%BAsica_Catalana"
+   },
+   {
+    "fact": "It sits on a cramped street corner in the old Casc Antic.",
+    "quote": "The palace is located in the corner of a cramped street, Carrer Palau de la Música, and Carrer de Sant Pere Mes Alt, in the section of old Barcelona known as Casc Antic.",
+    "source": "https://en.wikipedia.org/wiki/Palau_de_la_M%C3%BAsica_Catalana"
+   },
+   {
+    "fact": "Parts were restored and expanded between 1982 and 1989.",
+    "quote": "Between 1982 and 1989 parts of the building were restored to their original state, technically upgraded and expanded to allow additional uses.",
+    "source": "https://en.wikipedia.org/wiki/Palau_de_la_M%C3%BAsica_Catalana"
+   },
+   {
+    "fact": "It was declared a UNESCO World Heritage Site in 1997 along with Hospital de Sant Pau.",
+    "quote": "In 1997, the palace de la Música Catalana was declared a UNESCO World Heritage Site along with Hospital de Sant Pau.",
+    "source": "https://en.wikipedia.org/wiki/Palau_de_la_M%C3%BAsica_Catalana"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "sdu-campus-kolding",
+  "facts": [],
+  "thin": true
+ },
+ {
+  "id": "20-fenchurch-street",
+  "facts": [
+   {
+    "fact": "Rafael Viñoly designed the tower, which has a top-heavy form that appears to burst upward and outward.",
+    "quote": "Designed by architect Rafael Viñoly and costing over £200 million, 20 Fenchurch Street features a highly distinctive top-heavy form which appears to burst upward and outward.",
+    "source": "https://en.wikipedia.org/wiki/20_Fenchurch_Street"
+   },
+   {
+    "fact": "It is nicknamed 'The Walkie-Talkie' for its shape.",
+    "quote": "It has been nicknamed \"The Walkie-Talkie\" because of its distinctive shape, said to resemble a walkie-talkie handset.",
+    "source": "https://en.wikipedia.org/wiki/20_Fenchurch_Street"
+   },
+   {
+    "fact": "It was originally proposed at nearly 200 m but scaled down after concerns about St Paul's Cathedral and the Tower of London.",
+    "quote": "The tower was originally proposed at nearly 200 m (656 ft) tall but its design was scaled down after concerns about its visual impact on the nearby St Paul's Cathedral and Tower of London.",
+    "source": "https://en.wikipedia.org/wiki/20_Fenchurch_Street"
+   },
+   {
+    "fact": "The 38-storey building is 160 m tall.",
+    "quote": "The 38-storey building is 160 m (525 ft) tall.",
+    "source": "https://en.wikipedia.org/wiki/20_Fenchurch_Street"
+   },
+   {
+    "fact": "The entrance floor and 34 office floors are topped by a large viewing deck.",
+    "quote": "The entrance floor and 34 floors of office space are topped by a large viewing deck.",
+    "source": "https://en.wikipedia.org/wiki/20_Fenchurch_Street"
+   },
+   {
+    "fact": "The sky garden spans the top three floors, reached by two express lifts.",
+    "quote": "The garden spans the top three floors, which are accessible by two express lifts and include a large viewing area, terrace, bar and two restaurants.",
+    "source": "https://en.wikipedia.org/wiki/20_Fenchurch_Street"
+   },
+   {
+    "fact": "Fourteen double-deck lifts serve the office floors.",
+    "quote": "Fourteen double-deck lifts (seven low-rise up to the 20th floor, seven high-rise above the 20th floor) serve the main office floors of the building.",
+    "source": "https://en.wikipedia.org/wiki/20_Fenchurch_Street"
+   },
+   {
+    "fact": "Whether the sky garden is truly a 'park' or 'public' has been debated.",
+    "quote": "The 'sky garden' at the top of the building was claimed by the developer to be London's highest public park, but since opening there have been debates about whether it can be described as a 'park', and whether it is truly 'public' given the access restrictions.",
+    "source": "https://en.wikipedia.org/wiki/20_Fenchurch_Street"
+   },
+   {
+    "fact": "It won the 2015 Carbuncle Cup for the UK's worst new building.",
+    "quote": "In 2015 it was awarded the Carbuncle Cup for the worst new building in the UK in the previous 12 months.",
+    "source": "https://en.wikipedia.org/wiki/20_Fenchurch_Street"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "aaltoalvari",
+  "facts": [],
+  "thin": true
+ },
+ {
+  "id": "abdeen-palace-cairo",
+  "facts": [
+   {
+    "fact": "Construction began in 1863 and the palace was inaugurated in 1874.",
+    "quote": "The construction started in 1863 and continued for 10 years and the palace was officially inaugurated in 1874.",
+    "source": "https://en.wikipedia.org/wiki/Abdeen_Palace"
+   },
+   {
+    "fact": "French architect Léon Rousseau designed it with many Egyptian, Italian, French and European decorators.",
+    "quote": "Erected on an area of 24 feddans, the palace was designed by the French architect Léon Rousseau along with a large number of Egyptian, Italian, French and European decorators.",
+    "source": "https://en.wikipedia.org/wiki/Abdeen_Palace"
+   },
+   {
+    "fact": "It was built under Ismail Pasha to replace the Citadel as Egypt's government headquarters.",
+    "quote": "Built under the rule of Ismail Pasha, to become Egypt's official government headquarters instead of the Citadel of Cairo (which had been the center of Egyptian government since the Middle Ages), this palace was used as well for official events and ceremonies.",
+    "source": "https://en.wikipedia.org/wiki/Abdeen_Palace"
+   },
+   {
+    "fact": "Joseph Urban added a wing in 1891.",
+    "quote": "A new wing was added by Joseph Urban in 1891.",
+    "source": "https://en.wikipedia.org/wiki/Abdeen_Palace"
+   },
+   {
+    "fact": "Sultan Fuad I added the garden in 1921.",
+    "quote": "However, the palace's garden was added in 1921 by Sultan Fuad I on an area of 20 feddans.",
+    "source": "https://en.wikipedia.org/wiki/Abdeen_Palace"
+   },
+   {
+    "fact": "The palace has 500 rooms.",
+    "quote": "The palace has 500 rooms.",
+    "source": "https://en.wikipedia.org/wiki/Abdeen_Palace"
+   },
+   {
+    "fact": "The lower floors hold the Silver, Arms, Royal Family and Presidential Gifts museums.",
+    "quote": "The lower floors contain the Silver Museum, the Arms Museum, the Royal Family Museum, and the Presidential Gifts Museum.",
+    "source": "https://en.wikipedia.org/wiki/Abdeen_Palace"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "alamillo-bridge",
+  "facts": [
+   {
+    "fact": "Calatrava's bridge was built from 1989 to 1992 for Expo 92.",
+    "quote": "Construction of the bridge began in 1989 and was completed in 1992 from a design by Santiago Calatrava.",
+    "source": "https://en.wikipedia.org/wiki/Alamillo_Bridge"
+   },
+   {
+    "fact": "Its concept traces to Calatrava's 1986 sculpture 'Running Torso', where inclined marble cubes are balanced by a wire.",
+    "quote": "The static concept of the bridge can be traced back to the 1986 sculpture by Calatrava entitled 'Running Torso', in which inclined stacked marble cubes are balanced by a tensioned wire.",
+    "source": "https://en.wikipedia.org/wiki/Alamillo_Bridge"
+   },
+   {
+    "fact": "A single inclined steel-shell tower filled with reinforced concrete counterbalances a 200 m span with thirteen pairs of cables.",
+    "quote": "The Alamillo Bridge consists of a single straight steel-shell tower, infilled with reinforced concrete and inclined backward, counterbalancing a 200 m span with thirteen pairs of cables.",
+    "source": "https://en.wikipedia.org/wiki/Alamillo_Bridge"
+   },
+   {
+    "fact": "The tower's weight balances the deck, so no back stays are needed.",
+    "quote": "Since the weight of the tower is made to be sufficient to counter-balance the deck, back stays are thus not required, effectively substituting the weight of an inclined tower for one set of stay cables.",
+    "source": "https://en.wikipedia.org/wiki/Alamillo_Bridge"
+   },
+   {
+    "fact": "Two symmetrical bridges were planned originally, but the single asymmetric design proved most striking.",
+    "quote": "The original intent was to build two symmetrical bridges on either side of the island, but in the end the Alamillo's singular asymmetric design has proved most striking.",
+    "source": "https://en.wikipedia.org/wiki/Alamillo_Bridge"
+   },
+   {
+    "fact": "The deck is a hexagonal steel-box-beam spine with cantilevered side wings carrying three traffic lanes each side.",
+    "quote": "Side steel wings cantilevered off the hexagonal spine support the traffic decks, three lanes on each side.",
+    "source": "https://en.wikipedia.org/wiki/Alamillo_Bridge"
+   },
+   {
+    "fact": "The top of the spine forms an elevated footway and cycle lane between the traffic lanes.",
+    "quote": "The top of the hexagonal spine, elevated 1.6 metres (5 feet) above the road level, serves as an elevated footway and cycle lane in between the traffic lanes.",
+    "source": "https://en.wikipedia.org/wiki/Alamillo_Bridge"
+   },
+   {
+    "fact": "A lookout at the top of the tower is reached by an enclosed stairway.",
+    "quote": "In addition to the elevated walkway, the Alamillo Bridge features a lookout at the top of the inclined tower, accessible by a stairway enclosed within the tower.",
+    "source": "https://en.wikipedia.org/wiki/Alamillo_Bridge"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "alden-dow-house-and-studio",
+  "facts": [
+   {
+    "fact": "Dow built his home and studio between 1937 and 1940.",
+    "quote": "Dow built his home and studio between 1937 and 1940.",
+    "source": "https://en.wikipedia.org/wiki/Alden_Dow_House_and_Studio"
+   },
+   {
+    "fact": "Visible construction materials throughout include the patented 'Unit Blocks' of 1935.",
+    "quote": "Throughout the home there are visible construction materials including the building blocks that were patented in 1935, \"Unit Blocks\".",
+    "source": "https://en.wikipedia.org/wiki/Alden_Dow_House_and_Studio"
+   },
+   {
+    "fact": "Dow and Robert Goodall created a rhomboid block, mostly with a square face, in 16 sizes.",
+    "quote": "Alden Dow, along with Robert Goodall, one of Frank Lloyd Wright's draftsman, created a rhomboid block, mostly with a square face in 16 different sizes.",
+    "source": "https://en.wikipedia.org/wiki/Alden_Dow_House_and_Studio"
+   },
+   {
+    "fact": "Dow used the blocks for walls, terraces and decorative elements such as stepping stones in the pond.",
+    "quote": "Dow used them to form walls and terraces, as well as decoration elements such as the stepping stones in the surrounding pond on the property.",
+    "source": "https://en.wikipedia.org/wiki/Alden_Dow_House_and_Studio"
+   },
+   {
+    "fact": "The blocks were made of cinder from Dow Chemical's furnaces.",
+    "quote": "In addition to the unique shape and structural integrity of the building blocks, the other identifying characteristic of the Unit Blocks was that they were made of the cinder that he saw piling up outside The Dow Chemical Company furnaces.",
+    "source": "https://en.wikipedia.org/wiki/Alden_Dow_House_and_Studio"
+   },
+   {
+    "fact": "The studio has a sunken conference room below water level, beside a pond made by diverting a stream.",
+    "quote": "As well as the two drafting rooms, there was also an entry and reception area and the sunken conference room, which sits below water level.",
+    "source": "https://en.wikipedia.org/wiki/Alden_Dow_House_and_Studio"
+   },
+   {
+    "fact": "Dow had studied at Columbia and apprenticed at Taliesin in 1933.",
+    "quote": "Alden Dow's exploration of block construction began after graduating from the Columbia School of Architecture in 1931 and an eight-month apprenticeship at Taliesin in 1933.",
+    "source": "https://en.wikipedia.org/wiki/Alden_Dow_House_and_Studio"
+   },
+   {
+    "fact": "It was declared a National Historic Landmark in 1989.",
+    "quote": "It was declared a National Historic Landmark in 1989.",
+    "source": "https://en.wikipedia.org/wiki/Alden_Dow_House_and_Studio"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "aluminaire-house",
+  "facts": [
+   {
+    "fact": "A. Lawrence Kocher and Albert Frey designed this three-storey case-study house in April 1931.",
+    "quote": "The Aluminaire House is a three-story house designed as a case study by architects A. Lawrence Kocher and Albert Frey in April 1931.",
+    "source": "https://en.wikipedia.org/wiki/Aluminaire_House"
+   },
+   {
+    "fact": "Built in ten days from donated materials, it was the first all-metal house in the United States.",
+    "quote": "Made of donated materials and built in ten days, it was the first all-metal house in the United States.",
+    "source": "https://en.wikipedia.org/wiki/Aluminaire_House"
+   },
+   {
+    "fact": "The 1,200-square-foot house is roughly cubic, on six columns, with five rooms.",
+    "quote": "The 1,200-square-foot (110 m2) house is roughly cubic in shape, resting on six columns, with five rooms.",
+    "source": "https://en.wikipedia.org/wiki/Aluminaire_House"
+   },
+   {
+    "fact": "Walls are corrugated metal sheathing on a structure of two-inch steel angles.",
+    "quote": "Exterior walls consist of corrugated metal sheathing backed by waterproof paper over a structure of two-inch steel angles.",
+    "source": "https://en.wikipedia.org/wiki/Aluminaire_House"
+   },
+   {
+    "fact": "The interior finish is thin insulation board covered with fabric.",
+    "quote": "The interior finish is thin insulation board covered with fabric.",
+    "source": "https://en.wikipedia.org/wiki/Aluminaire_House"
+   },
+   {
+    "fact": "It was exhibited in 1932 at the MoMA-sponsored show that became the basis of The International Style.",
+    "quote": "The MOMA show was titled The International Style - Architecture Since 1922, which became the basis of a book by Philip Johnson and Henry-Russell Hitchcock, The International Style, a manifesto for the International Style of architecture.",
+    "source": "https://en.wikipedia.org/wiki/Aluminaire_House"
+   },
+   {
+    "fact": "Architect Wallace K. Harrison bought it and moved it to Long Island.",
+    "quote": "After the early exhibitions, the house was sold to architect Wallace K. Harrison for $1,000 (equivalent to $23,598 in 2025), who disassembled it and moved it to his Long Island estate, where it became the core of an extensive complex.",
+    "source": "https://en.wikipedia.org/wiki/Aluminaire_House"
+   },
+   {
+    "fact": "It was rebuilt at the Palm Springs Art Museum, with air conditioning and weatherproofing added.",
+    "quote": "Because of its desert location, the museum added air conditioning and weatherproofing.",
+    "source": "https://en.wikipedia.org/wiki/Aluminaire_House"
+   },
+   {
+    "fact": "The grand opening in Palm Springs was 23 March 2024.",
+    "quote": "The grand opening was March 23, 2024.",
+    "source": "https://en.wikipedia.org/wiki/Aluminaire_House"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "amsterdam-orphanage-burgerweeshuis",
+  "facts": [],
+  "thin": true
+ },
+ {
+  "id": "angkor-wat",
+  "facts": [
+   {
+    "fact": "It was built between 1113 and 1150 CE for King Suryavarman II as a Hindu temple to Vishnu.",
+    "quote": "Located on a site measuring 162.6 hectares (1.6 km2; 401.8 acres) within the medieval capital of Angkor, it was constructed between 1113 and 1150 CE during the reign of the Khmer king Suryavarman II as a Hindu temple dedicated to Vishnu.",
+    "source": "https://en.wikipedia.org/wiki/Angkor_Wat"
+   },
+   {
+    "fact": "Unlike most Angkorian temples, it faces west.",
+    "quote": "Unlike most Angkorian temples, it is oriented toward the west.",
+    "source": "https://en.wikipedia.org/wiki/Angkor_Wat"
+   },
+   {
+    "fact": "It combines the temple mountain with concentric galleries.",
+    "quote": "Angkor Wat is a unique combination of the temple mountain (the standard design for the empire's state temples) and the later plan of concentric galleries, most of which were originally derived from religious beliefs of Hinduism.",
+    "source": "https://en.wikipedia.org/wiki/Angkor_Wat"
+   },
+   {
+    "fact": "Three rectangular galleries rise level by level to a central tower.",
+    "quote": "It is made of three rectangular galleries rising to a central tower, each level higher than the last.",
+    "source": "https://en.wikipedia.org/wiki/Angkor_Wat"
+   },
+   {
+    "fact": "The central quincunx of towers symbolises Mount Meru's five peaks; the walls and moat symbolise surrounding mountains and ocean.",
+    "quote": "The temple is a representation of Mount Meru, the home of the gods according to Hindu mythology: the central quincunx of towers symbolise the five peaks of the mountain, and the walls and moat symbolise the surrounding mountain ranges and ocean.",
+    "source": "https://en.wikipedia.org/wiki/Angkor_Wat"
+   },
+   {
+    "fact": "Access to the upper levels was progressively more exclusive; laity were admitted only to the lowest.",
+    "quote": "Access to the upper areas of the temple was progressively more exclusive, with the laity being admitted only to the lowest level.",
+    "source": "https://en.wikipedia.org/wiki/Angkor_Wat"
+   },
+   {
+    "fact": "The main tower aligns with the spring equinox sunrise.",
+    "quote": "The Angkor Wat temple's main tower aligns with the morning sun of the spring equinox.",
+    "source": "https://en.wikipedia.org/wiki/Angkor_Wat"
+   },
+   {
+    "fact": "Most visible areas are Kulen sandstone, with laterite for the outer wall and hidden structure.",
+    "quote": "Most of the visible areas are made of Kulen sandstone blocks, while laterite was used for the outer wall and hidden structural parts.",
+    "source": "https://en.wikipedia.org/wiki/Angkor_Wat"
+   },
+   {
+    "fact": "Five to ten million sandstone blocks were quarried at Mount Kulen, about 40 km away.",
+    "quote": "The sandstone was quarried and transported from Mount Kulen, a quarry approximately 40 km (25 mi) northeast.",
+    "source": "https://en.wikipedia.org/wiki/Angkor_Wat"
+   },
+   {
+    "fact": "Its dam and moats connected to the Angkor water network and stored water between monsoon and dry seasons.",
+    "quote": "Angkor Wat also served a practical purpose for the Khmer Empire as well, with its dam and resulting moats serving as both connections to the Angkor water network and a means of storing water between the monsoon and dry seasons of the region.",
+    "source": "https://en.wikipedia.org/wiki/Angkor_Wat"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "appleby-blue-almshouse",
+  "facts": [],
+  "thin": true
+ },
+ {
+  "id": "archaeological-museum-of-ioannina",
+  "facts": [
+   {
+    "fact": "It stands in Litharitsa Park in the centre of Ioannina.",
+    "quote": "The Archaeological Museum of Ioannina is a museum located in Litharitsa Park in the centre of Ioannina, Greece.",
+    "source": "https://en.wikipedia.org/wiki/Archaeological_Museum_of_Ioannina"
+   },
+   {
+    "fact": "Greek architect Aris Konstantinidis designed the building.",
+    "quote": "The building was designed by Greek architect Aris Konstantinidis (1913-1993).",
+    "source": "https://en.wikipedia.org/wiki/Archaeological_Museum_of_Ioannina"
+   },
+   {
+    "fact": "It holds artifacts from the surrounding area, including Palaeolithic tools and finds from Dodoni.",
+    "quote": "The museum contains many artifacts unearthed in the surrounding area such as Palaeolithic tools, from Kokkinopilos, Asprochaliko and Kastritsa, the ruins of Dodoni and ancient cemeteries such as Vitsa and the Oracle of Acheron.",
+    "source": "https://en.wikipedia.org/wiki/Archaeological_Museum_of_Ioannina"
+   }
+  ],
+  "thin": true
+ },
+ {
+  "id": "bangkok-art-and-culture-centre",
+  "facts": [
+   {
+    "fact": "It is a contemporary arts centre in the Siam area of Bangkok.",
+    "quote": "is a contemporary arts centre in Siam area, Bangkok, Thailand.",
+    "source": "https://en.wikipedia.org/wiki/Bangkok_Art_and_Culture_Centre"
+   },
+   {
+    "fact": "Robert G. Boughey and Associates designed the building around four criteria, including honouring Thai architecture and culture.",
+    "quote": "Honor Thai architecture and culture",
+    "source": "https://en.wikipedia.org/wiki/Bangkok_Art_and_Culture_Centre"
+   },
+   {
+    "fact": "Another design criterion was natural but controlled lighting.",
+    "quote": "Natural but controlled lighting",
+    "source": "https://en.wikipedia.org/wiki/Bangkok_Art_and_Culture_Centre"
+   },
+   {
+    "fact": "Its high spaces suit art, and the central atrium sets the tone for the interior.",
+    "quote": "The building was built to have high spaces to accommodate the art, and the central atrium serves as a symbol of the building and sets the tone for the rest of the interior.",
+    "source": "https://en.wikipedia.org/wiki/Bangkok_Art_and_Culture_Centre"
+   },
+   {
+    "fact": "It includes cafes, galleries, bookshops, craft shops and an art library.",
+    "quote": "The centre includes cafes, commercial art galleries, bookshops, craft shops, and an art library.",
+    "source": "https://en.wikipedia.org/wiki/Bangkok_Art_and_Culture_Centre"
+   },
+   {
+    "fact": "It is meant as a venue for cultural exchange, giving Bangkok a base on the international art scene.",
+    "quote": "It is intended as a venue for cultural exchange, giving Bangkok an operational base on the international art scene.",
+    "source": "https://en.wikipedia.org/wiki/Bangkok_Art_and_Culture_Centre"
+   },
+   {
+    "fact": "It opened on 29 July 2008 after many delays.",
+    "quote": "On 29 July 2008 the Bangkok Art and Culture Centre opened after many delays.",
+    "source": "https://en.wikipedia.org/wiki/Bangkok_Art_and_Culture_Centre"
+   },
+   {
+    "fact": "Visitors rose from 300,000 in 2007 to 1.7 million in 2017.",
+    "quote": "The number of visitors has risen from 300,000 in BACC's first year in 2007 to 1.7 million visitors in 2017.",
+    "source": "https://en.wikipedia.org/wiki/Bangkok_Art_and_Culture_Centre"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "bensberg-town-hall",
+  "facts": [],
+  "thin": true
+ },
+ {
+  "id": "bishop-edward-king-chapel",
+  "facts": [
+   {
+    "fact": "It is the chapel of Ripon College Cuddesdon near Oxford and of an Anglican nuns' community.",
+    "quote": "Bishop Edward King Chapel is the chapel of Ripon College Cuddesdon, a Church of England theological college near Oxford, and of the Sisters of the Communities of St John Baptist and the Good Shepherd, a community of Anglican nuns.",
+    "source": "https://en.wikipedia.org/wiki/Bishop_Edward_King_Chapel"
+   },
+   {
+    "fact": "It is dedicated to Edward King, Principal of Cuddesdon 1863–73 and Bishop of Lincoln.",
+    "quote": "The chapel is dedicated to Edward King, who was Principal of Cuddesdon Theological College 1863–73 and Bishop of Lincoln 1885–1910.",
+    "source": "https://en.wikipedia.org/wiki/Bishop_Edward_King_Chapel"
+   },
+   {
+    "fact": "Niall McLaughlin Architects' elliptical building was chosen through a RIBA-managed competition.",
+    "quote": "Following an architectural design competition managed by RIBA Competitions the elliptical building designed by Niall McLaughlin Architects was selected.",
+    "source": "https://en.wikipedia.org/wiki/Bishop_Edward_King_Chapel"
+   },
+   {
+    "fact": "It was runner-up for the 2013 Stirling Prize.",
+    "quote": "It was shortlisted and runner-up for the Stirling Prize in 2013 and shortlisted for the European Union Prize for Contemporary Architecture.",
+    "source": "https://en.wikipedia.org/wiki/Bishop_Edward_King_Chapel"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "bodegas-ysios",
+  "facts": [],
+  "thin": true
+ },
+ {
+  "id": "caltrans-district-7-headquarters",
+  "facts": [
+   {
+    "fact": "It houses Caltrans and the Los Angeles Department of Transportation at 100 South Main Street.",
+    "quote": "The Caltrans District 7 Headquarters building at 100 South Main Street in Downtown Los Angeles, California, United States serves the California Department of Transportation (Caltrans) and the Los Angeles Department of Transportation.",
+    "source": "https://en.wikipedia.org/wiki/Caltrans_District_7_Headquarters"
+   },
+   {
+    "fact": "It opened on 24 September 2004 on a $165 million budget.",
+    "quote": "Built on a $165 million budget, it opened on September 24, 2004.",
+    "source": "https://en.wikipedia.org/wiki/Caltrans_District_7_Headquarters"
+   },
+   {
+    "fact": "Its design won Thom Mayne the 2005 Pritzker Prize.",
+    "quote": "Its futuristic and environmentally friendly design won its designer, Thom Mayne, the 2005 Pritzker Prize.",
+    "source": "https://en.wikipedia.org/wiki/Caltrans_District_7_Headquarters"
+   },
+   {
+    "fact": "The 13-storey building has 716,200 gross square feet of offices and parking for 1,142 vehicles.",
+    "quote": "The 13-story structure, bounded by First Street, Main Street, Second Street and Los Angeles Street, has 716,200 gross square feet for office spaces and an underground parking for 1142 vehicles.",
+    "source": "https://en.wikipedia.org/wiki/Caltrans_District_7_Headquarters"
+   },
+   {
+    "fact": "Features include a public plaza, a four-storey light installation, a glass-floored conference room, art panels and a cantilevered light-bar.",
+    "quote": "Special features include the public plaza named for Eli and Edythe Broad, Motordom (a large four story light installation), the unique glass floor of the third-floor conference room, Code: Survey (168 one-foot-square glass art panels), urban landmarks (4-story high “100” house number and the light-bar cantilevers out of the building), and the Ten Past Five O’clock on the fourth floor.",
+    "source": "https://en.wikipedia.org/wiki/Caltrans_District_7_Headquarters"
+   },
+   {
+    "fact": "Its design and construction were documented over four episodes of the History Channel series Modern Marvels.",
+    "quote": "The design and construction of the building was documented across four episodes on the History Channel series Modern Marvels, to demonstrate the unique challenges presented in the design and construction of large buildings over the past two centuries.",
+    "source": "https://en.wikipedia.org/wiki/Caltrans_District_7_Headquarters"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "canary-wharf-underground-station",
+  "facts": [
+   {
+    "fact": "It was meant to be the showpiece of the Jubilee Line Extension; Norman Foster was awarded the design in 1990.",
+    "quote": "The tube station was intended from the start to be the showpiece of the Jubilee Line Extension, and the contract for its design was awarded in 1990 to the architect Sir Norman Foster.",
+    "source": "https://en.wikipedia.org/wiki/Canary_Wharf_tube_station"
+   },
+   {
+    "fact": "It was built by cut-and-cover in a drained arm of the former dock, in a pit 24 m deep and 265 m long.",
+    "quote": "It was constructed, by a Tarmac Construction / Bachy UK Joint Venture, in a drained arm of the former dock, using a simple \"cut and cover\" method to excavate an enormous pit 24 metres (78 ft) deep and 265 metres (869 ft) long.",
+    "source": "https://en.wikipedia.org/wiki/Canary_Wharf_tube_station"
+   },
+   {
+    "fact": "The station opened on 17 September 1999 as part of the Jubilee Line Extension.",
+    "quote": "The station was opened on 17 September 1999 as part of the Jubilee Line Extension.",
+    "source": "https://en.wikipedia.org/wiki/Canary_Wharf_tube_station"
+   },
+   {
+    "fact": "Its interior is so large it is compared to a cathedral.",
+    "quote": "The size of the interior has led to it being compared to a cathedral, and it has even been used to celebrate a wedding.",
+    "source": "https://en.wikipedia.org/wiki/Canary_Wharf_tube_station"
+   },
+   {
+    "fact": "Foster based it on his earlier Bilbao Metro stations.",
+    "quote": "Foster based the design upon previous work done for the Bilbao Metro, colloquially named \"Fosteritos\".",
+    "source": "https://en.wikipedia.org/wiki/Canary_Wharf_tube_station"
+   },
+   {
+    "fact": "The great size was due to the passenger numbers predicted, up to 50,000 daily.",
+    "quote": "However, the main reason for the station's enormous dimensions was the great number of passengers predicted; as many as 50,000 daily.",
+    "source": "https://en.wikipedia.org/wiki/Canary_Wharf_tube_station"
+   },
+   {
+    "fact": "Three more entrances opened in 2004.",
+    "quote": "In 2004, three additional entrances to the station were opened, increasing the station capacity.",
+    "source": "https://en.wikipedia.org/wiki/Canary_Wharf_tube_station"
+   },
+   {
+    "fact": "A 2013 YouGov poll voted it London's 'Most Loved' tube station.",
+    "quote": "In a 2013 poll conducted by YouGov, it was voted as the \"Most Loved\" tube station in London and \"despite its immense volume [it is] comfortable and inviting\".",
+    "source": "https://en.wikipedia.org/wiki/Canary_Wharf_tube_station"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "canton-tower",
+  "facts": [
+   {
+    "fact": "Dutch architects Mark Hemel and Barbara Kuit of Information Based Architecture designed it with Arup.",
+    "quote": "It was designed by the Dutch architects Mark Hemel and Barbara Kuit of Information Based Architecture, together with Arup, the international design, engineering and business consulting firm headquartered in London, United Kingdom.",
+    "source": "https://en.wikipedia.org/wiki/Canton_Tower"
+   },
+   {
+    "fact": "IBA and Arup won the international competition in 2004.",
+    "quote": "In 2004, Information Based Architecture and Arup won the international competition, in which many internationally large architectural offices participated.",
+    "source": "https://en.wikipedia.org/wiki/Canton_Tower"
+   },
+   {
+    "fact": "Groundbreaking was in 2005.",
+    "quote": "Subsequently, in 2005, the groundbreaking of the Canton Tower took place.",
+    "source": "https://en.wikipedia.org/wiki/Canton_Tower"
+   },
+   {
+    "fact": "It was topped out in 2009 and became operational on 29 September 2010 for the Asian Games.",
+    "quote": "The tower was topped out in 2009 and it became operational on 29 September 2010 in time for the 2010 Asian Games.",
+    "source": "https://en.wikipedia.org/wiki/Canton_Tower"
+   },
+   {
+    "fact": "Its twisted hyperboloid structure corresponds to a Vladimir Shukhov patent of 1899.",
+    "quote": "The Canton Tower's twisted shape or hyperboloid structure corresponds to the Russian Empire patent No. 1896, dated 12 March 1899 received by Vladimir Shukhov, the Russian engineer and architect.",
+    "source": "https://en.wikipedia.org/wiki/Canton_Tower"
+   },
+   {
+    "fact": "The structure is similar to Shukhov's Adziogol Lighthouse.",
+    "quote": "The structure is similar to the Adziogol Lighthouse (designed by Vladimir Shukhov in 1910) in Ukraine's Dnepr delta.",
+    "source": "https://en.wikipedia.org/wiki/Canton_Tower"
+   },
+   {
+    "fact": "The waist contains a 180-metre open-air skywalk.",
+    "quote": "The waist of the tower contains a 180-metre (590 ft) open-air skywalk where visitors can physically climb the tower.",
+    "source": "https://en.wikipedia.org/wiki/Canton_Tower"
+   },
+   {
+    "fact": "Outdoor gardens sit within the structure, with an open-air observation deck near the top.",
+    "quote": "There are outdoor gardens set within the structure, and at the top, just above 452 metres (1,483 ft), a large open-air observation deck.",
+    "source": "https://en.wikipedia.org/wiki/Canton_Tower"
+   }
+  ],
+  "thin": false
+ },
+ {
+  "id": "casa-butanta",
+  "facts": [],
+  "thin": true
+ },
+ {
+  "id": "casa-da-m-sica",
+  "facts": [
+   {
+    "fact": "Rem Koolhaas designed the concert hall, which opened in 2005.",
+    "quote": "It was designed by architect Rem Koolhaas and opened in 2005.",
+    "source": "https://en.wikipedia.org/wiki/Casa_da_M%C3%BAsica"
+   },
+   {
+    "fact": "It was the first building in Portugal designed to be exclusively dedicated to music.",
+    "quote": "Designed to mark the festive year of 2001 in which the city of Porto was designated European Capital of Culture, it was the first building in Portugal aimed from its conception to be exclusively dedicated to music, either in public performances or in the field of artistic training and creation.",
+    "source": "https://en.wikipedia.org/wiki/Casa_da_M%C3%BAsica"
+   },
+   {
+    "fact": "OMA won an international tender in 1999.",
+    "quote": "Casa da Música's project was set in motion in 1999 as a result of an international architecture tender won by the project presented by Rem Koolhaas – Office for Metropolitan Architecture.",
+    "source": "https://en.wikipedia.org/wiki/Casa_da_M%C3%BAsica"
+   },
+   {
+    "fact": "Arup and Afassociados were the engineers.",
+    "quote": "The building engineers were AFA Arup Group Limited (London), together with Afassociados (Porto).",
+    "source": "https://en.wikipedia.org/wiki/Casa_da_M%C3%BAsica"
+   },
+   {
+    "fact": "Inside Outside (Petra Blaisse) designed the interiors, including large surfaces with a gold leaf woodgrain pattern in the auditorium.",
+    "quote": "These included the 13 large surfaces, ranging from 22 by 15 metres (72 ft × 49 ft) to 65 by 8 metres (213 ft × 26 ft), with a gold leaf woodgrain pattern in the large auditorium.",
+    "source": "https://en.wikipedia.org/wiki/Casa_da_M%C3%BAsica"
+   },
+   {
+    "fact": "The 1,300-seat auditorium is daylit and has two walls entirely of glass.",
+    "quote": "Featuring a 1300-seat auditorium suffused with daylight, it is the only concert hall in the world with two walls made entirely of glass.",
+    "source": "https://en.wikipedia.org/wiki/Casa_da_M%C3%BAsica"
+   },
+   {
+    "fact": "The site was once a tram staging area.",
+    "quote": "The site was once a staging area for trams.",
+    "source": "https://en.wikipedia.org/wiki/Casa_da_M%C3%BAsica"
+   },
+   {
+    "fact": "Construction ran over schedule and cost 100 million euros.",
+    "quote": "Construction occurred in the next four years over schedule, and cost 100 million euros.",
+    "source": "https://en.wikipedia.org/wiki/Casa_da_M%C3%BAsica"
+   },
+   {
+    "fact": "The unusual configuration challenged engineers.",
+    "quote": "The project challenged engineers because of the building's unusual configuration.",
+    "source": "https://en.wikipedia.org/wiki/Casa_da_M%C3%BAsica"
+   }
+  ],
+  "thin": false
  }
 ]
