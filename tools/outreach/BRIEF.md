@@ -4,7 +4,7 @@ SEO strategy chat, 23 Oct 2026. Google trusts a site more when respected sites l
 "research guides" (often on LibGuides, `*.libguides.com` or `guides.<university>.edu`) that list free resources for
 architecture students: image collections, precedent databases, building directories. A link from one of these is worth
 more than hundreds of ordinary ones, and the site fits them exactly: free, credited, reusable photos of real buildings,
-with links to drawings and further reading. **The owner sends every email; nobody else contacts a librarian.**
+with links to drawings and further reading. **Only the SEO strategy chat contacts librarians (owner, 6 Nov 2026); no other chat does.**
 Read `CLAUDE.md` first.
 
 ## What to find
