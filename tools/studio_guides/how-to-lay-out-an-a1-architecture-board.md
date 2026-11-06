@@ -5,13 +5,13 @@ seo_title: How to Lay Out an A1 Architecture Presentation Board
 description: Margins, a column grid, reading order and sizes: a step-by-step way to lay out an A1 architecture board so a jury reads it in the order you meant.
 kicker: Boards
 published: 2026-11-05
-related: a1-sheet-layout-ideas, how-to-present-architectural-plans-and-sections, architecture-jury-presentation-tips
+related: a1-sheet-layout-ideas, how-to-present-architectural-plans-and-sections, architecture-jury-presentation-tips, architecture-sheet-sizes-a1-a0-24x36
 ---
 Most of a good A1 layout is decided before you place a single drawing: orientation, margins, a column grid and a reading order. Get those four right and the drawings almost place themselves. Skip them and you spend the night nudging images a few millimetres left and right, and the board still looks restless.
 
 ## Start with the sheet: size and orientation
 
-An A1 sheet is 594 × 841 mm. Before anything else, read the brief again. Some schools pin up portrait, some landscape, and some ask for two or three boards that read side by side as one strip. Many North American schools use 24 × 36 inch sheets (ARCH D) instead, which are close to A1 but a little wider in proportion, so a layout made for one won't drop straight into the other without adjustment.
+An A1 sheet is 594 × 841 mm. Before anything else, read the brief again. Some schools pin up portrait, some landscape, and some ask for two or three boards that read side by side as one strip. Many North American schools use 24 × 36 inch sheets (ARCH D) instead, which are close to A1 but a little wider in proportion, so a layout made for one won't drop straight into the other without adjustment ([sheet sizes compared](guide:architecture-sheet-sizes-a1-a0-24x36)).
 
 Choose the orientation from your drawings, not from habit. A long site section, a linear building or a route through a landscape wants landscape. A tower, a tall section or a project that reads from the ground up can sit well in portrait. If you are pinning several boards in a row, portrait sheets side by side make a long horizontal band, which suits a story told from left to right.
 

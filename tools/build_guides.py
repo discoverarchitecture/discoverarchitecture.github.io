@@ -4,7 +4,7 @@
 
 Each guide is a Markdown file in tools/studio_guides/<slug>.md, written by hand. Edit the .md, then rerun this; never edit
 the HTML. The file starts with a few `key: value` lines (slug, title, seo_title, description, kicker, published, related),
-then a line `---`, then the article:
+(add `updated: YYYY-MM-DD` when a guide changes a lot), then a line `---`, then the article:
 
     The first paragraph is the short answer, shown large under the title.
     ## A section            -> <h2>
@@ -27,6 +27,10 @@ in-text links ?ref=guides-text) so GoatCounter can tell them apart.
 
 The pages share the Studio look (../app.css, the same tokens as the legal pages from tools/build_studio.py) plus
 guides.css for the article parts. Rerun this after app.css or guides.css changes so the ?v= stamps follow them.
+
+It also puts every guide, with its date as <lastmod>, into site/sitemap.xml and rewrites the "## Studio FGA guides"
+list in site/llms.txt, so a new guide is findable as soon as it is merged (the deploy then tells Bing through IndexNow).
+Before writing a new guide, read tools/studio_guides/CHECKLIST.md.
 """
 import hashlib
 import html
@@ -306,11 +310,63 @@ def date_text(iso):
     return f"{int(d)} {months[int(m) - 1]} {y}"
 
 
+def own_images(g):
+    """Absolute addresses of the guide's own pictures (up to three), for the Article data, so image search can show them."""
+    srcs = [src for kind, val in g["body"] if kind == "fig" for _, src in val["pics"]]
+    return ["https://findgreatarchitecture.com" + s for s in dict.fromkeys(srcs)][:3]
+
+
+def lastmod(g):
+    return g.get("updated", g["published"])
+
+
+def sitemap_entries(guides=None):
+    """[(address, lastmod)] for the guides index and every guide; build_pages.py writes the same lines into sitemap.xml."""
+    guides = guides if guides is not None else load()
+    if not guides:
+        return []
+    return ([(SITE + "guides/", max(lastmod(g) for g in guides))] +
+            [(f"{SITE}guides/{g['slug']}/", lastmod(g)) for g in sorted(guides, key=lambda g: g["slug"])])
+
+
+def sitemap_line(url, mod=None):
+    """One <url> line of sitemap.xml, the same in build_pages.py and here."""
+    return f"  <url><loc>{url}</loc><lastmod>{mod}</lastmod></url>\n" if mod else f"  <url><loc>{url}</loc></url>\n"
+
+
+def update_sitemap(guides):
+    """Puts every guide into site/sitemap.xml (with its date), so a new guide needs no full build_pages.py run."""
+    p = os.path.join(SITE_DIR, "sitemap.xml")
+    if not os.path.exists(p):
+        return
+    s = open(p, encoding="utf-8").read()
+    lines = "".join(sitemap_line(u, m) for u, m in sitemap_entries(guides))
+    pat = re.compile(r"(?:  <url><loc>" + re.escape(SITE) + r"guides/[^<]*</loc>(?:<lastmod>[^<]*</lastmod>)?</url>\n)+")
+    s = pat.sub(lambda m: lines, s, count=1) if pat.search(s) else s.replace("</urlset>", lines + "</urlset>")
+    open(p, "w", encoding="utf-8").write(s)
+
+
+def update_llms(guides):
+    """Rewrites the "## Studio FGA guides" part of site/llms.txt (the summary AI assistants read) from the guides."""
+    p = os.path.join(SITE_DIR, "llms.txt")
+    if not os.path.exists(p):
+        return
+    s = open(p, encoding="utf-8").read()
+    part = ("## Studio FGA guides\n\nPractical guides for architecture students, written by an architect (CEPT University):\n\n" +
+            "".join(f"- [{g['title']}]({SITE}guides/{g['slug']}/): {g['description']}\n" for g in guides) + "\n")
+    pat = re.compile(r"## Studio FGA guides\n.*?(?=^## |\Z)", re.S | re.M)
+    if pat.search(s):
+        s = pat.sub(lambda m: part, s, count=1)
+    else:
+        s = s.replace("## Browse buildings", part + "## Browse buildings", 1)
+    open(p, "w", encoding="utf-8").write(s)
+
+
 def guide_page(g, by_slug):
     slugs, up = set(by_slug), "../../"
     url = f"{SITE}guides/{g['slug']}/"
     ld = [{"@context": "https://schema.org", "@type": "Article", "headline": g["title"], "description": g["description"],
-           "image": OG_IMAGE, "url": url, "mainEntityOfPage": url, "datePublished": g["published"],
+           "image": own_images(g) + [OG_IMAGE], "url": url, "mainEntityOfPage": url, "datePublished": g["published"],
            "dateModified": g.get("updated", g["published"]), "author": AUTHOR, "publisher": PUBLISHER, "inLanguage": "en"},
           {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [
               {"@type": "ListItem", "position": 1, "name": "Studio FGA", "item": SITE},
@@ -399,6 +455,9 @@ def main():
     written.append(p)
     print("wrote", os.path.relpath(p, ROOT))
     stamp(written)
+    update_sitemap(guides)
+    update_llms(guides)
+    print("updated site/sitemap.xml and site/llms.txt")
 
 
 if __name__ == "__main__":

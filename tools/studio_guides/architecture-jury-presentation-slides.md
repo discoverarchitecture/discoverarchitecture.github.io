@@ -5,7 +5,7 @@ seo_title: How to Structure a 10–15 Slide Architecture Jury Deck
 description: A slide-by-slide outline for a 10–15 slide architecture jury or thesis presentation, with rules for each slide and how the deck should follow your board.
 kicker: Decks
 published: 2026-11-05
-related: architecture-jury-presentation-tips, how-to-lay-out-an-a1-architecture-board, architecture-jury-preparation-48-hours
+related: architecture-jury-presentation-tips, how-to-lay-out-an-a1-architecture-board, architecture-jury-preparation-48-hours, architecture-jury-presentation-ideas
 ---
 A jury deck of 10 to 15 slides is long enough to walk through a project properly and short enough that every slide has to earn its place. The structure that works is the same as a good board: idea first, then site, then the building told as a walk-through, then what is unresolved. One point per slide, drawings as large as the screen allows, and a title on each slide that says something.
 
