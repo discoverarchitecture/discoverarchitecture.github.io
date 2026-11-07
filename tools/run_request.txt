@@ -1,2 +1,2 @@
 python -u tools/prep_titles.py tools/outreach/winnipeg_titles.json
-Winnipeg buildings suggested by the University of Manitoba art librarian: Wikidata facts, leads, Commons photos, and the Winnipeg Building Index pages.
+Winnipeg buildings suggested by the University of Manitoba art librarian (retrigger: the last push was too large for the trigger).
