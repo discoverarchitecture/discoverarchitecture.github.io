@@ -60,6 +60,13 @@ Gaps found:
 - Mac asleep again about 19:55–21:14 and 21:46–23:20 IST; the independent fact-check died both times, so I did it myself.
 - 23:52 IST · Fact pass on the new guides: sizes, arithmetic, menu paths and tool names checked; six unsupported generalisations softened ("most schools…" → "many").
 - 02:07 IST · Added to #172: the guides index is grouped by topic with headings.
+- 03:03 IST · #170 and #172 conflicted with main after the overnight write-up merges; merged main into both and rebuilt the
+  generated files (sitemap, llms.txt, guide indexes). Main now has three new FGA guides (`/guides/jury-deck/`,
+  `/guides/jury-presentation/`, `/guides/precedent-study/`); they get sitemap dates and the "More guides" links too.
+- **Overlap to decide (owner):** `/guides/jury-presentation/` and `/studio/guides/architecture-jury-presentation-tips/`
+  answer the same question, as do `/guides/jury-deck/` and `/studio/guides/architecture-jury-presentation-slides/`.
+  Two pages on one search split Google's attention. Options: (a) keep both and link each pair to each other with a
+  line saying how they differ; (b) merge each pair into one page and redirect the other; (c) leave as is.
 
 ## Next
 
