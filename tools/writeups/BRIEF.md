@@ -43,3 +43,11 @@ unsupported claims removed. That pulled the wording back towards Wikipedia's, so
 Then `check_writeups.py` (length, hype words, numbers and names against sources, copying) and a read by eye of every
 flag. Results: `results/writeups.json` (`id`, `text`, `sources`), shown by `writeup_block()` in `build_pages.py` under
 Key features. Next time, do all three passes from the start: write, fact-check against quotes, own words.
+
+## Dates (7 Nov 2026)
+
+Every entry in `results/writeups.json` carries `"added": "YYYY-MM-DD"`, the day it goes live. `build_pages.py` writes it
+into `sitemap.xml` as `<lastmod>`, so Google and Bing re-read pages that gained text. Set it on every new or rewritten
+entry. After round 8 every indexable building page had been tried once; the 627 still without a write-up mostly have no
+English Wikipedia article (a second pass by Wikidata id, exact name and name + city was set up on
+`claude/writeups-retry1` and stopped by the owner on 7 Nov).
