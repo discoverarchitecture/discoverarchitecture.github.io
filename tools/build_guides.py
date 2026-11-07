@@ -376,7 +376,8 @@ def guide_page(g, by_slug):
         ld.append({"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
             {"@type": "Question", "name": plain(f["q"]), "acceptedAnswer": {"@type": "Answer", "text": plain(" ".join(f["a"]))}}
             for f in g["faq"]]})
-    title = g["seo_title"] + " · Studio FGA" if len(g["seo_title"]) <= 52 else g["seo_title"]
+    # The brand only when the whole title still fits Google's ~60 characters; otherwise the search words matter more.
+    title = g["seo_title"] + " · Studio FGA" if len(g["seo_title"]) <= 47 else g["seo_title"]
     faq = ""
     if g["faq"]:
         faq = ('<section class="gfaq" aria-labelledby="faq"><h2 id="faq">Questions students ask</h2>' +

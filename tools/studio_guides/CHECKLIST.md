@@ -42,7 +42,7 @@ For any chat (or person) adding a guide to `/studio/guides/`. Read the top of `t
 
 - [ ] `python3 tools/build_guides.py` (it also updates `site/sitemap.xml` with dates and the guide list in
       `site/llms.txt`).
-- [ ] Title ≤ 60 characters with " · Studio FGA" (the builder adds it when `seo_title` is ≤ 52); description
+- [ ] `seo_title` ≤ 60 characters (the builder adds " · Studio FGA" only when the result stays ≤ 60); description
       ≤ 160 characters.
 - [ ] Look at the page at about 400 px and at desktop width: no sideways scroll, pictures load, the bottom bar
       doesn't hide anything important.
