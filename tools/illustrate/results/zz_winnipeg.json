@@ -1,0 +1,420 @@
+[
+ {
+  "id": "canadian-museum-for-human-rights",
+  "qid": "Q630212",
+  "name": "Canadian Museum for Human Rights",
+  "by": "Antoine Predock",
+  "year": "2014",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Promenade",
+   "Steel & glass"
+  ],
+  "features": "Predock's competition-winning museum, imagined as an apparition of ice, clouds and stone set in a field of sweet grass.",
+  "coords": [
+   49.89064,
+   -97.13109
+  ],
+  "status": "photo",
+  "city": "Winnipeg",
+  "cc": "CA",
+  "commons_category": "Category:Canadian Museum for Human Rights",
+  "photos": [
+   {
+    "file": "File:Canadian Museum for Human Rights, Winnipeg, Manitoba (42164424510).jpg",
+    "seen": true
+   },
+   {
+    "file": "File:Canadian Museum for Human Rights, Winnipeg, Manitoba (29035323837).jpg",
+    "seen": true
+   },
+   {
+    "file": "File:Canadian Museum for Human Rights (Winnipeg, MB).jpg",
+    "seen": true
+   },
+   {
+    "file": "File:Canadian Museum for Human Rights at night, Winnipeg, Manitoba, Canada.jpg",
+    "seen": true
+   }
+  ],
+  "why": "Suggested by the University of Manitoba art librarian (Winnipeg Building Index), 6 Nov 2026",
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Canadian_Museum_for_Human_Rights",
+    "quote": "The judging panel chose the design submitted by Antoine Predock, an architect from Albuquerque, New Mexico."
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Canadian_Museum_for_Human_Rights",
+    "quote": "The Museum held its opening ceremonies on 19 September 2014."
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Canadian_Museum_for_Human_Rights",
+    "quote": "a symbolic apparition of ice, clouds and stone set in a field of sweet grass."
+   }
+  ]
+ },
+ {
+  "id": "winnipeg-art-gallery",
+  "qid": "Q3813414",
+  "name": "Winnipeg Art Gallery",
+  "by": "Gustavo da Roza",
+  "year": "1971",
+  "type": "Museum",
+  "movement": "Late modernism",
+  "concepts": [
+   "Geometry",
+   "Stone",
+   "Monumentality"
+  ],
+  "features": "Da Roza's competition-winning gallery on a triangular site, opened in 1971; Michael Maltzan's Qaumajuq, for Inuit art, joined it in 2021.",
+  "coords": [
+   49.88944,
+   -97.15056
+  ],
+  "status": "photo",
+  "city": "Winnipeg",
+  "cc": "CA",
+  "commons_category": "Category:Winnipeg Art Gallery",
+  "photos": [],
+  "why": "Suggested by the University of Manitoba art librarian (Winnipeg Building Index), 6 Nov 2026",
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Winnipeg_Art_Gallery",
+    "quote": "In 1967, the museum acquired a triangular plot of land across from the Civic Auditorium and launched a competition for architects to submit designs for a new building."
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Winnipeg_Art_Gallery",
+    "quote": "Construction began in 1969, and the new building opened to the public on 25 September 1971."
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Winnipeg_Art_Gallery",
+    "quote": "In 2021, the museum opened a Michael Maltzan-designed Qaumajuq building in order to house the museum's Inuit art collection."
+   }
+  ]
+ },
+ {
+  "id": "manitoba-legislative-building",
+  "qid": "Q6750086",
+  "name": "Manitoba Legislative Building",
+  "by": "Frank Worthington Simon, Henry Boddington III",
+  "year": "1920",
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Axis",
+   "Stone"
+  ],
+  "features": "Beaux-Arts legislature chosen from 67 competition entries, 77 m tall and crowned by the gilded Golden Boy.",
+  "coords": [
+   49.88444,
+   -97.14694
+  ],
+  "status": "photo",
+  "city": "Winnipeg",
+  "cc": "CA",
+  "commons_category": "Category:Manitoba Legislative Building",
+  "photos": [
+   {
+    "file": "File:Manitoba Legislative building exterior (J).jpg",
+    "seen": true
+   },
+   {
+    "file": "File:Parliamentwinnipeg manitoba.jpg",
+    "seen": true
+   },
+   {
+    "file": "File:Manitoba Legislative Building, Winnipeg, Canada (35918422850).jpg",
+    "seen": true
+   },
+   {
+    "file": "File:Manitoba Legislative Building, Winnipeg (25069380388).jpg",
+    "seen": true
+   }
+  ],
+  "why": "Suggested by the University of Manitoba art librarian (Winnipeg Building Index), 6 Nov 2026",
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Manitoba_Legislative_Building",
+    "quote": "The neoclassical, Beaux-Arts-style building was completed in 1920 along with its famed Golden Boy"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Manitoba_Legislative_Building",
+    "quote": "Standing at 77 metres (253 ft) tall, it was designed and built by Frank Worthington Simon (1862–1933) and Henry Boddington III"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Manitoba_Legislative_Building",
+    "quote": "Of the 67 submissions, Frank Worthington Simon, a former student at the École des Beaux-Arts, had his design chosen"
+   }
+  ]
+ },
+ {
+  "id": "esplanade-riel",
+  "qid": "Q3058447",
+  "name": "Esplanade Riel",
+  "by": "Étienne Gaboury, Guy Préfontaine",
+  "year": "2003",
+  "type": "Infrastructure",
+  "movement": "Contemporary",
+  "concepts": [
+   "Structure as expression",
+   "Public space",
+   "Promenade"
+  ],
+  "features": "Side-spar cable-stayed footbridge over the Red River, with a plaza cantilevered at the base of its tower.",
+  "coords": [
+   49.8908,
+   -97.1269
+  ],
+  "status": "photo",
+  "city": "Winnipeg",
+  "cc": "CA",
+  "commons_category": "Category:Esplanade Riel",
+  "photos": [
+   {
+    "file": "File:Winnipeg (51552911922).jpg",
+    "seen": true
+   },
+   {
+    "file": "File:Esplanade Riel Bridge at dusk, Winnipeg, Canada.jpg",
+    "seen": true
+   },
+   {
+    "file": "File:Esplanade Riel Pedestrian Bridge and Winnipeg Skyline (35477287654).jpg",
+    "seen": true
+   }
+  ],
+  "why": "Suggested by the University of Manitoba art librarian (Winnipeg Building Index), 6 Nov 2026",
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Esplanade_Riel",
+    "quote": "Opened to foot traffic in 2003 and having a grand opening in the summer of 2004, the Esplanade Riel was co-designed by architects Guy Préfontaine and Étienne Gaboury"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Esplanade_Riel",
+    "quote": "The bridge includes an architectural composite tower that is prestressed with a cantilevered and stayed semi-circular plaza area at the base of the tower."
+   }
+  ]
+ },
+ {
+  "id": "precious-blood-church-winnipeg",
+  "qid": "Q18167816",
+  "name": "Precious Blood Church",
+  "by": "Étienne Gaboury",
+  "year": "1968",
+  "type": "Religious",
+  "movement": "Regionalism",
+  "concepts": [
+   "Sculptural form",
+   "Geometry",
+   "Community"
+  ],
+  "features": "Gaboury's tipi-inspired church, called his most recognizable work by the Winnipeg Architecture Foundation.",
+  "coords": [
+   49.8776,
+   -97.1192
+  ],
+  "status": "photo",
+  "city": "Winnipeg",
+  "cc": "CA",
+  "commons_category": "Category:Precious Blood Roman Catholic Church (Winnipeg)",
+  "photos": [
+   {
+    "file": "File:Precious Blood Church (Gaboury).jpg",
+    "seen": true
+   }
+  ],
+  "why": "Suggested by the University of Manitoba art librarian (Winnipeg Building Index), 6 Nov 2026",
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Precious_Blood_Roman_Catholic_Church_(Winnipeg)",
+    "quote": "The church was designed by Canadian architect Étienne Gaboury. Construction of the building was completed in 1968."
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Precious_Blood_Roman_Catholic_Church_(Winnipeg)",
+    "quote": "The church's tipi-inspired shape has been called Gaboury's most recognizable work by the Winnipeg Architecture Foundation."
+   }
+  ]
+ },
+ {
+  "id": "union-bank-building-winnipeg",
+  "qid": "Q7885387",
+  "name": "Union Bank Building, Winnipeg",
+  "by": "Darling and Pearson",
+  "year": "1904",
+  "type": "Office & tower",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Structure as expression",
+   "Facade as skin",
+   "Monumentality"
+  ],
+  "features": "Winnipeg's tallest building when it opened: a steel and concrete frame behind brick and terracotta, on the classical palazzo model.",
+  "coords": [
+   49.8988,
+   -97.1394
+  ],
+  "status": "photo",
+  "city": "Winnipeg",
+  "cc": "CA",
+  "commons_category": "Category:Union Bank Building (Winnipeg)",
+  "photos": [
+   {
+    "file": "File:Union Bank Tower, Winnipeg Manitoba 01.JPG",
+    "seen": true
+   },
+   {
+    "file": "File:Union Bank Building.jpg",
+    "seen": true
+   },
+   {
+    "file": "File:Detail of Union Bank Building.JPG",
+    "seen": true
+   }
+  ],
+  "why": "Suggested by the University of Manitoba art librarian (Winnipeg Building Index), 6 Nov 2026",
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Union_Bank_Building",
+    "quote": "Beginning construction in 1903 and opening in November 1904, the Union Bank Tower was the tallest building in Winnipeg at its completion"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Union_Bank_Building",
+    "quote": "Designed by two of Canada’s top architects, Frank Darling and John Andrew Pearson, the Union Bank Tower follows the classical palazzo model"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Union_Bank_Building",
+    "quote": "the building was constructed with a network of steel and reinforced concrete that provided support for the brick and terracotta walls."
+   }
+  ]
+ },
+ {
+  "id": "centennial-concert-hall",
+  "qid": "Q21188163",
+  "name": "Centennial Concert Hall",
+  "by": "Green Blankstein Russell, Moody Moore Whenham, Smith Carter Searle",
+  "year": "1968",
+  "type": "Culture & sport",
+  "movement": "Late modernism",
+  "concepts": [
+   "Public space",
+   "Monumentality",
+   "Geometry"
+  ],
+  "features": "A 2,305-seat hall, home of the Winnipeg Symphony Orchestra, the Royal Winnipeg Ballet and Manitoba Opera.",
+  "coords": [
+   49.89968,
+   -97.13671
+  ],
+  "status": "photo",
+  "city": "Winnipeg",
+  "cc": "CA",
+  "commons_category": "Category:Centennial Concert Hall",
+  "photos": [
+   {
+    "file": "File:Centennial Concert Hall, Winnipeg Manitoba 01.JPG",
+    "seen": true
+   },
+   {
+    "file": "File:Centennial Concert Hall, Winnipeg Manitoba 02.JPG",
+    "seen": true
+   },
+   {
+    "file": "File:Winnipeg (6408567445).jpg",
+    "seen": true
+   }
+  ],
+  "why": "Suggested by the University of Manitoba art librarian (Winnipeg Building Index), 6 Nov 2026",
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Centennial_Concert_Hall",
+    "quote": "The architects of the Hall were Green, Blankstein, Russell Assoc., Moody, Moore, Whenham & Partners, and Smith, Carter, Searle Associates, which are all located in Winnipeg."
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Centennial_Concert_Hall",
+    "quote": "The concert hall opened on March 25, 1968."
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Centennial_Concert_Hall",
+    "quote": "Centennial Concert Hall is a 2,305-seat performing arts centre"
+   }
+  ]
+ },
+ {
+  "id": "winnipeg-airport-terminal",
+  "qid": null,
+  "name": "Winnipeg Richardson International Airport Terminal",
+  "by": "César Pelli, Stantec",
+  "year": "2011",
+  "type": "Infrastructure",
+  "movement": "Contemporary",
+  "concepts": [
+   "Steel & glass",
+   "Landscape",
+   "Climate response"
+  ],
+  "features": "A terminal inspired by Winnipeg's landscape and the prairie sky; the first LEED-certified airport terminal in Canada.",
+  "coords": [
+   49.91,
+   -97.24
+  ],
+  "status": "photo",
+  "city": "Winnipeg",
+  "cc": "CA",
+  "commons_category": "Category:Winnipeg James Armstrong Richardson International Airport",
+  "photos": [],
+  "why": "Suggested by the University of Manitoba art librarian (Winnipeg Building Index), 6 Nov 2026",
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Winnipeg_James_Armstrong_Richardson_International_Airport",
+    "quote": "Winnipeg's main airport terminal was designed by Argentine architect Cesar Pelli and Stantec."
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Winnipeg_James_Armstrong_Richardson_International_Airport",
+    "quote": "construction beginning in 2007 and ending on October 30, 2011, when it was officially opened to the public."
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Winnipeg_James_Armstrong_Richardson_International_Airport",
+    "quote": "The terminal's design was inspired by the City of Winnipeg's distinctive landscape and Manitoba's vast prairies and sky."
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Winnipeg_James_Armstrong_Richardson_International_Airport",
+    "quote": "It was the first airport terminal in Canada to be LEED-certified"
+   }
+  ]
+ },
+ {
+  "id": "winnipeg-city-hall",
+  "qid": null,
+  "name": "Winnipeg City Hall",
+  "by": "Green Blankstein Russell",
+  "year": "1963",
+  "type": "Civic",
+  "movement": "Brutalism",
+  "concepts": [
+   "Public space",
+   "Exposed concrete",
+   "Monumentality"
+  ],
+  "features": "The Winnipeg Civic Centre, City Hall and its Administrative Building, a Brutalist landmark of the city.",
+  "status": "photo",
+  "city": "Winnipeg",
+  "cc": "CA",
+  "commons_category": "Category:Winnipeg City Hall",
+  "photos": [
+   {
+    "file": "File:Winnipeg's City Hall building.JPG",
+    "seen": true
+   }
+  ],
+  "why": "Suggested by the University of Manitoba art librarian (Winnipeg Building Index), 6 Nov 2026",
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Brutalist_architecture",
+    "quote": "including the Winnipeg Civic Centre (City Hall and Administrative Building) (1962–1963, Green Blankstein Russell)"
+   }
+  ]
+ }
+]
