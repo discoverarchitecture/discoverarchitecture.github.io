@@ -1,5 +1,5 @@
 /* Studio FGA: the student's journey, screen by screen (findgreatarchitecture.com/studio).
-   upload -> questions (student or professional path) -> title block -> concept (optional, own words) -> free preview
+   upload -> questions (who, an optional email, the title block, how far AI goes, the concept) -> free preview
    -> price -> Dodo checkout -> making -> result -> editor -> files -> rate.
    Every step talks to the Studio API (api.js; its address is in config.js). ?demo=1 runs the same screens offline
    on the sample project, as the approved prototype did, so the page works before the backend is live. */
@@ -152,7 +152,7 @@
   /* Question bank (prompts/INTAKE_QUESTIONS.md v2, D80). The ten v1 questions keep their wording and order;
      the professional path reuses six of them with "ours" wording. */
   const QB = {
-    who: { k: 'You', q: 'Who’s presenting?', sub: 'Students and practices get slightly different questions.', o: [['Student', 'Student questions: year, crit, jury'], ['Professional / firm', 'Practice questions: client, stage, room']] },
+    who: { k: 'You', q: 'Who’s presenting?', sub: 'Sets the wording on your board and deck.', o: [['Student', 'A studio project for a jury'], ['Professional / firm', 'A practice presenting a project']] },
     year: { k: 'Year', q: 'Which year are you in?', sub: 'Sets the vocabulary. A thesis gets a fuller story.', o: [['1st–2nd', 'Simple words, a clear story'], ['3rd', 'Studio vocabulary, a confident story'], ['4th–5th / thesis', 'A fuller story, research up front'], ['Masters', 'Precise language, the argument first']] },
     where: { k: 'Where', q: 'Where will this be shown?', sub: 'Sets how polished it gets.', o: [['Jury pin-up', 'Jury-ready finish, board and deck'], ['Design review', 'Lighter finish; your working story stays visible'], ['Portfolio', 'Tight edit, sized for a portfolio page'], ['Competition entry', 'One bold board with one strong hero'], ['Instagram / showcase', 'A punchy hero that crops to a square']] },
     word: { k: 'The one word', q: 'What one word do you want the jury to say?', sub: 'AI Studio leans the whole board that way.', o: [['“Beautiful”', 'Atmosphere first: big hero, mood renders'], ['“Clever”', 'Idea first: diagrams up front'], ['“Brave”', 'Gesture first: scale, contrast, few words'], ['“Thoughtful”', 'Site, people and process up front']] },
@@ -181,8 +181,11 @@
   }
   QB.proud.o = proudOpts();
   const PRO = { hero: { q: 'What’s the hero of the project?' }, pers: { q: 'The project’s personality?' }, ai: { q: 'How far should AI go with the drawings?', o0: 'Keep our design, polish it' }, words: { q: 'How much should the board talk?' } };
-  const PATHS = { student: ['who', 'year', 'where', 'word', 'aud', 'crit', 'hero', 'proud', 'pers', 'ai', 'words', 'proc', 'cname', 'ctitle', 'cloc', 'cprog', 'concept'],
-    pro: ['who', 'pwhere', 'stage', 'room', 'hero', 'proud', 'pers', 'ai', 'words', 'proc', 'firm', 'cname', 'ctitle', 'cloc', 'cprog', 'concept'] };
+  /* The short flow (owner, 6 Nov 2026), the same for students and practices: who, an optional email, the title block,
+     how far AI goes (it pre-picks Polish or Transform) and the concept. The other questions are no longer asked: the
+     server sends them to the pipeline as "AI decides", and AI Studio picks the hero drawing itself. */
+  const PATHS = { student: ['who', 'email', 'cname', 'ctitle', 'cloc', 'cprog', 'ai', 'concept'],
+    pro: ['who', 'email', 'cname', 'ctitle', 'cloc', 'cprog', 'ai', 'concept'] };
   /* the title block, one fact per screen (owner, 28 Oct): field, question, example */
   const CARD = { cname: ['name', () => isPro() ? 'Your name or firm' : 'Your name', () => isPro() ? 'e.g. Morgan & Lee Architects' : 'e.g. Alex Morgan'],
     ctitle: ['title', () => 'Project title?', () => 'e.g. A Community Centre for Market Vendors'],
@@ -208,11 +211,12 @@
     return o ? Object.assign({}, b, { q: o.q }, o.o0 ? { o: [[o.o0, b.o[0][1]]].concat(b.o.slice(1)) } : {}) : b;
   }
   const ans = (k) => S.ans[k] === undefined ? null : S.ans[k];
-  const forcedUnbranded = () => isPro() && ans('pwhere') === 1;
-  /* C8 (D101): students can leave their name off the board; it is ticked for them when the entry is for a competition
-     (S.noName undefined = follow that; a tick or untick of their own wins until they change where it is shown) */
-  const autoNoName = () => !isPro() && ans('where') === 3;
-  const unbranded = () => isPro() ? (forcedUnbranded() || ans('firm') === 1) : (typeof S.noName === 'boolean' ? S.noName : autoNoName());
+  /* C8 (D101): anyone can leave their name off the board (the tick on the name step, both paths); "where it is shown"
+     and the firm question are no longer asked, so nothing ticks it for them */
+  const unbranded = () => S.noName === true;
+  /* the optional email step: the same address the payment step asks for (S.email), and the "about my board" tick */
+  const EMAIL_RE = /^[^@\s]{1,64}@[^@\s]{1,190}\.[A-Za-z]{2,}$/;
+  const qEmail = () => String(S.email || '').trim().toLowerCase();
   const cardOk = () => ['name', 'title', 'loc', 'prog'].every((f) => (S.card[f] || '').trim());
   /* D82: the concept is the student's own words, used exactly as typed (or none: Studio plans from the drawings) */
   const concept = () => tidy('concept', S.concept);
@@ -245,14 +249,13 @@
 
   /* The answers as the API takes them (server/core/intake.py; prompts/INTAKE_QUESTIONS.md v2): the option's own words,
      {"other": text} for an Other box, nothing for a skipped question. */
-  const AKEY = { student: { year: 's2_year', where: 'q1_shown_at', word: 'q2_jury_word', aud: 'q3_impress', crit: 'q4_last_crit', hero: 'q5_hero', proud: 'q6_proudest', pers: 'q7_personality', ai: 'q8_ai_rework', words: 'q9_text', proc: 'q10_process' },
-    pro: { pwhere: 'q1_shown_at', stage: 'p3_stage', room: 'p4_room', hero: 'q5_hero', proud: 'q6_proudest', pers: 'q7_personality', ai: 'q8_ai_rework', words: 'q9_text', proc: 'q10_process', firm: 'p11_firm' } };
+  const AKEY = { student: { ai: 'q8_ai_rework' }, pro: { ai: 'q8_ai_rework' } };
   const plain = (s) => String(s).replace(/[“”"]/g, '').trim();
   function intakeBody() {
     const pro = isPro(), answers = {};
     QB.proud.o = proudOpts();
     Object.entries(AKEY[pro ? 'pro' : 'student']).forEach(([k, key]) => {
-      const a = k === 'firm' && forcedUnbranded() ? 1 : ans(k);
+      const a = ans(k);
       if (a === null) return;
       if (a === 'other') { const t = (S.oth[k] || '').trim(); if (t) answers[key] = { other: t.slice(0, 300) }; return; }
       const o = qd(k).o[a];
@@ -262,6 +265,7 @@
       card: { name: String(c.name || '').trim(), project_title: tidy('title', c.title), project_location: tidy('loc', c.loc), program: tidy('prog', c.prog) } };
     if (concept()) body.concept_text = concept();
     if (unbranded()) body.no_name = true;
+    if (EMAIL_RE.test(qEmail())) { body.email = qEmail(); body.email_optin = !!S.optin; }
     return body;
   }
   /* the other way: a saved intake (status "intake") back into the screens, e.g. on a new device from the receipt link */
@@ -279,7 +283,7 @@
     const c = it.card || {};
     S.card = { name: c.name || '', title: c.project_title || '', loc: c.project_location || '', prog: c.program || '' };
     S.concept = it.concept_text || '';
-    if (typeof it.no_name === 'boolean' && it.path !== 'professional') S.noName = it.no_name === autoNoName() ? undefined : it.no_name;
+    if (typeof it.no_name === 'boolean') S.noName = it.no_name;
   }
 
   /* Demo only: put the typed title block and the chosen concept onto the sample board and deck (live, the build
@@ -756,11 +760,20 @@
     if (CARD[k]) {
       const [f, q, ph] = CARD[k], v = S.card[f] || '', idx = Object.keys(CARD).indexOf(k) + 1;
       const note = f === 'name' ? nameNote() : FIXNOTE;
-      const tick = f === 'name' && !isPro() ? '<label class="tick"><input type="checkbox" id="noname"' + (unbranded() ? ' checked' : '') + '><span>Leave my name off the board (anonymous)</span></label>' +
-        (autoNoName() && S.noName === undefined ? '<p class="hint" style="margin:0">Ticked for you: most competitions are judged anonymously.</p>' : '') : '';
+      const tick = f === 'name' ? '<label class="tick"><input type="checkbox" id="noname"' + (unbranded() ? ' checked' : '') + '><span>' +
+        (isPro() ? 'Leave our name off the sheets (unbranded)' : 'Leave my name off the board (anonymous)') + '</span></label>' : '';
       return head + '<p class="kicker">Title block · ' + idx + ' of 4</p><h1 class="mid">' + esc(q()) + '</h1><p class="lede" id="cardNote">' + note + '</p>' +
         '<div class="field"><input id="cardin" data-card="' + f + '" class="input" type="text" required maxlength="' + (f === 'prog' ? 200 : 120) + '" aria-label="' + esc(q()) + '" value="' + esc(v) + '" placeholder="' + esc(ph()) + '">' + onSheet(f, v) + '</div>' + tick + '<p class="err" id="cardErr"></p>' +
         next(last ? 'See my preview' : 'Continue', !!v.trim());
+    }
+    if (k === 'email') {
+      const v = S.email || '';
+      return head + '<p class="kicker">Optional</p><h1 class="mid">Your email</h1><p class="lede">We’ll send you the link to your preview, so you can open it later on your laptop.</p>' +
+        '<div class="field"><input id="qemail" class="input" type="email" inputmode="email" autocomplete="email" maxlength="254" aria-label="Your email" placeholder="you@school.edu" value="' + esc(v) + '"></div>' +
+        '<label class="tick"><input type="checkbox" id="optin"' + (S.optin ? ' checked' : '') + '><span>OK to email me about my board</span></label>' +
+        '<p class="hint" style="margin:0">If you tick it, we may send one or two short emails about your board, never anything else. <a class="link" href="privacy/" target="_blank" rel="noopener">Privacy</a></p>' +
+        fresh + '<p class="err" id="qErr" role="alert"></p><div class="row"><button class="btn' + (v.trim() ? ' primary' : '') + '" data-act="qnext">' + (S.fromHeard ? (paid() ? 'Save my answers' : 'Back to preview') : 'Continue') + '</button>' +
+        '<button class="link" data-act="qskip">Skip</button>' + helper + '</div></main>';
     }
     if (k === 'concept') {
       const b = briefs();
@@ -769,13 +782,15 @@
         '<p class="hint" style="margin:0">' + (b.length ? 'Brief attached: ' + esc(b.join(', ')) + '. AI Studio reads it for text.' : 'Or attach your brief or a concept note in your files. <button class="link" data-act="go" data-s="upload">Go to your files</button>') + '</p></div>' +
         next(conceptLabel(), !!concept());
     }
-    const q = qd(k), a = ans(k), locked = k === 'firm' && forcedUnbranded(), sel = locked ? 1 : a;
+    const q = qd(k), a = ans(k), sel = a;
     const opts = q.thumbs
       ? '<div class="thumbs">' + q.o.map((o, j) => '<button class="thumb' + (sel === j ? ' sel' : '') + '" data-act="pick" data-j="' + j + '" aria-pressed="' + (sel === j) + '"><img src="' + pic(HP, o[2]) + '" alt=""><span>' + esc(o[0]) + '</span></button>').join('') + '</div>'
-      : '<div class="opts">' + q.o.map((o, j) => '<button class="opt' + (sel === j ? ' sel' : '') + '" data-act="pick" data-j="' + j + '" aria-pressed="' + (sel === j) + '"' + (locked ? ' disabled' : '') + '><b class="ico">' + ico(o[0]) + '</b>' + esc(o[0]) + '</button>').join('') + '</div>';
+      : '<div class="opts">' + q.o.map((o, j) => '<button class="opt' + (sel === j ? ' sel' : '') + '" data-act="pick" data-j="' + j + '" aria-pressed="' + (sel === j) + '"><b class="ico">' + ico(o[0]) + '</b>' + esc(o[0]) + '</button>').join('') + '</div>';
     return head + '<p class="kicker">' + esc(q.k) + '</p><h1 class="mid">' + esc(q.q) + '</h1><p class="lede">' + esc(q.sub) + '</p>' + opts +
-      (locked ? '<p class="hint">Competition entries stay unbranded. To put your firm on the sheet, change where it will be shown.</p>' : other('Say it your way')) +
-      next(last ? 'See my preview' : a !== null || locked ? 'Continue' : 'Skip this one', a !== null || locked);
+      other('Say it your way') +
+      /* one tap picks and moves on (owner, 6 Nov 2026); the button shows only for a typed "Other" answer, or when
+         changing an answer from the preview */
+      '<div id="qgo"' + (S.fromHeard || a === 'other' ? '' : ' hidden') + '>' + next(last ? 'See my preview' : 'Continue', true).replace('</main>', '') + '</div>' + (S.fromHeard || a === 'other' ? '' : helper ? '<div class="row">' + helper + '</div>' : '') + '</main>';
   };
 
 
@@ -1294,7 +1309,7 @@
   const savedJobRow = () => !DEMO && S.job ? '<div class="row savedjob"><button class="chip lime" data-act="resume">Continue your project →</button>' + newJobLink() + '</div>' : '';
   V.home = () => {
     const steps = [['Upload', 'Drop in what you have: plans, sections, sketches, model photos, even screenshots of your sheets. 5 to 10 is best.', 'up'],
-      ['Answer a few questions', 'A few quick taps and your concept in a few words.', 'q'],
+      ['Answer a few questions', 'Your title block, how far AI should go, and your concept in a few words.', 'q'],
       ['Preview your board and deck, free', 'See which drawing goes where and what each slide says. Move, swap or remove anything.', 'plan'],
       ['Pay once, then download', 'Your A1 board and jury deck. Fix anything in the editor, then take PDF, PowerPoint or InDesign.', 'dl']];
     const sico = { up: '<path d="M12 16V4M7 9l5-5 5 5M5 20h14"/>', q: '<path d="M9 9a3 3 0 1 1 4 2.8c-.7.3-1 .8-1 1.6M12 17h.01"/><circle cx="12" cy="12" r="9"/>', plan: '<path d="M4 6h16M4 12h10M4 18h7"/><circle cx="19" cy="16" r="3"/>', dl: '<path d="M12 4v11M7 10l5 5 5-5M5 20h14"/>' };
@@ -1571,6 +1586,7 @@
   }
 
   /* ---------------------------------------------------------- actions */
+  let picking = false;   // one tap moves on: a second tap in the short pause does nothing
   const A = {
     home: (el, e) => { e.preventDefault(); go('home'); },
     start: () => {
@@ -1599,12 +1615,30 @@
       }
       S.q = 1; S.fromHeard = false; go('q');
     },
-    pick: (el) => { const k = curKey(), j = +el.dataset.j; S.ans[k] = S.ans[k] === j ? null : j; S.oth[k] = ''; if (k === 'where') delete S.noName; saveS(); render(); },
+    /* one tap picks and moves on; tapping the picked option again moves on too (changing an answer from the
+       preview still waits for "Back to preview") */
+    pick: (el) => {
+      if (picking) return;
+      const k = curKey(), j = +el.dataset.j;
+      S.ans[k] = j; S.oth[k] = ''; saveS();
+      if (S.fromHeard) { render(); return; }
+      picking = true;
+      document.querySelectorAll('.opt, .thumb').forEach((b) => { const on = b === el; b.classList.toggle('sel', on); b.setAttribute('aria-pressed', String(on)); });
+      setTimeout(() => { picking = false; if (S.screen === 'q' && curKey() === k) A.qnext(); }, 180);
+    },
     qnext: () => {
-      const ck = CARD[curKey()];
+      const k = curKey(), ck = CARD[k];
       if (ck && !(S.card[ck[0]] || '').trim()) { document.getElementById('cardErr').textContent = 'Needed for the title block, so it never shows a blank.'; document.getElementById('cardin').focus(); return; }
+      if (k === 'email' && qEmail() && !EMAIL_RE.test(qEmail())) {
+        const er = document.getElementById('qErr'), m = document.getElementById('qemail');
+        if (er) er.textContent = 'That email doesn’t look right. Check it, or tap Skip.';
+        if (m) m.focus();
+        return;
+      }
+      if (k === 'email' && !qEmail()) S.optin = false;
       if (S.fromHeard || S.q === path().length) { if (DEMO) { S.fromHeard = false; applyIntake(); go('plan'); } else finishQuestions(); } else { S.q += 1; saveS(); render(); }
     },
+    qskip: () => { S.email = ''; S.optin = false; saveS(); A.qnext(); },
     qback: () => { if (S.fromHeard) { S.fromHeard = false; go(paid() ? 'result' : 'plan'); } else if (S.q > 1) { S.q -= 1; saveS(); render(); } else go('upload'); },
     student: () => { studentAnswers(); S.fromHeard = false; S.q = path().indexOf('cname') + 1; saveS(); go('q'); toast(S.card.name ? 'Filled in the student’s real answers.' : 'Filled in the student’s answers. Type any name to test.'); },
     editq: (el) => { S.q = path().indexOf(el.dataset.k) + 1; S.fromHeard = true; go('q'); },
@@ -1794,17 +1828,20 @@
     if (e.target.id === 'concept') { S.concept = e.target.value; saveS(); const nb = document.querySelector('[data-act="qnext"]'); if (nb) { nb.textContent = conceptLabel(); nb.classList.toggle('primary', !!concept()); } }
     if (e.target.dataset && e.target.dataset.card) { S.card[e.target.dataset.card] = e.target.value; saveS(); const on = !!e.target.value.trim(), er = document.getElementById('cardErr'); if (er && on) er.textContent = ''; const nb = document.querySelector('[data-act="qnext"]'); if (nb) nb.classList.toggle('primary', on); }
     if (e.target.id === 'wfnote') { S.waitNote = e.target.value; saveS(); }
+    if (e.target.id === 'qemail') { S.email = e.target.value; saveS(); const er = document.getElementById('qErr'); if (er) er.textContent = ''; const nb = document.querySelector('[data-act="qnext"]'); if (nb) nb.classList.toggle('primary', !!e.target.value.trim()); }
+    if (e.target.id === 'other') { const g = document.getElementById('qgo'); if (g && !S.fromHeard) g.hidden = S.ans[curKey()] !== 'other'; }
     if (e.target.id === 'email') { S.email = e.target.value; saveS(); e.target.classList.remove('needs'); const er = document.getElementById('emailErr'); if (er) er.textContent = ''; }
   });
   app.addEventListener('change', (e) => {
     if (e.target.id === 'other') render();
+    if (e.target.id === 'optin') { S.optin = e.target.checked; saveS(); }
     if (e.target.id === 'noname') { S.noName = e.target.checked; saveS(); const n = document.getElementById('cardNote'); if (n) n.textContent = nameNote(); }
     if (e.target.name === 'wfr') { S.waitRate = +e.target.value; saveS(); document.querySelectorAll('#waitfb .rstars label').forEach((l, i) => l.classList.toggle('on', i < S.waitRate)); }
   });
   document.addEventListener('keydown', (e) => {
     if (VIEW) return;   // owner view: no typing, no editor shortcuts
     if ((e.key === 'Enter' || e.key === ' ') && e.target.matches && e.target.matches('span[role="button"][data-act]')) { e.preventDefault(); e.target.click(); return; }
-    if (e.key === 'Enter' && e.target.matches && e.target.matches('#cardin, #concept')) { e.preventDefault(); A.qnext(); return; }
+    if (e.key === 'Enter' && e.target.matches && e.target.matches('#cardin, #concept, #qemail, #other')) { e.preventDefault(); if (e.target.id !== 'other' || S.ans[curKey()] === 'other') A.qnext(); return; }
     if (S.screen !== 'edit') return;
     const mod = e.metaKey || e.ctrlKey;
     if (mod && (e.key === 'z' || e.key === 'Z')) { e.preventDefault(); if (e.shiftKey) redo(); else undo(); }
@@ -1872,6 +1909,7 @@
     if (btn) { btn.disabled = true; btn.textContent = 'Saving…'; }
     let r = await API.intake(S.job, body);
     if (r.status === 422 && body.no_name && /no_name/.test(r.data.error || '')) { delete body.no_name; r = await API.intake(S.job, body); }   // a server from before C8
+    if (r.status === 422 && body.email && /email/.test(r.data.error || '') && /extra|permitted/i.test(r.data.error || '')) { delete body.email; delete body.email_optin; r = await API.intake(S.job, body); }   // a server from before the email step
     if (!r.ok) {
       if (btn) { btn.disabled = false; btn.textContent = 'Try again'; }
       if (er) er.textContent = r.status === 0 ? offline : r.status === 422 ? 'Something in your answers needs a look: ' + (r.data.error || '') : (r.data.error || 'Your answers could not be saved. Try again.');
@@ -2019,8 +2057,9 @@
     trackPaid();
     S.files = ST.files || S.files || [];
     UC = ST.upload_checks || null;
-    if (ST.intake && (!S.lastIntake || fromReceipt || !Object.keys(S.card || {}).length)) { fromIntake(ST.intake); S.lastIntake = JSON.stringify(intakeBody()); }
     if (ST.email && !S.email) S.email = ST.email;
+    if (ST.email_optin && S.optin === undefined) S.optin = true;
+    if (ST.intake && (!S.lastIntake || fromReceipt || !Object.keys(S.card || {}).length)) { fromIntake(ST.intake); S.lastIntake = JSON.stringify(intakeBody()); }
     const stg = ST.stage, cur = S.screen;
     let to = cur;
     if (stg === 'upload' || stg === 'questions') to = ['upload', 'q'].includes(cur) ? cur : 'upload';

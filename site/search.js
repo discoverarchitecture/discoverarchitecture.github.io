@@ -91,7 +91,7 @@
     b._ns = words(b.name).map(stem);
     for (const [f, wt] of FIELDS) for (const w of words(text[f])) add(stem(w), i, wt, wt >= 4);
   }
-  const start = () => { if (!ALL.length) ALL = (window.DA && window.DA.ALL) || window.BUILDINGS || []; };
+  const start = () => { if (!ALL.length) ALL = window.SEARCH_ALL || (window.DA && window.DA.ALL) || window.BUILDINGS || []; }; // SEARCH_ALL: other pages (sitesearch.js)
   function warm() {
     if (built) return;
     start();
@@ -156,6 +156,7 @@
     for (const [v, n] of strong) {
       if (v.length < 4 || v[0] !== w[0] && max === 1) continue;
       const d = edits(w, v, max);
+      if (d > max) continue;
       if (d < bestD || (d === bestD && n > bestN)) { best = v; bestD = d; bestN = n; }
     }
     return best;

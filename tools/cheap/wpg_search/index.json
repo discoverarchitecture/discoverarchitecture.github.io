@@ -1,0 +1,130 @@
+[
+ {
+  "n": 0,
+  "qid": null,
+  "url": "https://en.wikipedia.org/w/api.php?action=query&generator=search&gsrsearch=%22Winnipeg+Building+Index%22&gsrlimit=30&prop=extlinks&ellimit=max&format=json&formatversion=2",
+  "file": "000.txt",
+  "ok": true,
+  "chars": 4369
+ },
+ {
+  "n": 1,
+  "qid": null,
+  "url": "https://en.wikipedia.org/w/api.php?action=query&list=search&srsearch=Qaumajuq+Inuit+art+centre+Maltzan&srlimit=5&format=json&formatversion=2",
+  "file": "001.txt",
+  "ok": true,
+  "chars": 748
+ },
+ {
+  "n": 2,
+  "qid": null,
+  "url": "https://en.wikipedia.org/w/api.php?action=query&list=search&srsearch=Royal+Canadian+Mint+Winnipeg+facility+Gaboury&srlimit=5&format=json&formatversion=2",
+  "file": "002.txt",
+  "ok": true,
+  "chars": 643
+ },
+ {
+  "n": 3,
+  "qid": null,
+  "url": "https://en.wikipedia.org/w/api.php?action=query&list=search&srsearch=Union+Bank+Tower+Winnipeg+Main+Street+1904&srlimit=5&format=json&formatversion=2",
+  "file": "003.txt",
+  "ok": true,
+  "chars": 1583
+ },
+ {
+  "n": 4,
+  "qid": null,
+  "url": "https://en.wikipedia.org/w/api.php?action=query&list=search&srsearch=Winnipeg+City+Hall+1964+Green+Blankstein+Russell+civic+centre&srlimit=5&format=json&formatversion=2",
+  "file": "004.txt",
+  "ok": true,
+  "chars": 1425
+ },
+ {
+  "n": 5,
+  "qid": null,
+  "url": "https://en.wikipedia.org/w/api.php?action=query&list=search&srsearch=The+Leaf+Assiniboine+Park+conservatory+Diamond+Schmitt&srlimit=5&format=json&formatversion=2",
+  "file": "005.txt",
+  "ok": true,
+  "chars": 73
+ },
+ {
+  "n": 6,
+  "qid": null,
+  "url": "https://en.wikipedia.org/w/api.php?action=query&list=search&srsearch=John+A.+Russell+Building+University+of+Manitoba+architecture&srlimit=5&format=json&formatversion=2",
+  "file": "006.txt",
+  "ok": true,
+  "chars": 1617
+ },
+ {
+  "n": 7,
+  "qid": null,
+  "url": "https://en.wikipedia.org/w/api.php?action=query&list=search&srsearch=Winnipeg+airport+terminal+Pelli+2011&srlimit=5&format=json&formatversion=2",
+  "file": "007.txt",
+  "ok": true,
+  "chars": 1279
+ },
+ {
+  "n": 8,
+  "qid": null,
+  "url": "https://en.wikipedia.org/w/api.php?action=query&list=search&srsearch=Canadian+Museum+for+Human+Rights+Antoine+Predock&srlimit=5&format=json&formatversion=2",
+  "file": "008.txt",
+  "ok": true,
+  "chars": 1561
+ },
+ {
+  "n": 9,
+  "qid": null,
+  "url": "https://en.wikipedia.org/w/api.php?action=query&list=search&srsearch=Centennial+Concert+Hall+Winnipeg+architect&srlimit=5&format=json&formatversion=2",
+  "file": "009.txt",
+  "ok": true,
+  "chars": 1564
+ },
+ {
+  "n": 10,
+  "qid": null,
+  "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Qaumajuq&language=en&limit=7&format=json",
+  "file": "010.txt",
+  "ok": true,
+  "chars": 60
+ },
+ {
+  "n": 11,
+  "qid": null,
+  "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Royal+Canadian+Mint+Winnipeg&language=en&limit=7&format=json",
+  "file": "011.txt",
+  "ok": true,
+  "chars": 80
+ },
+ {
+  "n": 12,
+  "qid": null,
+  "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Union+Bank+Tower&language=en&limit=7&format=json",
+  "file": "012.txt",
+  "ok": true,
+  "chars": 577
+ },
+ {
+  "n": 13,
+  "qid": null,
+  "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Winnipeg+City+Hall&language=en&limit=7&format=json",
+  "file": "013.txt",
+  "ok": true,
+  "chars": 70
+ },
+ {
+  "n": 14,
+  "qid": null,
+  "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=The+Leaf&language=en&limit=7&format=json",
+  "file": "014.txt",
+  "ok": true,
+  "chars": 3279
+ },
+ {
+  "n": 15,
+  "qid": null,
+  "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=John+A.+Russell+Building&language=en&limit=7&format=json",
+  "file": "015.txt",
+  "ok": true,
+  "chars": 76
+ }
+]

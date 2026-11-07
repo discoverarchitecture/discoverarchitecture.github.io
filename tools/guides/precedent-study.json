@@ -1,0 +1,58 @@
+{
+  "slug": "precedent-study",
+  "title": "How to do an architecture precedent study: a step-by-step guide",
+  "seo_title": "How to Do an Architecture Precedent Study (Step-by-Step Guide)",
+  "description": "A step-by-step guide to an architecture precedent study: choosing the right building, finding plans and sections, redrawing, analysis diagrams, and turning it into a design move.",
+  "kicker": "Guide · Precedent studies",
+  "author": "Akshat",
+  "author_note": "Architect, trained at CEPT University, Ahmedabad",
+  "published": "2026-11-07",
+  "answer": "A precedent study looks closely at an existing building to learn something you can use in your own design. Choose a building that shares your project's question (its use, site, climate or main idea), not just a famous one. Collect its plans, sections and photos, redraw the key drawings yourself at one scale, and explain it with a few simple diagrams: structure, circulation, light, and how it meets its site. End with one sentence on what you will take into your project, and credit every source.",
+  "steps": [
+    {"h": "1. Start from your own brief, not from a famous name", "p": [
+      "The best precedent shares your project's question. If you are designing a small library, look at how other libraries bring daylight to readers; if your site is hot and dry, look at buildings in a similar climate; if your idea is a courtyard, look at buildings organised around one.",
+      "Write the question down first, in one line: <em>how does a reading room get even daylight without glare?</em> Then look for buildings that answer it. Browsing by idea helps: the <a href=\"/ideas/courtyard/\">courtyard</a>, <a href=\"/ideas/cantilever/\">cantilever</a>, <a href=\"/ideas/timber/\">timber</a> and <a href=\"/ideas/adaptive-reuse/\">adaptive reuse</a> pages gather buildings around one idea each, and the <a href=\"/types/libraries/\">libraries</a> and <a href=\"/types/museums/\">museums</a> pages around one use."
+    ]},
+    {"h": "2. Pick two or three, and include one you don't know", "p": [
+      "One precedent gives you a copy; two or three give you a comparison, which is where you learn. Mix a well-known building with a smaller or less familiar one: the famous building shows the idea clearly, and the lesser-known one shows it at a scale closer to yours.",
+      "For a courtyard, for example, you might compare Alvar Aalto's <a href=\"/buildings/saynatsalo-town-hall/\">Säynätsalo Town Hall</a> with Louis Kahn's <a href=\"/buildings/salk-institute/\">Salk Institute</a>: one small and civic, one a research campus, both built around an open centre."
+    ]},
+    {"h": "3. Gather the drawings before the photos", "p": [
+      "Photos show how a building looks; plans and sections show how it works. Look for a site plan, floor plans, at least one section and an elevation. On every building page here, <em>Go deeper</em> links to the places that publish drawings, such as ArchDaily and WikiArquitectura, and your library's architecture guide will list more.",
+      "Note where each drawing comes from as you save it. You will need it for the credits, and it saves an evening of searching later."
+    ]},
+    {"h": "4. Redraw the key drawings yourself", "p": [
+      "Redraw the plan and one section at the same scale, by hand or in CAD, and leave out everything that doesn't matter to your question. Redrawing is the study: you notice the thickness of a wall, the width of a stair, the way a room is entered, things you never see in a photo.",
+      "Keep line weights simple: cut lines heavy, things beyond lighter. Put a scale bar and a north arrow on every plan."
+    ]},
+    {"h": "5. Explain it with a few diagrams", "p": [
+      "A diagram shows one idea and nothing else. The ones juries understand fastest are structure (what holds it up), circulation (how people move through it), light (where daylight enters and where it falls), public and private zones, and the relationship to the site and sun.",
+      "Draw them over a faint copy of your plan or section, in one colour each. Le Corbusier's <a href=\"/buildings/villa-savoye/\">Villa Savoye</a> is a good one to practise on: its columns, free plan and ramp each make a clear diagram."
+    ]},
+    {"h": "6. Read the building's context", "p": [
+      "A building answers its time, place, client and budget. Find out who it was for, what the site was like, and what the architect was trying to do. The architect pages here, such as <a href=\"/architects/louis-kahn/\">Louis Kahn</a>, <a href=\"/architects/alvar-aalto/\">Alvar Aalto</a> or <a href=\"/architects/tadao-ando/\">Tadao Ando</a>, show their other buildings, which often explain the idea better than any single one.",
+      "Context also keeps you from copying a solution that worked somewhere else for reasons that don't apply to your site."
+    ]},
+    {"h": "7. Compare them side by side, at the same scale", "p": [
+      "Put your two or three precedents next to each other: the same drawings, the same scale, the same diagrams. Differences jump out when the drawings line up, and that comparison is usually the most interesting part of the study for a jury."
+    ]},
+    {"h": "8. Write what you will take", "p": [
+      "End every precedent with one sentence that starts \"For my project…\". For example: <em>for my project, I will set the reading tables along the outer wall and bring light from above, so the centre stays calm.</em> If you can't write that sentence, the study is a description, not a precedent.",
+      "This is the part tutors look for, and the part most studies skip."
+    ]},
+    {"h": "9. Lay it out on one sheet per building", "p": [
+      "A clear order works: the building's name, architect, year and place; your question; the redrawn plan and section; the diagrams; two or three photos; your \"for my project\" sentence; then the sources in small type. Keep the same layout for every precedent so they read as a set."
+    ]},
+    {"h": "10. Credit every drawing and photo", "p": [
+      "Name the source of every image and drawing you didn't make. The photos on Find Great Architecture are public domain or Creative Commons, and each one shows its author, licence and a link to its source, so you can copy the credit as it is. A redrawing is your own work, but say what it was drawn from: \"redrawn after the plan published by …\"."
+    ]}
+  ],
+  "cta": {"h": "Find your precedents", "p": "Browse a huge collection of buildings by style, type, city and idea, each with free credited photos, key features and links to plans and sections. No sign-up.", "link": "Browse the wall", "href": "?ref=guide-precedent"},
+  "faq": [
+    {"q": "What is a precedent study in architecture?", "a": "A precedent study is a close look at an existing building to learn a lesson you can use in your own design: how it is organised, built, lit or placed on its site. It usually combines redrawn plans and sections, analysis diagrams and a short written conclusion."},
+    {"q": "How many precedents should I study?", "a": "Two or three is usually enough for one project, unless your brief says otherwise. One gives you something to copy; two or three let you compare, which is where most of the learning happens."},
+    {"q": "Where can I find plans and sections of famous buildings?", "a": "Architecture websites such as ArchDaily and WikiArquitectura publish drawings for many buildings, and every building page on Find Great Architecture links to them under Go deeper. Your university library's architecture guide and monographs on the architect are the other good sources."},
+    {"q": "Can I use photos from the internet in a precedent study?", "a": "Use photos you are allowed to use, and credit them. Public domain and Creative Commons photos, such as those from Wikimedia Commons, can be used in coursework with the credit their licence asks for. Every photo on Find Great Architecture shows its author, licence and source."},
+    {"q": "What is the difference between a precedent study and a case study?", "a": "The words are often used for the same thing. Where a school separates them, a case study usually describes a building in full, while a precedent study looks at it for a specific lesson that feeds your own design."}
+  ]
+}

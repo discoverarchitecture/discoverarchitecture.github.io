@@ -1,0 +1,243 @@
+[
+ {
+  "id": "teatro-oficina",
+  "verdict": "fixed",
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Teatro_Oficina",
+    "quote": "The current building was designed in 1984 by Lina Bo Bardi and Edson Elito and inaugurated in 1994."
+   }
+  ],
+  "note": "write-up source check (7 Nov 2026); spans take the finishing year (owner, 7 Nov 2026)",
+  "year": 1994
+ },
+ {
+  "id": "rovaniemi-library",
+  "verdict": "fixed",
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Rovaniemi_Library",
+    "quote": "The library building was completed in 1965."
+   }
+  ],
+  "note": "write-up source check (7 Nov 2026); spans take the finishing year (owner, 7 Nov 2026)",
+  "year": 1965
+ },
+ {
+  "id": "breuer-house-ii-new-canaan",
+  "verdict": "fixed",
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Marcel_Breuer_House_II",
+    "quote": "Built in 1947, it was designed by architect Marcel Breuer as a home for his family."
+   }
+  ],
+  "note": "write-up source check (7 Nov 2026); spans take the finishing year (owner, 7 Nov 2026)",
+  "year": 1947
+ },
+ {
+  "id": "copenhagen-opera-house",
+  "verdict": "fixed",
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Copenhagen_Opera_House",
+    "quote": "Construction began in June 2001 and was completed on 1 October 2004."
+   }
+  ],
+  "note": "write-up source check (7 Nov 2026); spans take the finishing year (owner, 7 Nov 2026)",
+  "year": 2004
+ },
+ {
+  "id": "palau-guell",
+  "verdict": "fixed",
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Palau_G%C3%BCell",
+    "quote": "was built between 1886 and 1888."
+   }
+  ],
+  "note": "write-up source check (7 Nov 2026); spans take the finishing year (owner, 7 Nov 2026)",
+  "year": 1888
+ },
+ {
+  "id": "quinta-monroy",
+  "verdict": "fixed",
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Quinta_Monroy",
+    "quote": "Completed in 2003, the project consists of 93 homes"
+   }
+  ],
+  "note": "write-up source check (7 Nov 2026); spans take the finishing year (owner, 7 Nov 2026)",
+  "year": 2003
+ },
+ {
+  "id": "barbican-estate",
+  "verdict": "fixed",
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Barbican_Estate",
+    "quote": "The estate was built between 1965 and 1976"
+   }
+  ],
+  "note": "write-up source check (7 Nov 2026); spans take the finishing year (owner, 7 Nov 2026)",
+  "year": 1976
+ },
+ {
+  "id": "republican-palace-baghdad",
+  "verdict": "fixed",
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Republican_Palace%2C_Baghdad",
+    "quote": "constructed on the orders of King Faisal II and completed in the early 1960s."
+   }
+  ],
+  "note": "write-up source check (7 Nov 2026); spans take the finishing year (owner, 7 Nov 2026)",
+  "year": "early 1960s"
+ },
+ {
+  "id": "bakhmetevsky-bus-garage",
+  "verdict": "fixed",
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Bakhmetevsky_Bus_Garage",
+    "quote": "The building, completed in 1927"
+   }
+  ],
+  "note": "write-up source check (7 Nov 2026); spans take the finishing year (owner, 7 Nov 2026)",
+  "year": 1927
+ },
+ {
+  "id": "austin-hall-harvard",
+  "verdict": "fixed",
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Austin_Hall_%28Harvard_University%29",
+    "quote": "The hall was built 1882–1884 in Romanesque Revival style."
+   }
+  ],
+  "note": "write-up source check (7 Nov 2026); spans take the finishing year (owner, 7 Nov 2026)",
+  "year": 1884
+ },
+ {
+  "id": "crypt-of-colonia-guell",
+  "verdict": "fixed",
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Church_of_Col%C3%B2nia_G%C3%BCell",
+    "quote": "The crypt portion of the church, constructed from 1908 to 1915, was the only segment of the church that was fully completed."
+   }
+  ],
+  "note": "write-up source check (7 Nov 2026); spans take the finishing year (owner, 7 Nov 2026)",
+  "year": 1915
+ },
+ {
+  "id": "musac",
+  "verdict": "fixed",
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Museo_de_Arte_Contempor%C3%A1neo_de_Castilla_y_Le%C3%B3n",
+    "quote": "Inaugurated in April 2005 by Felipe, Prince of Asturias"
+   }
+  ],
+  "note": "write-up source check (7 Nov 2026); spans take the finishing year (owner, 7 Nov 2026)",
+  "year": 2005
+ },
+ {
+  "id": "bodegas-guell",
+  "verdict": "fixed",
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Bodegas_G%C3%BCell",
+    "quote": "The winery buildings were finally built between 1895 and 1897, under the direction of Francesc Berenguer"
+   }
+  ],
+  "note": "write-up source check (7 Nov 2026); spans take the finishing year (owner, 7 Nov 2026)",
+  "year": 1897
+ },
+ {
+  "id": "meti-school",
+  "verdict": "fixed",
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/METI_Handmade_School",
+    "quote": "The construction was completed over a period of four months from September 2005 to December 2005."
+   }
+  ],
+  "note": "write-up source check (7 Nov 2026); spans take the finishing year (owner, 7 Nov 2026)",
+  "year": 2005
+ },
+ {
+  "id": "seinajoki-city-hall",
+  "verdict": "fixed",
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Aalto_Centre%2C_Sein%C3%A4joki",
+    "quote": "The town hall was constructed in 1961–1962"
+   }
+  ],
+  "note": "write-up source check (7 Nov 2026); spans take the finishing year (owner, 7 Nov 2026)",
+  "year": 1962
+ },
+ {
+  "id": "edificio-comega",
+  "verdict": "fixed",
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Comega_Building",
+    "quote": "It was built, in rationalist style, between 1921 and 1934 on a project by Ing. Alberto Stein and architects Enrique Douillet and Alfredo Joselevich."
+   }
+  ],
+  "note": "write-up source check (7 Nov 2026); spans take the finishing year (owner, 7 Nov 2026)",
+  "by": "Alfredo Joselevich, Enrique Douillet",
+  "year": 1934
+ },
+ {
+  "id": "secretariat-building",
+  "verdict": "fixed",
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Secretariat_Building%2C_Chandigarh",
+    "quote": "Secretariat Building is a Le Corbusier-designed building in Chandigarh completed in 1953"
+   }
+  ],
+  "note": "write-up source check (7 Nov 2026); spans take the finishing year (owner, 7 Nov 2026)",
+  "year": 1953
+ },
+ {
+  "id": "anahuacalli-museum",
+  "verdict": "fixed",
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Anahuacalli_Museum",
+    "quote": "Thus, the construction concluded in 1963 and the museum was inaugurated on September 18, 1964."
+   }
+  ],
+  "note": "write-up source check (7 Nov 2026); spans take the finishing year (owner, 7 Nov 2026)",
+  "year": 1963
+ },
+ {
+  "id": "aero-habitat",
+  "verdict": "fixed",
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/A%C3%A9rohabitat",
+    "quote": "The construction of the Aérohabitat is attributed to Louis Miquel, along with Pierre Bourlier and José Ferrer-Laloë"
+   }
+  ],
+  "note": "write-up source check (7 Nov 2026); spans take the finishing year (owner, 7 Nov 2026)",
+  "by": "Louis Miquel, Pierre Bourlier, José Ferrer-Laloë"
+ },
+ {
+  "id": "australian-national-maritime-museum",
+  "verdict": "fixed",
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Australian_National_Maritime_Museum",
+    "quote": "Construction was completed on 17 November 1989"
+   }
+  ],
+  "note": "write-up source check (7 Nov 2026); spans take the finishing year (owner, 7 Nov 2026)",
+  "year": 1989
+ }
+]
