@@ -61,11 +61,11 @@ Rules that hold the whole time (CLAUDE.md):
 - [x] 17. Write-ups round 8, the last: `todo_22-24.json` (298 pages) on `claude/writeups-round8` (request
       "22 23 24"); copy wu8 tools to `wu9/`. After it, every indexable building page has been tried once. Push notes PRs on
       a new branch name (a force-push to reuse a branch name was refused).
-- [ ] 18. Write-ups, second pass: the 627 indexable pages still without a write-up after rounds 1-8 (too little in
+- [-] 18. (Stopped by the owner, 7 Nov) Write-ups, second pass: the 627 indexable pages still without a write-up after rounds 1-8 (too little in
       the article the first search found, or the wrong article). `todo_r1-r5.json` on `claude/writeups-retry1`; the
       fetcher now looks each up by Wikidata id, then exact name, then name + city (request "r1 r2 r3 r4 r5"). Same steps
       after that (wu10/). Expect a low yield: many have no English article at all.
-- [ ] 10. Final report to the owner: what went live, what waits for their decision, numbers to watch.
+- [x] 10. Final report to the owner: what went live, what waits for their decision, numbers to watch.
 
 ## Log
 
@@ -100,3 +100,4 @@ Rules that hold the whole time (CLAUDE.md):
 - 7 Nov ~20:00 UTC: round 7 done and **merged (PR #184)**: 249 more write-ups, 1,549 in all (83% yield: better-documented Western buildings). 46 credit/year notes (PR #185, merged). Round 8 started: the last 298 indexable pages (todo_22-24).
 - 7 Nov 20:15 UTC check-in: round 8 articles landed (298, todo_22-24). Six agents take quotes into scratchpad wu9/facts_a..f.json.
 - 7 Nov ~21:00 UTC: round 8 done and **merged (PR #186)**: 222 more write-ups, **1,771 in all**; every indexable building page has now been tried once. 67 credit/year/Key-features notes (PR #187, merged). Second pass started (task 18) on the 627 still without one.
+- 7 Nov ~22:00 UTC: **marathon stopped early at the owner's request** (save compute). Second-pass fetch cancelled; routine trig_01SP4cYZG3qmjtpp1817PWS2 disabled. Owner asked for indexing instead: the 1,771 write-up pages were already indexable, so the sitemap now dates each (`<lastmod>`) and tools/seo/request_indexing.md lists 50 for Search Console (PR #188, merged). Final report sent in the chat.
