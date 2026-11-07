@@ -359897,130 +359897,6 @@ window.BUILDINGS = [
     "license": "CC BY 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Canadian_Museum_for_Human_Rights_at_night,_Winnipeg,_Manitoba,_Canada.jpg",
     "file": "File:Canadian Museum for Human Rights at night, Winnipeg, Manitoba, Canada.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Esplanade_Riel.jpg/1280px-Esplanade_Riel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/canadian-museum-for-human-rights/thumbs/4.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior · Looking down the Esplanade Riel footbridge facing West in September 2022",
-    "credit": "Samsmachado",
-    "license": "CC BY 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Esplanade_Riel.jpg",
-    "file": "File:Esplanade Riel.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Canadian_Museum_for_Human_Rights_and_downtown_Winnipeg_skyline_at_night%2C_Manitoba%2C_Canada.jpg/1280px-Canadian_Museum_for_Human_Rights_and_downtown_Winnipeg_skyline_at_night%2C_Manitoba%2C_Canada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/canadian-museum-for-human-rights/thumbs/5.webp",
-    "w": 1280,
-    "h": 762,
-    "kind": "Interior",
-    "caption": "Interior",
-    "credit": "Ethan Sahagun",
-    "license": "CC BY 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Canadian_Museum_for_Human_Rights_and_downtown_Winnipeg_skyline_at_night,_Manitoba,_Canada.jpg",
-    "file": "File:Canadian Museum for Human Rights and downtown Winnipeg skyline at night, Manitoba, Canada.jpg"
-   }
-  ],
-  "has": [],
-  "gv": 3
- },
- {
-  "id": "winnipeg-art-gallery",
-  "n": 4326,
-  "name": "Winnipeg Art Gallery",
-  "by": "Gustavo da Roza",
-  "place": "Winnipeg, CA",
-  "year": "1971",
-  "y": 1971,
-  "type": "Museum",
-  "movement": "Late modernism",
-  "region": "Americas",
-  "era": "1970–1990",
-  "concepts": [
-   "Geometry",
-   "Stone",
-   "Monumentality"
-  ],
-  "study": "Da Roza's competition-winning gallery on a triangular site, opened in 1971; Michael Maltzan's Qaumajuq, for Inuit art, joined it in 2021.",
-  "qid": null,
-  "commons": "Category:Winnipeg Art Gallery",
-  "lead": null,
-  "coords": null,
-  "hotlink": true,
-  "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/A_cast_of_Auguste_Rodin%27s_%22The_Thinker%22_in_the_Winnipeg_Art_Gallery_%2833252959862%29.jpg/1280px-A_cast_of_Auguste_Rodin%27s_%22The_Thinker%22_in_the_Winnipeg_Art_Gallery_%2833252959862%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/winnipeg-art-gallery/thumbs/0.webp",
-    "w": 1280,
-    "h": 720,
-    "kind": "Exterior",
-    "caption": "Exterior · A cast of Auguste Rodin's \"The Thinker\" in the Winnipeg Art Gallery",
-    "credit": "Rob Swystun  from Winnipeg, Canada",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:A_cast_of_Auguste_Rodin%27s_%22The_Thinker%22_in_the_Winnipeg_Art_Gallery_(33252959862).jpg",
-    "file": "File:A cast of Auguste Rodin's \"The Thinker\" in the Winnipeg Art Gallery (33252959862).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Art_at_the_Winnipeg_Art_Gallery_in_Winnipeg%2C_Manitoba%2C_Canada._Artist_Amanda_Strong_Piece_Biidaaban_%2837444106825%29.jpg/1280px-Art_at_the_Winnipeg_Art_Gallery_in_Winnipeg%2C_Manitoba%2C_Canada._Artist_Amanda_Strong_Piece_Biidaaban_%2837444106825%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/winnipeg-art-gallery/thumbs/1.webp",
-    "w": 787,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior · Art at the Winnipeg Art Gallery in Winnipeg, Manitoba, Canada",
-    "credit": "Rob Swystun  from Winnipeg, Canada",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Art_at_the_Winnipeg_Art_Gallery_in_Winnipeg,_Manitoba,_Canada._Artist_Amanda_Strong_Piece_Biidaaban_(37444106825).jpg",
-    "file": "File:Art at the Winnipeg Art Gallery in Winnipeg, Manitoba, Canada. Artist Amanda Strong Piece Biidaaban (37444106825).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/WAG_and_The_Bay.jpg/1280px-WAG_and_The_Bay.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/winnipeg-art-gallery/thumbs/2.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "AJ Batac  from Winnipeg, Canada",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:WAG_and_The_Bay.jpg",
-    "file": "File:WAG and The Bay.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Winnipeg_Art_Gallery.IMG_2899.jpg/1280px-Winnipeg_Art_Gallery.IMG_2899.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/winnipeg-art-gallery/thumbs/3.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Intermedichbo - Dr Milorad Dimić, Serbia",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Winnipeg_Art_Gallery.IMG_2899.jpg",
-    "file": "File:Winnipeg Art Gallery.IMG 2899.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/The_Winnipeg_Art_Gallery%2C_1971_-_Main_Staircase.jpg/1280px-The_Winnipeg_Art_Gallery%2C_1971_-_Main_Staircase.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/winnipeg-art-gallery/thumbs/4.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Interior",
-    "caption": "Interior · The Winnipeg Art Gallery, 1971 - Main Staircase",
-    "credit": "Jack Coop",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:The_Winnipeg_Art_Gallery,_1971_-_Main_Staircase.jpg",
-    "file": "File:The Winnipeg Art Gallery, 1971 - Main Staircase.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Art_at_the_Winnipeg_Art_Gallery_in_Winnipeg%2C_Manitoba%2C_Canada._Artist_Dayna_Danger._Name_of_the_piece_Kandace%27s_Mask%2C_Danger%27s_Mask%2C_Adrienne%27s_Mask._%2836591702524%29.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/winnipeg-art-gallery/thumbs/5.webp",
-    "w": 1280,
-    "h": 720,
-    "kind": "Detail",
-    "caption": "Detail · Art at the Winnipeg Art Gallery in Winnipeg, Manitoba, Canada",
-    "credit": "Rob Swystun  from Winnipeg, Canada",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Art_at_the_Winnipeg_Art_Gallery_in_Winnipeg,_Manitoba,_Canada._Artist_Dayna_Danger._Name_of_the_piece_Kandace%27s_Mask,_Danger%27s_Mask,_Adrienne%27s_Mask._(36591702524).jpg",
-    "file": "File:Art at the Winnipeg Art Gallery in Winnipeg, Manitoba, Canada. Artist Dayna Danger. Name of the piece Kandace's Mask, Danger's Mask, Adrienne's Mask. (36591702524).jpg"
    }
   ],
   "has": [],
@@ -360028,7 +359904,7 @@ window.BUILDINGS = [
  },
  {
   "id": "manitoba-legislative-building",
-  "n": 4327,
+  "n": 4326,
   "name": "Manitoba Legislative Building",
   "by": "Frank Worthington Simon, Henry Boddington III",
   "place": "Winnipeg, CA",
@@ -360063,30 +359939,6 @@ window.BUILDINGS = [
     "file": "File:Manitoba Legislative building exterior (J).jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Parliamentwinnipeg_manitoba.jpg/1280px-Parliamentwinnipeg_manitoba.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/manitoba-legislative-building/thumbs/1.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Interior",
-    "caption": "Interior · A photo of the parliament in Winnipeg, taken by Canucks4ever83 in June 2006",
-    "credit": "No machine-readable author provided.  Canucks4ever83~commonswiki  assumed (based on copyright claims",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Parliamentwinnipeg_manitoba.jpg",
-    "file": "File:Parliamentwinnipeg manitoba.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Manitoba_Legislative_Building%2C_Winnipeg%2C_Canada_%2835918422850%29.jpg/1280px-Manitoba_Legislative_Building%2C_Winnipeg%2C_Canada_%2835918422850%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/manitoba-legislative-building/thumbs/2.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Context",
-    "caption": "Context · Gardens in front of the Manitoba Legislative Building in Winnipeg, Manitoba, Canada",
-    "credit": "Tony Webster  from Minneapolis, Minnesota, United States",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Manitoba_Legislative_Building,_Winnipeg,_Canada_(35918422850).jpg",
-    "file": "File:Manitoba Legislative Building, Winnipeg, Canada (35918422850).jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Manitoba_Legislative_Building%2C_Winnipeg_%2825069380388%29.jpg/1280px-Manitoba_Legislative_Building%2C_Winnipeg_%2825069380388%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/manitoba-legislative-building/thumbs/3.webp",
     "w": 1280,
@@ -360111,16 +359963,28 @@ window.BUILDINGS = [
     "file": "File:Manitoba Legislative building exterior (J) (cropped).jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Queen_Memorial_Book_Winnipeg.jpg/1280px-Queen_Memorial_Book_Winnipeg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/manitoba-legislative-building/thumbs/5.webp",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Parliamentwinnipeg_manitoba.jpg/1280px-Parliamentwinnipeg_manitoba.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/manitoba-legislative-building/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · A photo of the parliament in Winnipeg, taken by Canucks4ever83 in June 2006",
+    "credit": "No machine-readable author provided.  Canucks4ever83~commonswiki  assumed (based on copyright claims",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Parliamentwinnipeg_manitoba.jpg",
+    "file": "File:Parliamentwinnipeg manitoba.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Manitoba_Legislative_Building%2C_Winnipeg%2C_Canada_%2835918422850%29.jpg/1280px-Manitoba_Legislative_Building%2C_Winnipeg%2C_Canada_%2835918422850%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/manitoba-legislative-building/thumbs/2.webp",
     "w": 1280,
     "h": 853,
-    "kind": "Interior",
-    "caption": "Interior · The memorial book for Queen Elizabeth II in the Manitoba Legislative Building following her death in 2022",
-    "credit": "Words in the Wind",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Queen_Memorial_Book_Winnipeg.jpg",
-    "file": "File:Queen Memorial Book Winnipeg.jpg"
+    "kind": "Context",
+    "caption": "Context · Gardens in front of the Manitoba Legislative Building in Winnipeg, Manitoba, Canada",
+    "credit": "Tony Webster  from Minneapolis, Minnesota, United States",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Manitoba_Legislative_Building,_Winnipeg,_Canada_(35918422850).jpg",
+    "file": "File:Manitoba Legislative Building, Winnipeg, Canada (35918422850).jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Manitoba_Legislative_Building_%281939%29_%283103037678%29.jpg/1280px-Manitoba_Legislative_Building_%281939%29_%283103037678%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -360142,7 +360006,7 @@ window.BUILDINGS = [
  },
  {
   "id": "esplanade-riel",
-  "n": 4328,
+  "n": 4327,
   "name": "Esplanade Riel",
   "by": "Étienne Gaboury, Guy Préfontaine",
   "place": "Winnipeg, CA",
@@ -360175,30 +360039,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Winnipeg_(51552911922).jpg",
     "file": "File:Winnipeg (51552911922).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Esplanade_Riel_Bridge_at_dusk%2C_Winnipeg%2C_Canada.jpg/1280px-Esplanade_Riel_Bridge_at_dusk%2C_Winnipeg%2C_Canada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/esplanade-riel/thumbs/1.webp",
-    "w": 1280,
-    "h": 915,
-    "kind": "Context",
-    "caption": "Context",
-    "credit": "Ethan Sahagun",
-    "license": "CC BY 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Esplanade_Riel_Bridge_at_dusk,_Winnipeg,_Canada.jpg",
-    "file": "File:Esplanade Riel Bridge at dusk, Winnipeg, Canada.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Esplanade_Riel_Pedestrian_Bridge_and_Winnipeg_Skyline_%2835477287654%29.jpg/1280px-Esplanade_Riel_Pedestrian_Bridge_and_Winnipeg_Skyline_%2835477287654%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/esplanade-riel/thumbs/2.webp",
-    "w": 1280,
-    "h": 857,
-    "kind": "Context",
-    "caption": "Context · The Esplanade Riel pedestrian bridge connects Downtown Winnipeg to St",
-    "credit": "Tony Webster  from Minneapolis, Minnesota, United States",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Esplanade_Riel_Pedestrian_Bridge_and_Winnipeg_Skyline_(35477287654).jpg",
-    "file": "File:Esplanade Riel Pedestrian Bridge and Winnipeg Skyline (35477287654).jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Esplanade_Riel_Bridge%2C_Winnipeg_%28505216%29_%2825617656441%29.jpg/1280px-Esplanade_Riel_Bridge%2C_Winnipeg_%28505216%29_%2825617656441%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -360235,6 +360075,30 @@ window.BUILDINGS = [
     "license": "CC BY-SA 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Esplanade_Riel,_Winnipeg,_Manitoba_(29035266697).jpg",
     "file": "File:Esplanade Riel, Winnipeg, Manitoba (29035266697).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Esplanade_Riel_Bridge_at_dusk%2C_Winnipeg%2C_Canada.jpg/1280px-Esplanade_Riel_Bridge_at_dusk%2C_Winnipeg%2C_Canada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/esplanade-riel/thumbs/1.webp",
+    "w": 1280,
+    "h": 915,
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "Ethan Sahagun",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Esplanade_Riel_Bridge_at_dusk,_Winnipeg,_Canada.jpg",
+    "file": "File:Esplanade Riel Bridge at dusk, Winnipeg, Canada.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Esplanade_Riel_Pedestrian_Bridge_and_Winnipeg_Skyline_%2835477287654%29.jpg/1280px-Esplanade_Riel_Pedestrian_Bridge_and_Winnipeg_Skyline_%2835477287654%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/esplanade-riel/thumbs/2.webp",
+    "w": 1280,
+    "h": 857,
+    "kind": "Context",
+    "caption": "Context · The Esplanade Riel pedestrian bridge connects Downtown Winnipeg to St",
+    "credit": "Tony Webster  from Minneapolis, Minnesota, United States",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Esplanade_Riel_Pedestrian_Bridge_and_Winnipeg_Skyline_(35477287654).jpg",
+    "file": "File:Esplanade Riel Pedestrian Bridge and Winnipeg Skyline (35477287654).jpg"
    }
   ],
   "has": [],
@@ -360242,7 +360106,7 @@ window.BUILDINGS = [
  },
  {
   "id": "precious-blood-church-winnipeg",
-  "n": 4329,
+  "n": 4328,
   "name": "Precious Blood Church",
   "by": "Étienne Gaboury",
   "place": "Winnipeg, CA",
@@ -360294,7 +360158,7 @@ window.BUILDINGS = [
  },
  {
   "id": "union-bank-building-winnipeg",
-  "n": 4330,
+  "n": 4329,
   "name": "Union Bank Building, Winnipeg",
   "by": "Darling and Pearson",
   "place": "Winnipeg, CA",
@@ -360341,18 +360205,6 @@ window.BUILDINGS = [
     "file": "File:Union Bank Building.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Detail_of_Union_Bank_Building.JPG/1280px-Detail_of_Union_Bank_Building.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/union-bank-building-winnipeg/thumbs/2.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Detail",
-    "caption": "Detail · Detail of Union Bank Building in Winnipeg, Manitoba",
-    "credit": "Ccyyrree",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Detail_of_Union_Bank_Building.JPG",
-    "file": "File:Detail of Union Bank Building.JPG"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Union_Bank_Tower%2C_Winnipeg_Manitoba_02.JPG/1280px-Union_Bank_Tower%2C_Winnipeg_Manitoba_02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/union-bank-building-winnipeg/thumbs/3.webp",
     "w": 1050,
@@ -360365,28 +360217,16 @@ window.BUILDINGS = [
     "file": "File:Union Bank Tower, Winnipeg Manitoba 02.JPG"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Old_Market_Square_winter.jpg/1280px-Old_Market_Square_winter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/union-bank-building-winnipeg/thumbs/4.webp",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Detail_of_Union_Bank_Building.JPG/1280px-Detail_of_Union_Bank_Building.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/union-bank-building-winnipeg/thumbs/2.webp",
     "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · A view of Old Market Square after an April snowstorm in Winnipeg's Exchange District",
-    "credit": "Krazytea",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Old_Market_Square_winter.jpg",
-    "file": "File:Old Market Square winter.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Winnipeg%2C_Volunteer_Monument_with_Centennial_Concert_Hall_and_Union_Bank_Building_%287331070542%29.jpg/1280px-Winnipeg%2C_Volunteer_Monument_with_Centennial_Concert_Hall_and_Union_Bank_Building_%287331070542%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/union-bank-building-winnipeg/thumbs/5.webp",
-    "w": 953,
-    "h": 1400,
-    "kind": "Interior",
-    "caption": "Interior · Winnipeg, Volunteer Monument with Centennial Concert Hall and Union Bank Building",
-    "credit": "Andrew Filer  from Seattle (ex-Minneapolis)",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Winnipeg,_Volunteer_Monument_with_Centennial_Concert_Hall_and_Union_Bank_Building_(7331070542).jpg",
-    "file": "File:Winnipeg, Volunteer Monument with Centennial Concert Hall and Union Bank Building (7331070542).jpg"
+    "h": 960,
+    "kind": "Detail",
+    "caption": "Detail · Detail of Union Bank Building in Winnipeg, Manitoba",
+    "credit": "Ccyyrree",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Detail_of_Union_Bank_Building.JPG",
+    "file": "File:Detail of Union Bank Building.JPG"
    }
   ],
   "has": [],
@@ -360394,7 +360234,7 @@ window.BUILDINGS = [
  },
  {
   "id": "centennial-concert-hall",
-  "n": 4331,
+  "n": 4330,
   "name": "Centennial Concert Hall",
   "by": "Green Blankstein Russell, Moody Moore Whenham, Smith Carter Searle",
   "place": "Winnipeg, CA",
@@ -360451,18 +360291,6 @@ window.BUILDINGS = [
     "license": "CC BY 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Winnipeg_(6408567445).jpg",
     "file": "File:Winnipeg (6408567445).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Untitled_Greta_Dale_1967_Manitoba_Centennial_Concert_Hall.JPG/1280px-Untitled_Greta_Dale_1967_Manitoba_Centennial_Concert_Hall.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/centennial-concert-hall/thumbs/3.webp",
-    "w": 1280,
-    "h": 669,
-    "kind": "Interior",
-    "caption": "Interior · Greta Dale: Untitled Mural, Manitoba Centennial Concert Hall, 1967",
-    "credit": "Susan Surette",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Untitled_Greta_Dale_1967_Manitoba_Centennial_Concert_Hall.JPG",
-    "file": "File:Untitled Greta Dale 1967 Manitoba Centennial Concert Hall.JPG"
    }
   ],
   "has": [],
@@ -360470,7 +360298,7 @@ window.BUILDINGS = [
  },
  {
   "id": "winnipeg-airport-terminal",
-  "n": 4332,
+  "n": 4331,
   "name": "Winnipeg Richardson International Airport Terminal",
   "by": "César Pelli, Stantec",
   "place": "Winnipeg, CA",
@@ -360488,70 +360316,10 @@ window.BUILDINGS = [
   "study": "A terminal inspired by Winnipeg's landscape and the prairie sky; the first LEED-certified airport terminal in Canada.",
   "qid": null,
   "commons": "Category:Winnipeg James Armstrong Richardson International Airport",
-  "lead": null,
+  "lead": "Winnipeg James Armstrong Richardson International Airport, Winnipeg (502459) (16594984991).jpg",
   "coords": null,
   "hotlink": true,
   "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Winnipeg_Richardson_International_Airport.jpg/1280px-Winnipeg_Richardson_International_Airport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/winnipeg-airport-terminal/thumbs/0.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · WestJet Dash 8-400 taxiing at Winnipeg International Airport",
-    "credit": "Quintin Soloviev",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Winnipeg_Richardson_International_Airport.jpg",
-    "file": "File:Winnipeg Richardson International Airport.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/CYWG_control_tower.jpg/1280px-CYWG_control_tower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/winnipeg-airport-terminal/thumbs/1.webp",
-    "w": 1054,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior · Control tower of the Winnipeg James Armstrong Richardson International Airport",
-    "credit": "Wolfy13399",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:CYWG_control_tower.jpg",
-    "file": "File:CYWG control tower.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Winnipeg_James_Armstrong_Richardson_International_Airport%2C_Winnipeg%2C_Manitoba_%2843973508801%29.jpg/1280px-Winnipeg_James_Armstrong_Richardson_International_Airport%2C_Winnipeg%2C_Manitoba_%2843973508801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/winnipeg-airport-terminal/thumbs/2.webp",
-    "w": 1280,
-    "h": 619,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Ken Lund  from Reno, Nevada, USA",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Winnipeg_James_Armstrong_Richardson_International_Airport,_Winnipeg,_Manitoba_(43973508801).jpg",
-    "file": "File:Winnipeg James Armstrong Richardson International Airport, Winnipeg, Manitoba (43973508801).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Winnipeg_International_Airport%2C_Manitoba_%28450174%29_%289446748238%29.jpg/1280px-Winnipeg_International_Airport%2C_Manitoba_%28450174%29_%289446748238%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/winnipeg-airport-terminal/thumbs/3.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · Winnipeg International Airport, Manitoba, Canada",
-    "credit": "Robert Linsdell  from St. Andrews, Canada",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Winnipeg_International_Airport,_Manitoba_(450174)_(9446748238).jpg",
-    "file": "File:Winnipeg International Airport, Manitoba (450174) (9446748238).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Tim_Hortons_Express.jpg/1280px-Tim_Hortons_Express.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/winnipeg-airport-terminal/thumbs/4.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Interior",
-    "caption": "Interior",
-    "credit": "Quintin Soloviev",
-    "license": "CC BY 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Tim_Hortons_Express.jpg",
-    "file": "File:Tim Hortons Express.jpg"
-   },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Winnipeg_James_Armstrong_Richardson_International_Airport%2C_Winnipeg_%28502459%29_%2816594984991%29.jpg/1280px-Winnipeg_James_Armstrong_Richardson_International_Airport%2C_Winnipeg_%28502459%29_%2816594984991%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/winnipeg-airport-terminal/thumbs/5.webp",
@@ -360563,28 +360331,14 @@ window.BUILDINGS = [
     "license": "CC BY 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Winnipeg_James_Armstrong_Richardson_International_Airport,_Winnipeg_(502459)_(16594984991).jpg",
     "file": "File:Winnipeg James Armstrong Richardson International Airport, Winnipeg (502459) (16594984991).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Greater_Winnipeg_Tentative_Airport_Plan_%281946%29_%283209448195%29.jpg/1280px-Greater_Winnipeg_Tentative_Airport_Plan_%281946%29_%283209448195%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/winnipeg-airport-terminal/thumbs/6.webp",
-    "w": 1280,
-    "h": 1002,
-    "kind": "Plan",
-    "caption": "Plan · Metropolitan Planning Committee; Winnipeg Town Planning Commission",
-    "credit": "Manitoba Historical Maps  from Canada",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Greater_Winnipeg_Tentative_Airport_Plan_(1946)_(3209448195).jpg",
-    "file": "File:Greater Winnipeg Tentative Airport Plan (1946) (3209448195).jpg"
    }
   ],
-  "has": [
-   "Plan"
-  ],
+  "has": [],
   "gv": 3
  },
  {
   "id": "winnipeg-city-hall",
-  "n": 4333,
+  "n": 4332,
   "name": "Winnipeg City Hall",
   "by": "Green Blankstein Russell",
   "place": "Winnipeg, CA",
@@ -360617,30 +360371,6 @@ window.BUILDINGS = [
     "license": "CC0",
     "source": "https://commons.wikimedia.org/wiki/File:Winnipeg%27s_City_Hall_building.JPG",
     "file": "File:Winnipeg's City Hall building.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Souvenir_of_Winnipeg_%281889%29_%283720322913%29.jpg/1280px-Souvenir_of_Winnipeg_%281889%29_%283720322913%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/winnipeg-city-hall/thumbs/1.webp",
-    "w": 1280,
-    "h": 783,
-    "kind": "Interior",
-    "caption": "Interior · Toronto News Co",
-    "credit": "Manitoba Historical Maps  from Canada",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Souvenir_of_Winnipeg_(1889)_(3720322913).jpg",
-    "file": "File:Souvenir of Winnipeg (1889) (3720322913).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Union_Bank_and_City_Hall_Winnipeg.jpg/1280px-Union_Bank_and_City_Hall_Winnipeg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/winnipeg-city-hall/thumbs/2.webp",
-    "w": 1280,
-    "h": 872,
-    "kind": "Interior",
-    "caption": "Interior · The Union Bank and old City Hall in the Exchange District",
-    "credit": "Cleven Photo: Photographer",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Union_Bank_and_City_Hall_Winnipeg.jpg",
-    "file": "File:Union Bank and City Hall Winnipeg.jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Winnipeg_%286387091355%29.jpg/1280px-Winnipeg_%286387091355%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",

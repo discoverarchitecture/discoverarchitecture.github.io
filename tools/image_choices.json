@@ -35031,6 +35031,10 @@
    "File:Canadian Museum for Human Rights, Winnipeg, Manitoba (29035323837).jpg",
    "File:Canadian Museum for Human Rights (Winnipeg, MB).jpg",
    "File:Canadian Museum for Human Rights at night, Winnipeg, Manitoba, Canada.jpg"
+  ],
+  "skip": [
+   "File:Esplanade Riel.jpg",
+   "File:Canadian Museum for Human Rights and downtown Winnipeg skyline at night, Manitoba, Canada.jpg"
   ]
  },
  "winnipeg-art-gallery": {
@@ -35044,6 +35048,9 @@
    "File:Parliamentwinnipeg manitoba.jpg",
    "File:Manitoba Legislative Building, Winnipeg, Canada (35918422850).jpg",
    "File:Manitoba Legislative Building, Winnipeg (25069380388).jpg"
+  ],
+  "skip": [
+   "File:Queen Memorial Book Winnipeg.jpg"
   ]
  },
  "esplanade-riel": {
@@ -35066,6 +35073,10 @@
    "File:Union Bank Tower, Winnipeg Manitoba 01.JPG",
    "File:Union Bank Building.jpg",
    "File:Detail of Union Bank Building.JPG"
+  ],
+  "skip": [
+   "File:Old Market Square winter.jpg",
+   "File:Winnipeg, Volunteer Monument with Centennial Concert Hall and Union Bank Building (7331070542).jpg"
   ]
  },
  "centennial-concert-hall": {
@@ -35074,16 +35085,33 @@
    "File:Centennial Concert Hall, Winnipeg Manitoba 01.JPG",
    "File:Centennial Concert Hall, Winnipeg Manitoba 02.JPG",
    "File:Winnipeg (6408567445).jpg"
+  ],
+  "skip": [
+   "File:Untitled Greta Dale 1967 Manitoba Centennial Concert Hall.JPG"
   ]
  },
  "winnipeg-airport-terminal": {
   "category": "Category:Winnipeg James Armstrong Richardson International Airport",
-  "add": []
+  "add": [
+   "File:Winnipeg James Armstrong Richardson International Airport, Winnipeg (502459) (16594984991).jpg"
+  ],
+  "skip": [
+   "File:Winnipeg Richardson International Airport.jpg",
+   "File:CYWG control tower.jpg",
+   "File:Winnipeg James Armstrong Richardson International Airport, Winnipeg, Manitoba (43973508801).jpg",
+   "File:Winnipeg International Airport, Manitoba (450174) (9446748238).jpg",
+   "File:Tim Hortons Express.jpg",
+   "File:Greater Winnipeg Tentative Airport Plan (1946) (3209448195).jpg"
+  ]
  },
  "winnipeg-city-hall": {
   "category": "Category:Winnipeg City Hall",
   "add": [
    "File:Winnipeg's City Hall building.JPG"
+  ],
+  "skip": [
+   "File:Souvenir of Winnipeg (1889) (3720322913).jpg",
+   "File:Union Bank and City Hall Winnipeg.jpg"
   ]
  }
 }
