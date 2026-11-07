@@ -1,2 +1,2 @@
-python -u tools/fetch_pages.py tools/outreach/wpg_search_urls.json tools/cheap/wpg_search
-Winnipeg: find the six buildings the first lookup missed, and the Winnipeg Building Index address.
+python -u tools/prep_titles.py tools/outreach/winnipeg_titles2.json
+Winnipeg: the Union Bank Building, and the full articles to quote facts from.
