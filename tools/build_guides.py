@@ -61,8 +61,8 @@ FONTS = ("https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght
 FOOTLINE = ("Studio FGA is run by Akshat Pagaria · 302, Shantinath Residency, Beawar, Rajasthan, India · hello@findgreatarchitecture.com · "
             "Payments handled by Dodo Payments, our merchant of record")
 INDEX_TITLE = "Guides for Architecture Students: Boards, Juries and Decks"
-INDEX_DESC = ("Practical guides for architecture students from an architect: A1 board layouts, plans and sections, "
-              "jury tips, jury decks, portfolios and AI tools.")
+INDEX_DESC = ("Practical guides for architecture students from an architect: A1 board layouts, templates, sheet sizes, "
+              "diagrams, site analysis, juries, decks and AI tools.")
 
 
 def esc(s):
@@ -389,7 +389,9 @@ def guide_page(g, by_slug):
             f'<main class="land"><article class="wrap narrow gpage"><a class="link" href="../">← All guides</a>'
             f'<p class="kicker">Guide · {esc(g["kicker"])}</p><h1 class="big">{esc(g["title"])}</h1>'
             f'<p class="lede">{inline(g["lede"], slugs, "../")}</p>'
-            f'<p class="byline">By Akshat Pagaria, architect · <time datetime="{g["published"]}">{date_text(g["published"])}</time></p>\n'
+            f'<p class="byline">By Akshat Pagaria, architect · <time datetime="{g["published"]}">{date_text(g["published"])}</time>'
+            + (f' · updated <time datetime="{g["updated"]}">{date_text(g["updated"])}</time>' if g.get("updated", g["published"]) != g["published"] else "")
+            + '</p>\n'
             f'{cta_card("top", g["slug"])}'
             f'{render(g["body"], slugs, "../")}\n{faq}'
             f'{cta_card("end", g["slug"])}'
