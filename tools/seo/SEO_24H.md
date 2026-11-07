@@ -56,6 +56,7 @@ Gaps found:
 - 17:58 IST · Added to #172: `what-architecture-jurors-look-for` (a juror's ten questions, each with a self-check). Thesis structure dropped: the slides guide already has a thesis section, so a new page would be a near-copy.
 - 17:58 IST · Added to #172: guides index description names the new topics; updated guides show "updated <date>" in the byline.
 - 18:51 IST · Added to #172: `how-to-photograph-architecture-models`; guide titles now stay ≤ 60 characters (four were 62–65).
+- 19:55 IST · Link check: every internal link and image in the guides resolves. Search Console data on `analytics-data` ends 2 Nov (the scheduled fetch is paused, CLAUDE.md), so there are no guide queries to learn from yet. **Owner:** once the guides are live, consider "resume the Search Console fetch" so the next SEO round has real queries. An independent fact-check of the new guides is running.
 
 ## Next
 
