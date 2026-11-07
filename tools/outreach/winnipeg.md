@@ -26,3 +26,8 @@ building, checked by eye). Add the Winnipeg Building Index entry to each one's G
 
 Check every year and credit against Wikidata or the Index before adding; this list is a starting point from memory.
 Also: "Montreal, CA" and "Montréal, CA" are written two ways on the wall; make them one.
+
+**Crediting the Index** (Liv Valmestad, 6 Nov 2026: "credit the Architecture/Fine Arts Library, University of Manitoba
+for the images"): don't copy any image from the Winnipeg Building Index; photos still come only from Wikimedia
+Commons. Where a building page uses the Index (a Go deeper link, a fact), name it "Winnipeg Building Index,
+Architecture/Fine Arts Library, University of Manitoba" and link to the building's entry.
