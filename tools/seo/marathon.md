@@ -47,6 +47,8 @@ Rules that hold the whole time (CLAUDE.md):
       saved texts (`verify.py`), two write (quotes only, own words), two fact-check, then merge into PR #175 with
       `check_writeups.py` passing, and commit `facts_7-9.json` to `claude/writeups-round3`. Same as todo_6 (scratchpad
       `wu3/` has the tools: `verify.py`, `measure.py`).
+- [ ] 13. Write-ups round 4: the next 300 indexable pages (`todo_10-12.json` on `claude/writeups-round3`; request
+      "10 11 12"). Same steps as round 3 (scratchpad `wu4/` tools: `verify.py`, `measure.py`, `mkin.py`).
 - [ ] 10. Final report to the owner: what went live, what waits for their decision, numbers to watch.
 
 ## Log
@@ -71,3 +73,4 @@ Rules that hold the whole time (CLAUDE.md):
 - 7 Nov 06:15 UTC check-in: round 3 started (task 12); the article fetch for todo_7-9 runs on GitHub Actions.
 - 7 Nov 08:20 UTC check-in: round 3 articles landed (300). Six agents take quotes into scratchpad wu4/facts_a..f.json (verify.py). Next: writers, checkers, merge into PR #175, commit facts_7-9.json to claude/writeups-round3.
 - 7 Nov ~09:50 UTC: round 3 done: 245 had facts, 242 kept (fact-check: 7-24 changes per batch). PR #175 now has **649 building write-ups**; checker passes; canvas v38 updated. Credit and year disagreements from rounds 2-3 noted in the agents' reports (e.g. Aéro-Habitat, Van Gogh Museum, Singapore Flyer, Secretariat Chandigarh 1953, MUSAC 2005): add to year_conflicts.md.
+- 7 Nov 10:15 UTC check-in: 1,536 indexable pages still have no write-up (70 with recent impressions). Round 4 started (task 13); articles fetching on GitHub Actions.
