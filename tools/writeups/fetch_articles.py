@@ -6,7 +6,6 @@ the search candidates and the plain text of the first two, for a chat to take ex
     python3 tools/writeups/fetch_articles.py <n>
 """
 import json, sys, time, urllib.parse, urllib.request, os
-N = sys.argv[1]
 D = os.path.join(os.path.dirname(os.path.abspath(__file__)))
 UA = 'FindGreatArchitecture/1.0 (https://findgreatarchitecture.com; facts for building pages)'
 def get(params):
@@ -19,9 +18,10 @@ def get(params):
             if e.code == 429: time.sleep(60 * (k + 1)); continue
             raise
     raise RuntimeError('429 x4')
-os.makedirs(os.path.join(D, f'articles_{N}'), exist_ok=True)
-todo = json.load(open(os.path.join(D, f'todo_{N}.json')))
-for b in todo:
+for N in sys.argv[1].split():
+  os.makedirs(os.path.join(D, f'articles_{N}'), exist_ok=True)
+  todo = json.load(open(os.path.join(D, f'todo_{N}.json')))
+  for b in todo:
     out = os.path.join(D, f'articles_{N}', b['id'] + '.json')
     if os.path.exists(out): continue
     q = f"{b['name']} {b['by'].split(',')[0]}"
