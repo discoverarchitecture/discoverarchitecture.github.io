@@ -1,2 +1,2 @@
-python -u tools/fetch_pages.py tools/cheap/handwritten_urls.json tools/cheap/handwritten_pages
-Save the source pages for the hand-written entries.
+python -u tools/prep_titles.py tools/outreach/winnipeg_titles.json
+Winnipeg buildings suggested by the University of Manitoba art librarian: Wikidata facts, leads, Commons photos, and the Winnipeg Building Index pages.

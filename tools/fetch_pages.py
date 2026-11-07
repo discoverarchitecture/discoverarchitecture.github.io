@@ -22,6 +22,7 @@ def text_of(raw, ctype):
         return '\n'.join(p.extract_text() or '' for p in PdfReader(io.BytesIO(raw)).pages)
     s = raw.decode('utf-8', 'replace')
     s = re.sub(r'(?is)<(script|style|noscript|svg|nav|footer|header)\b.*?</\1>', ' ', s)
+    s = re.sub(r'(?is)<a\b[^>]*?href=["\']([^"\']+)["\'][^>]*>(.*?)</a>', r'\2 [\1]', s)  # keep where links lead
     s = re.sub(r'(?i)<br\s*/?>|</p>|</h\d>|</li>|</div>', '\n', s)
     s = html.unescape(re.sub(r'<[^>]+>', ' ', s))
     lines = [' '.join(l.split()) for l in s.splitlines()]
