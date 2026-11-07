@@ -59,3 +59,4 @@ Rules that hold the whole time (CLAUDE.md):
   words (under 15% copied; was up to 73%); hub answers rewritten so they don't repeat the intro. Round 2 started (task 11).
 - 6 Nov 22:15 UTC check-in: tasks 3-9 wait for the owner (PR #175). Task 11: facts_4 has 30 of 100 (2 thin); facts_5 and facts_6 not pushed yet. Writing starts when a whole file lands.
 - 7 Nov 00:20 UTC check-in: facts_4 (100, 21 thin) and facts_5 (100, 20 thin) landed; 159 being written by four Opus writers (scratchpad wu2/, quotes only and own words from the start), fact-check to follow. Session 6 had stopped on a Wikipedia rate limit (0 of 100); asked to resume slowly.
+- 7 Nov ~01:30 UTC: round 2 written, fact-checked (light: 1-17 changes per batch) and merged into PR #175: 153 more, 338 write-ups in all; six under 85 words left out; checker passes; canvas v38 updated. facts_6 (session 6) still pending after the rate limit; when it lands, do the same for it.
