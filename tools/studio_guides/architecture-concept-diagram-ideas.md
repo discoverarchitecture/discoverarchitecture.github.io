@@ -5,7 +5,7 @@ seo_title: Architecture Concept Diagram Ideas: 10 That Work
 description: Ten kinds of architecture concept diagram, from metaphor-to-form and massing moves to exploded axonometrics, circulation, light and public-to-private, with rules for drawing them clearly.
 kicker: Drawings
 published: 2026-11-07
-related: architecture-jury-presentation-ideas, how-to-present-architectural-plans-and-sections, a1-sheet-layout-ideas, how-to-present-site-analysis
+related: architecture-jury-presentation-ideas, how-to-present-architectural-plans-and-sections, a1-sheet-layout-ideas, how-to-present-site-analysis, how-to-photograph-architecture-models
 ---
 A concept diagram is a drawing with one job: to show a single idea about your project so clearly that a juror gets it before you speak. It leaves out almost everything a plan or section must include. The diagrams below are the kinds that come up again and again on good boards. Most projects need two or three of them, chosen for what the project is actually about, not one of each.
 
