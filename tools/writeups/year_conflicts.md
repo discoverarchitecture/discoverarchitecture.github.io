@@ -1,59 +1,52 @@
 
 
-Round 6 (todo_16-18, 7 Nov 2026): credits and years the quoted sources give differently
+Round 7 (todo_19-21, 7 Nov 2026): credits and years the quoted sources give differently
 
 | Building | Quoted source says (wall value in brackets) |
 |---|---|
-| ramses-wissa-wassef-art-centre | founded 1951, museum extension 1989 (wall 1974 = founder's death). |
-| silver-hut | wall mixes Ito's 1984 Tokyo house with the 2011 Imabari museum; no write-up until fixed. |
-| orange-cube | completed 2011 (wall 2010). |
-| skopje-telecommunications-centre | built in stages 1974-1989 (wall 1981). |
-| gifu-kitagata-apartment | 1994 in Sejima's list (wall 1998). |
-| garden-and-house | 2013 in Nishizawa's list (wall 2011). |
-| seoul-olympic-stadium | opened 29 Sep 1984. |
-| villa-dall-ava | Saint-Cloud (OMA page says Paris), 1984-1991. |
-| ministerio-de-obras-publicas-buenos-aires | Alberto Blanco designed it; built 1932-35 (wall 1936). |
-| lochal | Social condenser page credits "a collective of architects, Mecanoo". |
-| palacio-da-justica-brasilia | 1962 in Niemeyer's list (wall 1972). |
-| the-circle-zurich-airport | 2018 in Yamamoto's list (wall 2020). |
-| opera-village-laongo | article places it in Ouagadougou. |
-| teatro-cultura-artistica | Rino Levi with Roberto Cerqueira César and Fa Pestalozzi. |
-| noa-building | own page says 1974; Shirai's page lists 1964. |
-| goce-delcev-dormitory | 1969 competition, 1972 award (wall 1977). |
-| temple-street-parking-garage | designed 1961 (wall 1963). |
-| wurster-hall | renamed Bauer Wurster Hall, Dec 2020. |
-| kasumigaseki-building | page names Kajima Construction; not Yamashita Sekkei or Mitsui Fudosan. |
-| majdanek-mausoleum | credits only Wiktor Tołkin. |
-| henie-onstad-kunstsenter | "Svein-Erik Engebretsen" in one place. |
-| miami-marine-stadium | Candela with Albert Ferendino. |
-| filmhuset-stockholm | completed 1970 / built 1968-71. |
-| national-arts-centre-ottawa | opened 31 May 1969. |
-| nid-d-abeille-casablanca | also Alexis Josic; group GAMMA; designed 1952 (wall 1953). |
-| goldsmith-street | listed under 2016 (wall 2019). |
-| moesgaard-museum | opened 2014 (architect's list 2013). |
-| hotel-avion-brno | 1927 in Fuchs's list (wall 1928). |
-| kaunas-central-post-office | completed 1931 (wall 1932). |
-| prudential-house-warsaw | built 1931-33 (wall 1934). |
-| shri-ram-centre | built 1966-69, opened 1971. |
-| royal-commonwealth-pool | completed Oct 1969 (wall 1970). |
-| grand-theatre-de-rabat | finished 2021, opened 22 Apr 2026. |
-| katyn-museum-warsaw | stub describes the 1993 museum, not the 2015 citadel building. |
-| independence-monument-cambodia | built 1958 (wall 1962). |
-| vidhan-bhavan | designed 1967; Aga Khan Award 1998 (wall 1996). |
-| national-crafts-museum | designed 1975-1990 (wall 1991). |
-| space-group-building | 1971 and 1978 in architect's page (wall 1977). |
-| faup-porto | 1987-93, phases into late 1990s (wall 1996). |
-| grand-national-assembly-of-turkey | 1938-1960 in Holzmeister's list (wall 1961). |
-| teresa-carreno-cultural-complex | first hall 1976, complex 1983. |
-| notre-dame-du-raincy | Auguste and Gustave Perret. |
-| praca-das-artes | Marcos Cartum, Marcelo Ferraz and Francisco Fanucci. |
-| juscelino-kubitschek-bridge | engineer Mário Vila Verde with Alexandre Chan. |
-| wohl-centre | with Heder Partnership. |
-| king-fahd-national-library | article never mentions Gerber's 2013 building. |
-| tallinn-song-festival-stage | Henno Sepmann with Alar Kotli and Endel Paalmann; dated 1959 (wall 1960; Uno Tölpus not named). |
-| lusail-stadium | inaugurated 9 Sep 2022 (wall 2021); article names no architect. |
-| government-complex-sejong | article names no architect; dates inconsistent. |
-| erdene-zuu | 1585 (Altan Khan page 1586). |
-| entrepreneurship-development-institute | 1985 in Patel's list (wall 1987). |
-| izvestia-building | only Grigory Barkhin named. |
-| kyiv-crematorium | architect spelled Avraam Miletsky. |
+| shell-centre-london | credits only Sir Howard Robertson; built 1957-1962. |
+| thomas-crane-public-library | opened 30 May 1882 (wall 1881). |
+| w-r-grace-building | article says completed 1972 and opened 1974. |
+| newcastle-civic-centre | completed 1967, opened 14 Nov 1968. |
+| mandel-house-bedford-hills | built 1933-35; once placed in Mount Kisco. |
+| united-states-tax-court-building | built 1972-74, dedicated 1974. |
+| hornbaekhus | built 1922-23 (Fisker's page 1922). |
+| wiener-stadthalle | arena article 1953-58; Rainer's page 1956-62. |
+| ntu-college-of-social-sciences | library opened 15 Sep 2014 (wall 2013). |
+| werkraum-haus-andelsbuch | opened 2013 (Zumthor list 2012). |
+| forbidden-city | Kuai Xiang one of several master builders. |
+| sultan-mosque-singapore | 1924-28 (wall 1932). |
+| ho-chi-minh-city-hall | opened 1909 (wall 1908); architect spelled Fernand Gardè. |
+| jakarta-kota-station | Asselbergs, Ghijsels and Hes of AIA; designed 1927-28. |
+| seimas-palace | 1980 (main) / 1982 (architect page). |
+| savoy-homann | built 1939 (hotel page) vs 1936 redesign (Aalbers page). |
+| sultan-salahuddin-mosque | article never names Baharuddin Abu Kassim. |
+| manila-hotel | hotel page never names William Parsons. |
+| sarasota-high-school | Rudolph addition 1958-59 (his page 1960). |
+| wayfarers-chapel | built 1949-51; dismantled and stored 2024 after land movement. |
+| lester-b-pearson-building | credited to Webb Zerafa Menkes (earlier name of WZMH). |
+| torre-del-reformador | Arturo Bickford was engineer and mayor; made by US Steel Products Company. |
+| saint-josephs-oratory | founded 1904, dome 1941; 1967 not stated. |
+| leuven-town-hall | 1439-1469 (city page 1439-1463). |
+| royal-palace-amsterdam | opened 29 July 1655, completed 1656. |
+| royal-greenhouses-of-laeken | built 1874-1905; Balat then Maquet and Girault. |
+| theme-building | Pereira page credits Pereira, Luckman, Paul Williams and Welton Becket. |
+| grande-bibliotheque | Croft-Pelletier with Gilles Guité. |
+| gallery-royal-collections | finished 2016, opened 28 Jun 2023 (firm page 2015). |
+| santa-justa-station | 1987-1992 (wall 1991). |
+| wanda-metropolitano | Cruz y Ortiz credited for the 1990-94 La Peineta stadium; no architect named for the 2017 rebuild. |
+| melbourne-school-of-design | one page says opened 2010 (wall 2014). |
+| governor-phillip-tower | completed 1994 (wall 1993). |
+| qantas-house-sydney | designed 1950 by Felix Tavener of Rudder Littlemore & Rudder; built 1955-57. |
+| melbourne-museum | opened 2000; construction completed 2001. |
+| halle-tony-garnier | 1905/1906-1924 (wall 1914). |
+| sky-tower-auckland | Gordon Moller of Craig Craig Moller. |
+| stade-de-france | article names none of the four architects. |
+| stadio-olimpico-roma | architect Cesare Valle (wall "Carlo Valle") with engineer Carlo Roccatelli; Vitellozzi from 1951; opened 17 May 1953. |
+| roma-termini | two winning teams in 1947 (Calini and Montuori; Castellazzi, Fadigati, Pintonello and Vitellozzi). |
+| livingstone-tower-glasgow | Covell, Matthews & Partners not named; built 1962-64 as Alec House, opened 1966. |
+| notre-dame-de-toute-grace-assy | built 1937-46; Novarina with Édouard Malot. |
+| glasgow-tower | designed by Richard Horden 1992 with Buro Happold; BDP took over; finished 2001. |
+| pallant-house-gallery | Sir Colin Wilson and Long & Kentish. |
+| weston-library-oxford | WilkinsonEyre rebuild, reopened 21 Mar 2015. |
+| stadium-merdeka | Jewkes called "then Director of Public Works"; his own page dates that post to 1959-62 |
