@@ -51,6 +51,17 @@ def load_intros():
     return out
 
 
+def load_faqs():
+    """slug -> [{q, a, sources}], the questions students ask (tools/hubs/results/faq_*.json, FAQ_BRIEF.md); a later file wins.
+    Shown in the page's left column and as FAQPage data, only on pages that also have an introduction."""
+    out = {}
+    for f in sorted((HUBS / 'results').glob('faq_*.json')) if (HUBS / 'results').exists() else []:
+        for r in json.loads(f.read_text()):
+            if r.get('faq'):
+                out[r['slug']] = r['faq']
+    return out
+
+
 def load_sources():
     f = HUBS / 'sources.json'
     return {r['slug']: r for r in json.loads(f.read_text())} if f.exists() else {}
@@ -82,14 +93,14 @@ def score(bp, b, arch, pv):
 def plan(bp, items, arch):
     """The hubs, each with its buildings best first: [{kind, slug, label, h1, url, path, buildings, intro, sources}]."""
     pv = json.loads((ROOT / 'tools' / 'pageviews.json').read_text()) if (ROOT / 'tools' / 'pageviews.json').exists() else {}
-    intros, sources = load_intros(), load_sources()
+    intros, sources, faqs = load_intros(), load_sources(), load_faqs()
     out = []
     for h in load_hubs():
         bs = sorted((b for b in items if matches(bp, h, b)), key=lambda b: score(bp, b, arch, pv), reverse=True)
         if not bs:
             continue
         path = f'{kind_url(h["kind"])}{h["slug"]}/'
-        out.append({**h, 'path': path, 'url': bp.BASE + path, 'buildings': bs, 'intro': intros.get(h['slug']), 'sources': sources.get(h['slug']) or {}})
+        out.append({**h, 'path': path, 'url': bp.BASE + path, 'buildings': bs, 'intro': intros.get(h['slug']), 'sources': sources.get(h['slug']) or {}, 'faq': faqs.get(h['slug']) or []})
     return out
 
 
@@ -362,6 +373,9 @@ def page(bp, hubs, h, ctx):
     books = f'<section class="blk"><h2>Books to read</h2><div class="books">{bk}</div></section>' if bk else ''
     rel = related(hubs, h)
     relh = (f'<section class="blk"><h2>Related</h2><p class="sim">' + ' · '.join(f'<a href="{up}{o["path"]}">{bp.e(o["label"])}</a>' for o in rel) + '</p></section>') if rel else ''
+    qa = h.get('faq') if intro else []
+    faq = ('<section class="blk faq"><h2>Questions students ask</h2>' +
+           ''.join(f'<details><summary>{bp.e(f["q"])}</summary><p>{bp.e(f["a"])}</p></details>' for f in qa) + '</section>') if qa else ''
     globe = f'<a class="globe-link" href="{up}#map={kind}:{h["slug"]}">{GLOBE}<span>On the globe</span><small>See where they are</small></a>'
     ideas = Counter(c for b in bs for c in b.get('concepts') or [] if c != h['match'].get('concept'))
     chips = ''.join(f'<button type="button" class="chip" data-idea="{bp.e(c)}" aria-pressed="false">{bp.e(c)} <span>{k}</span></button>'
@@ -381,6 +395,9 @@ def page(bp, hubs, h, ctx):
           {'@context': 'https://schema.org', '@type': 'BreadcrumbList', 'itemListElement': [
               {'@type': 'ListItem', 'position': 1, 'name': KINDS[kind][2], 'item': bp.BASE + kind_url(kind)},
               {'@type': 'ListItem', 'position': 2, 'name': h['label'], 'item': url}]}]
+    if qa:
+        ld.append({'@context': 'https://schema.org', '@type': 'FAQPage', 'mainEntity': [
+            {'@type': 'Question', 'name': f['q'], 'acceptedAnswer': {'@type': 'Answer', 'text': f['a']}} for f in qa]})
     extra = (('' if intro else '<meta name="robots" content="noindex,follow">\n')
              + f'<link rel="stylesheet" href="{up}architect.css?v={bp.fingerprint(bp.SITE / "architect.css")}">\n'
              + f'<link rel="stylesheet" href="{up}hub.css?v={bp.fingerprint(bp.SITE / "hub.css")}">\n'
@@ -394,7 +411,7 @@ def page(bp, hubs, h, ctx):
         f'<h1>{bp.e(h["h1"])}</h1><p class="facts">{n} buildings</p>'
         f'{body_intro}'
         f'<a class="cta" href="#buildings">See the {n} buildings ↓</a>'
-        f'{globe}{links}{books}{relh}</aside>\n'
+        f'{globe}{faq}{links}{books}{relh}</aside>\n'
         f'<section class="wallpane" id="buildings"><div class="whead"><h2>Buildings <span><span id="shown">{n}</span></span></h2>'
         f'<div class="sorts"><span>Sort</span>{sorts}</div></div>{kw}'
         f'<div class="cols">{grid}</div><div id="more" aria-hidden="true"></div>'
