@@ -26,6 +26,32 @@ addresses here (the repository is public). Send about five a day; one short foll
 | 18 | Texas Tech University | Architecture · Images | | 2026-11-06 | |
 | 19 | Prince Mohammad Bin Fahd University | Architecture LibGuide | | 2026-11-06 | |
 | 20 | Delgado Community College | Architecture guide | | 2026-11-06 | |
+| 21 | University of Arizona | Architecture images guide | 2026-11-07 | | |
+| 22 | Northeastern University | Architecture images guide | 2026-11-07 | | |
+| 23 | Hollins University | Architecture images guide | 2026-11-07 | | |
+| 24 | Utah State University | Landscape Architecture images guide | 2026-11-07 | | |
+| 25 | California State University, Sacramento | Architectural History guide | 2026-11-07 | | |
+| 26 | Louisiana State University | Landscape Architecture guide | 2026-11-07 | | |
+| 27 | University of Minnesota | Landscape Architecture guide | 2026-11-07 | | |
+| 28 | Triton College | Architecture guide | 2026-11-07 | | |
+| 29 | North Dakota State University | Design, Architecture and Art guide | 2026-11-07 | | |
+| 30 | Emory University | Architect and the City guide | 2026-11-07 | | |
+| 31 | New Jersey Institute of Technology | Finding Images in Architecture guide | 2026-11-07 | | |
+| 32 | University of Melbourne | Architectural History guide | 2026-11-07 | | |
+| 33 | University College London | Architecture library guide | 2026-11-07 | | |
+| 34 | Falmouth University and University of Exeter (FX Plus) | Architecture and Interiors guide | 2026-11-07 | | |
+| 35 | California State University, San Bernardino | Image Resources guide | 2026-11-07 | | |
+| 36 | Iowa State University | Architecture research guide | 2026-11-07 | | |
+| 37 | Texas A&M University | Architecture guide | 2026-11-07 | | |
+| 38 | University of Texas at San Antonio | Images guide | 2026-11-07 | | |
+| 39 | California State University Channel Islands | Art & Art History guide | 2026-11-07 | | |
+| 40 | Middle Tennessee State University | Interior Design guide | 2026-11-07 | | |
+| 41 | University of Massachusetts Amherst | Architecture guide | 2026-11-07 | | |
+| 42 | Yorkville University | Interior Design guide | 2026-11-07 | | |
+| 43 | Effat University | Architecture and Urbanism guide | 2026-11-07 | | |
+| 44 | University of Tennessee, Knoxville | Landscape Architecture guide | 2026-11-07 | | |
+| 45 | Thomas Jefferson University | Landscape Architecture guide | 2026-11-07 | | |
+| 46 | Oklahoma State University | Finding Images guide | 2026-11-07 | | |
 
 Follow-ups for 1–5 are due from 12 Nov (one short note, never a third).
 
