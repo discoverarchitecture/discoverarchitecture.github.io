@@ -55,6 +55,7 @@ Gaps found:
 - 17:11 IST · Off-site ideas PR [#176](https://github.com/discoverarchitecture/discoverarchitecture.github.io/pull/176) (branch `seo/offsite-ideas`, from main): `tools/seo/OFFSITE_IDEAS.md`, drafts only.
 - 17:58 IST · Added to #172: `what-architecture-jurors-look-for` (a juror's ten questions, each with a self-check). Thesis structure dropped: the slides guide already has a thesis section, so a new page would be a near-copy.
 - 17:58 IST · Added to #172: guides index description names the new topics; updated guides show "updated <date>" in the byline.
+- 18:51 IST · Added to #172: `how-to-photograph-architecture-models`; guide titles now stay ≤ 60 characters (four were 62–65).
 
 ## Next
 
@@ -63,8 +64,9 @@ Gaps found:
      and `how-to-lay-out-an-a1-architecture-board`; strengthen those instead)
    - (list done; further ideas only if clearly distinct: "architecture portfolio layout" is covered by the portfolio
      guide; "architecture model photography" and "how to render for a jury" are candidates)
-2. Next guide: how to photograph architecture models for a jury board (`architecture-model-photography`), using the
-   sample's model photos before and after (raw sheet 3 → board/model-*.jpg).
+2. Candidate guides, only if clearly distinct and useful: "how to render for a jury" (overlaps the AI roundup and
+   plans guide: probably a section, not a page); "architecture presentation colour palette". Otherwise stop adding
+   and polish: read each new guide once more for facts and tone.
 3. Deferred, with reasons: a site-wide footer link to `/studio/guides/` needs a full `build_pages.py` run that rewrites
    every page and would collide with the other open PRs; the A1 guide (already in every footer) now links the Studio
    guides instead (#170). `/pricing/` structured data: skipped, low value (prices already in /studio/'s data).
