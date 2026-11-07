@@ -1,4 +1,6 @@
-# Studio FGA: 24-hour SEO push (7 Nov 2026 02:45 IST → 8 Nov 2026 02:45 IST)
+# Studio FGA: 24-hour SEO push (7 Nov 2026 02:45 IST → **8 Nov 2026 16:45 IST**)
+
+End moved from 02:45 to 16:45 IST on 8 Nov (MAIN chat, 7 Nov 17:15 IST) to make up the ~14 hours lost to the Mac sleeping.
 
 Brief from the FGA Studio MAIN chat. If this chat restarts, read this file first and carry on from **Next**.
 Rules: PRs only, never merge or deploy without the owner's OK; don't touch `site/studio/app.js`, `app.css`,
