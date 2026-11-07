@@ -53,15 +53,14 @@ Gaps found:
 - 17:08 IST · Added to #172: `architecture-presentation-board-templates`.
 - 17:09 IST · Added to #172: the AI tools roundup gains "How to judge an AI architecture presentation generator" (a seven-question checklist, Studio FGA's own answers beside it) and an FAQ; `updated: 2026-11-07`.
 - 17:11 IST · Off-site ideas PR [#176](https://github.com/discoverarchitecture/discoverarchitecture.github.io/pull/176) (branch `seo/offsite-ideas`, from main): `tools/seo/OFFSITE_IDEAS.md`, drafts only.
+- 17:58 IST · Added to #172: `what-architecture-jurors-look-for` (a juror's ten questions, each with a self-check). Thesis structure dropped: the slides guide already has a thesis section, so a new page would be a near-copy.
 
 ## Next
 
 1. New guides, added to batch PRs (each guide's own commit), in this order (search → guide):
    - (skipped: "how to make a presentation board step by step" would near-duplicate `/guides/a1-presentation-board/`
      and `how-to-lay-out-an-a1-architecture-board`; strengthen those instead)
-   - what jurors look for → `what-architecture-jurors-look-for`
-   - thesis presentation structure → `architecture-thesis-presentation-structure`
-2. Decide on the overlapping topics: "what jurors look for" (mostly covered in jury tips) and "thesis presentation
-   structure" (mostly covered in the slides guide). Prefer a new section inside those guides over new pages.
+   - (list done; further ideas only if clearly distinct: "architecture portfolio layout" is covered by the portfolio
+     guide; "architecture model photography" and "how to render for a jury" are candidates)
 3. Site-wide internal links: the FGA footer line (`GUIDE` in build_pages.py) could point to `/studio/guides/` too.
 4. `/pricing/`: no structured data; consider BreadcrumbList only (prices already in /studio/'s SoftwareApplication).
