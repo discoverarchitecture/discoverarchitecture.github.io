@@ -1,0 +1,65 @@
+# Guide check for libguides-2, 2026-11-07
+
+114 guides loaded, 78 look strong, 23 failed.
+
+## Failed or weak (replace these)
+
+- Academy of Art University: https://libguides.academyart.edu/landscape-architecture/web-resources — weak: links to only 0 outside sites
+- Rutgers University: https://libguides.rutgers.edu/landscapearchitecture — could not open (404)
+- Michigan State University: https://libguides.lib.msu.edu/landscape — weak: links to only 2 outside sites
+- Western Technical College: https://westerntc.libguides.com/interiordesignprogram/images — could not open (ConnectionResetError)
+- Savannah College of Art and Design: https://scad.libguides.com/arlh/libraryresources — weak: links to only 2 outside sites
+- Waukesha County Technical College: https://libguides.wctc.edu/architecture/websites — could not open (404)
+- University of Nebraska-Lincoln: https://unl.libguides.com/architecture — could not open (404)
+- University of South Florida: https://guides.lib.usf.edu/architecture/books — weak: links to only 2 outside sites
+- Princeton University: https://libguides.princeton.edu/architecture_basics — weak: links to only 1 outside sites
+- Merrimack College: https://libguides.merrimack.edu/architecture/Websites — could not open (404)
+- Northampton Community College: https://libguides.northampton.edu/architecture — weak: links to only 1 outside sites
+- University of Toronto: https://guides.library.utoronto.ca/c.php?g=250699 — could not open (ConnectionResetError)
+- McGill University: https://libraryguides.mcgill.ca/canadian-architecture — weak: links to only 0 outside sites
+- Centennial College: https://libraryguides.centennialcollege.ca/architecture — weak: links to only 2 outside sites
+- Durham College: https://guides.library.durhamcollege.ca/architecture — weak: links to only 1 outside sites
+- University of Technology Sydney: https://studyguides.lib.uts.edu.au/landscapearchitecture — weak: links to only 2 outside sites
+- University of Tasmania: https://utas.libguides.com/cale/images — could not open (ConnectionResetError)
+- Queensland University of Technology: https://libguides.library.qut.edu.au/databases/quicklinks/aac — could not open (404)
+- University of Westminster: https://libguides.westminster.ac.uk/architectureandcities/databases — weak: links to only 0 outside sites
+- University of Oxford (Bodleian): https://libguides.bodleian.ox.ac.uk/art-architecture/databases-finding-images — could not open (ConnectionResetError)
+- London Metropolitan University: https://libguides.londonmet.ac.uk/architecture-interior-design/websites — could not open (URLError)
+- University of Johannesburg: https://uj.ac.za.libguides.com/architecture — weak: links to only 1 outside sites
+- Nanyang Polytechnic: https://nyp-sg.libguides.com/architecture/Home — weak: links to only 1 outside sites
+- University of Maine: https://libguides.library.umaine.edu/arts/images — could not open (TimeoutError)
+- Seton Hill University: https://setonhill.libguides.com/arthistory/images — weak: the page never mentions architecture
+- California State Polytechnic University, Pomona: https://libguides.library.cpp.edu/architecture — could not open (TimeoutError)
+- Montgomery College: https://libguides.montgomerycollege.edu/architecture — weak: links to only 1 outside sites
+- Worcester Polytechnic Institute: https://libguides.wpi.edu/arch — weak: links to only 2 outside sites
+- Pasadena City College: https://libguides.pasadena.edu/architecture — weak: links to only 0 outside sites
+- Harvard University (Graduate School of Design): https://guides.library.harvard.edu/gsd/urban — weak: the page never mentions architecture
+- Ohio University: https://libguides.library.ohio.edu/interiorarchitecture — could not open (404)
+- Florida State University: https://guides.lib.fsu.edu/c.php?g=669652 — weak: links to only 1 outside sites
+- Ensign College: https://libraryguides.ensign.edu/interiordesign — weak: the page never mentions architecture
+- Mississippi State University: https://guides.library.msstate.edu/interiordesign — weak: links to only 1 outside sites
+- Norwich University: https://guides.norwich.edu/architecture/images — could not open (URLError)
+- University of Manchester: https://subjects.library.manchester.ac.uk/architecture1 — weak: links to only 2 outside sites
+- Technological University Dublin: https://tudublin.libguides.com/architecture — weak: links to only 2 outside sites
+- University of South Australia: https://guides.library.unisa.edu.au/ArchitectureAndInteriorArchitecture — could not open (URLError)
+- Monash University: https://guides.lib.monash.edu/UPD/finding-resources — weak: links to only 0 outside sites
+- University of Queensland: https://guides.library.uq.edu.au/planning — could not open (404)
+- Yale-NUS College: https://libguides.nus.edu.sg/yncimages — could not open (404)
+- University of Cape Town: https://libguides.lib.uct.ac.za/architecture — weak: links to only 0 outside sites
+- University of the Witwatersrand: https://libguides.wits.ac.za/c.php?g=145303 — could not open (TimeoutError)
+- University of Nicosia: https://libguides.unic.ac.cy/architecture — weak: links to only 0 outside sites
+- University of Southern California: https://libguides.usc.edu/precedent — could not open (404)
+- San Jose State University: https://library.sjsu.edu/research-guides — weak: the page never mentions architecture
+- College of San Mateo: https://libguides.collegeofsanmateo.edu/architecture/articles — could not open (URLError)
+- NewSchool of Architecture and Design: https://library.newschoolarch.edu/architecture — weak: links to only 0 outside sites
+- London South Bank University: https://library.lsbu.ac.uk/architecture — could not open (404)
+- Staffordshire University: https://libguides.staffs.ac.uk/architecture — weak: links to only 1 outside sites
+- University of Gloucestershire: https://libguides.glos.ac.uk/ace — weak: links to only 0 outside sites
+- University of Roehampton: https://library.roehampton.ac.uk/architecture/relatedguides — weak: links to only 0 outside sites
+- De Montfort University Dubai: https://library.dmu.ac.uk/dubaiarch — weak: links to only 1 outside sites
+- Virginia Tech: https://guides.lib.vt.edu/subject-guides/bc — could not open (404)
+- University of Kentucky: https://libguides.uky.edu/hp/background — weak: links to only 0 outside sites
+- Pennsylvania College of Technology: https://pct.libguides.com/architecture/other-guides — could not open (404)
+- University of North Carolina at Chapel Hill: https://guides.lib.unc.edu/c.php?g=66094 — weak: links to only 1 outside sites
+- The Gordon: https://thegordon.libguides.com/buildingdesign — weak: the page never mentions architecture
+- Griffith University: https://libraryguides.griffith.edu.au/images/architecture-images — weak: links to only 2 outside sites
