@@ -114,3 +114,13 @@ hallfield-primary-school | afed8c43a221
 jardinette-apartments | 1974c619ec4a
 markisches-museum | b9277ca20fce
 utec-university-campus | 20db9507b231
+teresa-carreno-cultural-complex | cb2a86601e77
+grand-national-assembly-of-turkey | 6c603faa2407
+vidhan-bhavan | 2ebf0bc58bcc
+the-index | a013edee79cb
+seoul-city-hall | cb479d186f54
+highpoint-i | 2d20c2d3773e
+st-peters-seminary-cardross | ba3b3f81f698
+stadio-flaminio | dcf72c9d9a43
+torre-de-tv-brasilia | 2d984d06d6a0
+scale-lane-bridge | 289c927e68bd
