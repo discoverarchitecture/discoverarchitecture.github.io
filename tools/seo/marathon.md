@@ -58,3 +58,4 @@ Rules that hold the whole time (CLAUDE.md):
   owner** (canvas v38 refreshed). 185 write-ups went through write, strict fact-check (made-up details removed), and own
   words (under 15% copied; was up to 73%); hub answers rewritten so they don't repeat the intro. Round 2 started (task 11).
 - 6 Nov 22:15 UTC check-in: tasks 3-9 wait for the owner (PR #175). Task 11: facts_4 has 30 of 100 (2 thin); facts_5 and facts_6 not pushed yet. Writing starts when a whole file lands.
+- 7 Nov 00:20 UTC check-in: facts_4 (100, 21 thin) and facts_5 (100, 20 thin) landed; 159 being written by four Opus writers (scratchpad wu2/, quotes only and own words from the start), fact-check to follow. Session 6 had stopped on a Wikipedia rate limit (0 of 100); asked to resume slowly.
