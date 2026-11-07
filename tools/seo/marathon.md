@@ -52,9 +52,12 @@ Rules that hold the whole time (CLAUDE.md):
 - [x] 14. Write-ups round 5: the next 300 indexable pages (`todo_13-15.json` on `claude/writeups-round5`, request
       "13 14 15"). None of the remaining 1,198 indexable pages without a write-up has had a Google impression, so these
       follow the wall's order (best-known first). Same steps as round 4 (scratchpad `wu5/` tools; `merge.py`).
-- [ ] 15. Write-ups round 6: `todo_16-18.json` on `claude/writeups-round6` (request "16 17 18"), wall order; 898
+- [x] 15. Write-ups round 6: `todo_16-18.json` on `claude/writeups-round6` (request "16 17 18"), wall order; 898
       indexable pages without a write-up remain before this round. Same steps (scratchpad `wu6/` tools; copy to `wu7/`).
       The round's PR also removes round 5's saved article texts from main (they came in with PR #180).
+- [ ] 16. Write-ups round 7: `todo_19-21.json` on `claude/writeups-round7` (request "19 20 21"); copy wu7 tools to
+      `wu8/`. Give each agent its own scratch folder name (two agents clashed in round 6). Yield is falling (77% round 5,
+      58% round 6): the remaining pages are buildings Wikipedia barely covers. Remove articles_19-21 in the round's PR.
 - [ ] 10. Final report to the owner: what went live, what waits for their decision, numbers to watch.
 
 ## Log
@@ -85,3 +88,4 @@ Rules that hold the whole time (CLAUDE.md):
 - 7 Nov 14:15 UTC check-in: round 5 articles landed (300, todo_13-15). Six agents take quotes into scratchpad wu6/facts_a..f.json. Also merged the outreach roundup list (PR #162, owner's request), after removing one email address the checker had read as a website.
 - 7 Nov ~15:05 UTC: round 5 done and **merged (PR #180)**: 228 more write-ups, 1,134 in all; 68 of 300 had too little on Wikipedia (less-known buildings), 4 more under 85 words left out; fact-check made 4-23 corrections per batch; checker passes (25 flags checked by eye). 62 credit/year notes in year_conflicts.md (PR #181, merged). Round 6 started: articles for todo_16-18 fetching.
 - 7 Nov 16:15 UTC check-in: round 6 articles landed (300, todo_16-18). Six agents take quotes into scratchpad wu7/facts_a..f.json.
+- 7 Nov ~16:45 UTC: round 6 done and **merged (PR #182)**: 166 more write-ups, 1,300 in all; 125 of 300 had too little on Wikipedia, 8 under 85 words, Silver Hut held back (wall data mixes two buildings). 53 credit/year notes (PR #183, merged). Saved article texts for rounds 5-6 removed from main. Round 7 started (todo_19-21).
