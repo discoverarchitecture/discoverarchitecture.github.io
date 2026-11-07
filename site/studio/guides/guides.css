@@ -76,7 +76,10 @@ body.gbar-pad { padding-bottom: calc(84px + env(safe-area-inset-bottom, 0px)); }
 .related ul { gap: 4px; }
 .glist { list-style: none; padding: 0; margin: 8px 0 0; display: grid; gap: 16px; }
 .glist .card { display: flex; flex-direction: column; gap: 8px; }
-.glist h2 { font-size: 22px; line-height: 1.15; margin: 0; }
-.glist h2 a { text-decoration: none !important; }
-.glist h2 a:hover { text-decoration: underline !important; }
+.glist h2, .glist h3 { font-size: 22px; line-height: 1.15; margin: 0; }
+.glist h2 a, .glist h3 a { text-decoration: none !important; }
+.glist h2 a:hover, .glist h3 a:hover { text-decoration: underline !important; }
+.ggroup { margin-top: 36px; }
+.ggroup .glist { padding: 0; margin-top: 0; }
+.ggroup > h2 { font-size: 13px; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); margin: 0 0 12px; }
 .glist p:not(.kicker) { color: var(--muted); font-size: 16px; }

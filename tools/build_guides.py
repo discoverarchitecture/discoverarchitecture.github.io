@@ -60,6 +60,7 @@ FONTS = ("https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght
          "9..40,600;9..40,700&family=JetBrains+Mono:wght@500;600&display=swap")
 FOOTLINE = ("Studio FGA is run by Akshat Pagaria · 302, Shantinath Residency, Beawar, Rajasthan, India · hello@findgreatarchitecture.com · "
             "Payments handled by Dodo Payments, our merchant of record")
+GROUPS = ("Boards", "Drawings", "Juries", "Decks", "Portfolios", "Tools")
 INDEX_TITLE = "Guides for Architecture Students: Boards, Juries and Decks"
 INDEX_DESC = ("Practical guides for architecture students from an architect: A1 board layouts, templates, sheet sizes, "
               "diagrams, site analysis, juries, decks and AI tools.")
@@ -407,8 +408,11 @@ def index_page(guides):
           {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [
               {"@type": "ListItem", "position": 1, "name": "Studio FGA", "item": SITE},
               {"@type": "ListItem", "position": 2, "name": "Guides", "item": url}]}]
-    cards = "".join(f'<li class="card"><p class="kicker">{esc(g["kicker"])}</p><h2><a href="{g["slug"]}/">{esc(g["title"])}</a></h2>'
-                    f'<p>{esc(g["description"])}</p></li>' for g in guides)
+    # Grouped by topic (the guide's kicker), in this order; a topic not listed here goes at the end.
+    topics = [t for t in GROUPS if any(g["kicker"] == t for g in guides)] + sorted({g["kicker"] for g in guides} - set(GROUPS))
+    cards = "".join(f'<section class="ggroup" aria-labelledby="t-{t.lower()}"><h2 id="t-{t.lower()}">{esc(t)}</h2><ul class="glist">' +
+                    "".join(f'<li class="card"><h3><a href="{g["slug"]}/">{esc(g["title"])}</a></h3><p>{esc(g["description"])}</p></li>'
+                            for g in guides if g["kicker"] == t) + '</ul></section>' for t in topics)
     return (head("Guides for Architecture Students · Studio FGA", INDEX_DESC, url, up, "website", ld, "guides.css") +
             '<body data-screen="guides">\n<!-- Made by tools/build_guides.py from tools/studio_guides/*.md. Edit those, not this file. -->\n' +
             topbar(up) +
@@ -417,7 +421,7 @@ def index_page(guides):
             f'<p class="lede">Plain, practical advice on presentation boards, plans and sections, jury presentations and decks, '
             f'written by an architect. Each one works whether or not you ever use Studio FGA.</p>\n'
             f'{cta_card("top", "index")}'
-            f'<ul class="glist">{cards}</ul>\n'
+            f'{cards}\n'
             f'<p>For the whole process from idea to plot, with a real student board before and after, read '
             f'<a href="/guides/a1-presentation-board/">How to make an A1 architecture presentation board</a> on Find Great Architecture.</p>\n'
             f'{cta_card("end", "index")}</div>\n' +
