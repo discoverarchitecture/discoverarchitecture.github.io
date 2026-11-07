@@ -58,9 +58,13 @@ Rules that hold the whole time (CLAUDE.md):
 - [x] 16. Write-ups round 7: `todo_19-21.json` on `claude/writeups-round7` (request "19 20 21"); copy wu7 tools to
       `wu8/`. Give each agent its own scratch folder name (two agents clashed in round 6). Yield is falling (77% round 5,
       58% round 6): the remaining pages are buildings Wikipedia barely covers. Remove articles_19-21 in the round's PR.
-- [ ] 17. Write-ups round 8, the last: `todo_22-24.json` (298 pages) on `claude/writeups-round8` (request
+- [x] 17. Write-ups round 8, the last: `todo_22-24.json` (298 pages) on `claude/writeups-round8` (request
       "22 23 24"); copy wu8 tools to `wu9/`. After it, every indexable building page has been tried once. Push notes PRs on
       a new branch name (a force-push to reuse a branch name was refused).
+- [ ] 18. Write-ups, second pass: the 627 indexable pages still without a write-up after rounds 1-8 (too little in
+      the article the first search found, or the wrong article). `todo_r1-r5.json` on `claude/writeups-retry1`; the
+      fetcher now looks each up by Wikidata id, then exact name, then name + city (request "r1 r2 r3 r4 r5"). Same steps
+      after that (wu10/). Expect a low yield: many have no English article at all.
 - [ ] 10. Final report to the owner: what went live, what waits for their decision, numbers to watch.
 
 ## Log
@@ -95,3 +99,4 @@ Rules that hold the whole time (CLAUDE.md):
 - 7 Nov 18:15 UTC check-in: round 7 articles landed (300, todo_19-21). Six agents take quotes into scratchpad wu8/facts_a..f.json, each with its own scratch folder.
 - 7 Nov ~20:00 UTC: round 7 done and **merged (PR #184)**: 249 more write-ups, 1,549 in all (83% yield: better-documented Western buildings). 46 credit/year notes (PR #185, merged). Round 8 started: the last 298 indexable pages (todo_22-24).
 - 7 Nov 20:15 UTC check-in: round 8 articles landed (298, todo_22-24). Six agents take quotes into scratchpad wu9/facts_a..f.json.
+- 7 Nov ~21:00 UTC: round 8 done and **merged (PR #186)**: 222 more write-ups, **1,771 in all**; every indexable building page has now been tried once. 67 credit/year/Key-features notes (PR #187, merged). Second pass started (task 18) on the 627 still without one.
