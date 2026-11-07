@@ -25,3 +25,28 @@ Round 2 (7 Nov 2026):
 | austin-hall-harvard | 1881 | built 1882–84 |
 | british-library | 1997 | opened 25 June 1998 |
 | crypt-of-colonia-guell | 1914 | built 1908–1915 |
+
+Round 3 (7 Nov 2026), years:
+
+| Building | Wall year | Quoted source says |
+|---|---|---|
+| musac | 2004 | opened April 2005 |
+| bodegas-guell | 1901 | built 1895–1897 |
+| meti-school | 2006 | built September–December 2005 |
+| seinajoki-city-hall | 1965 | town hall built 1961–62 (library 1964–65) |
+| edificio-comega | 1933 | built 1921–1934 |
+| secretariat-building | 1958 | completed 1953 |
+| anahuacalli-museum | (check) | building work ended 1963, opened 1964 |
+
+Credits the quoted sources give differently (check before changing; some are partners or engineers, not replacements):
+
+| Building | Wall credit | Quoted source says |
+|---|---|---|
+| aero-habitat | Louis Miquel, Pierre Bourlier | Louis Miquel and José Ferrer-Laloë, with Pierre Bourlier |
+| van-gogh-museum | Gerrit Rietveld | Rietveld got the commission in 1963 and died in 1964; finished 1973 by others |
+| australian-national-maritime-museum | Philip Cox | Philip Cox, Richardson Taylor & Partners; Cox's own page credits Michael Rayner with the design |
+| singapore-flyer | Kisho Kurokawa with DP Architects | "Designed by Arup and Mitsubishi Heavy Industries" (Arup as structural engineer) |
+| tokyo-metropolitan-teien-art-museum | Yōkichi Gondō | Gondo Yukichi as main architect, Henri Rapin for many interiors |
+| anahuacalli-museum | Diego Rivera, Juan O'Gorman | Diego Rivera |
+| skopje-railway-station | Kenzo Tange | Tange wrote the plan for rebuilding the city; station design not stated |
+| bank-of-china-tower | I. M. Pei | I. M. Pei and L. C. Pei |
