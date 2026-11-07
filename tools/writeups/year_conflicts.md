@@ -50,3 +50,41 @@ Credits the quoted sources give differently (check before changing; some are par
 | anahuacalli-museum | Diego Rivera, Juan O'Gorman | Diego Rivera |
 | skopje-railway-station | Kenzo Tange | Tange wrote the plan for rebuilding the city; station design not stated |
 | bank-of-china-tower | I. M. Pei | I. M. Pei and L. C. Pei |
+
+Round 4 (todo_10-12, 7 Nov 2026): years the quoted sources give differently
+
+| Building | Wall year | Quoted source says |
+|---|---|---|
+| catedral-metropolitana-de-quito | 1799 | cathedral is 16th century; 1797-1799 is the Carondelet Arch |
+| bourguiba-mausoleum-monastir | 1978 | built 1963, expanded 1978 |
+| allen-lambe-house-wichita | 1917 | designed 1915 |
+| adam-mickiewicz-theatre-cieszyn | 1910 | finished 1909 |
+| fresno-city-hall | 1991 | dedicated 17 February 1992 |
+| shah-mosque-isfahan | 1629 | begun 1611, finished c. 1630 |
+| saint-benedict-chapel | 1988 | built 1985-1989 |
+| museum-of-modern-art-rio-de-janeiro | 1967 | "completed in 1955" |
+| marina-city | 1964 | opened 1963 |
+| villa-la-rotonda | 1592 | begun 1567, finished 1605 |
+| yale-center-for-british-art | 1974 | opened 15 April 1977, after Kahn's death |
+| saynatsalo-town-hall | 1952 | finished December 1951 |
+| oslo-opera-house | 2008 | built 2003-2007 |
+| ig-farben-building | 1930 | completed 1931 |
+| standard-bank-centre | 1970 | built 1966-1968 |
+| jin-mao-tower | 1999 | dedicated 28 August 1998 |
+| heritance-kandalama | 1994 | article says 1991 and 1992-1995 |
+
+Round 4 credits the quoted sources give differently
+
+| Building | Wall credit | Quoted source says |
+|---|---|---|
+| catedral-metropolitana-de-quito | Antonio García | García designed the Carondelet Arch only |
+| national-museum-of-modern-art-tokyo | Taniguchi / Maekawa | Kunio Maekawa architect of the building; Taniguchi the latest redesign |
+| rothko-chapel | Philip Johnson, Howard Barnstone | Rothko with Barnstone, then Eugene Aubry; Johnson not named |
+| kuwait-towers | Malene Bjørn, Sune Lindström | Malene Bjørn only |
+| presidential-office-building-taipei | Nagano, Moriyama | Uheiji Nagano only |
+| climatron | Murphy and Mackey | T. C. Howard of Synergetics |
+| tai-kwun | Herzog & de Meuron | article doesn't name them |
+| cecil-h-green-library | Arthur Brown Jr. | article doesn't name him |
+| scottish-parliament-building | Miralles, Tagliabue | Miralles only |
+| mountain-dwellings, vm-houses | BIG | PLOT (BIG and JDS) |
+| great-mosque-of-rome | Portoghesi | Portoghesi with Vittorio Gigliotti and Sami Mousawi |
