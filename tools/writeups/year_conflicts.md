@@ -88,3 +88,71 @@ Round 4 credits the quoted sources give differently
 | scottish-parliament-building | Miralles, Tagliabue | Miralles only |
 | mountain-dwellings, vm-houses | BIG | PLOT (BIG and JDS) |
 | great-mosque-of-rome | Portoghesi | Portoghesi with Vittorio Gigliotti and Sami Mousawi |
+
+Round 5 (todo_13-15, 7 Nov 2026): credits and years the quoted sources give differently (check before changing; some
+are partners or engineers, not replacements)
+
+| Building | Quoted source says (wall value in brackets) |
+|---|---|
+| hans-otto-theater | Paul Böhm with his father Gottfried (wall: Gottfried only). |
+| hotel-guimard | built 1909 (wall 1912). |
+| villa-fallet | completed 1905 (wall 1907). |
+| museum-of-applied-arts-frankfurt | completed 1987 (wall 1985). |
+| notre-dame-de-royan | Marc Hébrard co-architect; engineers incl. Bernard Lafaille. |
+| thomas-jefferson-building-library-of-congress | Pelz main designer; Casey and Green finished interiors. |
+| skagen-odde-nature-centre | designed 1989 by Jørn Utzon, completed 1999-2000 by Jan Utzon. |
+| gosstrakh-apartments | designed 1926 (wall 1927). |
+| glaspalast-sindelfingen | designed 1976 (wall 1977). |
+| torre-bbva-mexico | completed 2015 (wall 2016); credited to LegoRogers (Legorreta + Legorreta and RSHP). |
+| the-lighthouse-glasgow | Honeyman and Keppie, Mackintosh contributing. |
+| kaknas-tower | Bengt Lindroos only. |
+| fix-brewery | sources say 1957 and 1965 (wall 1961). |
+| sava-centar | opened 14 May 1977 (wall 1979). |
+| jose-marti-memorial | team led by Raoul Otero de Galarraga; tower credited to Jean Labatut. |
+| state-library-victoria | Joseph Reed original 1854-56; 1913 Domed Reading Room by Norman G. Peebles (Bates Smart). |
+| palace-of-serbia | Potočnjak's team plan; Janković finished it 1959. |
+| red-banner-factory | Mendelsohn first stage 1925-26; finished by others to 1937. |
+| te-papa | credited to Pete Bossley of Jasmax. |
+| perth-arena | ARM with Cameron Chisholm Nicol. |
+| immeuble-clarte | Le Corbusier and Pierre Jeanneret, built 1931-32. |
+| soreq-nuclear-research-center | designed 1956/1957 (wall 1960). |
+| kitakyushu-central-library | 1973-74 (wall 1975). |
+| stadio-san-nicola | 1988-89 (wall 1990). |
+| natural-history-museum-london | Fowke won competition; Waterhouse revised; built 1873-80, opened 1881. |
+| philadelphia-city-hall | McArthur with Thomas U. Walter. |
+| monument-to-the-battle-of-the-nations | Schmitz commission; Clemens Thieme shaped design. |
+| torre-emperador | topped out 2007 (wall 2008). |
+| kyoto-national-museum | building finished 1895, museum opened 1897. |
+| isabella-stewart-gardner-museum | built 1898-1901, opened 1903. |
+| national-monument-indonesia | Silaban declined 1961; Soedarsono commissioned. |
+| the-lowry | "designed by James Stirling and Michael Wilford". |
+| la-congiunta | Peter Märkli and Stefan Bellwalder. |
+| palazzo-piccolomini | begun 1459 (wall 1462). |
+| independence-memorial-hall | dated 1949 in architect's list (wall 1953); team of eight led by Wynne-Jones. |
+| rockefeller-museum | opened January 1938. |
+| opus-hong-kong | 53 Stubbs Road, Mid-Levels (Key features say "on the Peak"). |
+| ho-chi-minh-mausoleum | article names no architect. |
+| teatro-general-san-martin | completed 1960 / inaugurated 1970; MRA partners Kopiloff and Santoro. |
+| leeum | second building Jean Nouvel and Rem Koolhaas. |
+| sirius-building | designed 1978-79 (wall 1980). |
+| one-central-park | opened Dec 2013 (wall 2014). |
+| slovak-radio-building | also Barnabáš Kissling. |
+| rock-garden-chandigarh | begun 1957, opened 1986 (wall 1976). |
+| mazar-e-quaid | inaugurated 18 Jan 1971 (wall 1970). |
+| education-city-mosque | completed 2013 (wall 2015 = award year). |
+| nanjing-international-youth-cultural-centre | built 2012-15 (wall 2018). |
+| new-orleans-tower | 2009 (wall 2010). |
+| maqam-echahid | model under Bashir Yellès; built by Lavalin; Marian Konieczny sculptor. |
+| kamalapur-railway-station | Daniel Dunham and Bob Buie (Louis Berger), Robert Boughey continued. |
+| hilton-istanbul | Gordon Bunshaft with Eldem. |
+| government-museum-chandigarh | Le Corbusier with Pierre Jeanneret, M. N. and S. D. Sharma. |
+| tour-de-la-bourse | designed 1961-62, completed 1964. |
+| rohm-theatre-kyoto | article never names Kunio Maekawa. |
+| spittelau-viaducts-housing | completed 2006 (wall 2005). |
+| maria-regina-martyrum | Ebert, Hermann Jünemann and Hans Schädel. |
+| mausebunker | Kurt Schmersow with Gerd Hänska. |
+| pierre-lassonde-pavilion | OMA (Shohei Shigematsu, Jason Long); Provencher_Roy not in article. |
+| lille-cathedral | front 1999 with Peter Rice; built in stages from 1856. |
+| pergamon-museum | Messel; Ludwig Hoffmann changed exterior after 1909. |
+| muuratsalo-experimental-house | 1952-54 (article inconsistent). |
+| galeries-lafayette-berlin | store closed July 2024. |
