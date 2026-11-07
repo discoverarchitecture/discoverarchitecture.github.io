@@ -360,3 +360,24 @@ word (`tools/cheap/handwritten_quotes.json`); Opus decided:
 The draft facts were often wrong (a stone-building award, "long church", a Le Corbusier influence the house in fact
 rejects, the Knin architect's name): 6 of 7 drafts had at least one unsupported fact, which is why only quoted facts
 reached the wall. Each entry keeps its sources and quotes in `tools/illustrate/results/zz_handwritten.json`.
+
+## Winnipeg, and year fixes (7 Nov 2026)
+
+**Winnipeg** (suggested by Liv Valmestad, Art Librarian, University of Manitoba; `tools/outreach/winnipeg.md`): of the
+13 suggestions, 8 reached the wall with every fact quoted from Wikipedia (`tools/illustrate/results/zz_winnipeg.json`):
+the Canadian Museum for Human Rights, the Manitoba Legislative Building, Esplanade Riel, Precious Blood Church, the
+Union Bank Building, Centennial Concert Hall, the airport terminal and City Hall. Three credits differ from the list,
+by the sources: Esplanade Riel is 2003 with Guy Préfontaine; the Concert Hall is by three Winnipeg firms; City Hall is
+1963. The Winnipeg Art Gallery waits for a free photo of the building (Commons has interiors, artworks and a street
+view). Held for want of any source or Wikidata item: Qaumajuq (mentioned in the Art Gallery's key features), the Royal
+Canadian Mint building, The Leaf and the John A. Russell Building. The Winnipeg Building Index's old address
+(wbi.lib.umanitoba.ca, `showBuilding.jsp?id=N`) no longer resolves, so no Index links yet: ask the librarian for its
+current address. 14 gallery photos removed in review (a festival sign, a memorial table, an artwork, postcards of the
+old city hall, a plane, a café, a map).
+
+**Years and credits** (`tools/writeups/year_fixes_checked.json`, from the write-up sources): 20 corrected, spans taking
+the finishing year (owner, 7 Nov 2026). Left as they are, for a person to decide: Diamond Ranch High School (opened
+1997 while building continued; 2000 kept), the British Library (readers from 1997, official opening 1998; 1997 kept),
+the Aula Magna (the wall's 1953 already matches), Van Gogh Museum, Singapore Flyer, Bank of China Tower and the Teien
+museum (the sources add engineers, partners or finishing architects; the main credit stands), and Skopje Railway
+Station (the source credits Tange with the city plan but doesn't say who designed the station).

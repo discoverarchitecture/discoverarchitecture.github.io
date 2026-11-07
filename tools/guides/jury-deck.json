@@ -1,0 +1,51 @@
+{
+  "slug": "jury-deck",
+  "title": "How to make an architecture jury deck: 12 slides that follow your board",
+  "seo_title": "Architecture Presentation Slides: How to Make a Jury Deck",
+  "description": "How to make architecture presentation slides for a jury or crit: a slide-by-slide order that follows your board, one idea per slide, readable drawings and short titles.",
+  "kicker": "Guide · Jury decks",
+  "author": "Akshat",
+  "author_note": "Architect, trained at CEPT University, Ahmedabad",
+  "published": "2026-11-07",
+  "answer": "A jury deck works when each slide shows one idea and the slides follow the same order as your board: title and idea, site, concept, plans, sections, details, views, and the idea again. Use the drawings large, with a short title that says what the slide shows, not \"Plan\". Keep text to a line or two, use one layout for every slide, and plan about one slide for every 20 to 30 seconds you have.",
+  "steps": [
+    {"h": "1. Start from the board, not a blank file", "p": [
+      "If you already have a board, the deck is the same story told one idea at a time. Each part of the board becomes one or two slides, in the same order. Our guide to <a href=\"/guides/a1-presentation-board/\">making an A1 presentation board</a> explains that order."
+    ]},
+    {"h": "2. Count the slides from your time", "p": [
+      "Ask how long you will talk. A slide every 20 to 30 seconds is a comfortable pace, so a three-minute talk needs about six to nine slides plus the title; a ten-minute talk, around twenty. Fewer, clearer slides beat many rushed ones."
+    ]},
+    {"h": "3. Use this order", "p": [
+      "A dependable twelve: <b>1</b> title, with the project's idea in one sentence; <b>2</b> the site and its problem; <b>3</b> the concept diagram; <b>4</b> a precedent and what you took from it; <b>5</b> the site plan; <b>6–7</b> the main plans; <b>8</b> the key section; <b>9</b> a detail or the structure; <b>10</b> the main view; <b>11</b> a second view or the model; <b>12</b> the idea again, with the hero image.",
+      "Cut or merge slides to fit your time, but keep the order."
+    ]},
+    {"h": "4. Give each slide a title that says something", "p": [
+      "\"Ground floor plan\" tells the jury what they're looking at; \"Every room opens onto the courtyard\" tells them why it matters. Use the second kind, and keep the drawing's name as a small label."
+    ]},
+    {"h": "5. Make the drawings big", "p": [
+      "A plan that fills the slide reads from the back of the room; one squeezed beside a paragraph doesn't. Crop to the part you are talking about, and keep line weights heavy enough for a projector: thin grey lines disappear on most screens."
+    ]},
+    {"h": "6. One layout for every slide", "p": [
+      "Put the title in the same place on every slide, use one typeface, and keep margins the same. When the layout stays still, the jury's eyes go to the drawing, which is what changes."
+    ]},
+    {"h": "7. Keep words to captions", "p": [
+      "Say the explanation out loud; let the slide show it. A short caption or a few labels on the drawing are enough. If a slide needs a paragraph, it probably needs a diagram instead."
+    ]},
+    {"h": "8. Show precedents small and say what you took", "p": [
+      "One slide, the precedent's photo or plan small, and one line: what you learned from it. Our guide to <a href=\"/guides/precedent-study/\">doing a precedent study</a> explains how to find that line."
+    ]},
+    {"h": "9. Rehearse with the slides, out loud, twice", "p": [
+      "Click through at the pace you will speak, with a timer. Note where you run long and cut a slide there, not words everywhere. Our <a href=\"/guides/jury-presentation/\">jury presentation tips</a> cover the talk itself."
+    ]},
+    {"h": "10. Bring it two ways", "p": [
+      "Bring the deck as a PDF on a USB stick and online, and check it opens on another computer: fonts and video often don't. A PDF keeps your layout exactly as you made it."
+    ]}
+  ],
+  "cta": {"h": "Make the deck with Studio FGA", "p": "Studio FGA makes a jury deck that follows your A1 board, from your own plans, sections, sketches and model photos. See a free preview first, then pay once ($11 or $16) to download the board and deck as PDF, PowerPoint and InDesign, and keep editing.", "link": "Try it free", "href": "studio/?ref=guide-deck"},
+  "faq": [
+    {"q": "How many slides should an architecture presentation have?", "a": "Count from your time: about one slide every 20 to 30 seconds. A three-minute talk needs around six to nine slides plus a title; a ten-minute one, around twenty."},
+    {"q": "What should be on the first slide?", "a": "The project's name, your name, and the project's idea in one sentence, ideally over the main image. The jury should know what the project is about before you show the site."},
+    {"q": "Should architecture slides have a white or black background?", "a": "Either works if it suits your drawings. Line drawings usually read best on white; renders and photos often look stronger on dark. Choose one and keep it for the whole deck."},
+    {"q": "PowerPoint, Keynote or PDF?", "a": "Make it in whatever you like, but present from a PDF unless you need animation or video. A PDF looks the same on every computer, so your fonts and layout won't shift on the jury's screen."}
+  ]
+}

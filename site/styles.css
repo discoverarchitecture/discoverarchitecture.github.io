@@ -1109,3 +1109,21 @@ body.mapped { overflow: hidden; }
   .hero-th .ph img, .hero-th small { display: none; }
   .hero-th.on .ph { background: var(--red); box-shadow: none; opacity: 1; }
 }
+
+/* ---------- search: the line above the wall (design canvas v37, 6 Nov 2026); the box itself is in search.css ---------- */
+.qnote { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; margin: 0 0 14px; font-size: 14px; color: var(--graphite); }
+.qnote[hidden] { display: none; }
+.qchip { display: inline-flex; align-items: center; gap: 6px; min-height: 34px; padding: 0 4px 0 12px; border: 1px solid var(--hair);
+  border-radius: var(--r); background: var(--surface); color: var(--ink); font-size: 14px; }
+.qchip small { font: 500 10px var(--mono); letter-spacing: 0.08em; text-transform: uppercase; color: var(--graphite); }
+.qchip button { all: unset; cursor: pointer; display: grid; place-items: center; width: 28px; height: 28px; font-size: 16px; color: var(--graphite); border-radius: var(--r); }
+.qfixed b { color: var(--ink); font-weight: 600; }
+.empty .etry { display: block; margin-top: 14px; font-family: var(--sans); font-style: normal; font-size: 16px; color: var(--graphite); }
+.empty .etry button { color: var(--ink); }
+@media (hover: hover) { .qchip button:hover { color: var(--red); } }
+@media (max-width: 640px) { .qnote { margin: 0 0 10px; } }
+/* On a phone the field takes the whole row while typing; Filter, night and the game come back when it closes. */
+@media (max-width: 640px) {
+  .bar-mid:has(.search:focus-within) > :not(.search) { display: none; }
+  .bar-mid:has(.search:focus-within) > .search { flex: 1 1 100%; width: 100%; }
+}

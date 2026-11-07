@@ -8,13 +8,28 @@
   const F = window.FGA, X = window.FGAExport, SAMPLE = window.SAMPLE, API = window.StudioAPI, LAY = window.FGALayout;
   const app = document.getElementById('app');
   const DEMO = new URLSearchParams(location.search).get('demo') === '1';
+  /* Owner view (owner, 6 Nov 2026): #view=<job>&exp=<unix>&sig=<hmac>, from "View their preview" on the admin page.
+     It opens a student's job read-only: the status is read with the server's signature in place of the job token,
+     this browser's storage is never read or written (the owner's own saved project stays as it was), and every
+     action that would change the job is off ("View only"). The server refuses every write without the job token. */
+  const VIEW = (() => {
+    if (DEMO) return null;
+    const g = (k) => (new RegExp('(?:^|[#&])' + k + '=([A-Za-z0-9_-]+)').exec(location.hash) || [])[1];
+    const id = g('view'), exp = g('exp'), sig = g('sig');
+    return id && exp && sig ? { id, exp, sig } : null;
+  })();
   const KS = DEMO ? 'studio-fga-demo-flow-v1' : 'studio-fga-flow-v1', KP = 'studio-fga-demo-project-v1';
   const VERSION = 3, SV = 5;
-  const store = {
+  const store = VIEW ? { get() { return null; }, set() { return true; }, del() { /* owner view: storage is never touched */ } } : {
     get(k) { try { return JSON.parse(localStorage.getItem(k)); } catch (e) { return null; } },
     set(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); return true; } catch (e) { return false; } },
     del(k) { try { localStorage.removeItem(k); } catch (e) { /* storage off */ } }
   };
+  if (VIEW) {
+    if (API) API.readOnly = true;   // api.js refuses every call but a read
+    /* the owner's looks are not a student's steps: keep them out of the visit counts */
+    try { if (window.goatcounter) window.goatcounter.no_onload = true; window.fgaEvent = undefined; } catch (e) { /* counting is optional */ }
+  }
   const esc = F.esc;
 
   /* ---------------------------------------------------------- state */
@@ -41,7 +56,7 @@
   const paid = () => !DEMO && !!(ST && ST.paid);
   /* GoatCounter events (site/analytics.js), live app only and never with personal data: studio/preview (a free
      preview asked for), studio/checkout (Pay pressed), studio/paid/<polish|transform> (back from Dodo, paid; once per job) */
-  const track = (path, title) => { if (!DEMO && typeof window.fgaEvent === 'function') try { window.fgaEvent(path, title); } catch (e) { /* counting never breaks the app */ } };
+  const track = (path, title) => { if (!DEMO && !VIEW && typeof window.fgaEvent === 'function') try { window.fgaEvent(path, title); } catch (e) { /* counting never breaks the app */ } };
   function trackPaid() {
     if (!ST || !ST.paid || !S.job || !S.payStarted || S.paidCounted === S.job.id) return;
     S.paidCounted = S.job.id; saveS();
@@ -312,7 +327,7 @@
     if (ed && ed.editing) ed.stopEdit();
     const before = STEP[S.screen];
     S.screen = screen; saveS();
-    try { history.replaceState(null, '', location.pathname + (DEMO ? '?demo=1' : '') + '#' + screen); } catch (e) { /* sandboxed */ }
+    if (!VIEW) try { history.replaceState(null, '', location.pathname + (DEMO ? '?demo=1' : '') + '#' + screen); } catch (e) { /* sandboxed */ }
     render();
     window.scrollTo(0, 0);
     if (STEP[screen] > before && !quiet) {
@@ -1213,6 +1228,12 @@
       (i === 2 ? '<span>Studio tells you what it read from your drawings. One tap says yes; “Fix it” corrects it.</span><div class="bcheck pvbc" aria-hidden="true"><p class="bq"><span><b>We read:</b> 1 block · tensile roof. <b>Right?</b></span></p><div class="bopts"><span class="bopt yes">Yes</span><span class="bopt">Fix it</span></div></div>' : '<span>' + d + '</span>') +
       '</div></li>').join('') + '</ol></div>' +
     '<p class="pvgo"><button class="link" data-act="toHero">Try it with your sheets →</button></p></section>';
+  /* "Watch it work" (owner, 6 Nov 2026): the 2:43 walkthrough of the Law Garden sample, captions burned in. Nothing
+     downloads until play (preload="none"); the poster is one frame from the video. */
+  const watch = () => '<section class="wrap" id="watch"><h2 class="kicker">Watch it work</h2><p class="big hd">One real project, start to finish</p>' +
+    '<p class="lede">A student’s Law Garden sheets become an A1 board and a jury deck, and you see what the AI did to each drawing. Under three minutes, captions on.</p>' +
+    '<figure class="wvid"><video controls playsinline preload="none" poster="video/poster.webp" width="1920" height="1080" aria-label="Studio FGA walkthrough: a student’s sheets to a jury-ready A1 board and deck">' +
+    '<source src="video/studio-fga-walkthrough.mp4" type="video/mp4"></video></figure></section>';
   /* "Boards made with Studio FGA" (owner, 5 Nov 2026): five boards from our own pipeline. k5 is the real student
      project (shown with the student's permission); k1-k4 are test projects we ran on famous buildings, never called
      student work. Photo credits load from sample/gallery/credits.json; an empty one reads "Credits being added".
@@ -1295,7 +1316,7 @@
       '<p class="status">Sample: a real student’s community centre for the cloth vendors of Law Garden, Ahmedabad, shown with the owner’s permission.</p></section>' +
       '<section class="wrap" id="how"><h2 class="kicker">How it works</h2><p class="big hd">Four steps. The first three are free.</p><div class="lsteps">' +
       steps.map((t, i) => '<div class="lstep card"><span class="lnum">' + (i + 1) + '</span><svg viewBox="0 0 24 24" aria-hidden="true">' + sico[t[2]] + '</svg><h3 class="h3">' + t[0] + '</h3><p>' + t[1] + '</p></div>').join('') + '</div></section>' +
-      previewShow() +
+      watch() + previewShow() +
       '<section class="band"><div class="wrap bandin"><div><p class="big hd">See it before you pay.</p><p class="lede">Upload, answer a few questions and preview your board and deck for free. Pay only when you want the final files.</p></div>' + shiny('start', 'Start free', 'No login · preview free') + '</div></section>' +
       '<section class="wrap" id="get"><h2 class="kicker">What you get</h2><p class="big hd">Everything a jury expects, done for you</p><div class="deal deal2">' + sheets(8, '', 'h') +
       '<div class="dealtxt">' + getsList(null, F.visibleSlides(HP).length) + '</div></div></section>' +
@@ -1325,14 +1346,28 @@
     document.body.dataset.screen = sc;
     if (sc !== 'edit') ed = null;
     if ((sc === 'edit' && !P) || (sc === 'plan' && !Q())) { S.screen = sc = (sc === 'edit' ? 'result' : 'upload'); }
-    app.innerHTML = (sc === 'edit' ? '' : (STEP[sc] === -1) ? lnav() : top()) + V[sc]();
+    app.innerHTML = (VIEW ? viewBanner() : '') + (sc === 'edit' ? '' : (STEP[sc] === -1) ? lnav() : top()) + V[sc]();
     fillMinis(app);
     if (sc === 'edit') startEditor();
     if (sc === 'making' && DEMO) runMaking();
     if (sc === 'result' && !P && !DEMO) fillResultArt();
+    if (VIEW) { viewOnlyMarks(); return; }   // no drop zones, no focus in a box
     if (sc === 'upload') bindDrop();
     if (sc === 'home') { bindHeroDrop(); bindFlip(); bindGallery(); }
     if (sc === 'q') { const ci = document.getElementById('cardin'); if (ci) ci.focus(); }
+  }
+  /* ---------- owner view: what may be pressed (looking, switching tabs, opening files) and what is off */
+  const VIEW_OK = ['pvShow', 'pvTab', 'slotInfo', 'toPlan', 'toPrice', 'toResult', 'toFiles', 'reopen', 'recheck', 'dlOne', 'dlAllFiles', 'exp', 'orig', 'dlAll', 'copyTxt'];
+  const viewOk = (el) => VIEW_OK.includes(el.dataset.act) || (el.dataset.act === 'go' && ['plan', 'price', 'result', 'files'].includes(el.dataset.s));
+  const viewBanner = () => '<div class="ownerview" role="status">Owner view · read-only · ' + esc(VIEW.id) + '</div>';
+  function viewOnlyMarks() {
+    app.querySelectorAll('[data-act]').forEach((el) => { if (!viewOk(el)) { el.classList.add('vo-off'); el.setAttribute('aria-disabled', 'true'); el.title = 'View only'; } });
+    app.querySelectorAll('input, textarea, select').forEach((el) => { el.disabled = true; });
+  }
+  function viewLost(msg) {
+    clearTimeout(pollT);
+    app.innerHTML = viewBanner() + '<main class="wrap narrow"><p class="kicker">Owner view</p><h1 class="mid">' + esc(msg) + '</h1>' +
+      '<p class="lede">Open a new link with “View their preview” on the admin page. Nothing here changes the student’s job.</p></main>';
   }
   function fillMinis(root) {
     root.querySelectorAll('[data-mini]').forEach((el) => {
@@ -1743,6 +1778,7 @@
   app.addEventListener('click', (e) => {
     const el = e.target.closest('[data-act]');
     if (!el || !app.contains(el) || el.disabled) return;
+    if (VIEW && !viewOk(el)) { e.preventDefault(); toast('View only'); return; }
     const f = A[el.dataset.act];
     if (f) f(el, e);
   });
@@ -1766,6 +1802,7 @@
     if (e.target.name === 'wfr') { S.waitRate = +e.target.value; saveS(); document.querySelectorAll('#waitfb .rstars label').forEach((l, i) => l.classList.toggle('on', i < S.waitRate)); }
   });
   document.addEventListener('keydown', (e) => {
+    if (VIEW) return;   // owner view: no typing, no editor shortcuts
     if ((e.key === 'Enter' || e.key === ' ') && e.target.matches && e.target.matches('span[role="button"][data-act]')) { e.preventDefault(); e.target.click(); return; }
     if (e.key === 'Enter' && e.target.matches && e.target.matches('#cardin, #concept')) { e.preventDefault(); A.qnext(); return; }
     if (S.screen !== 'edit') return;
@@ -1782,7 +1819,7 @@
   const RATE = ['Poor', 'Not great', 'Okay', 'Good', 'Excellent'];
   const STAR = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3l2.6 5.6 6.1.7-4.5 4.2 1.2 6L12 16.6 6.6 19.5l1.2-6L3.3 9.3l6.1-.7z"/></svg>';
   function askRating() {
-    if (S.rateAsked || !window.HTMLDialogElement) return;
+    if (VIEW || S.rateAsked || !window.HTMLDialogElement) return;
     S.rateAsked = true; saveS();
     const d = document.createElement('dialog');
     d.className = 'ratebox'; d.setAttribute('aria-labelledby', 'rt-h');
@@ -1824,7 +1861,7 @@
   const offline = 'Studio can’t be reached right now. Check your connection and try again.';
   const fileSig = () => JSON.stringify((S.files || []).map((f) => f.name + ':' + f.bytes));
   function sendFeedback(body) {
-    if (DEMO || !S.job || !body.rating) return;
+    if (DEMO || VIEW || !S.job || !body.rating) return;
     API.feedback(S.job, body).then((r) => { if (!r.ok && r.status !== 0) console.warn('feedback', r.status, r.data.error); });
   }
   /* the last question: save the answers, then ask for the free preview (or, after paying, keep them for the redo) */
@@ -1964,6 +2001,7 @@
     if (sc === 'price' && S.payNote === 'unconfirmed' && st.paid) { S.payNote = null; go('making'); poll(500); }
   }
   function lost() {
+    if (VIEW) { viewLost('This student’s job is no longer there.'); return; }
     S = freshS(); saveS(); PV = null; P = null; ST = null;
     go('home'); toast('That project link has expired or is not valid. Start a new project any time.');
   }
@@ -1973,6 +2011,7 @@
     if (!app.innerHTML) app.innerHTML = '<main class="wrap narrow"><p class="kicker">Studio FGA</p><h1 class="mid">Opening your project…</h1></main>';
     const r = await API.status(S.job);
     if (!r.ok) {
+      if (VIEW) { viewLost(r.status === 0 ? offline : r.status === 404 ? 'This student’s job is no longer there.' : (r.data.error ? r.data.error.charAt(0).toUpperCase() + r.data.error.slice(1) + '.' : 'This owner link is not valid.')); return; }
       if (r.status === 404) { lost(); return; }
       render(); toast(offline); return;
     }
@@ -2006,6 +2045,11 @@
   window.addEventListener('pageshow', (e) => { if (e.persisted && !DEMO && S.job) refresh(false); });
 
   /* ---------------------------------------------------------- start */
+  if (VIEW) {   // owner view: a fresh, unsaved state for the student's job; the status picks the screen
+    S = freshS(); S.job = { id: VIEW.id, view: VIEW };
+    if (API.ready) refresh(true); else viewLost('Studio can’t be reached from this page.');
+    return;
+  }
   const h = (location.hash || '').replace(/^#/, '');
   if (LEGAL.includes(h)) { location.replace(h + '/'); return; }
   /* the receipt link: #job=<id>&t=<token>. Dodo may add ?payment_id=…&status=… after it: ignored. */

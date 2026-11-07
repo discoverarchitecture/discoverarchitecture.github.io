@@ -24,7 +24,7 @@ How each page is made (one batch = one page, or a small set of closely related o
 | 1 | The best architecture books for students | /books/best-architecture-books-for-students/ | Built 5 Nov 2026, awaiting the owner's yes |
 | 2 | The best architecture documentaries | /documentaries/best-architecture-documentaries/ | Next |
 | 3 | Architecture documentaries you can watch free | /documentaries/free-architecture-documentaries/ | |
-| 4 | How to do a precedent study, and buildings whose plans you can find | /guides/precedent-study/ | |
+| 4 | How to do a precedent study | /guides/precedent-study/ | Done by the guides chat, 7 Nov 2026; a follow-up list of buildings whose plans you can find is still open |
 | 5 | Books on Le Corbusier, Louis Kahn, Zaha Hadid, Tadao Ando (four short lists) | /books/<architect>/ | |
 | 6 | Architecture theory books | /books/architecture-theory-books/ | |
 | 7 | Architecture documentaries on Netflix, Prime and more (US and UK, with checked dates) | /documentaries/on-streaming/ | |

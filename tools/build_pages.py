@@ -64,7 +64,10 @@ def load():
     items = json.loads(text.split('window.BUILDINGS = ', 1)[1].rstrip().rstrip(';'))
     found = read_js('links.js', 'LINKS')  # from tools/find_links.py
     about = read_js('summaries.js', 'SUMMARIES')  # from tools/fetch_summaries.py
-    return [{**b, **found.get(b['id'], {}), **({'about': about[b['id']]} if b['id'] in about else {})} for b in items]
+    wf = ROOT / 'tools' / 'writeups' / 'results' / 'writeups.json'  # our own paragraphs from sourced facts (tools/writeups/BRIEF.md)
+    wu = {r['id']: r for r in json.loads(wf.read_text())} if wf.exists() else {}
+    return [{**b, **found.get(b['id'], {}), **({'about': about[b['id']]} if b['id'] in about else {}),
+             **({'writeup': wu[b['id']]} if b['id'] in wu else {})} for b in items]
 
 
 def place_full(b):
@@ -241,7 +244,7 @@ THEME_BTN = ('<button type="button" class="theme-btn" data-theme-toggle aria-lab
 # Search goes to the wall as /?q=…; Filter, Map and Surprise me land on the wall as #filter, #map and #surprise.
 TOPBAR = """<header class="top" data-nosnippet>
   <a class="mark" href="{up}" aria-label="Find Great Architecture: back to the wall">A<span class="accent">.</span></a>
-  <form class="search" action="{up}" method="get" role="search"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-4-4"/></svg><label class="sr" for="tq">Search buildings, architects, cities or ideas</label><input id="tq" type="search" name="q" placeholder="Search a building, architect, city or idea…" autocomplete="off" enterkeyhint="search"></form>
+  <form class="search" action="{up}" method="get" role="search"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-4-4"/></svg><label class="sr" for="tq">Search buildings, architects, cities or ideas</label><input id="tq" type="search" name="q" placeholder="Search a building, architect, city or idea…" autocomplete="off" enterkeyhint="search"></form><script src="{up}sitesearch.js" defer></script>
   <a class="tbtn fbtn" href="{up}#filter" aria-label="Filter"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 7h16M7 12h10M10 17h4"/></svg><span>Filter</span></a>
   {theme_btn}
   <a class="ai-btn ai-bar" href="{up}studio/?ref=page" aria-haspopup="dialog" aria-expanded="false">{ai_spark}<span class="ai-long">AI Jury Presentation Generator</span><span class="ai-short">AI</span></a>
@@ -321,6 +324,31 @@ def about_block(b):
             f'<a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="noopener">CC BY-SA 4.0</a>.</p></section>\n')
 
 
+def writeup_block(b):
+    """Our own paragraph about the building, written only from sourced facts (tools/writeups/), under Key features:
+    the page's real text for students and search engines. Its sources are named under it. Most pages have none yet."""
+    w = b.get('writeup')
+    if not w:
+        return ''
+    src = []
+    for u in w.get('sources') or []:
+        t = urllib.parse.unquote(u.rstrip('/').rsplit('/', 1)[-1]).replace('_', ' ') if 'wikipedia.org/wiki/' in u else urllib.parse.urlparse(u).netloc
+        src.append(f'<a href="{e(u)}" rel="noopener">{e(t)}</a>')
+    return (f'<section class="writeup"><h2>About the building</h2><p>{e(w["text"])}</p>'
+            + (f'<p class="src">Sources: {" · ".join(src)} (Wikipedia)</p>' if src and all('wikipedia.org' in u for u in w['sources'])
+               else (f'<p class="src">Sources: {" · ".join(src)}</p>' if src else '')) + '</section>')
+
+
+def guide_links():
+    """The guides (tools/guides/*.json) and reading lists (tools/lists/*.json), for the home page's text block."""
+    gs = sorted((json.loads(f.read_text()) for f in (ROOT / 'tools' / 'guides').glob('*.json')), key=lambda g: g['published'])
+    if not gs:
+        return ''
+    lists = sorted((json.loads(f.read_text()) for f in (ROOT / 'tools' / 'lists').glob('*.json')), key=lambda g: g['published'])
+    return ('  <h3><a href="guides/">Guides</a></h3>\n  <p>' + ' · '.join(f'<a href="guides/{g["slug"]}/">{e(g["title"].split(":")[0])}</a>' for g in gs) + '</p>\n'
+            + ('  <h3><a href="books/">Reading lists</a></h3>\n  <p>' + ' · '.join(f'<a href="books/{g["slug"]}/">{e(g["title"])}</a>' for g in lists) + '</p>\n' if lists else ''))
+
+
 def hub_links():
     """The hub pages by kind, for the home page's text block, so crawlers (and people without JavaScript) can reach them."""
     if not HUBS:
@@ -350,7 +378,7 @@ def home_block(items):
             f'Spin the globe to explore buildings from all over the world, <a href="buildings/">see them all A–Z</a>, '
             f'or test yourself with the <a href="play/">guess-the-building games</a>. '
             f'Short building videos on <a href="https://www.youtube.com/@findgreatarchitecture" rel="noopener">YouTube</a>.</p>\n'
-            f'{hub_links()}'
+            f'{hub_links()}{guide_links()}'
             f'  <h3>Most looked-up buildings</h3>\n  <ol>{"".join(row(b) for b in top)}</ol>\n'
             f'  <div class="about-legal">{legal_foot("")}</div>\n'
             f'</section>')
@@ -779,6 +807,7 @@ def building_page(b, items):
     <div class="whowhere">{byline_html(b, up, mine)}{where_html(b, up)}</div>
     <p class="meta">{e(b['year'])}</p>
     <p class="study"><span>Key features</span>{e(b['study'])}</p>
+    {writeup_block(b)}
     {threads_html(b, up, C['idea'].get(idea, 0))}
     {''.join(rows)}
     {films_for_building(b, up)}
@@ -906,7 +935,7 @@ def stamp_wall():
     instead of waiting for their cached copy to expire."""
     page = SITE / 'index.html'
     html = page.read_text()
-    for name in ('theme.css', 'theme.js', 'styles.css', 'data/wall.js', 'data/names.js', 'data/architects.js', 'data/pritzker.js', 'data/filters.js', 'data/world.js', 'data/books.js', 'data/book_lines.js', 'data/swipe.js', 'data/arch_pages.js', 'app.js', 'filter.js', 'rows.js', 'map.js', 'ai.css'):
+    for name in ('theme.css', 'theme.js', 'styles.css', 'search.css', 'data/wall.js', 'data/names.js', 'data/architects.js', 'data/pritzker.js', 'data/filters.js', 'data/world.js', 'data/books.js', 'data/book_lines.js', 'data/swipe.js', 'data/arch_pages.js', 'search.js', 'app.js', 'searchbox.js', 'filter.js', 'rows.js', 'map.js', 'ai.css'):
         html = re.sub(r'(["\'])' + re.escape(name) + r'(\?v=[0-9a-f]*)?\1', lambda m: f'{m.group(1)}{name}?v={fingerprint(SITE / name)}{m.group(1)}', html)
     page.write_text(html)
     play = SITE / 'play' / 'index.html'  # the game page: its own script and styles, and the buildings it asks about
@@ -977,10 +1006,62 @@ def write_wall(items=None):
         if old.stem not in ids:
             old.unlink()
     version = hashlib.md5((digest.hexdigest() + ''.join(rows)).encode()).hexdigest()[:8]
+    write_search_index(items)
     (SITE / 'data' / 'wall.js').write_text('// The wall\'s buildings, one per line, first photo only; the rest of each is in data/detail/<id>.json.\n'
                                            '// Made by tools/build_pages.py from data/buildings.js and data/links.js; edit those, not this file.\n'
                                            f'window.WALL_V = "{version}";\nwindow.BUILDINGS = [\n' + ',\n'.join(rows) + '\n];\n')
     return len(rows)
+
+
+def write_search_index(items):
+    """site/data/search_index.js: what the search box on every page outside the wall needs (site/sitesearch.js),
+    loaded only when a visitor first uses the field. One short row per building (no Key features text, to stay
+    small), the one-name-per-architect credits, black-and-white portrait thumbnails, country names and the hub
+    pages a style, type, city or idea leads to. Written with wall.js, so the deploy's --stamp run keeps it fresh."""
+    import names_py
+    nm = names_py.Names(items)
+    rows, people, words = [], set(), []
+    seen = {}
+    def code(v):  # types, styles, regions and ideas repeat thousands of times: each is written once, in `w`
+        if v not in seen:
+            seen[v] = len(words)
+            words.append(v)
+        return seen[v]
+    for b in items:
+        arch = nm.list(b.get('by') or '')
+        people.update(arch)
+        ims = b.get('images') or []
+        thumb = ims[0].get('thumb', '') if ims else ''
+        m = re.fullmatch(r'images/' + re.escape(b['id']) + r'/thumbs/(\d+)\.webp', thumb)  # most are images/<id>/thumbs/<n>.webp
+        thumb = int(m.group(1)) if m else ('d' if thumb == f"images/{b['id']}/drawing.svg" else thumb)
+        year = str(b.get('year') or '')
+        rows.append([b['id'], b['name'], '|'.join(arch), b.get('place') or '', '' if year == str(b.get('y')) else year, b.get('y') or 0,
+                     code(b.get('type') or ''), code(b.get('movement') or ''), code(b.get('region') or ''),
+                     [code(c) for c in b.get('concepts') or []], b.get('n') or 0, thumb])
+    faces = {}
+    arch_js = read_js('architects.js', 'ARCHITECTS') or {}
+    for p in (arch_js.get('people') or {}).values():
+        name = nm.canon(p.get('name') or '')
+        if p.get('thumb') and name in people and name not in faces:
+            faces[name] = p['thumb'].split('?')[0]
+    pages = read_js('arch_pages.js', 'ARCH_PAGES') or {}
+    world = read_js('world.js', 'WORLD') or {}
+    codes = {(r[3].split(', ')[-1] if r[3] else '') for r in rows}
+    countries = {c: n for c, n in (world.get('names') or {}).items() if c in codes or c in ('GB', 'HK')}
+    hubs = {}
+    hp = ROOT / 'tools' / 'hubs' / 'hubs.json'
+    if hp.exists():
+        folder = {'style': 'styles', 'type': 'types', 'city': 'cities', 'idea': 'ideas'}
+        for h in json.loads(hp.read_text()).get('hubs', []):
+            m = h.get('match') or {}
+            for key, field in (('movement', 'movement'), ('type', 'type'), ('city', 'city'), ('concept', 'concepts')):
+                if key in m and h.get('kind') in folder:
+                    value = m[key].split(', ')[0] if key == 'city' else m[key]
+                    hubs[f'{field}:{value}'] = f"{folder[h['kind']]}/{h['slug']}/"
+    data = {'w': words, 'b': rows, 'faces': faces, 'pages': pages, 'countries': countries, 'hubs': hubs}
+    (SITE / 'data' / 'search_index.js').write_text(
+        '// The search box on pages outside the wall (site/sitesearch.js). Made by tools/build_pages.py with wall.js.\n'
+        'window.SEARCH_INDEX = ' + json.dumps(data, ensure_ascii=False, separators=(',', ':')) + ';\n')
 
 
 REST = '<!-- resting -->'

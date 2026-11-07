@@ -1,0 +1,3 @@
+https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Union+Bank+Tower&language=en&limit=7&format=json
+
+{"searchinfo":{"search":"Union Bank Tower"},"search":[{"id":"Q7885394","title":"Q7885394","pageid":7822418,"concepturi":"http://www.wikidata.org/entity/Q7885394","repository":"wikidata","url":"//www.wikidata.org/wiki/Q7885394","display":{"label":{"value":"Union Bank of California Tower","language":"en"},"description":{"value":"skyscraper in Portland Oregon","language":"en"}},"label":"Union Bank of California Tower","description":"skyscraper in Portland Oregon","match":{"type":"alias","language":"en","text":"Union Bank Tower"},"aliases":["Union Bank Tower"]}],"success":1}

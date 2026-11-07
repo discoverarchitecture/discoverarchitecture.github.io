@@ -1,0 +1,54 @@
+{
+  "slug": "jury-presentation",
+  "title": "How to present at an architecture jury: tips for a clear, calm crit",
+  "seo_title": "Architecture Jury Presentation Tips: How to Present Your Project",
+  "description": "How to present an architecture project at a jury or crit: a three-minute story, what to say first, how to point at drawings, handling questions, and what to bring.",
+  "kicker": "Guide · Juries and crits",
+  "author": "Akshat",
+  "author_note": "Architect, trained at CEPT University, Ahmedabad",
+  "published": "2026-11-07",
+  "answer": "Open with your project's idea in one sentence, then walk the jury through your drawings in the order they explain that idea: site, concept, plan, section, a key detail, the view. Point at what you are talking about, keep it to the time you are given (often three to five minutes), and stop before you run out. Listen to the questions, answer the one asked, and write the feedback down.",
+  "steps": [
+    {"h": "1. Know your one sentence", "p": [
+      "Before anything else, be able to say what your project does in one sentence a stranger understands. A jury hears many projects in a row; the ones they remember are the ones they could repeat afterwards.",
+      "Say it first, and come back to it at the end."
+    ]},
+    {"h": "2. Plan a three-minute story", "p": [
+      "Most juries give each student a few minutes to present before the questions; ask your tutor how long you have. Plan the talk as a story in four parts: the problem or site, your idea, how the building works, and what it is like to be there.",
+      "Time yourself out loud at least twice. Three minutes is about 400 spoken words, far less than most students prepare."
+    ]},
+    {"h": "3. Let the board's order be your script", "p": [
+      "If your board is laid out in reading order (idea, hero view, site, plan, section, details), your talk can simply follow it. Move from the large ideas to the small ones, and don't jump back and forth.",
+      "Our guide to <a href=\"/guides/a1-presentation-board/\">making an A1 presentation board</a> shows how to set up that order."
+    ]},
+    {"h": "4. Point, and say what the jury is looking at", "p": [
+      "Stand beside the board, not in front of it, and point at the drawing you are talking about. Say what it is: \"this section cuts through the courtyard\". Jurors look for the drawing while you talk; help them find it."
+    ]},
+    {"h": "5. Speak about the building, not the process", "p": [
+      "Juries want to understand the building you propose. Keep the story of how you got there to one or two sentences, unless the process is the project. Explain decisions with reasons: \"the rooms face north for even light\", not \"I wanted it to look nice\"."
+    ]},
+    {"h": "6. Show precedents briefly, and say what you took", "p": [
+      "If a precedent shaped your design, show it small and say in one sentence what you learned from it. Our guide to <a href=\"/guides/precedent-study/\">doing a precedent study</a> explains how to find that sentence."
+    ]},
+    {"h": "7. Stop on time, and end on the idea", "p": [
+      "Finish with your one sentence again, and stop. Running over cuts into the questions, which is often where the useful feedback is."
+    ]},
+    {"h": "8. Listen to the questions, then answer the one asked", "p": [
+      "Let the juror finish. If you don't understand the question, ask them to repeat it. Answer briefly and point at the drawing that shows the answer. If something is missing or doesn't work yet, say so plainly; defending a weak point usually takes longer than admitting it."
+    ]},
+    {"h": "9. Write the feedback down", "p": [
+      "Ask a friend to note what the jury says, or note it yourself straight after. Comments that felt harsh in the room are often the most useful at your desk the next day."
+    ]},
+    {"h": "10. Bring what you need", "p": [
+      "Pins or tape, a printed copy of your drawings at A3 for yourself, your model, and a few slides if the jury uses a screen. If you present on a screen, make the slides follow the board, one idea per slide."
+    ]}
+  ],
+  "cta": {"h": "Make the board and deck with Studio FGA", "p": "Studio FGA turns your plans, sections, sketches and model photos into a jury-ready A1 board and a matching jury deck. See a free preview first, then pay once ($11 or $16) to download it as PDF, PowerPoint and InDesign, and keep editing.", "link": "Try it free", "href": "studio/?ref=guide-jury"},
+  "faq": [
+    {"q": "How long is an architecture jury presentation?", "a": "It depends on the school and the stage, but a few minutes of talking followed by questions is common. Ask your tutor how long you have, then plan for a little less, so the questions get their time."},
+    {"q": "What should I say first at a jury?", "a": "Your project's idea in one sentence: what the building does and why. Then the site or problem, so the jury knows what the idea answers. Keep introductions about yourself to your name."},
+    {"q": "How do I handle hard questions at a crit?", "a": "Listen to the whole question, answer the one asked, and point at the drawing that helps. If a part of the project isn't resolved, say so and say what you would try next. Write the comment down."},
+    {"q": "What is the difference between a jury and a crit?", "a": "Usually nothing: both are reviews of your project by tutors and invited guests. Schools use different words for the same thing (jury, crit, review, final review, pin-up), and some keep jury for the formal end-of-term review."},
+    {"q": "Should I use slides or only the board?", "a": "Follow what your school expects. If there is a screen, a short deck that follows the board's order helps everyone see the drawing you are talking about, one idea per slide."}
+  ]
+}

@@ -22,6 +22,13 @@ on every page. No sign-up and no paywall for the wall.
 - [How to make an A1 architecture presentation board](https://findgreatarchitecture.com/guides/a1-presentation-board/):
   a step-by-step guide by an architect (one idea, one hero image, reading order, grid, clean drawings, short text, white
   space, an A3 check), with a real student project before and after, and answers to common questions (A1 is 594 × 841 mm).
+- [How to do an architecture precedent study](https://findgreatarchitecture.com/guides/precedent-study/): choosing a
+  building that shares your project's question, gathering plans and sections, redrawing, analysis diagrams (structure,
+  circulation, light, site), comparing at one scale, and turning it into a design move, with credits.
+- [How to present at an architecture jury](https://findgreatarchitecture.com/guides/jury-presentation/): the one-sentence
+  idea, a three-minute story that follows the board, pointing at drawings, answering questions, and what to bring.
+- [How to make an architecture jury deck](https://findgreatarchitecture.com/guides/jury-deck/): a twelve-slide order that
+  follows the board, one idea per slide, titles that say something, big drawings, and presenting from a PDF.
 
 ## Reading lists
 
