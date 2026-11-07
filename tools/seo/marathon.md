@@ -94,3 +94,4 @@ Rules that hold the whole time (CLAUDE.md):
 - 7 Nov ~16:45 UTC: round 6 done and **merged (PR #182)**: 166 more write-ups, 1,300 in all; 125 of 300 had too little on Wikipedia, 8 under 85 words, Silver Hut held back (wall data mixes two buildings). 53 credit/year notes (PR #183, merged). Saved article texts for rounds 5-6 removed from main. Round 7 started (todo_19-21).
 - 7 Nov 18:15 UTC check-in: round 7 articles landed (300, todo_19-21). Six agents take quotes into scratchpad wu8/facts_a..f.json, each with its own scratch folder.
 - 7 Nov ~20:00 UTC: round 7 done and **merged (PR #184)**: 249 more write-ups, 1,549 in all (83% yield: better-documented Western buildings). 46 credit/year notes (PR #185, merged). Round 8 started: the last 298 indexable pages (todo_22-24).
+- 7 Nov 20:15 UTC check-in: round 8 articles landed (298, todo_22-24). Six agents take quotes into scratchpad wu9/facts_a..f.json.
