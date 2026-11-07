@@ -47,8 +47,11 @@ Rules that hold the whole time (CLAUDE.md):
       saved texts (`verify.py`), two write (quotes only, own words), two fact-check, then merge into PR #175 with
       `check_writeups.py` passing, and commit `facts_7-9.json` to `claude/writeups-round3`. Same as todo_6 (scratchpad
       `wu3/` has the tools: `verify.py`, `measure.py`).
-- [ ] 13. Write-ups round 4: the next 300 indexable pages (`todo_10-12.json` on `claude/writeups-round3`; request
+- [x] 13. Write-ups round 4: the next 300 indexable pages (`todo_10-12.json` on `claude/writeups-round3`; request
       "10 11 12"). Same steps as round 3 (scratchpad `wu4/` tools: `verify.py`, `measure.py`, `mkin.py`).
+- [ ] 14. Write-ups round 5: the next 300 indexable pages (`todo_13-15.json` on `claude/writeups-round5`, request
+      "13 14 15"). None of the remaining 1,198 indexable pages without a write-up has had a Google impression, so these
+      follow the wall's order (best-known first). Same steps as round 4 (scratchpad `wu5/` tools; `merge.py`).
 - [ ] 10. Final report to the owner: what went live, what waits for their decision, numbers to watch.
 
 ## Log
@@ -75,3 +78,4 @@ Rules that hold the whole time (CLAUDE.md):
 - 7 Nov ~09:50 UTC: round 3 done: 245 had facts, 242 kept (fact-check: 7-24 changes per batch). PR #175 now has **649 building write-ups**; checker passes; canvas v38 updated. Credit and year disagreements from rounds 2-3 noted in the agents' reports (e.g. Aéro-Habitat, Van Gogh Museum, Singapore Flyer, Secretariat Chandigarh 1953, MUSAC 2005): add to year_conflicts.md.
 - 7 Nov 10:15 UTC check-in: 1,536 indexable pages still have no write-up (70 with recent impressions). Round 4 started (task 13); articles fetching on GitHub Actions.
 - 7 Nov 12:20 UTC check-in: round 4 articles landed (300, todo_10-12). Six agents take quotes into scratchpad wu5/facts_a..f.json (verify.py). Main now carries PR #177 (data collection's Winnipeg rebuild); the round 4 write-ups go in a new PR on top of it, since PR #175's look is approved and merged.
+- 7 Nov ~13:00 UTC: round 4 done and **merged (PR #178)**: 257 more write-ups (262 had facts; 5 under 85 words left out), 906 in all; checker passes (22 flags checked by eye, in reviewed.txt). Credit and year notes in year_conflicts.md (PR #179, merged). Round 5 started: articles for todo_13-15 fetching on GitHub Actions.
