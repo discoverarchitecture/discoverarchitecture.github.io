@@ -54,6 +54,7 @@ Gaps found:
 - 17:09 IST · Added to #172: the AI tools roundup gains "How to judge an AI architecture presentation generator" (a seven-question checklist, Studio FGA's own answers beside it) and an FAQ; `updated: 2026-11-07`.
 - 17:11 IST · Off-site ideas PR [#176](https://github.com/discoverarchitecture/discoverarchitecture.github.io/pull/176) (branch `seo/offsite-ideas`, from main): `tools/seo/OFFSITE_IDEAS.md`, drafts only.
 - 17:58 IST · Added to #172: `what-architecture-jurors-look-for` (a juror's ten questions, each with a self-check). Thesis structure dropped: the slides guide already has a thesis section, so a new page would be a near-copy.
+- 17:58 IST · Added to #172: guides index description names the new topics; updated guides show "updated <date>" in the byline.
 
 ## Next
 
@@ -62,5 +63,9 @@ Gaps found:
      and `how-to-lay-out-an-a1-architecture-board`; strengthen those instead)
    - (list done; further ideas only if clearly distinct: "architecture portfolio layout" is covered by the portfolio
      guide; "architecture model photography" and "how to render for a jury" are candidates)
-3. Site-wide internal links: the FGA footer line (`GUIDE` in build_pages.py) could point to `/studio/guides/` too.
-4. `/pricing/`: no structured data; consider BreadcrumbList only (prices already in /studio/'s SoftwareApplication).
+2. Next guide: how to photograph architecture models for a jury board (`architecture-model-photography`), using the
+   sample's model photos before and after (raw sheet 3 → board/model-*.jpg).
+3. Deferred, with reasons: a site-wide footer link to `/studio/guides/` needs a full `build_pages.py` run that rewrites
+   every page and would collide with the other open PRs; the A1 guide (already in every footer) now links the Studio
+   guides instead (#170). `/pricing/` structured data: skipped, low value (prices already in /studio/'s data).
+4. After the owner merges: check the live pages, sitemap and llms.txt; re-run the IndexNow job if the deploy failed.
