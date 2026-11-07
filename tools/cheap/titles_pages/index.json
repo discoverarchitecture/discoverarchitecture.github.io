@@ -1,0 +1,122 @@
+[
+ {
+  "n": 0,
+  "qid": null,
+  "url": "https://wbi.lib.umanitoba.ca/WinnipegBuildings/",
+  "file": "000.txt",
+  "ok": false,
+  "error": "<urlopen error [Errno -2] Name or service not known>"
+ },
+ {
+  "n": 1,
+  "qid": null,
+  "url": "https://lib.umanitoba.ca/winnipeg-building-index",
+  "file": "001.txt",
+  "ok": false,
+  "error": "<urlopen error [Errno -5] No address associated with hostname>"
+ },
+ {
+  "n": 2,
+  "qid": null,
+  "url": "https://html.duckduckgo.com/html/?q=%22Winnipeg+Building+Index%22+Canadian+Museum+for+Human+Rights",
+  "file": "002.txt",
+  "ok": true,
+  "chars": 301
+ },
+ {
+  "n": 3,
+  "qid": null,
+  "url": "https://html.duckduckgo.com/html/?q=%22Winnipeg+Building+Index%22+Winnipeg+Art+Gallery",
+  "file": "003.txt",
+  "ok": true,
+  "chars": 301
+ },
+ {
+  "n": 4,
+  "qid": null,
+  "url": "https://html.duckduckgo.com/html/?q=%22Winnipeg+Building+Index%22+Qaumajuq",
+  "file": "004.txt",
+  "ok": true,
+  "chars": 301
+ },
+ {
+  "n": 5,
+  "qid": null,
+  "url": "https://html.duckduckgo.com/html/?q=%22Winnipeg+Building+Index%22+Manitoba+Legislative+Building",
+  "file": "005.txt",
+  "ok": true,
+  "chars": 301
+ },
+ {
+  "n": 6,
+  "qid": null,
+  "url": "https://html.duckduckgo.com/html/?q=%22Winnipeg+Building+Index%22+Esplanade+Riel",
+  "file": "006.txt",
+  "ok": true,
+  "chars": 301
+ },
+ {
+  "n": 7,
+  "qid": null,
+  "url": "https://html.duckduckgo.com/html/?q=%22Winnipeg+Building+Index%22+Precious+Blood+Church",
+  "file": "007.txt",
+  "ok": true,
+  "chars": 301
+ },
+ {
+  "n": 8,
+  "qid": null,
+  "url": "https://html.duckduckgo.com/html/?q=%22Winnipeg+Building+Index%22+Royal+Canadian+Mint",
+  "file": "008.txt",
+  "ok": true,
+  "chars": 301
+ },
+ {
+  "n": 9,
+  "qid": null,
+  "url": "https://html.duckduckgo.com/html/?q=%22Winnipeg+Building+Index%22+Union+Bank+Tower",
+  "file": "009.txt",
+  "ok": true,
+  "chars": 301
+ },
+ {
+  "n": 10,
+  "qid": null,
+  "url": "https://html.duckduckgo.com/html/?q=%22Winnipeg+Building+Index%22+Winnipeg+City+Hall",
+  "file": "010.txt",
+  "ok": true,
+  "chars": 301
+ },
+ {
+  "n": 11,
+  "qid": null,
+  "url": "https://html.duckduckgo.com/html/?q=%22Winnipeg+Building+Index%22+Centennial+Concert+Hall",
+  "file": "011.txt",
+  "ok": true,
+  "chars": 301
+ },
+ {
+  "n": 12,
+  "qid": null,
+  "url": "https://html.duckduckgo.com/html/?q=%22Winnipeg+Building+Index%22+Richardson+International+Airport+terminal",
+  "file": "012.txt",
+  "ok": true,
+  "chars": 301
+ },
+ {
+  "n": 13,
+  "qid": null,
+  "url": "https://html.duckduckgo.com/html/?q=%22Winnipeg+Building+Index%22+The+Leaf+Assiniboine+Park",
+  "file": "013.txt",
+  "ok": true,
+  "chars": 301
+ },
+ {
+  "n": 14,
+  "qid": null,
+  "url": "https://html.duckduckgo.com/html/?q=%22Winnipeg+Building+Index%22+John+A.+Russell+Building",
+  "file": "014.txt",
+  "ok": true,
+  "chars": 301
+ }
+]
