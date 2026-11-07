@@ -57,5 +57,6 @@ Follow-ups for 1–5 are due from 12 Nov (one short note, never a third).
 
 Left from round 1 (generic or no address, or not an images page): City Tech CUNY, Tulane, Huddersfield, NMSU DACC,
 Illinois, Brown, Ferris State, Detroit Mercy, Birmingham City, Leeds Beckett, Calgary, UBC, Bond, Deakin, Melbourne
-Polytechnic, Auckland, AUT, Unitec, UCD, HKU, Utah Valley, Dalhousie. Round 2 (about 120 more guides) is being found on
-`claude/outreach-libguides-2`.
+Polytechnic, Auckland, AUT, Unitec, UCD, HKU, Utah Valley, Dalhousie. Round 2: 137 guides found on `claude/outreach-libguides-2`, 76 passed the check; 21-46 are the 26 with a named
+librarian or a guide-specific address, drafted 7 Nov in Gmail, to send Mon 9 Nov (at most about 30 a day). The other 50
+had only a general library address or none: left for now.
