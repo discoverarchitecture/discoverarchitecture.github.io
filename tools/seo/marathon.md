@@ -36,7 +36,7 @@ Rules that hold the whole time (CLAUDE.md):
 - [ ] 8. Guide 4: The jury deck (10–15 slides that follow the board).
 - [ ] 9. Internal links: every guide linked from the hubs it mentions and from the home page's About block; `llms.txt`
       and the sitemap carry the new pages.
-- [ ] 11. Write-ups round 2: the next 300 building pages by Google impressions (`todo_4-6.json`). Three Sonnet sessions
+- [x] 11. Write-ups round 2: the next 300 building pages by Google impressions (`todo_4-6.json`). Three Sonnet sessions
       gather facts (`claude/writeups-facts-4/5/6`: session_01MLZuXpm4Fji2w1CbrabzhX, session_01MLZuXn19kLBQvwhPhv2oDQ,
       session_01MLZuXq8Kg6g9SyhLDbSNen). When their `facts_4/5/6.json` land: write (Opus agents, `in_*.json` style), then a
       strict fact-check against the quotes, then the own-words pass (`measure.py`-style copied share under 0.15), then
@@ -62,3 +62,4 @@ Rules that hold the whole time (CLAUDE.md):
 - 7 Nov ~01:30 UTC: round 2 written, fact-checked (light: 1-17 changes per batch) and merged into PR #175: 153 more, 338 write-ups in all; six under 85 words left out; checker passes; canvas v38 updated. facts_6 (session 6) still pending after the rate limit; when it lands, do the same for it.
 - 7 Nov 02:20 UTC check-in: session 6 gave up (Wikipedia 429s the cloud chats' shared connection; this session too). Now fetched on GitHub Actions instead: `.github/workflows/writeups-articles.yml` + `tools/writeups/fetch_articles.py` on `claude/writeups-facts-6` (request file `articles_request.txt`, first line = todo number) commits `tools/writeups/articles_6/<id>.json` (search candidates + plain text of the top two). Next: from those texts, an agent picks the right article and takes 5-8 exact quotes per building into `facts_6.json` (check every quote is a substring of the saved text), then write, fact-check, own words, merge into PR #175. Three titles need care: The Arnold House, Gobierno Civil de Tarragona, Hamilton City Hall.
 - 7 Nov 04:20 UTC check-in: articles_6 landed (100). Two Opus agents take exact quotes from the saved texts into scratchpad wu3/facts_a.json and facts_b.json (verify.py checks every quote is word for word in the saved page). Then: write, fact-check, merge into PR #175, and commit facts_6.json to claude/writeups-facts-6.
+- 7 Nov ~06:00 UTC: todo_6 finished (facts from GitHub-fetched articles, quotes verified word for word; 74 written, 69 kept). PR #175 now has **407 building write-ups**, checker passes. Task 11 done. Remaining: owner's approval of PR #175; final report (task 10) by 8 Nov 14:00 UTC.
