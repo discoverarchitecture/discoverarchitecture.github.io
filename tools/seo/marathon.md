@@ -42,6 +42,11 @@ Rules that hold the whole time (CLAUDE.md):
       strict fact-check against the quotes, then the own-words pass (`measure.py`-style copied share under 0.15), then
       `check_writeups.py`, then add to `writeups.json` on `claude/writeups-faqs` (PR #175, still unmerged). Process in
       `tools/writeups/BRIEF.md`, "What actually happened".
+- [ ] 12. Write-ups round 3: the next 300 pages by Google impressions (`todo_7-9.json` on `claude/writeups-round3`).
+      Articles fetched on GitHub Actions (request "7 8 9"), then for each todo: two Opus agents take exact quotes from the
+      saved texts (`verify.py`), two write (quotes only, own words), two fact-check, then merge into PR #175 with
+      `check_writeups.py` passing, and commit `facts_7-9.json` to `claude/writeups-round3`. Same as todo_6 (scratchpad
+      `wu3/` has the tools: `verify.py`, `measure.py`).
 - [ ] 10. Final report to the owner: what went live, what waits for their decision, numbers to watch.
 
 ## Log
@@ -63,3 +68,4 @@ Rules that hold the whole time (CLAUDE.md):
 - 7 Nov 02:20 UTC check-in: session 6 gave up (Wikipedia 429s the cloud chats' shared connection; this session too). Now fetched on GitHub Actions instead: `.github/workflows/writeups-articles.yml` + `tools/writeups/fetch_articles.py` on `claude/writeups-facts-6` (request file `articles_request.txt`, first line = todo number) commits `tools/writeups/articles_6/<id>.json` (search candidates + plain text of the top two). Next: from those texts, an agent picks the right article and takes 5-8 exact quotes per building into `facts_6.json` (check every quote is a substring of the saved text), then write, fact-check, own words, merge into PR #175. Three titles need care: The Arnold House, Gobierno Civil de Tarragona, Hamilton City Hall.
 - 7 Nov 04:20 UTC check-in: articles_6 landed (100). Two Opus agents take exact quotes from the saved texts into scratchpad wu3/facts_a.json and facts_b.json (verify.py checks every quote is word for word in the saved page). Then: write, fact-check, merge into PR #175, and commit facts_6.json to claude/writeups-facts-6.
 - 7 Nov ~06:00 UTC: todo_6 finished (facts from GitHub-fetched articles, quotes verified word for word; 74 written, 69 kept). PR #175 now has **407 building write-ups**, checker passes. Task 11 done. Remaining: owner's approval of PR #175; final report (task 10) by 8 Nov 14:00 UTC.
+- 7 Nov 06:15 UTC check-in: round 3 started (task 12); the article fetch for todo_7-9 runs on GitHub Actions.
