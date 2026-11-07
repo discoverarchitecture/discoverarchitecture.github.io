@@ -1,0 +1,122 @@
+[
+ {
+  "n": 0,
+  "qid": null,
+  "url": "https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&titles=Canadian+Museum+for+Human+Rights&redirects=1&format=json&formatversion=2",
+  "file": "000.txt",
+  "ok": true,
+  "chars": 23002
+ },
+ {
+  "n": 1,
+  "qid": null,
+  "url": "https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&titles=Winnipeg+Art+Gallery&redirects=1&format=json&formatversion=2",
+  "file": "001.txt",
+  "ok": true,
+  "chars": 25458
+ },
+ {
+  "n": 2,
+  "qid": null,
+  "url": "https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&titles=Manitoba+Legislative+Building&redirects=1&format=json&formatversion=2",
+  "file": "002.txt",
+  "ok": true,
+  "chars": 26661
+ },
+ {
+  "n": 3,
+  "qid": null,
+  "url": "https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&titles=Esplanade+Riel&redirects=1&format=json&formatversion=2",
+  "file": "003.txt",
+  "ok": true,
+  "chars": 2263
+ },
+ {
+  "n": 4,
+  "qid": null,
+  "url": "https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&titles=Precious+Blood+Roman+Catholic+Church&redirects=1&format=json&formatversion=2",
+  "file": "004.txt",
+  "ok": true,
+  "chars": 113
+ },
+ {
+  "n": 5,
+  "qid": null,
+  "url": "https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&titles=Union+Bank+Building&redirects=1&format=json&formatversion=2",
+  "file": "005.txt",
+  "ok": true,
+  "chars": 7030
+ },
+ {
+  "n": 6,
+  "qid": null,
+  "url": "https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&titles=Centennial+Concert+Hall&redirects=1&format=json&formatversion=2",
+  "file": "006.txt",
+  "ok": true,
+  "chars": 3726
+ },
+ {
+  "n": 7,
+  "qid": null,
+  "url": "https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&titles=Winnipeg+Richardson+International+Airport&redirects=1&format=json&formatversion=2",
+  "file": "007.txt",
+  "ok": true,
+  "chars": 10451
+ },
+ {
+  "n": 8,
+  "qid": null,
+  "url": "https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&titles=Antoine+Predock&redirects=1&format=json&formatversion=2",
+  "file": "008.txt",
+  "ok": true,
+  "chars": 6443
+ },
+ {
+  "n": 9,
+  "qid": null,
+  "url": "https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&titles=Gustavo+da+Roza&redirects=1&format=json&formatversion=2",
+  "file": "009.txt",
+  "ok": true,
+  "chars": 7933
+ },
+ {
+  "n": 10,
+  "qid": null,
+  "url": "https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&titles=Winnipeg+Bus+Terminal&redirects=1&format=json&formatversion=2",
+  "file": "010.txt",
+  "ok": true,
+  "chars": 4137
+ },
+ {
+  "n": 11,
+  "qid": null,
+  "url": "https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&titles=List+of+works+by+C%C3%A9sar+Pelli&redirects=1&format=json&formatversion=2",
+  "file": "011.txt",
+  "ok": true,
+  "chars": 8336
+ },
+ {
+  "n": 12,
+  "qid": null,
+  "url": "https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&titles=Darling+and+Pearson&redirects=1&format=json&formatversion=2",
+  "file": "012.txt",
+  "ok": true,
+  "chars": 3918
+ },
+ {
+  "n": 13,
+  "qid": null,
+  "url": "https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&titles=%C3%89tienne+Gaboury&redirects=1&format=json&formatversion=2",
+  "file": "013.txt",
+  "ok": true,
+  "chars": 4486
+ },
+ {
+  "n": 14,
+  "qid": null,
+  "url": "https://web.archive.org/web/2017/http://wbi.lib.umanitoba.ca/WinnipegBuildings/",
+  "file": "014.txt",
+  "ok": true,
+  "chars": 7684
+ }
+]
