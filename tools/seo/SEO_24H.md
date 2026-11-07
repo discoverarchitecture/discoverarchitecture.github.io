@@ -50,6 +50,7 @@ Gaps found:
 - 17:07 IST · Added to #172: `how-to-present-site-analysis`, `tools/studio_guides/CHECKLIST.md` (the builder skips it).
 - 17:08 IST · Added to #172: `architecture-presentation-board-templates`.
 - 17:09 IST · Added to #172: the AI tools roundup gains "How to judge an AI architecture presentation generator" (a seven-question checklist, Studio FGA's own answers beside it) and an FAQ; `updated: 2026-11-07`.
+- 17:11 IST · Off-site ideas PR [#176](https://github.com/discoverarchitecture/discoverarchitecture.github.io/pull/176) (branch `seo/offsite-ideas`, from main): `tools/seo/OFFSITE_IDEAS.md`, drafts only.
 
 ## Next
 
@@ -58,4 +59,7 @@ Gaps found:
      and `how-to-lay-out-an-a1-architecture-board`; strengthen those instead)
    - what jurors look for → `what-architecture-jurors-look-for`
    - thesis presentation structure → `architecture-thesis-presentation-structure`
-4. Off-site ideas file for the owner (`tools/seo/OFFSITE_IDEAS.md`): draft only.
+2. Decide on the overlapping topics: "what jurors look for" (mostly covered in jury tips) and "thesis presentation
+   structure" (mostly covered in the slides guide). Prefer a new section inside those guides over new pages.
+3. Site-wide internal links: the FGA footer line (`GUIDE` in build_pages.py) could point to `/studio/guides/` too.
+4. `/pricing/`: no structured data; consider BreadcrumbList only (prices already in /studio/'s SoftwareApplication).
