@@ -49,6 +49,7 @@ Gaps found:
 - Mac asleep about 03:00–08:45 and again about 08:50–17:05 IST; run paused both times.
 - 17:07 IST · Added to #172: `how-to-present-site-analysis`, `tools/studio_guides/CHECKLIST.md` (the builder skips it).
 - 17:08 IST · Added to #172: `architecture-presentation-board-templates`.
+- 17:15 IST · Added to #172: the AI tools roundup gains "How to judge an AI architecture presentation generator" (a seven-question checklist, Studio FGA's own answers beside it) and an FAQ; `updated: 2026-11-07`.
 
 ## Next
 
@@ -57,5 +58,4 @@ Gaps found:
      and `how-to-lay-out-an-a1-architecture-board`; strengthen those instead)
    - what jurors look for → `what-architecture-jurors-look-for`
    - thesis presentation structure → `architecture-thesis-presentation-structure`
-   - extend the AI tools roundup with an "AI architecture presentation generator" section
 4. Off-site ideas file for the owner (`tools/seo/OFFSITE_IDEAS.md`): draft only.

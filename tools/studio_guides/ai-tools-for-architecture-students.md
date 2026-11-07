@@ -5,6 +5,7 @@ seo_title: AI Tools for Architecture Students: An Honest Roundup
 description: What AI tools are really useful for in architecture school: chat assistants, image generators, AI rendering, analysis, plan generators and layout tools.
 kicker: Tools
 published: 2026-11-05
+updated: 2026-11-07
 related: how-to-present-architectural-plans-and-sections, architecture-jury-presentation-slides, architecture-jury-preparation-48-hours
 ---
 AI tools can save an architecture student real time, but mostly on the work around design: reading, writing, rendering atmosphere, laying out and checking. None of them designs a good building for you, and a jury will find that out within a minute of questions. This roundup groups the tools by what they are for, describes each one plainly, and says where it helps and where it gets in the way. It includes our own tool, and says so.
@@ -60,6 +61,20 @@ Two notes before the list. Products in this space change quickly, so check each 
 ![Studio FGA's free preview screen: an A1 board laid out with the student's drawings, striped boxes marking where new AI images will go, and the order card with the price](/studio/preview-shot.webp)
 Caption: Studio FGA's free preview screen, from the Law Garden sample: the student's drawings placed on an A1 board, striped boxes where new AI images would go, and the order card. As said above, Studio FGA is our tool.
 
+## How to judge an AI architecture presentation generator
+
+Tools that promise to turn your work into a finished presentation are new, and they differ more than their landing pages suggest. Whichever one you try, including ours, ask these questions before you trust it with a jury:
+
+- **Does it start from your drawings?** A generator that invents images from a text prompt gives you a board about a building you didn't design. One that places, cleans up and lays out your own plans, sections and sketches keeps the work yours.
+- **Can you see the result before paying?** A full preview of the board and the deck tells you more than any sample gallery.
+- **Is the output editable?** You will need to move a drawing, fix a label or swap an image the night before. Look for files you can open in the programs you already use, such as PowerPoint or InDesign, not only a flat image.
+- **Does it know architectural sheets?** Real sizes (A1, A0, 24 × 36), margins, a grid, and drawings at a sensible scale with scale bars, rather than a slide template stretched to a poster.
+- **Is it honest about what it made up?** Any drawing or image the tool generates should be marked as generated, and estimated dimensions should be clearly estimates.
+- **What happens to your files?** Check how long uploads are kept and whether they are used to train models. Your design work is yours.
+- **How is it priced?** A one-off payment per board, a subscription, or credits that run out: know what a single jury will cost you.
+
+Studio FGA's answers, for comparison: it works from your uploads, the preview is free, the files are editable PDF, PowerPoint and (where offered) InDesign, generated images and schematic drawings are yours to check, uploads are deleted after 30 days and never used for training, and you pay once per board and deck. Judge it by the same list.
+
 ## Using any of them without getting into trouble
 
 - **Know your school's rules** and follow them, including any requirement to declare AI use.
@@ -82,3 +97,7 @@ Some tools generate plan options, but they don't replace design. A jury will ask
 ### Will my jury know if I used AI?
 
 Often, yes, especially if an image doesn't match your drawings. Be open about it, credit AI-generated images, and make sure everything you present is consistent and something you can explain.
+
+### Is there an AI that makes architecture presentation boards?
+
+Yes, a few tools now do parts of it: general slide makers lay out text and images, and architecture-specific generators such as Studio FGA (ours) build an A1 board and jury deck from your own drawings. Check that any such tool starts from your drawings, shows a preview, and gives you files you can edit.
