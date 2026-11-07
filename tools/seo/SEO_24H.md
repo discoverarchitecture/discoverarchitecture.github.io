@@ -46,9 +46,9 @@ Gaps found:
   (branch `seo/guides-batch-1`, built on #170): `architecture-jury-presentation-ideas`,
   `architecture-sheet-sizes-a1-a0-24x36`.
 - 02:54 IST · Added to #172: `architecture-concept-diagram-ideas`.
-- 03:55–08:45 IST · Mac asleep; run paused.
-- 08:55 IST · Added to #172: `how-to-present-site-analysis`, `tools/studio_guides/CHECKLIST.md` (the builder skips it).
-- 09:10 IST · Added to #172: `architecture-presentation-board-templates`.
+- Mac asleep about 03:00–08:45 and again about 08:50–17:05 IST; run paused both times.
+- 17:07 IST · Added to #172: `how-to-present-site-analysis`, `tools/studio_guides/CHECKLIST.md` (the builder skips it).
+- 17:08 IST · Added to #172: `architecture-presentation-board-templates`.
 
 ## Next
 
