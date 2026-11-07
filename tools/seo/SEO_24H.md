@@ -67,6 +67,12 @@ Gaps found:
   answer the same question, as do `/guides/jury-deck/` and `/studio/guides/architecture-jury-presentation-slides/`.
   Two pages on one search split Google's attention. Options: (a) keep both and link each pair to each other with a
   line saying how they differ; (b) merge each pair into one page and redirect the other; (c) leave as is.
+- 04:03 IST · Main gained #188 (another chat: sitemap dates for the 1,771 building pages with write-ups) and #189.
+  Merged into #170 and #172; `build_pages.py` now writes both kinds of date (write-up date for buildings, published or
+  updated date for guides). The sitemap has 1,792 dated pages on #172.
+- **If main moves again:** merge `origin/main` into `seo/24h-audit`, then `seo/24h-audit` into `seo/guides-batch-1`.
+  For conflicts in generated files, take main's copy, then rerun `python3 tools/build_guides.py` (and, for
+  `site/guides/`, `guide_pages.build()` with build_pages' fingerprints) so our additions return.
 
 ## Next
 
