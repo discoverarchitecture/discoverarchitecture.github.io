@@ -222,3 +222,4 @@ ormen-lange  # Haiku pool 6 photo review: only photo of the building is a croppe
 crater-lake-superintendent-s-residence  # Haiku pool 6 photo review: only a black-and-white main photo; a minor building by the Park Service
 villa-tonder  # Haiku pool 8 photo review: only historic photos; unclear whether the villa still stands
 bunker-599  # an installation, not a building (owner, 23 Oct 2026)
+winnipeg-art-gallery  # Winnipeg photo review (7 Nov 2026): no free photo shows the building clearly (Commons has interiors, artworks and a street view)

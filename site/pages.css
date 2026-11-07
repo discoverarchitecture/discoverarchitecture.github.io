@@ -289,3 +289,10 @@ html.fga-pop-on:not(.fga-pop-live) body::before { content: ''; position: fixed; 
   .info .films::-webkit-scrollbar { display: none; }
   .info .films .fk { flex: 0 0 170px; scroll-snap-align: start; }
 }
+/* Our own paragraph about the building (tools/writeups/), under Key features, in the About section's type. */
+.writeup { margin: 22px 0 0; max-width: 68ch; }
+.writeup h2 { margin: 0 0 6px; font: 500 12px var(--mono); letter-spacing: 0.08em; text-transform: uppercase; color: var(--graphite); }
+.writeup p { margin: 0; font-family: var(--serif); font-size: clamp(17px, 1.3vw, 19px); line-height: 1.55; }
+.writeup .src { margin-top: 8px; font: 400 12px/1.7 var(--mono); color: var(--graphite); }
+.writeup .src a { color: inherit; }
+@media (hover: hover) { .writeup .src a:hover { color: var(--red); } }

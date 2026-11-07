@@ -1,0 +1,24 @@
+{
+ "titles": [
+  {
+   "title": "Union Bank Building"
+  }
+ ],
+ "save": [
+  "https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&titles=Canadian+Museum+for+Human+Rights&redirects=1&format=json&formatversion=2",
+  "https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&titles=Winnipeg+Art+Gallery&redirects=1&format=json&formatversion=2",
+  "https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&titles=Manitoba+Legislative+Building&redirects=1&format=json&formatversion=2",
+  "https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&titles=Esplanade+Riel&redirects=1&format=json&formatversion=2",
+  "https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&titles=Precious+Blood+Roman+Catholic+Church&redirects=1&format=json&formatversion=2",
+  "https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&titles=Union+Bank+Building&redirects=1&format=json&formatversion=2",
+  "https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&titles=Centennial+Concert+Hall&redirects=1&format=json&formatversion=2",
+  "https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&titles=Winnipeg+Richardson+International+Airport&redirects=1&format=json&formatversion=2",
+  "https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&titles=Antoine+Predock&redirects=1&format=json&formatversion=2",
+  "https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&titles=Gustavo+da+Roza&redirects=1&format=json&formatversion=2",
+  "https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&titles=Winnipeg+Bus+Terminal&redirects=1&format=json&formatversion=2",
+  "https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&titles=List+of+works+by+C%C3%A9sar+Pelli&redirects=1&format=json&formatversion=2",
+  "https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&titles=Darling+and+Pearson&redirects=1&format=json&formatversion=2",
+  "https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&titles=%C3%89tienne+Gaboury&redirects=1&format=json&formatversion=2",
+  "https://web.archive.org/web/2017/http://wbi.lib.umanitoba.ca/WinnipegBuildings/"
+ ]
+}

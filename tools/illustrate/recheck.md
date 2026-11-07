@@ -196,3 +196,4 @@ From the illustration rounds (Oct 2026): Commons has free photos, but the one th
 | Villa Primavesi | Franz von Krauss | Olomouc, CZ |
 | Ormen Långe | Ralph Erskine | Svappavaara, SE |
 | Villa Tonder | Jan Kotěra | St. Gilgen, AT |
+| Winnipeg Art Gallery | Gustavo da Roza | Winnipeg, CA |

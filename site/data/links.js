@@ -9485,6 +9485,21 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Canadian_Clay_and_Glass_Gallery"
  },
+ "canadian-museum-for-human-rights": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://www.humanrightsmuseum.ca/"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=49.89064&mlon=-97.13109#map=17/49.89064/-97.13109"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Canadian_Museum_for_Human_Rights"
+ },
  "canadian-museum-of-history": {
   "links": [
    {
@@ -11320,6 +11335,26 @@ window.LINKS = {
  "cenotaph-for-the-a-bomb-victims": {
   "links": [],
   "wiki": "https://en.wikipedia.org/wiki/Cenotaph"
+ },
+ "centennial-concert-hall": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://centennialconcerthall.com"
+   },
+   {
+    "kind": "Structure",
+    "site": "Structurae",
+    "url": "https://structurae.net/structures/20024492"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=49.89968&mlon=-97.13671#map=17/49.89968/-97.13671"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Centennial_Concert_Hall"
  },
  "centennial-hall": {
   "links": [
@@ -17945,6 +17980,21 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Les_Espaces_d%27Abraxas"
+ },
+ "esplanade-riel": {
+  "links": [
+   {
+    "kind": "Structure",
+    "site": "Structurae",
+    "url": "https://structurae.net/structures/20006036"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=49.89080&mlon=-97.12690#map=17/49.89080/-97.12690"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Esplanade_Riel"
  },
  "esplanade-theatres-on-the-bay": {
   "links": [
@@ -36265,6 +36315,21 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Manitoba_Hydro_Place"
  },
+ "manitoba-legislative-building": {
+  "links": [
+   {
+    "kind": "Structure",
+    "site": "Structurae",
+    "url": "https://structurae.net/structures/20024491"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=49.88444&mlon=-97.14694#map=17/49.88444/-97.14694"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Manitoba_Legislative_Building"
+ },
  "manitoga": {
   "links": [
    {
@@ -50180,6 +50245,21 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Praha_hlavn%C3%AD_n%C3%A1dra%C5%BE%C3%AD"
+ },
+ "precious-blood-church-winnipeg": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "https://www.paroisseduprecieuxsang.ca/sacraments.php"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=49.87760&mlon=-97.11920#map=17/49.87760/-97.11920"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Precious_Blood_Roman_Catholic_Church_%28Winnipeg%29"
  },
  "premabhai-hall": {
   "links": [
@@ -64550,6 +64630,16 @@ window.LINKS = {
   "links": [],
   "wiki": null
  },
+ "union-bank-building-winnipeg": {
+  "links": [
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=49.89880&mlon=-97.13940#map=17/49.89880/-97.13940"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Union_Bank_Building"
+ },
  "union-buildings": {
   "links": [
    {
@@ -68471,6 +68561,30 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Winn_Memorial_Library"
+ },
+ "winnipeg-airport-terminal": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "https://www.waa.ca/"
+   },
+   {
+    "kind": "Structure",
+    "site": "Structurae",
+    "url": "https://structurae.net/structures/10061787"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=49.91000&mlon=-97.24000#map=17/49.91000/-97.24000"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Winnipeg_Richardson_International_Airport"
+ },
+ "winnipeg-city-hall": {
+  "links": [],
+  "wiki": "https://en.wikipedia.org/wiki/Law%2C_government%2C_and_crime_in_Winnipeg"
  },
  "winslow-house-river-forest-illinois": {
   "links": [
