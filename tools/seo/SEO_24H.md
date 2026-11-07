@@ -8,7 +8,7 @@ Target searches: architecture jury presentation ideas · architecture presentati
 presentation · architecture jury presentation · A1 sheet layout architecture · architecture board layout ·
 architecture presentation board.
 
-## Audit (7 Nov, 02:45–03:30 IST)
+## Audit (7 Nov, from 02:45 IST)
 
 What is already good:
 - `/studio/`: canonical, description (131 chars), one H1 that says what it is, SoftwareApplication with two Offers,
@@ -40,19 +40,20 @@ Gaps found:
 
 ## Done
 
-- 03:40 IST · PR A [#170](https://github.com/discoverarchitecture/discoverarchitecture.github.io/pull/170): sitemap
+- 02:49 IST · PR A [#170](https://github.com/discoverarchitecture/discoverarchitecture.github.io/pull/170): sitemap
   lastmod, llms.txt guide list, guide sets cross-linked, guide image data; build_guides.py now updates sitemap + llms.txt.
-- 04:30 IST · Guides batch 1 [#172](https://github.com/discoverarchitecture/discoverarchitecture.github.io/pull/172)
+- 02:53 IST · Guides batch 1 [#172](https://github.com/discoverarchitecture/discoverarchitecture.github.io/pull/172)
   (branch `seo/guides-batch-1`, built on #170): `architecture-jury-presentation-ideas`,
   `architecture-sheet-sizes-a1-a0-24x36`.
-- 05:10 IST · Added to #172: `architecture-concept-diagram-ideas`.
+- 02:54 IST · Added to #172: `architecture-concept-diagram-ideas`.
+- 03:55–08:45 IST · Mac asleep; run paused.
+- 08:55 IST · Added to #172: `how-to-present-site-analysis`.
 
 ## Next
 
 1. New guides, added to batch PRs (each guide's own commit), in this order (search → guide):
    - (skipped: "how to make a presentation board step by step" would near-duplicate `/guides/a1-presentation-board/`
      and `how-to-lay-out-an-a1-architecture-board`; strengthen those instead)
-   - site analysis presentation → `how-to-present-site-analysis`
    - what jurors look for → `what-architecture-jurors-look-for`
    - thesis presentation structure → `architecture-thesis-presentation-structure`
    - presentation board templates, described → `architecture-presentation-board-templates`
