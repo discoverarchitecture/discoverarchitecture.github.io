@@ -7,7 +7,7 @@ kicker: Boards
 published: 2026-11-07
 related: how-to-lay-out-an-a1-architecture-board, a1-sheet-layout-ideas, how-to-present-architectural-plans-and-sections, architecture-presentation-board-templates
 ---
-Most architecture schools outside North America pin up on A1 (594 × 841 mm) or A0 (841 × 1189 mm). Most schools in the United States and many in Canada use 24 × 36 inch sheets, called ARCH D, or 36 × 48 inch (ARCH E). The sizes look similar on a pin-up wall, but they are not the same shape, so a layout made for one needs adjusting for the other. Here are the numbers, and what they mean for your board.
+Outside North America, architecture boards are usually A1 (594 × 841 mm) or A0 (841 × 1189 mm). Many schools in the United States and Canada use 24 × 36 inch sheets, called ARCH D, or 36 × 48 inch (ARCH E). The sizes look similar on a pin-up wall, but they are not the same shape, so a layout made for one needs adjusting for the other. Here are the numbers, and what they mean for your board.
 
 ## The two families of sizes
 

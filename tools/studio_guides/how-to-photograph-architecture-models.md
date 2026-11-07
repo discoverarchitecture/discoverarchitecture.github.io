@@ -42,7 +42,7 @@ Light coming from directly above or from the camera makes a model look flat. Lig
 
 ## Put the camera where a person would stand
 
-The views jurors respond to most are at eye level, because they show the building as someone would experience it. Work out a person's eye height at your model's scale: about 1.6 m becomes roughly 32 mm at 1:50, 16 mm at 1:100 and 8 mm at 1:200. Bring the phone's lens down to that height, at the edge of the model, and look along the street or into the courtyard.
+Eye-level views often say the most to a jury, because they show the building as someone would experience it. Work out a person's eye height at your model's scale: about 1.6 m becomes roughly 32 mm at 1:50, 16 mm at 1:100 and 8 mm at 1:200. Bring the phone's lens down to that height, at the edge of the model, and look along the street or into the courtyard.
 
 A phone is thin enough to get surprisingly low. If the lens can't get close enough because of the phone's body, raise the model on a box at the edge of the table so the camera can sit level with its base.
 

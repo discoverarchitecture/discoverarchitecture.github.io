@@ -7,7 +7,7 @@ kicker: Juries
 published: 2026-11-07
 related: architecture-jury-presentation-tips, architecture-jury-presentation-slides, a1-sheet-layout-ideas, what-architecture-jurors-look-for
 ---
-Most jury presentations sound alike: site, brief, concept, plans, sections, render, "thank you". The projects that jurors remember are usually told through one device that suits the idea: a walk through the building, the same view before and after, one big section, a model they can hold. Below are twelve such devices. Pick one or two that fit your project, build the board and the talk around them, and leave the rest.
+Many jury presentations sound alike: site, brief, concept, plans, sections, render, "thank you". The projects that jurors remember are usually told through one device that suits the idea: a walk through the building, the same view before and after, one big section, a model they can hold. Below are twelve such devices. Pick one or two that fit your project, build the board and the talk around them, and leave the rest.
 
 ## How to use this list
 

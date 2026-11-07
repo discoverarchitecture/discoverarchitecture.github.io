@@ -58,7 +58,7 @@ A sun-path diagram for the site's latitude, or simpler, the sun's angles in sect
 
 ### A section through the site and the street
 
-Most site analysis is drawn only in plan. One long section through the street, the site and its neighbours shows level changes, building heights, shade and the relationship to the street better than any map.
+Site analysis is often drawn only in plan. One long section through the street, the site and its neighbours shows level changes, building heights, shade and the relationship to the street better than any map.
 
 ### Photographs, with a key
 

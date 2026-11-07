@@ -7,7 +7,7 @@ kicker: Juries
 published: 2026-11-07
 related: architecture-jury-presentation-tips, architecture-jury-presentation-ideas, architecture-jury-preparation-48-hours
 ---
-Jurors rarely mark a project with a checklist, but most of them are asking the same quiet questions while you talk. Is there one clear idea? Do the drawings prove it? Do the plan, section and views agree with each other? Does the building answer its site and its users? Could it stand up? And does the student understand their own project when it is questioned? Here is each question, what a juror is looking at when they ask it, and how to check your own work against it before the jury.
+Jurors rarely mark a project with a checklist, but many of them are asking the same quiet questions while you talk. Is there one clear idea? Do the drawings prove it? Do the plan, section and views agree with each other? Does the building answer its site and its users? Could it stand up? And does the student understand their own project when it is questioned? Here is each question, what a juror is looking at when they ask it, and how to check your own work against it before the jury.
 
 ## How this differs from presentation tips
 
@@ -74,7 +74,7 @@ Presentation doesn't rescue a weak project, but a careless one hides a good proj
 
 ## 10. Do you understand your own project?
 
-Most of the marks in a jury conversation come from the answers. Jurors probe weak points on purpose, not to embarrass you but to see how you think. A student who says "you're right, the north rooms will be dark; I'd test a light well here" shows more than one who defends everything.
+Much of a jury's judgement is formed in the conversation after your talk. Jurors probe weak points on purpose, not to embarrass you but to see how you think. A student who says "you're right, the north rooms will be dark; I'd test a light well here" shows more than one who defends everything.
 
 **Check yourself:** write down the five questions you'd most hate to be asked and answer each one aloud in two sentences. Ask a classmate to play a tough juror for ten minutes.
 

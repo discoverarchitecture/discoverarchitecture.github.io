@@ -35,7 +35,7 @@ These are structures rather than designs. Set any of them on your grid, then siz
 
 ### 1. Portrait A1, four columns, title at the top
 
-A title band across the full width at the top, the hero image spanning all four columns under it, then rows of drawings two or four columns wide. The most common studio board, and the easiest to read standing in front of it.
+A title band across the full width at the top, the hero image spanning all four columns under it, then rows of drawings two or four columns wide. A very common studio board, and one of the easiest to read standing in front of it.
 
 ![The Law Garden sample A1 board in portrait: a title band and hero view at the top, rows of sketches and model photos, then the site plan, ground floor plan and sections](/studio/sample/thumbs/board.jpg)
 Caption: The Law Garden sample, made by Studio FGA from a student's six sheets: a portrait A1 board with the title and hero view at the top and equal rows below.
