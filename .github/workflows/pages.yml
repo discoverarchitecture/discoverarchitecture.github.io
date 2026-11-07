@@ -29,6 +29,9 @@ jobs:
           path: site
       - id: deployment
         uses: actions/deploy-pages@v4
+        # The site is close to 900 MB; on 7 Nov 2026 GitHub took over the default 10 minutes to copy it three times.
+        with:
+          timeout: 1800000
       # Tell Bing (IndexNow) which pages changed, now that they are live. A manual run sends every page in the sitemap.
       # Never fails the deploy: the log says what happened.
       - name: Tell Bing about changed pages
