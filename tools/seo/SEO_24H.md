@@ -47,7 +47,8 @@ Gaps found:
   `architecture-sheet-sizes-a1-a0-24x36`.
 - 02:54 IST · Added to #172: `architecture-concept-diagram-ideas`.
 - 03:55–08:45 IST · Mac asleep; run paused.
-- 08:55 IST · Added to #172: `how-to-present-site-analysis`.
+- 08:55 IST · Added to #172: `how-to-present-site-analysis`, `tools/studio_guides/CHECKLIST.md` (the builder skips it).
+- 09:10 IST · Added to #172: `architecture-presentation-board-templates`.
 
 ## Next
 
@@ -56,7 +57,5 @@ Gaps found:
      and `how-to-lay-out-an-a1-architecture-board`; strengthen those instead)
    - what jurors look for → `what-architecture-jurors-look-for`
    - thesis presentation structure → `architecture-thesis-presentation-structure`
-   - presentation board templates, described → `architecture-presentation-board-templates`
    - extend the AI tools roundup with an "AI architecture presentation generator" section
-3. Guide checklist (`tools/studio_guides/CHECKLIST.md`).
 4. Off-site ideas file for the owner (`tools/seo/OFFSITE_IDEAS.md`): draft only.
