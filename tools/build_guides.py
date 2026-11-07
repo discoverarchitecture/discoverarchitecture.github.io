@@ -204,7 +204,7 @@ def plain(s):
 def load():
     guides = []
     for name in sorted(os.listdir(SRC)):
-        if not name.endswith(".md"):
+        if not name.endswith(".md") or name[:-3].isupper():  # CHECKLIST.md and other notes in capitals are not guides
             continue
         raw = open(os.path.join(SRC, name), encoding="utf-8").read()
         head, body = raw.split("\n---\n", 1)

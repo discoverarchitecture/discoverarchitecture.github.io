@@ -1063,7 +1063,7 @@ def sitemap_line(url, mod=None):
 def studio_guide_urls():
     """Studio FGA's guides (tools/build_guides.py writes them from tools/studio_guides/<slug>.md)."""
     src = Path(__file__).resolve().parent / 'studio_guides'
-    slugs = sorted(f.stem for f in src.glob('*.md')) if src.exists() else []
+    slugs = sorted(f.stem for f in src.glob('*.md') if not f.stem.isupper()) if src.exists() else []
     if not slugs:
         return []
     import build_guides
