@@ -42,7 +42,7 @@ Rules that hold the whole time (CLAUDE.md):
       strict fact-check against the quotes, then the own-words pass (`measure.py`-style copied share under 0.15), then
       `check_writeups.py`, then add to `writeups.json` on `claude/writeups-faqs` (PR #175, still unmerged). Process in
       `tools/writeups/BRIEF.md`, "What actually happened".
-- [ ] 12. Write-ups round 3: the next 300 pages by Google impressions (`todo_7-9.json` on `claude/writeups-round3`).
+- [x] 12. Write-ups round 3: the next 300 pages by Google impressions (`todo_7-9.json` on `claude/writeups-round3`).
       Articles fetched on GitHub Actions (request "7 8 9"), then for each todo: two Opus agents take exact quotes from the
       saved texts (`verify.py`), two write (quotes only, own words), two fact-check, then merge into PR #175 with
       `check_writeups.py` passing, and commit `facts_7-9.json` to `claude/writeups-round3`. Same as todo_6 (scratchpad
@@ -70,3 +70,4 @@ Rules that hold the whole time (CLAUDE.md):
 - 7 Nov ~06:00 UTC: todo_6 finished (facts from GitHub-fetched articles, quotes verified word for word; 74 written, 69 kept). PR #175 now has **407 building write-ups**, checker passes. Task 11 done. Remaining: owner's approval of PR #175; final report (task 10) by 8 Nov 14:00 UTC.
 - 7 Nov 06:15 UTC check-in: round 3 started (task 12); the article fetch for todo_7-9 runs on GitHub Actions.
 - 7 Nov 08:20 UTC check-in: round 3 articles landed (300). Six agents take quotes into scratchpad wu4/facts_a..f.json (verify.py). Next: writers, checkers, merge into PR #175, commit facts_7-9.json to claude/writeups-round3.
+- 7 Nov ~09:50 UTC: round 3 done: 245 had facts, 242 kept (fact-check: 7-24 changes per batch). PR #175 now has **649 building write-ups**; checker passes; canvas v38 updated. Credit and year disagreements from rounds 2-3 noted in the agents' reports (e.g. Aéro-Habitat, Van Gogh Museum, Singapore Flyer, Secretariat Chandigarh 1953, MUSAC 2005): add to year_conflicts.md.
