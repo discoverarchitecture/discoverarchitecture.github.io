@@ -48,3 +48,22 @@ zarya-vostoka-building | 67d95111df49
 berlin-state-library-haus-potsdamer-strae | f562bb9483a2
 doha-tower | 496047fe7c88
 houston-astrodome | 9c2e0e3cb618
+# Round 3 (7 Nov 2026): translations and variants (Dolores / Sorrows, 2017 minus a year, onset of the 20th century), full award and body names, and paragraphs of 87-88 words.
+bradfield-hall-cornell | 9969cc08fdff
+centre-block-ottawa | c7ac362a103c
+j-s-dorton-arena | 54c4135d642c
+caixaforum-madrid | da6a9e09bcb4
+church-of-st-joan-of-arc | 777b7d61cfb2
+bavinger-house | 40a7d55d7dda
+malba | fe017c69783a
+aras-an-uachtarain | 4e94a41eeedf
+baan-dam-museum | a78820ea8d97
+edificio-comega | b67d0fcc8e93
+catedral-de-la-plata | 18b347db6924
+aichi-international-arena | 4329f3c8ddad
+baldwin-hills-village | ac0171eae681
+beijing-national-indoor-stadium | 6fa1fe584774
+qatar-national-convention-centre | d0b4c451df40
+neviges-pilgrimage-church | b25da7125774
+dorset-street-flats | ecd676401764
+benaroya-hall | c5e75bba083e
