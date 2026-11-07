@@ -59,6 +59,7 @@ Gaps found:
 - 19:55 IST · Link check: every internal link and image in the guides resolves. Search Console data on `analytics-data` ends 2 Nov (the scheduled fetch is paused, CLAUDE.md), so there are no guide queries to learn from yet. **Owner:** once the guides are live, consider "resume the Search Console fetch" so the next SEO round has real queries. An independent fact-check of the new guides is running.
 - Mac asleep again about 19:55–21:14 and 21:46–23:20 IST; the independent fact-check died both times, so I did it myself.
 - 23:52 IST · Fact pass on the new guides: sizes, arithmetic, menu paths and tool names checked; six unsupported generalisations softened ("most schools…" → "many").
+- 02:07 IST · Added to #172: the guides index is grouped by topic with headings.
 
 ## Next
 
