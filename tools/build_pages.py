@@ -343,7 +343,8 @@ def guide_links():
     gs = sorted((json.loads(f.read_text()) for f in (ROOT / 'tools' / 'guides').glob('*.json')), key=lambda g: g['published'])
     if not gs:
         return ''
-    return ('  <h3><a href="guides/">Guides</a></h3>\n  <p>' + ' · '.join(f'<a href="guides/{g["slug"]}/">{e(g["title"].split(":")[0])}</a>' for g in gs) + '</p>\n')
+    # A guide folded into a Studio FGA guide links to its new home (guide_pages.moved).
+    return ('  <h3><a href="guides/">Guides</a></h3>\n  <p>' + ' · '.join(f'<a href="{g["moved_to"].lstrip("/") if g.get("moved_to") else "guides/" + g["slug"] + "/"}">{e(g["title"].split(":")[0])}</a>' for g in gs) + '</p>\n')
 
 
 def hub_links():

@@ -25,10 +25,6 @@ on every page. No sign-up and no paywall for the wall.
 - [How to do an architecture precedent study](https://findgreatarchitecture.com/guides/precedent-study/): choosing a
   building that shares your project's question, gathering plans and sections, redrawing, analysis diagrams (structure,
   circulation, light, site), comparing at one scale, and turning it into a design move, with credits.
-- [How to present at an architecture jury](https://findgreatarchitecture.com/guides/jury-presentation/): the one-sentence
-  idea, a three-minute story that follows the board, pointing at drawings, answering questions, and what to bring.
-- [How to make an architecture jury deck](https://findgreatarchitecture.com/guides/jury-deck/): a twelve-slide order that
-  follows the board, one idea per slide, titles that say something, big drawings, and presenting from a PDF.
 
 ## Studio FGA guides
 

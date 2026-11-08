@@ -5,6 +5,7 @@ seo_title: How to Structure a 10–15 Slide Architecture Jury Deck
 description: A slide-by-slide outline for a 10–15 slide architecture jury or thesis presentation, with rules for each slide and how the deck should follow your board.
 kicker: Decks
 published: 2026-11-05
+updated: 2026-11-08
 related: architecture-jury-presentation-tips, how-to-lay-out-an-a1-architecture-board, architecture-jury-preparation-48-hours, architecture-jury-presentation-ideas
 ---
 A jury deck of 10 to 15 slides is long enough to walk through a project properly and short enough that every slide has to earn its place. The structure that works is the same as a good board: idea first, then site, then the building told as a walk-through, then what is unresolved. One point per slide, drawings as large as the screen allows, and a title on each slide that says something.
@@ -13,7 +14,7 @@ A jury deck of 10 to 15 slides is long enough to walk through a project properly
 
 Most studio and thesis presentations run somewhere between eight and fifteen minutes before questions. At roughly a minute per slide, with some slides held longer than others, 10 to 15 slides fits that time without rushing. More slides than that usually means one of two things: slides that repeat each other, or a talk that will overrun.
 
-If your studio gives you a different time, scale the outline. The order stays the same; you merge or split slides.
+If your studio gives you a different time, scale the outline. The order stays the same; you merge or split slides. A useful pace is one slide every 20 to 30 seconds for quick slides and a minute or more for the ones you walk through, so a three-minute talk needs six to nine slides plus the title, and a short pin-up may need no deck at all.
 
 ## A 15-slide outline
 
@@ -72,6 +73,10 @@ Click through the deck out loud, standing up, with a timer, at least twice. Mark
 - **Bring your own adapter** for the projector or screen, and your charger.
 - **Put the deck on presenter view** if it shows you the next slide, so you know what's coming without turning around.
 
+## Precedents: one slide, one sentence
+
+If a precedent shaped your design, give it one slide: its plan or photo small, your drawing beside it, and one line saying what you took from it. A precedent tour of five buildings uses time the jury would rather spend on yours. Our guide to [doing a precedent study](/guides/precedent-study/) explains how to find that one line.
+
 For the talk itself, from the opening sentence to handling questions, see [architecture jury presentation tips](guide:architecture-jury-presentation-tips).
 
 ## FAQ
@@ -87,3 +92,11 @@ The project name, your name, and the idea of the project in one sentence over yo
 ### Should my jury deck match my presentation board?
 
 Yes. Use the same order, the same drawings and the same words, so the deck reads as a walk-through of the board rather than a second version of the project.
+
+### Should architecture slides have a white or black background?
+
+Either works if it suits your drawings. Line drawings usually read best on white; renders and photographs often look stronger on a dark background. Choose one and keep it for the whole deck.
+
+### PowerPoint, Keynote or PDF?
+
+Make the deck in whatever you like, but present from a PDF unless you need animation or video. A PDF looks the same on every computer, so fonts and layout won't shift on the jury's screen.
