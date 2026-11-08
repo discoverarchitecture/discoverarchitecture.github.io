@@ -73,6 +73,11 @@ Gaps found:
 - **If main moves again:** merge `origin/main` into `seo/24h-audit`, then `seo/24h-audit` into `seo/guides-batch-1`.
   For conflicts in generated files, take main's copy, then rerun `python3 tools/build_guides.py` (and, for
   `site/guides/`, `guide_pages.build()` with build_pages' fingerprints) so our additions return.
+- 8 Nov · Owner approved via MAIN chat: "Merge all, after de-duplicating". De-duplicated in #172 (commit ed6822a):
+  `/guides/jury-presentation/` → `/studio/guides/architecture-jury-presentation-tips/`, `/guides/jury-deck/` →
+  `/studio/guides/architecture-jury-presentation-slides/` (best content folded in, old addresses redirect).
+- 12:45 IST · Merge attempt refused by this session's permission check ("merge without review"). PRs left ready:
+  merge #176, then #170, then #172 (squash each). The owner merges, or allows merges for this session.
 
 ## Next
 
