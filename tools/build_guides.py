@@ -60,9 +60,10 @@ FONTS = ("https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght
          "9..40,600;9..40,700&family=JetBrains+Mono:wght@500;600&display=swap")
 FOOTLINE = ("Studio FGA is run by Akshat Pagaria · 302, Shantinath Residency, Beawar, Rajasthan, India · hello@findgreatarchitecture.com · "
             "Payments handled by Dodo Payments, our merchant of record")
+GROUPS = ("Boards", "Drawings", "Juries", "Decks", "Portfolios", "Tools")
 INDEX_TITLE = "Guides for Architecture Students: Boards, Juries and Decks"
-INDEX_DESC = ("Practical guides for architecture students from an architect: A1 board layouts, plans and sections, "
-              "jury tips, jury decks, portfolios and AI tools.")
+INDEX_DESC = ("Practical guides for architecture students from an architect: A1 board layouts, templates, sheet sizes, "
+              "diagrams, site analysis, juries, decks and AI tools.")
 
 
 def esc(s):
@@ -204,7 +205,7 @@ def plain(s):
 def load():
     guides = []
     for name in sorted(os.listdir(SRC)):
-        if not name.endswith(".md"):
+        if not name.endswith(".md") or name[:-3].isupper():  # CHECKLIST.md and other notes in capitals are not guides
             continue
         raw = open(os.path.join(SRC, name), encoding="utf-8").read()
         head, body = raw.split("\n---\n", 1)
@@ -376,7 +377,8 @@ def guide_page(g, by_slug):
         ld.append({"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
             {"@type": "Question", "name": plain(f["q"]), "acceptedAnswer": {"@type": "Answer", "text": plain(" ".join(f["a"]))}}
             for f in g["faq"]]})
-    title = g["seo_title"] + " · Studio FGA" if len(g["seo_title"]) <= 52 else g["seo_title"]
+    # The brand only when the whole title still fits Google's ~60 characters; otherwise the search words matter more.
+    title = g["seo_title"] + " · Studio FGA" if len(g["seo_title"]) <= 47 else g["seo_title"]
     faq = ""
     if g["faq"]:
         faq = ('<section class="gfaq" aria-labelledby="faq"><h2 id="faq">Questions students ask</h2>' +
@@ -389,7 +391,9 @@ def guide_page(g, by_slug):
             f'<main class="land"><article class="wrap narrow gpage"><a class="link" href="../">← All guides</a>'
             f'<p class="kicker">Guide · {esc(g["kicker"])}</p><h1 class="big">{esc(g["title"])}</h1>'
             f'<p class="lede">{inline(g["lede"], slugs, "../")}</p>'
-            f'<p class="byline">By Akshat Pagaria, architect · <time datetime="{g["published"]}">{date_text(g["published"])}</time></p>\n'
+            f'<p class="byline">By Akshat Pagaria, architect · <time datetime="{g["published"]}">{date_text(g["published"])}</time>'
+            + (f' · updated <time datetime="{g["updated"]}">{date_text(g["updated"])}</time>' if g.get("updated", g["published"]) != g["published"] else "")
+            + '</p>\n'
             f'{cta_card("top", g["slug"])}'
             f'{render(g["body"], slugs, "../")}\n{faq}'
             f'{cta_card("end", g["slug"])}'
@@ -404,8 +408,11 @@ def index_page(guides):
           {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [
               {"@type": "ListItem", "position": 1, "name": "Studio FGA", "item": SITE},
               {"@type": "ListItem", "position": 2, "name": "Guides", "item": url}]}]
-    cards = "".join(f'<li class="card"><p class="kicker">{esc(g["kicker"])}</p><h2><a href="{g["slug"]}/">{esc(g["title"])}</a></h2>'
-                    f'<p>{esc(g["description"])}</p></li>' for g in guides)
+    # Grouped by topic (the guide's kicker), in this order; a topic not listed here goes at the end.
+    topics = [t for t in GROUPS if any(g["kicker"] == t for g in guides)] + sorted({g["kicker"] for g in guides} - set(GROUPS))
+    cards = "".join(f'<section class="ggroup" aria-labelledby="t-{t.lower()}"><h2 id="t-{t.lower()}">{esc(t)}</h2><ul class="glist">' +
+                    "".join(f'<li class="card"><h3><a href="{g["slug"]}/">{esc(g["title"])}</a></h3><p>{esc(g["description"])}</p></li>'
+                            for g in guides if g["kicker"] == t) + '</ul></section>' for t in topics)
     return (head("Guides for Architecture Students · Studio FGA", INDEX_DESC, url, up, "website", ld, "guides.css") +
             '<body data-screen="guides">\n<!-- Made by tools/build_guides.py from tools/studio_guides/*.md. Edit those, not this file. -->\n' +
             topbar(up) +
@@ -414,7 +421,7 @@ def index_page(guides):
             f'<p class="lede">Plain, practical advice on presentation boards, plans and sections, jury presentations and decks, '
             f'written by an architect. Each one works whether or not you ever use Studio FGA.</p>\n'
             f'{cta_card("top", "index")}'
-            f'<ul class="glist">{cards}</ul>\n'
+            f'{cards}\n'
             f'<p>For the whole process from idea to plot, with a real student board before and after, read '
             f'<a href="/guides/a1-presentation-board/">How to make an A1 architecture presentation board</a> on Find Great Architecture.</p>\n'
             f'{cta_card("end", "index")}</div>\n' +

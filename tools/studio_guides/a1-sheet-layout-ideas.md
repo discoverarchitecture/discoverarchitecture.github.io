@@ -5,7 +5,7 @@ seo_title: A1 Sheet Layout Ideas for Architecture Students
 description: Eight A1 sheet layouts for architecture boards, from hero-and-strip to section band and exploded axonometric, with when each one works and when it fails.
 kicker: Boards
 published: 2026-11-05
-related: how-to-lay-out-an-a1-architecture-board, how-to-present-architectural-plans-and-sections, architecture-portfolio-vs-jury-board
+related: how-to-lay-out-an-a1-architecture-board, how-to-present-architectural-plans-and-sections, architecture-portfolio-vs-jury-board, architecture-presentation-board-templates
 ---
 There is no single correct A1 layout, but there are a handful of arrangements that keep coming back because they work. Each one below suits a particular kind of project and a particular kind of drawing. Pick the one that matches the story you want to tell, then set it on a grid. Describe each layout to yourself as boxes first; the drawings come later.
 

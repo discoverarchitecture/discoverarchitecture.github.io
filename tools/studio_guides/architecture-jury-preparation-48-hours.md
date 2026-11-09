@@ -5,7 +5,7 @@ seo_title: How to Prepare for an Architecture Jury in 48 Hours
 description: A realistic 48-hour plan before an architecture jury: freeze the design, finish drawings, lay out the board, plot early, rehearse, and still sleep both nights.
 kicker: Juries
 published: 2026-11-05
-related: architecture-jury-presentation-tips, how-to-lay-out-an-a1-architecture-board, architecture-jury-presentation-slides
+related: architecture-jury-presentation-tips, how-to-lay-out-an-a1-architecture-board, architecture-jury-presentation-slides, what-architecture-jurors-look-for
 ---
 The all-nighter before a jury feels like a rite of passage, but it mostly produces tired presentations of half-finished boards. Forty-eight hours is enough to present a project well if you stop designing at the start of them and spend the time on drawings, layout, printing and rehearsal, in that order, with a hard stop each night. Here is a plan that does that.
 

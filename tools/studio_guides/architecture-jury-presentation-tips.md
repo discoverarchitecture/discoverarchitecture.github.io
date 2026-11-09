@@ -5,7 +5,8 @@ seo_title: Architecture Jury Presentation Tips: What to Show and Say
 description: How to present at an architecture jury or crit: open with your idea, talk in the order of your board, point at drawings, and handle tough questions calmly.
 kicker: Juries
 published: 2026-11-05
-related: architecture-jury-preparation-48-hours, architecture-jury-presentation-slides, how-to-lay-out-an-a1-architecture-board
+updated: 2026-11-08
+related: architecture-jury-preparation-48-hours, architecture-jury-presentation-slides, how-to-lay-out-an-a1-architecture-board, architecture-jury-presentation-ideas
 ---
 A jury is not an exam you pass by covering everything. It is a short conversation about whether your idea holds up, and whether you understand your own project. The best presentations open with the idea in a sentence, walk through the drawings in the order they are pinned, and leave time for the conversation that follows.
 
@@ -56,6 +57,7 @@ Notes are fine on a small card: the opening sentence, the order, and the one mom
 - **Software talk.** Nobody needs to know which program made the render.
 - **Apologies.** "I didn't have time to finish the elevations" uses up your time and points the jury straight at the gap. If something is missing, say what you would show there and move on.
 - **Things you can't explain.** If a drawing or image is on the board, be ready to talk about it. If you can't, it probably shouldn't be there.
+- **A tour of precedents.** If one shaped your design, show it small and say in one sentence what you took from it. Our guide to [doing a precedent study](/guides/precedent-study/) explains how to find that sentence.
 
 ## Handling questions and criticism
 
@@ -71,7 +73,16 @@ Disagreement between jurors is normal. You don't need to settle it; you need to 
 
 ## Practise out loud, with a timer
 
-Rehearse at least twice, standing up, out loud, with a timer. The first run is always longer than you think. Cut until you finish with time to spare. Then list the five questions you most fear and answer each one in a sentence or two. The [48-hour pre-jury plan](guide:architecture-jury-preparation-48-hours) leaves time for exactly this.
+Rehearse at least twice, standing up, out loud, with a timer. The first run is always longer than you think: three minutes of talking is only about 400 words, far less than most students prepare. Cut until you finish with time to spare. Then list the five questions you most fear and answer each one in a sentence or two. The [48-hour pre-jury plan](guide:architecture-jury-preparation-48-hours) leaves time for exactly this.
+
+## What to bring
+
+- Pins, tape or clips for the board, in case the wall has none.
+- An A3 print of your drawings for yourself, so you can glance at it without turning your back on the jury.
+- Your model, protected for the journey.
+- The deck as a PDF on a USB stick and online, if the jury uses a screen, plus your own adapter.
+- A small card with your opening sentence and the order of your talk.
+- A notebook, or a friend who will write down what the jury says. Comments that felt harsh in the room are often the most useful at your desk the next day.
 
 ## FAQ
 
@@ -86,3 +97,11 @@ With the idea of the project in one or two sentences, while the jury looks at yo
 ### What if I don't know the answer to a juror's question?
 
 Say so plainly, then say how you would find out or what you would test. Jurors respond far better to honest thinking than to a confident guess.
+
+### What is the difference between a jury and a crit?
+
+Usually nothing: both are reviews of your project by tutors and invited guests. Schools use different words for the same thing (jury, crit, review, final review, pin-up), and some keep "jury" for the formal end-of-term review.
+
+### Should I use slides or only the board?
+
+Follow what your school expects. If there is a screen, a short deck that follows the board's order helps everyone see the drawing you are talking about; see [how to structure a jury deck](guide:architecture-jury-presentation-slides).

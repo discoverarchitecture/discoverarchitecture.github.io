@@ -105,15 +105,31 @@ def index(guides):
     return head + (f'<main class="guide"><h1>Guides</h1><ul class="guide-list">{items}{more_guides(up)}</ul></main>\n') + bp.FOOT.format(up=up)
 
 
+def moved(g):
+    """A guide folded into another page (owner, 8 Nov 2026: one page per search question). Its address stays alive as a
+    redirect: GitHub Pages has no server redirects, so a meta refresh plus a canonical, which Google treats as a move."""
+    to, e = g['moved_to'], bp.e
+    url = 'https://findgreatarchitecture.com' + to
+    return ('<!doctype html>\n<html lang="en">\n<head>\n<meta charset="utf-8">\n'
+            '<meta name="viewport" content="width=device-width, initial-scale=1">\n'
+            f'<title>{e(g["title"])} · moved</title>\n<link rel="canonical" href="{e(url)}">\n'
+            f'<meta http-equiv="refresh" content="0; url={e(to)}">\n<script src="../../analytics.js"></script>\n'
+            '<style>body{margin:0;min-height:100vh;display:grid;place-items:center;font:16px/1.4 system-ui,sans-serif;color:#111;background:#fff}a{color:#111}</style>\n'
+            f'</head>\n<body>\n<p>This guide has moved to <a href="{e(to)}">{e(url)}</a>.</p>\n'
+            f'<script>location.replace({json.dumps(to)});</script>\n</body>\n</html>\n')
+
+
 def build(mod=None):
-    """Called by build_pages.main() with its own module, so the pages share its fingerprints and footer."""
+    """Called by build_pages.main() with its own module, so the pages share its fingerprints and footer.
+    Returns the live guides only (a guide with "moved_to" becomes a redirect and leaves the index and the sitemap)."""
     global bp
     if mod is not None:
         bp = mod
-    guides = load()
-    for g in guides:
+    every = load()
+    guides = [g for g in every if not g.get('moved_to')]
+    for g in every:
         (OUT / g['slug']).mkdir(parents=True, exist_ok=True)
-        (OUT / g['slug'] / 'index.html').write_text(page(g))
+        (OUT / g['slug'] / 'index.html').write_text(moved(g) if g.get('moved_to') else page(g))
     (OUT / 'index.html').write_text(index(guides))
     return guides
 

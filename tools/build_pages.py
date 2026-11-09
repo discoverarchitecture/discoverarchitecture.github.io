@@ -343,7 +343,8 @@ def guide_links():
     gs = sorted((json.loads(f.read_text()) for f in (ROOT / 'tools' / 'guides').glob('*.json')), key=lambda g: g['published'])
     if not gs:
         return ''
-    return ('  <h3><a href="guides/">Guides</a></h3>\n  <p>' + ' · '.join(f'<a href="guides/{g["slug"]}/">{e(g["title"].split(":")[0])}</a>' for g in gs) + '</p>\n')
+    # A guide folded into a Studio FGA guide links to its new home (guide_pages.moved).
+    return ('  <h3><a href="guides/">Guides</a></h3>\n  <p>' + ' · '.join(f'<a href="{g["moved_to"].lstrip("/") if g.get("moved_to") else "guides/" + g["slug"] + "/"}">{e(g["title"].split(":")[0])}</a>' for g in gs) + '</p>\n')
 
 
 def hub_links():
@@ -1144,7 +1145,7 @@ def sitemap_line(url, mod=None):
 def studio_guide_urls():
     """Studio FGA's guides (tools/build_guides.py writes them from tools/studio_guides/<slug>.md)."""
     src = Path(__file__).resolve().parent / 'studio_guides'
-    slugs = sorted(f.stem for f in src.glob('*.md')) if src.exists() else []
+    slugs = sorted(f.stem for f in src.glob('*.md') if not f.stem.isupper()) if src.exists() else []
     if not slugs:
         return []
     import build_guides
