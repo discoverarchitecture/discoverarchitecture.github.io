@@ -1,13 +1,13 @@
 {
- "fetched_at": "2026-11-02T17:34:34+00:00",
+ "fetched_at": "2026-11-09T18:34:04+00:00",
  "site": "akshatpagaria.goatcounter.com",
  "window_days": 30,
- "visits_30d": 2120,
+ "visits_30d": 2804,
  "sections": {
   "pages": {
    "hits": [
     {
-     "count": 519,
+     "count": 563,
      "path_id": 112020267,
      "path": "/",
      "event": false,
@@ -15,23 +15,7 @@
      "max": 36
     },
     {
-     "count": 85,
-     "path_id": 113298212,
-     "path": "map/open",
-     "event": true,
-     "title": "Map opened",
-     "max": 12
-    },
-    {
-     "count": 85,
-     "path_id": 112020274,
-     "path": "/play",
-     "event": false,
-     "title": "Daily five \u00b7 Guess the building? \u00b7 Find Great Architecture",
-     "max": 9
-    },
-    {
-     "count": 66,
+     "count": 110,
      "path_id": 113691164,
      "path": "/studio",
      "event": false,
@@ -39,15 +23,23 @@
      "max": 6
     },
     {
-     "count": 25,
-     "path_id": 113702981,
-     "path": "studio/ai-button",
+     "count": 92,
+     "path_id": 113298212,
+     "path": "map/open",
      "event": true,
-     "title": "AI jury presentation generator",
-     "max": 3
+     "title": "Map opened",
+     "max": 12
     },
     {
-     "count": 24,
+     "count": 87,
+     "path_id": 112020274,
+     "path": "/play",
+     "event": false,
+     "title": "Daily five \u00b7 Guess the building? \u00b7 Find Great Architecture",
+     "max": 9
+    },
+    {
+     "count": 70,
      "path_id": 116720890,
      "path": "studio/screen/home",
      "event": true,
@@ -55,7 +47,15 @@
      "max": 3
     },
     {
-     "count": 16,
+     "count": 29,
+     "path_id": 113702981,
+     "path": "studio/ai-button",
+     "event": true,
+     "title": "AI jury presentation generator",
+     "max": 3
+    },
+    {
+     "count": 26,
      "path_id": 116802573,
      "path": "studio/scroll/25",
      "event": true,
@@ -63,7 +63,7 @@
      "max": 2
     },
     {
-     "count": 15,
+     "count": 22,
      "path_id": 116837291,
      "path": "studio/scroll/50",
      "event": true,
@@ -71,7 +71,7 @@
      "max": 2
     },
     {
-     "count": 13,
+     "count": 20,
      "path_id": 116837478,
      "path": "studio/scroll/75",
      "event": true,
@@ -79,11 +79,83 @@
      "max": 2
     },
     {
-     "count": 11,
+     "count": 19,
+     "path_id": 116802640,
+     "path": "studio/screen/upload",
+     "event": true,
+     "title": "Studio \u00b7 screen \u00b7 upload",
+     "max": 2
+    },
+    {
+     "count": 16,
      "path_id": 116838001,
      "path": "studio/scroll/100",
      "event": true,
      "title": "Studio \u00b7 scroll \u00b7 100",
+     "max": 2
+    },
+    {
+     "count": 16,
+     "path_id": 116802650,
+     "path": "studio/click/upload/toQ",
+     "event": true,
+     "title": "Studio \u00b7 click \u00b7 upload \u00b7 toQ",
+     "max": 3
+    },
+    {
+     "count": 15,
+     "path_id": 117976633,
+     "path": "studio/screen/q",
+     "event": true,
+     "title": "Studio \u00b7 screen \u00b7 q",
+     "max": 3
+    },
+    {
+     "count": 14,
+     "path_id": 117976651,
+     "path": "studio/click/q/pick",
+     "event": true,
+     "title": "Studio \u00b7 click \u00b7 q \u00b7 pick",
+     "max": 3
+    },
+    {
+     "count": 13,
+     "path_id": 117976689,
+     "path": "studio/click/q/qnext",
+     "event": true,
+     "title": "Studio \u00b7 click \u00b7 q \u00b7 qnext",
+     "max": 3
+    },
+    {
+     "count": 13,
+     "path_id": 117976646,
+     "path": "studio/typed/q",
+     "event": true,
+     "title": "Studio \u00b7 typed \u00b7 q",
+     "max": 3
+    },
+    {
+     "count": 12,
+     "path_id": 116802639,
+     "path": "studio/click/home/start",
+     "event": true,
+     "title": "Studio \u00b7 click \u00b7 home \u00b7 start",
+     "max": 1
+    },
+    {
+     "count": 11,
+     "path_id": 117976607,
+     "path": "studio/files/upload",
+     "event": true,
+     "title": "Studio \u00b7 files \u00b7 upload",
+     "max": 2
+    },
+    {
+     "count": 11,
+     "path_id": 113976891,
+     "path": "play/endless/over",
+     "event": true,
+     "title": "Endless run over",
      "max": 2
     },
     {
@@ -95,20 +167,44 @@
      "max": 2
     },
     {
+     "count": 11,
+     "path_id": 112160373,
+     "path": "/buildings",
+     "event": false,
+     "title": "All buildings A\u2013Z \u00b7 Find Great Architecture",
+     "max": 3
+    },
+    {
+     "count": 10,
+     "path_id": 118824825,
+     "path": "studio/screen/planning",
+     "event": true,
+     "title": "Studio \u00b7 screen \u00b7 planning",
+     "max": 3
+    },
+    {
+     "count": 10,
+     "path_id": 117589084,
+     "path": "/buildings/national-stadium-singapore",
+     "event": false,
+     "title": "National Stadium, Singapore by Arup Associates",
+     "max": 2
+    },
+    {
+     "count": 10,
+     "path_id": 116837715,
+     "path": "studio/click/home/open-details",
+     "event": true,
+     "title": "Studio \u00b7 click \u00b7 home \u00b7 open-details",
+     "max": 1
+    },
+    {
      "count": 10,
      "path_id": 113996447,
      "path": "studio/signup",
      "event": true,
      "title": "FGA Studio waitlist sign-up",
      "max": 1
-    },
-    {
-     "count": 10,
-     "path_id": 113976891,
-     "path": "play/endless/over",
-     "event": true,
-     "title": "Endless run over",
-     "max": 2
     },
     {
      "count": 10,
@@ -120,26 +216,58 @@
     },
     {
      "count": 9,
-     "path_id": 116837715,
-     "path": "studio/click/home/open-details",
+     "path_id": 118824824,
+     "path": "studio/preview",
      "event": true,
-     "title": "Studio \u00b7 click \u00b7 home \u00b7 open-details",
+     "title": "Studio: free preview",
+     "max": 2
+    },
+    {
+     "count": 9,
+     "path_id": 117976564,
+     "path": "studio/click/upload/add",
+     "event": true,
+     "title": "Studio \u00b7 click \u00b7 upload \u00b7 add",
      "max": 1
     },
     {
      "count": 8,
-     "path_id": 112160373,
-     "path": "/buildings",
-     "event": false,
-     "title": "All buildings A\u2013Z \u00b7 Find Great Architecture",
+     "path_id": 119289191,
+     "path": "studio/files/home",
+     "event": true,
+     "title": "Studio \u00b7 files \u00b7 home",
      "max": 2
     },
     {
-     "count": 7,
+     "count": 8,
+     "path_id": 119289179,
+     "path": "studio/click/home/hpick",
+     "event": true,
+     "title": "Studio \u00b7 click \u00b7 home \u00b7 hpick",
+     "max": 2
+    },
+    {
+     "count": 8,
      "path_id": 114317607,
      "path": "/ideas/adaptive-reuse",
      "event": false,
      "title": "Adaptive reuse architecture examples: 194 buildings & photos",
+     "max": 1
+    },
+    {
+     "count": 7,
+     "path_id": 118826267,
+     "path": "studio/screen/plan",
+     "event": true,
+     "title": "Studio \u00b7 screen \u00b7 plan",
+     "max": 1
+    },
+    {
+     "count": 7,
+     "path_id": 117212605,
+     "path": "studio/click/home/sec",
+     "event": true,
+     "title": "Studio \u00b7 click \u00b7 home \u00b7 sec",
      "max": 1
     },
     {
@@ -157,6 +285,30 @@
      "event": true,
      "title": "Indian Coffee House",
      "max": 3
+    },
+    {
+     "count": 7,
+     "path_id": 113703681,
+     "path": "/styles/brutalism",
+     "event": false,
+     "title": "Brutalist architecture: 249 buildings with photos & plans",
+     "max": 1
+    },
+    {
+     "count": 6,
+     "path_id": 117976867,
+     "path": "studio/click/upload/rmFile",
+     "event": true,
+     "title": "Studio \u00b7 click \u00b7 upload \u00b7 rmFile",
+     "max": 1
+    },
+    {
+     "count": 6,
+     "path_id": 115515870,
+     "path": "/styles/parametric",
+     "event": false,
+     "title": "Parametric architecture: 52 buildings with photos & plans",
+     "max": 2
     },
     {
      "count": 6,
@@ -184,11 +336,35 @@
     },
     {
      "count": 6,
+     "path_id": 113701806,
+     "path": "book/experiencing-architecture",
+     "event": true,
+     "title": "Experiencing Architecture",
+     "max": 2
+    },
+    {
+     "count": 6,
+     "path_id": 113684801,
+     "path": "building/mill-owners-association-building",
+     "event": true,
+     "title": "Mill Owners' Association Building",
+     "max": 2
+    },
+    {
+     "count": 6,
      "path_id": 112522110,
      "path": "/architects",
      "event": false,
      "title": "Architects A\u2013Z \u00b7 Find Great Architecture",
      "max": 6
+    },
+    {
+     "count": 5,
+     "path_id": 117976873,
+     "path": "studio/click/upload/addBrief",
+     "event": true,
+     "title": "Studio \u00b7 click \u00b7 upload \u00b7 addBrief",
+     "max": 1
     },
     {
      "count": 5,
@@ -204,22 +380,6 @@
      "path": "play/daily/4-of-5",
      "event": true,
      "title": "Daily five finished: 4 of 5 right",
-     "max": 2
-    },
-    {
-     "count": 5,
-     "path_id": 113701806,
-     "path": "book/experiencing-architecture",
-     "event": true,
-     "title": "Experiencing Architecture",
-     "max": 2
-    },
-    {
-     "count": 5,
-     "path_id": 113684801,
-     "path": "building/mill-owners-association-building",
-     "event": true,
-     "title": "Mill Owners' Association Building",
      "max": 2
     },
     {
@@ -240,18 +400,42 @@
     },
     {
      "count": 4,
-     "path_id": 116802640,
-     "path": "studio/screen/upload",
+     "path_id": 119289915,
+     "path": "studio/click/upload/dropUp",
      "event": true,
-     "title": "Studio \u00b7 screen \u00b7 upload",
+     "title": "Studio \u00b7 click \u00b7 upload \u00b7 dropUp",
      "max": 1
     },
     {
      "count": 4,
-     "path_id": 116802639,
-     "path": "studio/click/home/start",
+     "path_id": 118826722,
+     "path": "studio/screen/price",
      "event": true,
-     "title": "Studio \u00b7 click \u00b7 home \u00b7 start",
+     "title": "Studio \u00b7 screen \u00b7 price",
+     "max": 1
+    },
+    {
+     "count": 4,
+     "path_id": 118826721,
+     "path": "studio/click/plan/toPrice",
+     "event": true,
+     "title": "Studio \u00b7 click \u00b7 plan \u00b7 toPrice",
+     "max": 1
+    },
+    {
+     "count": 4,
+     "path_id": 117583511,
+     "path": "/styles/high-tech",
+     "event": false,
+     "title": "High-tech architecture: 96 buildings with photos & plans",
+     "max": 1
+    },
+    {
+     "count": 4,
+     "path_id": 116902096,
+     "path": "/buildings/baron-empain-palace",
+     "event": false,
+     "title": "Baron Empain Palace by Alexandre Marcel: photos",
      "max": 1
     },
     {
@@ -296,14 +480,6 @@
     },
     {
      "count": 4,
-     "path_id": 113703681,
-     "path": "/styles/brutalism",
-     "event": false,
-     "title": "Brutalist architecture: 249 buildings with photos & plans",
-     "max": 1
-    },
-    {
-     "count": 4,
      "path_id": 113701535,
      "path": "building/jawahar-kala-kendra",
      "event": true,
@@ -336,18 +512,50 @@
     },
     {
      "count": 3,
-     "path_id": 117589084,
-     "path": "/buildings/national-stadium-singapore",
-     "event": false,
-     "title": "National Stadium, Singapore by Arup Associates",
+     "path_id": 119715264,
+     "path": "studio/click/planning/preview",
+     "event": true,
+     "title": "Studio \u00b7 click \u00b7 planning \u00b7 preview",
      "max": 2
     },
     {
      "count": 3,
-     "path_id": 117212605,
-     "path": "studio/click/home/sec",
+     "path_id": 118234266,
+     "path": "/guides/a1-presentation-board",
+     "event": false,
+     "title": "How to Make an A1 Architecture Presentation Board (Guide)",
+     "max": 1
+    },
+    {
+     "count": 3,
+     "path_id": 117421152,
+     "path": "/ideas/courtyard",
+     "event": false,
+     "title": "Courtyard architecture examples: 325 buildings & photos",
+     "max": 1
+    },
+    {
+     "count": 3,
+     "path_id": 116838040,
+     "path": "studio/click/home/home",
      "event": true,
-     "title": "Studio \u00b7 click \u00b7 home \u00b7 sec",
+     "title": "Studio \u00b7 click \u00b7 home \u00b7 home",
+     "max": 1
+    },
+    {
+     "count": 3,
+     "path_id": 116823479,
+     "path": "/styles/art-deco",
+     "event": false,
+     "title": "Art Deco architecture: 97 buildings with photos & plans",
+     "max": 1
+    },
+    {
+     "count": 3,
+     "path_id": 116370909,
+     "path": "/types/libraries",
+     "event": false,
+     "title": "Library architecture: 144 buildings with photos & plans",
      "max": 1
     },
     {
@@ -432,6 +640,14 @@
     },
     {
      "count": 3,
+     "path_id": 113925138,
+     "path": "studio/ai-link",
+     "event": true,
+     "title": "AI panel: See FGA Studio",
+     "max": 1
+    },
+    {
+     "count": 3,
      "path_id": 113852201,
      "path": "/buildings/custom-house-dublin",
      "event": false,
@@ -468,6 +684,14 @@
      "path": "/buildings/petrobras-headquarters-edise",
      "event": false,
      "title": "Petrobras Headquarters (Edise) by Roberto Lu\u00eds Gandolfi",
+     "max": 1
+    },
+    {
+     "count": 3,
+     "path_id": 113341409,
+     "path": "/buildings/sines-arts-centre",
+     "event": false,
+     "title": "Centro de Artes de Sines by Aires Mateus: photos",
      "max": 1
     },
     {
@@ -581,258 +805,34 @@
      "event": false,
      "title": "Supreme Court of Pakistan Building \u2014 Kenzo Tange, 1993",
      "max": 1
-    },
-    {
-     "count": 3,
-     "path_id": 112197919,
-     "path": "/buildings/reichstag",
-     "event": false,
-     "title": "Reichstag \u2014 Norman Foster, 1999: photos, plans & sections for a case study \u00b7 Find Great Architecture",
-     "max": 2
-    },
-    {
-     "count": 3,
-     "path_id": 112066067,
-     "path": "/buildings/villa-tugendhat",
-     "event": false,
-     "title": "Villa Tugendhat \u2014 Mies van der Rohe, 1930: photos, plans & sections for a case study \u00b7 Find Great Architecture",
-     "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 117773942,
-     "path": "/buildings/fau-usp-building",
-     "event": false,
-     "title": "FAU-USP Building by Vilanova Artigas: photos & key features",
-     "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 117746848,
-     "path": "/buildings/esplanade-theatres-on-the-bay",
-     "event": false,
-     "title": "Esplanade - Theatres on the Bay by DP Architects: photos",
-     "max": 2
-    },
-    {
-     "count": 2,
-     "path_id": 117738040,
-     "path": "/buildings/one-chase-manhattan-plaza-28-liberty-street",
-     "event": false,
-     "title": "One Chase Manhattan Plaza (28 Liberty Street) by SOM: photos",
-     "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 117583511,
-     "path": "/styles/high-tech",
-     "event": false,
-     "title": "High-tech architecture: 96 buildings with photos & plans",
-     "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 117474047,
-     "path": "/buildings/auditorium-niccolo-paganini",
-     "event": false,
-     "title": "Auditorium Niccol\u00f2 Paganini by Renzo Piano: photos",
-     "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 116838040,
-     "path": "studio/click/home/home",
-     "event": true,
-     "title": "Studio \u00b7 click \u00b7 home \u00b7 home",
-     "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 115569751,
-     "path": "/buildings/teatro-degli-arcimboldi",
-     "event": false,
-     "title": "Teatro degli Arcimboldi by Vittorio Gregotti: photos",
-     "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 115515870,
-     "path": "/styles/parametric",
-     "event": false,
-     "title": "Parametric architecture: 52 buildings with photos & plans",
-     "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 115371645,
-     "path": "building/fondation-beyeler",
-     "event": true,
-     "title": "Fondation Beyeler",
-     "max": 2
-    },
-    {
-     "count": 2,
-     "path_id": 115267510,
-     "path": "/buildings/musee-des-confluences",
-     "event": false,
-     "title": "Mus\u00e9e des Confluences by Coop Himmelbau: photos & plans",
-     "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 115252595,
-     "path": "/buildings/antigone-montpellier",
-     "event": false,
-     "title": "Antigone by Ricardo Bofill, 2000: photos & key features",
-     "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 114927406,
-     "path": "/buildings/federal-palace-of-switzerland",
-     "event": false,
-     "title": "Federal Palace of Switzerland by Hans Wilhelm Auer: photos",
-     "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 114693287,
-     "path": "/buildings/highpoint-i",
-     "event": false,
-     "title": "Highpoint I by Berthold Lubetkin: photos & key features",
-     "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 114551490,
-     "path": "building/museo-de-arte-moderno",
-     "event": true,
-     "title": "Museo de Arte Moderno",
-     "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 114544782,
-     "path": "/buildings/siida-museum",
-     "event": false,
-     "title": "Siida by Juhani Pallasmaa, 1998: photos & key features",
-     "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 114334495,
-     "path": "/buildings/stockholm-court-house",
-     "event": false,
-     "title": "Stockholm Court House by Carl Westman: photos & key features",
-     "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 114319080,
-     "path": "building/santralistanbul",
-     "event": true,
-     "title": "SantralIstanbul",
-     "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 114289437,
-     "path": "/buildings/piazza-d-italia",
-     "event": false,
-     "title": "Piazza d'Italia by Charles Moore with Perez Architects",
-     "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 114250989,
-     "path": "building/otaniemi-water-tower",
-     "event": true,
-     "title": "Otaniemi water tower",
-     "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 114227113,
-     "path": "/buildings/aaltoalvari",
-     "event": false,
-     "title": "AaltoAlvari swimming hall by Alvar Aalto: photos",
-     "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 114198931,
-     "path": "/buildings/minna-no-mori-gifu-media-cosmos",
-     "event": false,
-     "title": "Minna no Mori Gifu Media Cosmos by Toyo Ito: photos",
-     "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 114132840,
-     "path": "/buildings/beinecke-rare-book-manuscript-library",
-     "event": false,
-     "title": "Beinecke Rare Book & Manuscript Library by Gordon Bunshaft",
-     "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 114068372,
-     "path": "building/gewandhaus",
-     "event": true,
-     "title": "Gewandhaus",
-     "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 114041610,
-     "path": "book/the-eyes-of-the-skin",
-     "event": true,
-     "title": "The Eyes of the Skin",
-     "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 114041400,
-     "path": "building/sardar-vallabhbhai-patel-stadium",
-     "event": true,
-     "title": "Sardar Vallabhbhai Patel Stadium",
-     "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 114027454,
-     "path": "/buildings/casa-de-ferro-maputo",
-     "event": false,
-     "title": "Casa de Ferro (Iron House) by Joseph Danly: photos",
-     "max": 1
     }
    ],
-   "total": 1191,
+   "total": 1548,
    "more": true
   },
   "referrers": {
    "stats": [
     {
      "name": "",
-     "count": 1148,
+     "count": 1509,
      "ref_scheme": "o"
     },
     {
      "id": "Google",
      "name": "Google",
-     "count": 354,
+     "count": 374,
      "ref_scheme": "g"
     },
     {
      "id": "chatgpt.com",
      "name": "chatgpt.com",
-     "count": 106,
+     "count": 163,
      "ref_scheme": "c"
     },
     {
      "id": "www.linkedin.com",
      "name": "www.linkedin.com",
-     "count": 63,
+     "count": 110,
      "ref_scheme": "h"
     },
     {
@@ -844,13 +844,13 @@
     {
      "id": "ig",
      "name": "ig",
-     "count": 19,
+     "count": 21,
      "ref_scheme": "c"
     },
     {
      "id": "wall",
      "name": "wall",
-     "count": 16,
+     "count": 17,
      "ref_scheme": "c"
     },
     {
@@ -860,28 +860,46 @@
      "ref_scheme": "c"
     },
     {
+     "id": "www.bing.com",
+     "name": "www.bing.com",
+     "count": 15,
+     "ref_scheme": "h"
+    },
+    {
+     "id": "gads",
+     "name": "gads",
+     "count": 12,
+     "ref_scheme": "c"
+    },
+    {
      "id": "gemini.google.com",
      "name": "gemini.google.com",
      "count": 12,
      "ref_scheme": "h"
     },
     {
-     "id": "gads",
-     "name": "gads",
-     "count": 9,
+     "id": "YouTube",
+     "name": "YouTube",
+     "count": 7,
      "ref_scheme": "c"
     },
     {
-     "id": "www.bing.com",
-     "name": "www.bing.com",
+     "id": "bing.com",
+     "name": "bing.com",
+     "count": 7,
+     "ref_scheme": "h"
+    },
+    {
+     "id": "l.instagram.com",
+     "name": "l.instagram.com",
      "count": 6,
      "ref_scheme": "h"
     },
     {
-     "id": "YouTube",
-     "name": "YouTube",
+     "id": "www.facebook.com",
+     "name": "www.facebook.com",
      "count": 5,
-     "ref_scheme": "c"
+     "ref_scheme": "h"
     },
     {
      "id": "youtube`",
@@ -890,14 +908,8 @@
      "ref_scheme": "c"
     },
     {
-     "id": "www.facebook.com",
-     "name": "www.facebook.com",
-     "count": 4,
-     "ref_scheme": "h"
-    },
-    {
-     "id": "bing.com",
-     "name": "bing.com",
+     "id": "duckduckgo.com",
+     "name": "duckduckgo.com",
      "count": 3,
      "ref_scheme": "h"
     },
@@ -908,22 +920,28 @@
      "ref_scheme": "h"
     },
     {
-     "id": "l.instagram.com",
-     "name": "l.instagram.com",
-     "count": 2,
-     "ref_scheme": "h"
-    },
-    {
      "id": "t.co",
      "name": "t.co",
      "count": 2,
      "ref_scheme": "h"
     },
     {
+     "id": "tab",
+     "name": "tab",
+     "count": 2,
+     "ref_scheme": "c"
+    },
+    {
      "id": "chatgpt.com",
      "name": "chatgpt.com",
      "count": 2,
      "ref_scheme": "h"
+    },
+    {
+     "id": "Yahoo",
+     "name": "Yahoo",
+     "count": 1,
+     "ref_scheme": "g"
     },
     {
      "id": "betalist",
@@ -944,22 +962,52 @@
      "ref_scheme": "o"
     },
     {
-     "id": "duckduckgo.com",
-     "name": "duckduckgo.com",
-     "count": 1,
-     "ref_scheme": "h"
-    },
-    {
      "id": "footer",
      "name": "footer",
      "count": 1,
      "ref_scheme": "c"
     },
     {
+     "id": "site",
+     "name": "site",
+     "count": 1,
+     "ref_scheme": "c"
+    },
+    {
+     "id": "www.perplexity.ai",
+     "name": "www.perplexity.ai",
+     "count": 1,
+     "ref_scheme": "h"
+    },
+    {
+     "id": "notebook.google.com",
+     "name": "notebook.google.com",
+     "count": 1,
+     "ref_scheme": "h"
+    },
+    {
      "id": "app.slidy.ai",
      "name": "app.slidy.ai",
      "count": 1,
      "ref_scheme": "h"
+    },
+    {
+     "id": "guide-deck",
+     "name": "guide-deck",
+     "count": 1,
+     "ref_scheme": "c"
+    },
+    {
+     "id": "guide-precedent",
+     "name": "guide-precedent",
+     "count": 1,
+     "ref_scheme": "c"
+    },
+    {
+     "id": "guide-jury",
+     "name": "guide-jury",
+     "count": 1,
+     "ref_scheme": "c"
     }
    ],
    "more": false
@@ -969,17 +1017,17 @@
     {
      "id": "Chrome",
      "name": "Chrome",
-     "count": 1341
+     "count": 1933
     },
     {
      "id": "Safari",
      "name": "Safari",
-     "count": 749
+     "count": 834
     },
     {
      "id": "Firefox",
      "name": "Firefox",
-     "count": 28
+     "count": 35
     },
     {
      "name": "",
@@ -993,27 +1041,27 @@
     {
      "id": "Windows",
      "name": "Windows",
-     "count": 703
+     "count": 1067
     },
     {
      "id": "iOS",
      "name": "iOS",
-     "count": 643
+     "count": 703
     },
     {
      "id": "Android",
      "name": "Android",
-     "count": 439
+     "count": 633
     },
     {
      "id": "macOS",
      "name": "macOS",
-     "count": 215
+     "count": 250
     },
     {
      "id": "Linux",
      "name": "Linux",
-     "count": 117
+     "count": 148
     },
     {
      "id": "Chrome OS",
@@ -1032,47 +1080,87 @@
     {
      "id": "IN",
      "name": "India",
-     "count": 1115
+     "count": 1255
     },
     {
      "id": "US",
      "name": "United States",
-     "count": 252
-    },
-    {
-     "id": "DE",
-     "name": "Germany",
-     "count": 65
-    },
-    {
-     "id": "GB",
-     "name": "United Kingdom",
-     "count": 62
-    },
-    {
-     "id": "IT",
-     "name": "Italy",
-     "count": 40
-    },
-    {
-     "id": "JP",
-     "name": "Japan",
-     "count": 34
-    },
-    {
-     "id": "AU",
-     "name": "Australia",
-     "count": 32
-    },
-    {
-     "id": "CH",
-     "name": "Switzerland",
-     "count": 31
+     "count": 443
     },
     {
      "id": "TR",
      "name": "Turkey",
+     "count": 88
+    },
+    {
+     "id": "DE",
+     "name": "Germany",
+     "count": 72
+    },
+    {
+     "id": "GB",
+     "name": "United Kingdom",
+     "count": 64
+    },
+    {
+     "id": "AR",
+     "name": "Argentina",
+     "count": 50
+    },
+    {
+     "id": "CH",
+     "name": "Switzerland",
+     "count": 42
+    },
+    {
+     "id": "IT",
+     "name": "Italy",
+     "count": 42
+    },
+    {
+     "id": "JP",
+     "name": "Japan",
+     "count": 36
+    },
+    {
+     "id": "AU",
+     "name": "Australia",
+     "count": 35
+    },
+    {
+     "id": "FR",
+     "name": "France",
+     "count": 34
+    },
+    {
+     "id": "CA",
+     "name": "Canada",
+     "count": 32
+    },
+    {
+     "id": "BR",
+     "name": "Brazil",
      "count": 31
+    },
+    {
+     "id": "JO",
+     "name": "Hashemite Kingdom of Jordan",
+     "count": 27
+    },
+    {
+     "id": "PK",
+     "name": "Pakistan",
+     "count": 27
+    },
+    {
+     "id": "KR",
+     "name": "South Korea",
+     "count": 26
+    },
+    {
+     "id": "MA",
+     "name": "Morocco",
+     "count": 26
     },
     {
      "id": "NL",
@@ -1080,38 +1168,53 @@
      "count": 26
     },
     {
-     "id": "CA",
-     "name": "Canada",
-     "count": 21
+     "id": "EG",
+     "name": "Egypt",
+     "count": 22
     },
     {
      "id": "ES",
      "name": "Spain",
-     "count": 19
+     "count": 20
     },
     {
      "id": "IR",
      "name": "Iran",
-     "count": 19
+     "count": 20
     },
     {
      "id": "BE",
      "name": "Belgium",
+     "count": 19
+    },
+    {
+     "id": "DZ",
+     "name": "Algeria",
      "count": 18
     },
     {
-     "id": "FR",
-     "name": "France",
-     "count": 17
+     "id": "NZ",
+     "name": "New Zealand",
+     "count": 18
     },
     {
-     "id": "KR",
-     "name": "South Korea",
-     "count": 16
+     "id": "SG",
+     "name": "Singapore",
+     "count": 18
     },
     {
      "id": "AE",
      "name": "United Arab Emirates",
+     "count": 14
+    },
+    {
+     "id": "ID",
+     "name": "Indonesia",
+     "count": 14
+    },
+    {
+     "id": "OM",
+     "name": "Oman",
      "count": 14
     },
     {
@@ -1120,43 +1223,28 @@
      "count": 13
     },
     {
-     "id": "SG",
-     "name": "Singapore",
-     "count": 12
-    },
-    {
-     "id": "EG",
-     "name": "Egypt",
-     "count": 11
-    },
-    {
-     "id": "MA",
-     "name": "Morocco",
-     "count": 11
-    },
-    {
-     "id": "JO",
-     "name": "Hashemite Kingdom of Jordan",
-     "count": 10
-    },
-    {
      "id": "KZ",
      "name": "Kazakhstan",
-     "count": 10
-    },
-    {
-     "id": "BR",
-     "name": "Brazil",
-     "count": 9
-    },
-    {
-     "id": "LB",
-     "name": "Lebanon",
-     "count": 9
+     "count": 12
     },
     {
      "id": "PH",
      "name": "Philippines",
+     "count": 12
+    },
+    {
+     "id": "LB",
+     "name": "Lebanon",
+     "count": 10
+    },
+    {
+     "id": "UA",
+     "name": "Ukraine",
+     "count": 10
+    },
+    {
+     "id": "MX",
+     "name": "Mexico",
      "count": 9
     },
     {
@@ -1165,28 +1253,18 @@
      "count": 9
     },
     {
-     "id": "UA",
-     "name": "Ukraine",
-     "count": 9
-    },
-    {
      "id": "GR",
      "name": "Greece",
      "count": 8
     },
     {
-     "id": "ID",
-     "name": "Indonesia",
+     "id": "PL",
+     "name": "Poland",
      "count": 8
     },
     {
-     "id": "MX",
-     "name": "Mexico",
-     "count": 8
-    },
-    {
-     "id": "NZ",
-     "name": "New Zealand",
+     "id": "RO",
+     "name": "Romania",
      "count": 8
     },
     {
@@ -1195,8 +1273,18 @@
      "count": 8
     },
     {
-     "id": "PK",
-     "name": "Pakistan",
+     "id": "CO",
+     "name": "Colombia",
+     "count": 7
+    },
+    {
+     "id": "EC",
+     "name": "Ecuador",
+     "count": 7
+    },
+    {
+     "id": "TH",
+     "name": "Thailand",
      "count": 7
     },
     {
@@ -1210,11 +1298,6 @@
      "count": 6
     },
     {
-     "id": "DZ",
-     "name": "Algeria",
-     "count": 6
-    },
-    {
      "id": "FI",
      "name": "Finland",
      "count": 6
@@ -1225,28 +1308,23 @@
      "count": 6
     },
     {
-     "id": "RO",
-     "name": "Romania",
-     "count": 6
-    },
-    {
-     "id": "CO",
-     "name": "Colombia",
-     "count": 5
-    },
-    {
      "id": "DO",
      "name": "Dominican Republic",
      "count": 5
     },
     {
-     "id": "EC",
-     "name": "Ecuador",
+     "id": "HK",
+     "name": "Hong Kong",
      "count": 5
     },
     {
      "id": "HU",
      "name": "Hungary",
+     "count": 5
+    },
+    {
+     "id": "IE",
+     "name": "Ireland",
      "count": 5
     },
     {
@@ -1260,18 +1338,28 @@
      "count": 5
     },
     {
-     "id": "AR",
-     "name": "Argentina",
+     "id": "SC",
+     "name": "Seychelles",
+     "count": 5
+    },
+    {
+     "id": "SE",
+     "name": "Sweden",
+     "count": 5
+    },
+    {
+     "id": "VN",
+     "name": "Vietnam",
+     "count": 5
+    },
+    {
+     "id": "CL",
+     "name": "Chile",
      "count": 4
     },
     {
-     "id": "HK",
-     "name": "Hong Kong",
-     "count": 4
-    },
-    {
-     "id": "IE",
-     "name": "Ireland",
+     "id": "IL",
+     "name": "Israel",
      "count": 4
     },
     {
@@ -1280,18 +1368,8 @@
      "count": 4
     },
     {
-     "id": "PL",
-     "name": "Poland",
-     "count": 4
-    },
-    {
-     "id": "SE",
-     "name": "Sweden",
-     "count": 4
-    },
-    {
-     "id": "VN",
-     "name": "Vietnam",
+     "id": "LY",
+     "name": "Libya",
      "count": 4
     },
     {
@@ -1300,8 +1378,8 @@
      "count": 3
     },
     {
-     "id": "CL",
-     "name": "Chile",
+     "id": "BD",
+     "name": "Bangladesh",
      "count": 3
     },
     {
@@ -1310,18 +1388,13 @@
      "count": 3
     },
     {
-     "id": "IL",
-     "name": "Israel",
-     "count": 3
-    },
-    {
-     "id": "LY",
-     "name": "Libya",
-     "count": 3
-    },
-    {
      "id": "MK",
      "name": "North Macedonia",
+     "count": 3
+    },
+    {
+     "id": "NO",
+     "name": "Norway",
      "count": 3
     },
     {
@@ -1330,8 +1403,8 @@
      "count": 3
     },
     {
-     "id": "TH",
-     "name": "Thailand",
+     "id": "ZA",
+     "name": "South Africa",
      "count": 3
     },
     {
@@ -1345,8 +1418,23 @@
      "count": 2
     },
     {
+     "id": "ET",
+     "name": "Ethiopia",
+     "count": 2
+    },
+    {
      "id": "HR",
      "name": "Croatia",
+     "count": 2
+    },
+    {
+     "id": "LT",
+     "name": "Republic of Lithuania",
+     "count": 2
+    },
+    {
+     "id": "ML",
+     "name": "Mali",
      "count": 2
     },
     {
@@ -1355,13 +1443,18 @@
      "count": 2
     },
     {
-     "id": "NO",
-     "name": "Norway",
+     "id": "PS",
+     "name": "Palestine",
      "count": 2
     },
     {
-     "id": "PS",
-     "name": "Palestine",
+     "id": "VE",
+     "name": "Venezuela",
+     "count": 2
+    },
+    {
+     "id": "ZM",
+     "name": "Zambia",
      "count": 2
     },
     {
@@ -1385,11 +1478,6 @@
      "count": 1
     },
     {
-     "id": "ET",
-     "name": "Ethiopia",
-     "count": 1
-    },
-    {
      "id": "GH",
      "name": "Ghana",
      "count": 1
@@ -1405,8 +1493,13 @@
      "count": 1
     },
     {
-     "id": "LT",
-     "name": "Republic of Lithuania",
+     "id": "KG",
+     "name": "Kyrgyzstan",
+     "count": 1
+    },
+    {
+     "id": "MN",
+     "name": "Mongolia",
      "count": 1
     },
     {
@@ -1415,8 +1508,8 @@
      "count": 1
     },
     {
-     "id": "OM",
-     "name": "Oman",
+     "id": "NG",
+     "name": "Nigeria",
      "count": 1
     },
     {
@@ -1440,18 +1533,8 @@
      "count": 1
     },
     {
-     "id": "VE",
-     "name": "Venezuela",
-     "count": 1
-    },
-    {
      "id": "XK",
      "name": "Kosovo",
-     "count": 1
-    },
-    {
-     "id": "ZM",
-     "name": "Zambia",
      "count": 1
     }
    ],
@@ -1462,22 +1545,22 @@
     {
      "id": "phone",
      "name": "",
-     "count": 1071
+     "count": 1321
     },
     {
      "id": "tablet",
      "name": "",
-     "count": 54
+     "count": 83
     },
     {
      "id": "desktop",
      "name": "",
-     "count": 920
+     "count": 1287
     },
     {
      "id": "desktophd",
      "name": "",
-     "count": 75
+     "count": 113
     },
     {
      "id": "unknown",
@@ -1492,7 +1575,7 @@
     {
      "id": "(unknown)",
      "name": "(unknown)",
-     "count": 2120
+     "count": 2804
     }
    ],
    "more": false
