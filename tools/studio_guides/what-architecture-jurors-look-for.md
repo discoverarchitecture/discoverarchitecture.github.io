@@ -82,7 +82,7 @@ Much of a jury's judgement is formed in the conversation after your talk. Jurors
 
 Two or three days before the jury, go through the ten questions with your drawings in front of you and mark each one green, amber or red. Fix the reds that a drawing can fix (usually 2, 3 and 7), and prepare honest answers for the reds you can't fix in time. The [48-hour jury plan](guide:architecture-jury-preparation-48-hours) shows how to fit this in and still sleep.
 
-If the design is ready but the presentation is the bottleneck, [Studio FGA](/studio/) sets your own drawings on an A1 board and builds a matching jury deck; the preview is free, and the time saved can go into the checks above.
+If the design is ready but the presentation is the bottleneck, [Studio FGA](/studio/) sets your own drawings on an A1 board and builds a matching jury deck from $6.49, and the time saved can go into the checks above.
 
 ## FAQ
 

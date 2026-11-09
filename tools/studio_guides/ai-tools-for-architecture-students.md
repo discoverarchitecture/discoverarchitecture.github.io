@@ -56,10 +56,10 @@ Two notes before the list. Products in this space change quickly, so check each 
 
 **General slide makers, such as Gamma, Beautiful.ai and Canva's AI features,** turn text into tidy decks quickly. They are built for business and education slides in general, not for architectural drawings, so you'll often fight templates that crop plans, add stock images or put text over your sections.
 
-**Studio FGA** is the tool made by the people who run this site, so read this paragraph with that in mind. It is made for architecture students specifically: you upload your plans, sections, sketches, renders and model photos, answer a few questions, and get a preview of an A1 presentation board and a 10–15 slide jury deck built from your drawings. The preview is free; if you want the files, you pay once, $11 for Polish or $16 for Transform, and download editable files (PDF, image and PowerPoint, with InDesign where offered). What it doesn't do: design your building, or know facts you didn't give it. Where you don't upload a plan or section it draws a schematic one whose dimensions are estimates, and scale bars are estimated if you give no dimensions, so you need to check every drawing and label before you present. More detail, and the free preview, is [on its page](/studio/).
+**Studio FGA** is the tool made by the people who run this site, so read this paragraph with that in mind. It is made for architecture students specifically: you upload your plans, sections, sketches, renders and model photos, answer a few questions, and pay once, $6.49 for Polish or $9.34 for Transform, for an A1 presentation board and a 10–15 slide jury deck built from your drawings. Not jury-ready? One free redo, or your money back within 7 days. You download editable files (PDF, image and PowerPoint, with InDesign where offered). What it doesn't do: design your building, or know facts you didn't give it. Where you don't upload a plan or section it draws a schematic one whose dimensions are estimates, and scale bars are estimated if you give no dimensions, so you need to check every drawing and label before you present. More detail, and real boards it made, are [on its page](/studio/).
 
-![Studio FGA's free preview screen: an A1 board laid out with the student's drawings, striped boxes marking where new AI images will go, and the order card with the price](/studio/preview-shot.webp)
-Caption: Studio FGA's free preview screen, from the Law Garden sample: the student's drawings placed on an A1 board, striped boxes where new AI images would go, and the order card. As said above, Studio FGA is our tool.
+![Studio FGA's layout screen: an A1 board laid out with the student's drawings, striped boxes marking where new AI images will go, and the order card with the price](/studio/preview-shot.webp)
+Caption: Studio FGA's layout screen, from the Law Garden sample: the student's drawings placed on an A1 board, striped boxes where new AI images would go, and the order card. As said above, Studio FGA is our tool.
 
 ## How to judge an AI architecture presentation generator
 
@@ -73,7 +73,7 @@ Tools that promise to turn your work into a finished presentation are new, and t
 - **What happens to your files?** Check how long uploads are kept and whether they are used to train models. Your design work is yours.
 - **How is it priced?** A one-off payment per board, a subscription, or credits that run out: know what a single jury will cost you.
 
-Studio FGA's answers, for comparison: it works from your uploads, the preview is free, the files are editable PDF, PowerPoint and (where offered) InDesign, generated images and schematic drawings are yours to check, uploads are deleted after 30 days and never used for training, and you pay once per board and deck. Judge it by the same list.
+Studio FGA's answers, for comparison: it works from your uploads, you pay once (from $6.49) with a free redo or your money back, the files are editable PDF, PowerPoint and (where offered) InDesign, generated images and schematic drawings are yours to check, uploads are deleted after 30 days and never used for training, and you pay once per board and deck. Judge it by the same list.
 
 ## Using any of them without getting into trouble
 

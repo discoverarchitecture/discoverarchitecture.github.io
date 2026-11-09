@@ -42,7 +42,7 @@
       "Bring the deck as a PDF on a USB stick and online, and check it opens on another computer: fonts and video often don't. A PDF keeps your layout exactly as you made it."
     ]}
   ],
-  "cta": {"h": "Make the deck with Studio FGA", "p": "Studio FGA makes a jury deck that follows your A1 board, from your own plans, sections, sketches and model photos. See a free preview first, then pay once ($11 or $16) to download the board and deck as PDF, PowerPoint and InDesign, and keep editing.", "link": "Try it free", "href": "studio/?ref=guide-deck"},
+  "cta": {"h": "Make the deck with Studio FGA", "p": "Studio FGA makes a jury deck that follows your A1 board, from your own plans, sections, sketches and model photos. Pay once ($6.49 or $9.34), free redo or money back, to download the board and deck as PDF, PowerPoint and InDesign, and keep editing.", "link": "Try it free", "href": "studio/?ref=guide-deck"},
   "faq": [
     {"q": "How many slides should an architecture presentation have?", "a": "Count from your time: about one slide every 20 to 30 seconds. A three-minute talk needs around six to nine slides plus a title; a ten-minute one, around twenty."},
     {"q": "What should be on the first slide?", "a": "The project's name, your name, and the project's idea in one sentence, ideally over the main image. The jury should know what the project is about before you show the site."},

@@ -7,6 +7,9 @@
 //   studio/typed/<screen>           started typing in a box (what was typed is never sent)
 //   studio/scroll/<25|50|75|100>    how far down the landing page people read
 //   studio/video/<play|ended>       the walkthrough video started / watched to the end
+// app.js counts the money steps itself (live app only): studio/flow/<paywall|preview> (the flow the visit saw, once per visit,
+// config.js STUDIO_FLOW), studio/preview, studio/checkout (Pay pressed) and studio/paid/<polish|transform>; with
+// studio/screen/price these give the conversion before and after the switch to the paywall flow (owner, 10 Nov 2026).
 // Each is counted once per visit, so the numbers read as "how many visitors got this far".
 (function () {
   if (!window.fgaEvent) return;

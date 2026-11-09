@@ -1,7 +1,10 @@
-"""Studio FGA pages (site/studio/): the three legal pages and the ?v= fingerprints.
+"""Studio FGA pages (site/studio/): the three legal pages, the flow's static wording and the ?v= fingerprints.
 
-    python3 tools/build_studio.py                      # refresh the ?v= stamps only
+    python3 tools/build_studio.py                      # the flow's wording (tools/studio_flow.py) and the ?v= stamps
     python3 tools/build_studio.py --legal PATH         # also rewrite terms/, privacy/, refund/ from a legal.js
+
+The flow (site/studio/config.js STUDIO_FLOW, "paywall" or "preview") picks the static wording everywhere crawlers read it
+(tools/studio_flow.py) and the legal pages' header button.
 
 The legal text lives in the studio project (studio/legal/*.md), which the prototype's tools/build_legal.py turns
 into legal.js (window.LEGAL = {...}); point --legal at that file, e.g.
@@ -24,10 +27,12 @@ FOOTLINE = ("Studio FGA is run by Akshat Pagaria · 302, Shantinath Residency, B
             "Payments handled by Dodo Payments, our merchant of record")
 DESC = {"terms": "The terms for using Studio FGA, the board and deck maker for architecture students at findgreatarchitecture.com/studio.",
         "privacy": "How Studio FGA handles your uploads, answers and email: kept for 30 days, never sold, never used to train AI models.",
-        "refund": "Studio FGA's refund policy: you preview free before you pay, and every project gets one free redo within 7 days."}
+        "refund": "Studio FGA's refund policy: not jury-ready? One free redo, or your money back within 7 days."}
 
 
 def legal_pages(path):
+    import studio_flow
+    start = "Start" if studio_flow.configured() == "paywall" else "Start free"
     s = open(path, encoding="utf-8").read()
     data = json.loads(s[s.index("{"):s.rstrip().rstrip(";").rindex("}") + 1])
     for key in ("terms", "privacy", "refund"):
@@ -53,7 +58,7 @@ def legal_pages(path):
 </head>
 <body data-screen="{key}">
 <!-- Made from studio/legal/{key}.md by tools/build_studio.py. Edit the draft there, not this file. -->
-<header class="top lnav"><a class="logo" href="../"><i aria-hidden="true">✦</i>Studio FGA</a><span class="spacer"></span><a class="btn small on" href="../#upload">Start free</a></header>
+<header class="top lnav"><a class="logo" href="../"><i aria-hidden="true">✦</i>Studio FGA</a><span class="spacer"></span><a class="btn small on" href="../#upload">{start}</a></header>
 <main class="land"><article class="wrap narrow legal"><a class="link" href="../">← Back to Studio FGA</a><p class="kicker">Legal</p><h1 class="big">{html.escape(L["title"])}</h1>{L["html"]}</article>
 <footer class="lfoot wrap"><a class="logo" href="../"><i aria-hidden="true">✦</i>Studio FGA</a><p>{FOOTLINE}</p><p class="row">{links}</p>
 <p>Part of <a class="link" href="/">Find Great Architecture</a> · findgreatarchitecture.com/studio · @findgreatarchitecture</p></footer></main>
@@ -85,6 +90,8 @@ def stamp():
 
 
 if __name__ == "__main__":
+    import studio_flow
+    studio_flow.apply()   # the static wording follows config.js STUDIO_FLOW
     if "--legal" in sys.argv:
         legal_pages(os.path.expanduser(sys.argv[sys.argv.index("--legal") + 1]))
     stamp()
