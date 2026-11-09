@@ -1,15 +1,15 @@
 {
- "fetched_at": "2026-11-02T17:25:22+00:00",
+ "fetched_at": "2026-11-09T18:34:49+00:00",
  "site": "sc-domain:findgreatarchitecture.com",
  "window_days": 28,
- "start": "2026-10-06",
- "end": "2026-11-02",
+ "start": "2026-10-13",
+ "end": "2026-11-09",
  "web": {
   "total": {
-   "clicks": 355,
-   "impressions": 21854,
-   "ctr": 0.0162,
-   "position": 19.5
+   "clicks": 357,
+   "impressions": 21874,
+   "ctr": 0.0163,
+   "position": 19.4
   },
   "queries": [
    {
@@ -7016,10 +7016,10 @@
   "pages": [
    {
     "page": "https://findgreatarchitecture.com/",
-    "clicks": 12,
-    "impressions": 73,
-    "ctr": 0.1644,
-    "position": 12.3
+    "clicks": 14,
+    "impressions": 80,
+    "ctr": 0.175,
+    "position": 11.4
    },
    {
     "page": "https://findgreatarchitecture.com/buildings/villa-schreiner/",
@@ -7360,9 +7360,9 @@
    {
     "page": "https://findgreatarchitecture.com/buildings/agios-dimitrios-circular-school/",
     "clicks": 1,
-    "impressions": 5,
-    "ctr": 0.2,
-    "position": 3.6
+    "impressions": 6,
+    "ctr": 0.1667,
+    "position": 6.3
    },
    {
     "page": "https://findgreatarchitecture.com/buildings/akita-museum-of-art/",
@@ -7962,9 +7962,9 @@
    {
     "page": "https://findgreatarchitecture.com/buildings/hotel-humboldt/",
     "clicks": 1,
-    "impressions": 9,
-    "ctr": 0.1111,
-    "position": 11.6
+    "impressions": 10,
+    "ctr": 0.1,
+    "position": 10.7
    },
    {
     "page": "https://findgreatarchitecture.com/buildings/hotel-van-eetvelde/",
@@ -8739,9 +8739,9 @@
    {
     "page": "https://findgreatarchitecture.com/buildings/stazione-di-venezia-santa-lucia/",
     "clicks": 1,
-    "impressions": 8,
-    "ctr": 0.125,
-    "position": 5.6
+    "impressions": 9,
+    "ctr": 0.1111,
+    "position": 8
    },
    {
     "page": "https://findgreatarchitecture.com/buildings/stegastein-viewpoint/",
@@ -10083,9 +10083,9 @@
    {
     "page": "https://findgreatarchitecture.com/architects/toyo-ito/",
     "clicks": 0,
-    "impressions": 7,
+    "impressions": 8,
     "ctr": 0,
-    "position": 22
+    "position": 19.4
    },
    {
     "page": "https://findgreatarchitecture.com/architects/valerio-olgiati/",
@@ -10751,6 +10751,13 @@
     "impressions": 1,
     "ctr": 0,
     "position": 10
+   },
+   {
+    "page": "https://findgreatarchitecture.com/buildings/ananta-samakhom-throne-hall/",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 8
    },
    {
     "page": "https://findgreatarchitecture.com/buildings/angkor-wat/",
@@ -12001,9 +12008,9 @@
    {
     "page": "https://findgreatarchitecture.com/buildings/british-library/",
     "clicks": 0,
-    "impressions": 5,
+    "impressions": 6,
     "ctr": 0,
-    "position": 2.6
+    "position": 3.2
    },
    {
     "page": "https://findgreatarchitecture.com/buildings/brno-crematorium/",
@@ -12365,9 +12372,9 @@
    {
     "page": "https://findgreatarchitecture.com/buildings/capilla-lomas-de-cuernavaca/",
     "clicks": 0,
-    "impressions": 8,
+    "impressions": 10,
     "ctr": 0,
-    "position": 6.9
+    "position": 7.5
    },
    {
     "page": "https://findgreatarchitecture.com/buildings/capital-gate/",
@@ -14006,35 +14013,28 @@
     "impressions": 3,
     "ctr": 0,
     "position": 15.7
-   },
-   {
-    "page": "https://findgreatarchitecture.com/buildings/edmund-barton-building-canberra/",
-    "clicks": 0,
-    "impressions": 3,
-    "ctr": 0,
-    "position": 22.3
    }
   ],
   "countries": [
    {
     "country": "usa",
     "clicks": 42,
-    "impressions": 3852,
+    "impressions": 3857,
     "ctr": 0.0109,
     "position": 20.7
    },
    {
     "country": "deu",
     "clicks": 27,
-    "impressions": 885,
+    "impressions": 886,
     "ctr": 0.0305,
     "position": 20.5
    },
    {
     "country": "ind",
     "clicks": 26,
-    "impressions": 771,
-    "ctr": 0.0337,
+    "impressions": 773,
+    "ctr": 0.0336,
     "position": 15.3
    },
    {
@@ -14054,7 +14054,7 @@
    {
     "country": "ita",
     "clicks": 14,
-    "impressions": 782,
+    "impressions": 783,
     "ctr": 0.0179,
     "position": 14.2
    },
@@ -14096,7 +14096,7 @@
    {
     "country": "bra",
     "clicks": 7,
-    "impressions": 1114,
+    "impressions": 1117,
     "ctr": 0.0063,
     "position": 35.7
    },
@@ -14110,8 +14110,8 @@
    {
     "country": "grc",
     "clicks": 7,
-    "impressions": 371,
-    "ctr": 0.0189,
+    "impressions": 372,
+    "ctr": 0.0188,
     "position": 8.2
    },
    {
@@ -14192,6 +14192,13 @@
     "position": 7.8
    },
    {
+    "country": "phl",
+    "clicks": 4,
+    "impressions": 536,
+    "ctr": 0.0075,
+    "position": 27.8
+   },
+   {
     "country": "pol",
     "clicks": 4,
     "impressions": 174,
@@ -14201,9 +14208,9 @@
    {
     "country": "rus",
     "clicks": 4,
-    "impressions": 517,
+    "impressions": 518,
     "ctr": 0.0077,
-    "position": 20.3
+    "position": 20.4
    },
    {
     "country": "swe",
@@ -14262,13 +14269,6 @@
     "position": 14.2
    },
    {
-    "country": "phl",
-    "clicks": 3,
-    "impressions": 534,
-    "ctr": 0.0056,
-    "position": 27.9
-   },
-   {
     "country": "syr",
     "clicks": 3,
     "impressions": 23,
@@ -14292,9 +14292,9 @@
    {
     "country": "dnk",
     "clicks": 2,
-    "impressions": 131,
-    "ctr": 0.0153,
-    "position": 15.4
+    "impressions": 132,
+    "ctr": 0.0152,
+    "position": 15.3
    },
    {
     "country": "fin",
@@ -14306,9 +14306,9 @@
    {
     "country": "hkg",
     "clicks": 2,
-    "impressions": 72,
-    "ctr": 0.0278,
-    "position": 14.0
+    "impressions": 73,
+    "ctr": 0.0274,
+    "position": 13.9
    },
    {
     "country": "hrv",
@@ -14386,6 +14386,13 @@
     "impressions": 106,
     "ctr": 0.0094,
     "position": 7.9
+   },
+   {
+    "country": "egy",
+    "clicks": 1,
+    "impressions": 71,
+    "ctr": 0.0141,
+    "position": 8.0
    },
    {
     "country": "est",
@@ -14481,9 +14488,9 @@
    {
     "country": "alb",
     "clicks": 0,
-    "impressions": 34,
+    "impressions": 35,
     "ctr": 0,
-    "position": 20.5
+    "position": 21.5
    },
    {
     "country": "are",
@@ -14668,13 +14675,6 @@
     "position": 7.2
    },
    {
-    "country": "egy",
-    "clicks": 0,
-    "impressions": 70,
-    "ctr": 0,
-    "position": 8.1
-   },
-   {
     "country": "eth",
     "clicks": 0,
     "impressions": 10,
@@ -14720,24 +14720,24 @@
   "devices": [
    {
     "device": "DESKTOP",
-    "clicks": 278,
-    "impressions": 16962,
+    "clicks": 279,
+    "impressions": 16978,
     "ctr": 0.0164,
     "position": 21.9
    },
    {
     "device": "MOBILE",
     "clicks": 69,
-    "impressions": 4717,
+    "impressions": 4718,
     "ctr": 0.0146,
     "position": 11.0
    },
    {
     "device": "TABLET",
-    "clicks": 8,
-    "impressions": 175,
-    "ctr": 0.0457,
-    "position": 9.0
+    "clicks": 9,
+    "impressions": 178,
+    "ctr": 0.0506,
+    "position": 8.9
    }
   ],
   "query_pages": [
@@ -33740,6 +33740,14 @@
     "impressions": 1,
     "ctr": 0,
     "position": 5
+   },
+   {
+    "query": "rod robbie bridge toronto",
+    "page": "https://findgreatarchitecture.com/buildings/rogers-centre/",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 94
    },
    {
     "query": "rohm theatre kyoto capacity",
