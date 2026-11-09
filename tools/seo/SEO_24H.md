@@ -1,0 +1,59 @@
+# Studio FGA: 24-hour SEO push (7 Nov 2026 02:45 IST → 8 Nov 2026 02:45 IST)
+
+Brief from the FGA Studio MAIN chat. If this chat restarts, read this file first and carry on from **Next**.
+Rules: PRs only, never merge or deploy without the owner's OK; don't touch `site/studio/app.js`, `app.css`,
+`index.html` (the build chat owns them); no posting, sign-ups or paid APIs; Google-safe only.
+
+Target searches: architecture jury presentation ideas · architecture presentation generator · AI architecture
+presentation · architecture jury presentation · A1 sheet layout architecture · architecture board layout ·
+architecture presentation board.
+
+## Audit (7 Nov, 02:45–03:30 IST)
+
+What is already good:
+- `/studio/`: canonical, description (131 chars), one H1 that says what it is, SoftwareApplication with two Offers,
+  FAQPage, VideoObject, BreadcrumbList, Organization; the walkthrough video is `preload="none"` with a poster, so its
+  16 MB never blocks the page; the whole offer is in `<noscript>` for AI crawlers. In the sitemap.
+- Guides (8, 1,100–1,380 words each): titles ≤ 60, descriptions, canonicals, Article + BreadcrumbList + FAQPage,
+  CTA card, closing box, sticky bar, related links. In the sitemap. Images lazy with width and height (no layout shift).
+- `robots.txt` welcomes every crawler and names the AI ones. IndexNow already runs after every deploy
+  (`tools/indexnow.py` in `pages.yml`), so Bing / ChatGPT search / Copilot hear about changed pages within minutes.
+- `/pricing/`: title and description match the offer (Polish $11, Transform $16).
+
+Gaps found:
+1. `llms.txt` lists only the one FGA guide, none of the 8 Studio guides (AI assistants read this file). → PR A
+2. `sitemap.xml` has no `<lastmod>` anywhere, so search engines can't tell which guides are new. → PR A
+3. A new guide only reaches the sitemap after a full `build_pages.py` run (slow, owner's Mac only). → PR A
+   (`build_guides.py` now updates the sitemap and llms.txt itself)
+4. The FGA guide `/guides/a1-presentation-board/` and `/guides/` don't link to the Studio guides. → PR A
+5. Guide Article data uses the generic share image only; their own pictures would help image search. → PR A
+6. **For the build chat (files I must not edit):**
+   - `/studio/` `<title>` is 75 characters; Google cuts at ~60, so "Jury-Ready Boards" is lost. Suggest
+     `AI Architecture Presentation Generator for A1 Boards · Studio FGA` (60) or
+     `AI Architecture Presentation Generator: Board + Jury Deck` (57).
+   - `/studio/` `<noscript>` links the FGA guide but not `/studio/guides/`; add one line:
+     `<p>More guides: <a href="guides/">boards, juries, jury decks and AI tools for architecture students</a>.</p>`
+   - `/studio/` loads 9 Google font families in one render-blocking stylesheet; the landing uses ~3 above the fold.
+     Trimming the families used only inside the editor would help phone load (LCP).
+   - SoftwareApplication could add `"featureList"` (A1 board, 10–15 slide jury deck, PDF, PowerPoint, InDesign export,
+     free preview) and `"screenshot": "https://findgreatarchitecture.com/studio/preview-shot.webp"`.
+
+## Done
+
+(PR links as they open)
+
+## Next
+
+1. PR A: sitemap lastmod + llms.txt + cross-links + guide image data.
+2. New guides, one PR each, in this order (search → guide):
+   - architecture jury presentation ideas → `architecture-jury-presentation-ideas`
+   - architecture presentation board (step by step) → `how-to-make-an-architecture-presentation-board`
+   - A1 vs A0 vs 24×36 sheet sizes → `architecture-sheet-sizes-a1-a0-24x36`
+   - concept diagram ideas → `architecture-concept-diagram-ideas`
+   - site analysis presentation → `how-to-present-site-analysis`
+   - what jurors look for → `what-architecture-jurors-look-for`
+   - thesis presentation structure → `architecture-thesis-presentation-structure`
+   - presentation board templates, described → `architecture-presentation-board-templates`
+   - extend the AI tools roundup with an "AI architecture presentation generator" section
+3. Guide checklist (`tools/studio_guides/CHECKLIST.md`).
+4. Off-site ideas file for the owner (`tools/seo/OFFSITE_IDEAS.md`): draft only.
