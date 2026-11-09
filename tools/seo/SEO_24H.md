@@ -10,6 +10,46 @@ Target searches: architecture jury presentation ideas · architecture presentati
 presentation · architecture jury presentation · A1 sheet layout architecture · architecture board layout ·
 architecture presentation board.
 
+
+## Final report (9 Nov 2026, 20:50 IST): ready, not yet live
+
+**Status:** nothing from this run is live. #176, #170 and #172 are open and ready to merge (no conflicts). The owner
+approved "Merge all, after de-duplicating", but this session's permission check refused the merge twice ("merge
+without review"), so the owner merges.
+
+**What the owner does next**
+1. On GitHub, "Squash and merge" in this order: [#176](https://github.com/discoverarchitecture/discoverarchitecture.github.io/pull/176)
+   (off-site ideas, one file) → [#170](https://github.com/discoverarchitecture/discoverarchitecture.github.io/pull/170)
+   (sitemap dates, llms.txt, guide links) → [#172](https://github.com/discoverarchitecture/discoverarchitecture.github.io/pull/172)
+   (guides, de-duplication). If main moves first and a PR conflicts, see "If main moves again" below.
+2. Watch "Deploy site" in Actions; re-run it if it fails. The deploy pings Bing (IndexNow) on its own.
+3. Check live: `/studio/guides/` (grouped by topic), the new guides, `/guides/jury-presentation/` and `/guides/jury-deck/`
+   redirecting to the Studio jury guides, `/sitemap.xml` (guides with dates), `/llms.txt` (Studio guides listed).
+4. Search Console › URL inspection › Request indexing for `/studio/guides/` and the new guides, a few a day.
+5. Consider "resume the Search Console fetch" so the next SEO round has real queries (data stops at 2 Nov).
+
+**Ready in #172 (live once merged)**
+- Seven new guides: jury presentation ideas · sheet sizes (A1, A0, 24 × 36) · concept diagram ideas · presenting site
+  analysis · board templates · what jurors look for · photographing models. Plus "How to judge an AI architecture
+  presentation generator" in the AI tools guide.
+- De-duplicated: `/guides/jury-presentation/` folded into `/studio/guides/architecture-jury-presentation-tips/`, and
+  `/guides/jury-deck/` into `/studio/guides/architecture-jury-presentation-slides/` (best content merged in; old
+  addresses redirect with meta refresh + canonical; out of the sitemap and llms.txt). `/guides/precedent-study/` stays.
+- Index grouped by topic; titles ≤ 60 characters; six unsupported generalisations softened; checklist for the next
+  guide (`tools/studio_guides/CHECKLIST.md`).
+
+**Ready in #170:** sitemap `<lastmod>` for every guide (combined with another chat's dates for building pages);
+`llms.txt` lists the Studio guides; FGA and Studio guides link to each other; `build_guides.py` updates sitemap and
+llms.txt itself.
+
+**Off-site ideas in #176** (`tools/seo/OFFSITE_IDEAS.md`, drafts only, nothing posted): Pinterest pins of the sample
+boards; free AI-tool directories with one shared copy; roundup articles to ask, with a draft email (links behind words);
+a Product Hunt launch plan; Reddit and Quora draft answers that disclose the link is ours; a weekly check of whether
+ChatGPT, Perplexity and Copilot mention Studio FGA.
+
+**For the build chat (`/studio/` files I may not edit):** title is 75 characters (cut to ≤ 60); add a link to
+`/studio/guides/` in its `<noscript>`; load fewer font families on the landing.
+
 ## Audit (7 Nov, from 02:45 IST)
 
 What is already good:
@@ -81,17 +121,6 @@ Gaps found:
 - 9 Nov 20:47 IST · Owner said "Try again"; the merge was refused again by this session's permission check. Run
   closed (end time 8 Nov 16:45 passed). Final state: #176, #170, #172 open and mergeable, waiting for the owner.
 
-## Final report
-
-- Merge order: #176 → #170 → #172, "Squash and merge" each. After merging: watch "Deploy site" in Actions (re-run if
-  it fails), then check `/studio/guides/`, the 9 new or updated guides, the two redirects (`/guides/jury-presentation/`,
-  `/guides/jury-deck/`), `sitemap.xml` and `llms.txt` are live, and that each page loads `analytics.js`.
-- New guides (8): jury presentation ideas · sheet sizes (A1, A0, 24 × 36) · concept diagrams · site analysis ·
-  board templates · what jurors look for · photographing models · (plus the AI-generator section in the AI tools guide).
-- De-duplicated: two FGA jury guides folded into the Studio jury tips and slides guides, old addresses redirect.
-- Automation: guide dates in the sitemap, `build_guides.py` updates sitemap + llms.txt itself, a checklist for the
-  next guide, titles capped at 60 characters.
-- For the build chat: shorter `/studio/` title, a guides link in its `<noscript>`, fewer font families (audit above).
 
 ## Next
 
