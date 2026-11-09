@@ -46,3 +46,19 @@ if the original was a personal address that will be away for weeks.
 ## Asked not to be contacted, or a complaint
 
 Stop all sending at once and tell the owner. Reply only "Sorry for the trouble, I won't write again."
+
+## Checking a listing (owner's question, 9 Nov 2026)
+
+When a librarian says they will add the site, we check it ourselves; we never ask twice in a way that sounds like
+chasing.
+
+1. **The guide page itself.** `tools/check_outreach.py` already reads each guide and records `links_to_us` (does the
+   page link to findgreatarchitecture.com). About two weeks after a "yes", put just those schools in a candidates file on
+   an `claude/outreach-*` branch and push: `outreach-check.yml` runs on GitHub (no Claude time) and the result shows
+   true or false. Mark the school in `sent.md` ("listed, seen <date>").
+2. **Visits.** A live link sends students. GoatCounter's referrers (`latest.json` on `analytics-data`, and the Visitors
+   dashboard) show visits from `libguides.*`, `guides.*`, `*.edu`, `*.ac.uk` addresses: proof the link is up and used.
+3. **Google.** Search Console → Links → "Top linking sites" lists the university domains once Google has seen the link
+   (takes a few weeks).
+4. **If it isn't there after about three weeks:** one short, friendly note in the same thread ("just checking you have
+   what you need; happy to send a line of description for the guide"), never a second.
