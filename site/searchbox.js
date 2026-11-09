@@ -72,8 +72,22 @@
       html += s.total
         ? opt(`<span class="qtext"><b>See all ${s.total.toLocaleString('en')} ${s.total === 1 ? 'building' : 'buildings'}</b></span>${ARROW}`, 'all', { cls: 'qall' })
         : `<p class="qnone">Nothing for “${esc(v)}” yet.</p>` + head('Try') + `<div class="qchips">${TRY.slice(0, 6).map(x => chip(x, GLASS)).join('')}</div>`;
+      if (!s.total) countNone(v);
     }
     box.innerHTML = html;
+  }
+  // A search that finds nothing tells us what students want and the wall lacks: counted once a visit, words only
+  // (letters and digits, at most 40), never anything else typed. Privacy page: "What we count".
+  const none = new Set();
+  let noneTimer;
+  function countNone(v) {
+    clearTimeout(noneTimer);
+    noneTimer = setTimeout(() => {
+      const words = v.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '').slice(0, 40);
+      if (words.length < 3 || none.has(words) || input.value.trim() !== v) return;
+      none.add(words);
+      if (window.fgaEvent) window.fgaEvent('search/none/' + words, 'Search with no results');
+    }, 2500);
   }
 
   function place() {

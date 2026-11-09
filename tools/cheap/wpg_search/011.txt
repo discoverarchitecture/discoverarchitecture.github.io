@@ -1,0 +1,3 @@
+https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Royal+Canadian+Mint+Winnipeg&language=en&limit=7&format=json
+
+{"searchinfo":{"search":"Royal Canadian Mint Winnipeg"},"search":[],"success":1}

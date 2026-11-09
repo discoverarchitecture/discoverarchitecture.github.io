@@ -4,7 +4,7 @@
 
 Each guide is a Markdown file in tools/studio_guides/<slug>.md, written by hand. Edit the .md, then rerun this; never edit
 the HTML. The file starts with a few `key: value` lines (slug, title, seo_title, description, kicker, published, related),
-then a line `---`, then the article:
+(add `updated: YYYY-MM-DD` when a guide changes a lot), then a line `---`, then the article:
 
     The first paragraph is the short answer, shown large under the title.
     ## A section            -> <h2>
@@ -27,6 +27,10 @@ in-text links ?ref=guides-text) so GoatCounter can tell them apart.
 
 The pages share the Studio look (../app.css, the same tokens as the legal pages from tools/build_studio.py) plus
 guides.css for the article parts. Rerun this after app.css or guides.css changes so the ?v= stamps follow them.
+
+It also puts every guide, with its date as <lastmod>, into site/sitemap.xml and rewrites the "## Studio FGA guides"
+list in site/llms.txt, so a new guide is findable as soon as it is merged (the deploy then tells Bing through IndexNow).
+Before writing a new guide, read tools/studio_guides/CHECKLIST.md.
 """
 import hashlib
 import html
@@ -56,9 +60,10 @@ FONTS = ("https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght
          "9..40,600;9..40,700&family=JetBrains+Mono:wght@500;600&display=swap")
 FOOTLINE = ("Studio FGA is run by Akshat Pagaria · 302, Shantinath Residency, Beawar, Rajasthan, India · hello@findgreatarchitecture.com · "
             "Payments handled by Dodo Payments, our merchant of record")
+GROUPS = ("Boards", "Drawings", "Juries", "Decks", "Portfolios", "Tools")
 INDEX_TITLE = "Guides for Architecture Students: Boards, Juries and Decks"
-INDEX_DESC = ("Practical guides for architecture students from an architect: A1 board layouts, plans and sections, "
-              "jury tips, jury decks, portfolios and AI tools.")
+INDEX_DESC = ("Practical guides for architecture students from an architect: A1 board layouts, templates, sheet sizes, "
+              "diagrams, site analysis, juries, decks and AI tools.")
 
 
 def esc(s):
@@ -200,7 +205,7 @@ def plain(s):
 def load():
     guides = []
     for name in sorted(os.listdir(SRC)):
-        if not name.endswith(".md"):
+        if not name.endswith(".md") or name[:-3].isupper():  # CHECKLIST.md and other notes in capitals are not guides
             continue
         raw = open(os.path.join(SRC, name), encoding="utf-8").read()
         head, body = raw.split("\n---\n", 1)
@@ -306,11 +311,63 @@ def date_text(iso):
     return f"{int(d)} {months[int(m) - 1]} {y}"
 
 
+def own_images(g):
+    """Absolute addresses of the guide's own pictures (up to three), for the Article data, so image search can show them."""
+    srcs = [src for kind, val in g["body"] if kind == "fig" for _, src in val["pics"]]
+    return ["https://findgreatarchitecture.com" + s for s in dict.fromkeys(srcs)][:3]
+
+
+def lastmod(g):
+    return g.get("updated", g["published"])
+
+
+def sitemap_entries(guides=None):
+    """[(address, lastmod)] for the guides index and every guide; build_pages.py writes the same lines into sitemap.xml."""
+    guides = guides if guides is not None else load()
+    if not guides:
+        return []
+    return ([(SITE + "guides/", max(lastmod(g) for g in guides))] +
+            [(f"{SITE}guides/{g['slug']}/", lastmod(g)) for g in sorted(guides, key=lambda g: g["slug"])])
+
+
+def sitemap_line(url, mod=None):
+    """One <url> line of sitemap.xml, the same in build_pages.py and here."""
+    return f"  <url><loc>{url}</loc><lastmod>{mod}</lastmod></url>\n" if mod else f"  <url><loc>{url}</loc></url>\n"
+
+
+def update_sitemap(guides):
+    """Puts every guide into site/sitemap.xml (with its date), so a new guide needs no full build_pages.py run."""
+    p = os.path.join(SITE_DIR, "sitemap.xml")
+    if not os.path.exists(p):
+        return
+    s = open(p, encoding="utf-8").read()
+    lines = "".join(sitemap_line(u, m) for u, m in sitemap_entries(guides))
+    pat = re.compile(r"(?:  <url><loc>" + re.escape(SITE) + r"guides/[^<]*</loc>(?:<lastmod>[^<]*</lastmod>)?</url>\n)+")
+    s = pat.sub(lambda m: lines, s, count=1) if pat.search(s) else s.replace("</urlset>", lines + "</urlset>")
+    open(p, "w", encoding="utf-8").write(s)
+
+
+def update_llms(guides):
+    """Rewrites the "## Studio FGA guides" part of site/llms.txt (the summary AI assistants read) from the guides."""
+    p = os.path.join(SITE_DIR, "llms.txt")
+    if not os.path.exists(p):
+        return
+    s = open(p, encoding="utf-8").read()
+    part = ("## Studio FGA guides\n\nPractical guides for architecture students, written by an architect (CEPT University):\n\n" +
+            "".join(f"- [{g['title']}]({SITE}guides/{g['slug']}/): {g['description']}\n" for g in guides) + "\n")
+    pat = re.compile(r"## Studio FGA guides\n.*?(?=^## |\Z)", re.S | re.M)
+    if pat.search(s):
+        s = pat.sub(lambda m: part, s, count=1)
+    else:
+        s = s.replace("## Browse buildings", part + "## Browse buildings", 1)
+    open(p, "w", encoding="utf-8").write(s)
+
+
 def guide_page(g, by_slug):
     slugs, up = set(by_slug), "../../"
     url = f"{SITE}guides/{g['slug']}/"
     ld = [{"@context": "https://schema.org", "@type": "Article", "headline": g["title"], "description": g["description"],
-           "image": OG_IMAGE, "url": url, "mainEntityOfPage": url, "datePublished": g["published"],
+           "image": own_images(g) + [OG_IMAGE], "url": url, "mainEntityOfPage": url, "datePublished": g["published"],
            "dateModified": g.get("updated", g["published"]), "author": AUTHOR, "publisher": PUBLISHER, "inLanguage": "en"},
           {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [
               {"@type": "ListItem", "position": 1, "name": "Studio FGA", "item": SITE},
@@ -320,7 +377,8 @@ def guide_page(g, by_slug):
         ld.append({"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
             {"@type": "Question", "name": plain(f["q"]), "acceptedAnswer": {"@type": "Answer", "text": plain(" ".join(f["a"]))}}
             for f in g["faq"]]})
-    title = g["seo_title"] + " · Studio FGA" if len(g["seo_title"]) <= 52 else g["seo_title"]
+    # The brand only when the whole title still fits Google's ~60 characters; otherwise the search words matter more.
+    title = g["seo_title"] + " · Studio FGA" if len(g["seo_title"]) <= 47 else g["seo_title"]
     faq = ""
     if g["faq"]:
         faq = ('<section class="gfaq" aria-labelledby="faq"><h2 id="faq">Questions students ask</h2>' +
@@ -333,7 +391,9 @@ def guide_page(g, by_slug):
             f'<main class="land"><article class="wrap narrow gpage"><a class="link" href="../">← All guides</a>'
             f'<p class="kicker">Guide · {esc(g["kicker"])}</p><h1 class="big">{esc(g["title"])}</h1>'
             f'<p class="lede">{inline(g["lede"], slugs, "../")}</p>'
-            f'<p class="byline">By Akshat Pagaria, architect · <time datetime="{g["published"]}">{date_text(g["published"])}</time></p>\n'
+            f'<p class="byline">By Akshat Pagaria, architect · <time datetime="{g["published"]}">{date_text(g["published"])}</time>'
+            + (f' · updated <time datetime="{g["updated"]}">{date_text(g["updated"])}</time>' if g.get("updated", g["published"]) != g["published"] else "")
+            + '</p>\n'
             f'{cta_card("top", g["slug"])}'
             f'{render(g["body"], slugs, "../")}\n{faq}'
             f'{cta_card("end", g["slug"])}'
@@ -348,8 +408,11 @@ def index_page(guides):
           {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [
               {"@type": "ListItem", "position": 1, "name": "Studio FGA", "item": SITE},
               {"@type": "ListItem", "position": 2, "name": "Guides", "item": url}]}]
-    cards = "".join(f'<li class="card"><p class="kicker">{esc(g["kicker"])}</p><h2><a href="{g["slug"]}/">{esc(g["title"])}</a></h2>'
-                    f'<p>{esc(g["description"])}</p></li>' for g in guides)
+    # Grouped by topic (the guide's kicker), in this order; a topic not listed here goes at the end.
+    topics = [t for t in GROUPS if any(g["kicker"] == t for g in guides)] + sorted({g["kicker"] for g in guides} - set(GROUPS))
+    cards = "".join(f'<section class="ggroup" aria-labelledby="t-{t.lower()}"><h2 id="t-{t.lower()}">{esc(t)}</h2><ul class="glist">' +
+                    "".join(f'<li class="card"><h3><a href="{g["slug"]}/">{esc(g["title"])}</a></h3><p>{esc(g["description"])}</p></li>'
+                            for g in guides if g["kicker"] == t) + '</ul></section>' for t in topics)
     return (head("Guides for Architecture Students · Studio FGA", INDEX_DESC, url, up, "website", ld, "guides.css") +
             '<body data-screen="guides">\n<!-- Made by tools/build_guides.py from tools/studio_guides/*.md. Edit those, not this file. -->\n' +
             topbar(up) +
@@ -358,7 +421,7 @@ def index_page(guides):
             f'<p class="lede">Plain, practical advice on presentation boards, plans and sections, jury presentations and decks, '
             f'written by an architect. Each one works whether or not you ever use Studio FGA.</p>\n'
             f'{cta_card("top", "index")}'
-            f'<ul class="glist">{cards}</ul>\n'
+            f'{cards}\n'
             f'<p>For the whole process from idea to plot, with a real student board before and after, read '
             f'<a href="/guides/a1-presentation-board/">How to make an A1 architecture presentation board</a> on Find Great Architecture.</p>\n'
             f'{cta_card("end", "index")}</div>\n' +
@@ -399,6 +462,9 @@ def main():
     written.append(p)
     print("wrote", os.path.relpath(p, ROOT))
     stamp(written)
+    update_sitemap(guides)
+    update_llms(guides)
+    print("updated site/sitemap.xml and site/llms.txt")
 
 
 if __name__ == "__main__":

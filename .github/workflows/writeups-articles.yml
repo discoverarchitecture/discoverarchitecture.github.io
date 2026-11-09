@@ -1,0 +1,23 @@
+# Fetches Wikipedia articles for building write-ups (tools/writeups/BRIEF.md) on GitHub's servers, because the cloud
+# chats' shared connection is rate-limited by Wikipedia. Runs when tools/writeups/articles_request.txt changes on a
+# claude/writeups-* branch; its first line is the todo number. Commits tools/writeups/articles_<n>/ back.
+name: Write-up articles
+on:
+  push:
+    branches: ['claude/writeups-*']
+    paths: ['tools/writeups/articles_request.txt']
+permissions:
+  contents: write
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch articles
+        run: python3 -u tools/writeups/fetch_articles.py "$(head -1 tools/writeups/articles_request.txt)"
+      - name: Commit
+        run: |
+          git add tools/writeups/articles_*
+          git -c user.name="github-actions[bot]" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" commit -q -m "Write-up articles fetched on GitHub's servers" || exit 0
+          git push

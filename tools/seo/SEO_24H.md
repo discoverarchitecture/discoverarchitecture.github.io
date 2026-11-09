@@ -1,0 +1,138 @@
+# Studio FGA: 24-hour SEO push (7 Nov 2026 02:45 IST → **8 Nov 2026 16:45 IST**)
+
+End moved from 02:45 to 16:45 IST on 8 Nov (MAIN chat, 7 Nov 17:15 IST) to make up the ~14 hours lost to the Mac sleeping.
+
+Brief from the FGA Studio MAIN chat. If this chat restarts, read this file first and carry on from **Next**.
+Rules: PRs only, never merge or deploy without the owner's OK; don't touch `site/studio/app.js`, `app.css`,
+`index.html` (the build chat owns them); no posting, sign-ups or paid APIs; Google-safe only.
+
+Target searches: architecture jury presentation ideas · architecture presentation generator · AI architecture
+presentation · architecture jury presentation · A1 sheet layout architecture · architecture board layout ·
+architecture presentation board.
+
+
+## Final report (9 Nov 2026, 20:50 IST): ready, not yet live
+
+**Status:** nothing from this run is live. #176, #170 and #172 are open and ready to merge (no conflicts). The owner
+approved "Merge all, after de-duplicating", but this session's permission check refused the merge twice ("merge
+without review"), so the owner merges.
+
+**What the owner does next**
+1. On GitHub, "Squash and merge" in this order: [#176](https://github.com/discoverarchitecture/discoverarchitecture.github.io/pull/176)
+   (off-site ideas, one file) → [#170](https://github.com/discoverarchitecture/discoverarchitecture.github.io/pull/170)
+   (sitemap dates, llms.txt, guide links) → [#172](https://github.com/discoverarchitecture/discoverarchitecture.github.io/pull/172)
+   (guides, de-duplication). If main moves first and a PR conflicts, see "If main moves again" below.
+2. Watch "Deploy site" in Actions; re-run it if it fails. The deploy pings Bing (IndexNow) on its own.
+3. Check live: `/studio/guides/` (grouped by topic), the new guides, `/guides/jury-presentation/` and `/guides/jury-deck/`
+   redirecting to the Studio jury guides, `/sitemap.xml` (guides with dates), `/llms.txt` (Studio guides listed).
+4. Search Console › URL inspection › Request indexing for `/studio/guides/` and the new guides, a few a day.
+5. Consider "resume the Search Console fetch" so the next SEO round has real queries (data stops at 2 Nov).
+
+**Ready in #172 (live once merged)**
+- Seven new guides: jury presentation ideas · sheet sizes (A1, A0, 24 × 36) · concept diagram ideas · presenting site
+  analysis · board templates · what jurors look for · photographing models. Plus "How to judge an AI architecture
+  presentation generator" in the AI tools guide.
+- De-duplicated: `/guides/jury-presentation/` folded into `/studio/guides/architecture-jury-presentation-tips/`, and
+  `/guides/jury-deck/` into `/studio/guides/architecture-jury-presentation-slides/` (best content merged in; old
+  addresses redirect with meta refresh + canonical; out of the sitemap and llms.txt). `/guides/precedent-study/` stays.
+- Index grouped by topic; titles ≤ 60 characters; six unsupported generalisations softened; checklist for the next
+  guide (`tools/studio_guides/CHECKLIST.md`).
+
+**Ready in #170:** sitemap `<lastmod>` for every guide (combined with another chat's dates for building pages);
+`llms.txt` lists the Studio guides; FGA and Studio guides link to each other; `build_guides.py` updates sitemap and
+llms.txt itself.
+
+**Off-site ideas in #176** (`tools/seo/OFFSITE_IDEAS.md`, drafts only, nothing posted): Pinterest pins of the sample
+boards; free AI-tool directories with one shared copy; roundup articles to ask, with a draft email (links behind words);
+a Product Hunt launch plan; Reddit and Quora draft answers that disclose the link is ours; a weekly check of whether
+ChatGPT, Perplexity and Copilot mention Studio FGA.
+
+**For the build chat (`/studio/` files I may not edit):** title is 75 characters (cut to ≤ 60); add a link to
+`/studio/guides/` in its `<noscript>`; load fewer font families on the landing.
+
+## Audit (7 Nov, from 02:45 IST)
+
+What is already good:
+- `/studio/`: canonical, description (131 chars), one H1 that says what it is, SoftwareApplication with two Offers,
+  FAQPage, VideoObject, BreadcrumbList, Organization; the walkthrough video is `preload="none"` with a poster, so its
+  16 MB never blocks the page; the whole offer is in `<noscript>` for AI crawlers. In the sitemap.
+- Guides (8, 1,100–1,380 words each): titles ≤ 60, descriptions, canonicals, Article + BreadcrumbList + FAQPage,
+  CTA card, closing box, sticky bar, related links. In the sitemap. Images lazy with width and height (no layout shift).
+- `robots.txt` welcomes every crawler and names the AI ones. IndexNow already runs after every deploy
+  (`tools/indexnow.py` in `pages.yml`), so Bing / ChatGPT search / Copilot hear about changed pages within minutes.
+- `/pricing/`: title and description match the offer (Polish $11, Transform $16).
+
+Gaps found:
+1. `llms.txt` lists only the one FGA guide, none of the 8 Studio guides (AI assistants read this file). → PR A
+2. `sitemap.xml` has no `<lastmod>` anywhere, so search engines can't tell which guides are new. → PR A
+3. A new guide only reaches the sitemap after a full `build_pages.py` run (slow, owner's Mac only). → PR A
+   (`build_guides.py` now updates the sitemap and llms.txt itself)
+4. The FGA guide `/guides/a1-presentation-board/` and `/guides/` don't link to the Studio guides. → PR A
+5. Guide Article data uses the generic share image only; their own pictures would help image search. → PR A
+6. **For the build chat (files I must not edit):**
+   - `/studio/` `<title>` is 75 characters; Google cuts at ~60, so "Jury-Ready Boards" is lost. Suggest
+     `AI Architecture Presentation Generator for A1 Boards · Studio FGA` (60) or
+     `AI Architecture Presentation Generator: Board + Jury Deck` (57).
+   - `/studio/` `<noscript>` links the FGA guide but not `/studio/guides/`; add one line:
+     `<p>More guides: <a href="guides/">boards, juries, jury decks and AI tools for architecture students</a>.</p>`
+   - `/studio/` loads 9 Google font families in one render-blocking stylesheet; the landing uses ~3 above the fold.
+     Trimming the families used only inside the editor would help phone load (LCP).
+   - SoftwareApplication could add `"featureList"` (A1 board, 10–15 slide jury deck, PDF, PowerPoint, InDesign export,
+     free preview) and `"screenshot": "https://findgreatarchitecture.com/studio/preview-shot.webp"`.
+
+## Done
+
+- 02:49 IST · PR A [#170](https://github.com/discoverarchitecture/discoverarchitecture.github.io/pull/170): sitemap
+  lastmod, llms.txt guide list, guide sets cross-linked, guide image data; build_guides.py now updates sitemap + llms.txt.
+- 02:53 IST · Guides batch 1 [#172](https://github.com/discoverarchitecture/discoverarchitecture.github.io/pull/172)
+  (branch `seo/guides-batch-1`, built on #170): `architecture-jury-presentation-ideas`,
+  `architecture-sheet-sizes-a1-a0-24x36`.
+- 02:54 IST · Added to #172: `architecture-concept-diagram-ideas`.
+- Mac asleep about 03:00–08:45 and again about 08:50–17:05 IST; run paused both times.
+- 17:07 IST · Added to #172: `how-to-present-site-analysis`, `tools/studio_guides/CHECKLIST.md` (the builder skips it).
+- 17:08 IST · Added to #172: `architecture-presentation-board-templates`.
+- 17:09 IST · Added to #172: the AI tools roundup gains "How to judge an AI architecture presentation generator" (a seven-question checklist, Studio FGA's own answers beside it) and an FAQ; `updated: 2026-11-07`.
+- 17:11 IST · Off-site ideas PR [#176](https://github.com/discoverarchitecture/discoverarchitecture.github.io/pull/176) (branch `seo/offsite-ideas`, from main): `tools/seo/OFFSITE_IDEAS.md`, drafts only.
+- 17:58 IST · Added to #172: `what-architecture-jurors-look-for` (a juror's ten questions, each with a self-check). Thesis structure dropped: the slides guide already has a thesis section, so a new page would be a near-copy.
+- 17:58 IST · Added to #172: guides index description names the new topics; updated guides show "updated <date>" in the byline.
+- 18:51 IST · Added to #172: `how-to-photograph-architecture-models`; guide titles now stay ≤ 60 characters (four were 62–65).
+- 19:55 IST · Link check: every internal link and image in the guides resolves. Search Console data on `analytics-data` ends 2 Nov (the scheduled fetch is paused, CLAUDE.md), so there are no guide queries to learn from yet. **Owner:** once the guides are live, consider "resume the Search Console fetch" so the next SEO round has real queries. An independent fact-check of the new guides is running.
+- Mac asleep again about 19:55–21:14 and 21:46–23:20 IST; the independent fact-check died both times, so I did it myself.
+- 23:52 IST · Fact pass on the new guides: sizes, arithmetic, menu paths and tool names checked; six unsupported generalisations softened ("most schools…" → "many").
+- 02:07 IST · Added to #172: the guides index is grouped by topic with headings.
+- 03:03 IST · #170 and #172 conflicted with main after the overnight write-up merges; merged main into both and rebuilt the
+  generated files (sitemap, llms.txt, guide indexes). Main now has three new FGA guides (`/guides/jury-deck/`,
+  `/guides/jury-presentation/`, `/guides/precedent-study/`); they get sitemap dates and the "More guides" links too.
+- **Overlap to decide (owner):** `/guides/jury-presentation/` and `/studio/guides/architecture-jury-presentation-tips/`
+  answer the same question, as do `/guides/jury-deck/` and `/studio/guides/architecture-jury-presentation-slides/`.
+  Two pages on one search split Google's attention. Options: (a) keep both and link each pair to each other with a
+  line saying how they differ; (b) merge each pair into one page and redirect the other; (c) leave as is.
+- 04:03 IST · Main gained #188 (another chat: sitemap dates for the 1,771 building pages with write-ups) and #189.
+  Merged into #170 and #172; `build_pages.py` now writes both kinds of date (write-up date for buildings, published or
+  updated date for guides). The sitemap has 1,792 dated pages on #172.
+- **If main moves again:** merge `origin/main` into `seo/24h-audit`, then `seo/24h-audit` into `seo/guides-batch-1`.
+  For conflicts in generated files, take main's copy, then rerun `python3 tools/build_guides.py` (and, for
+  `site/guides/`, `guide_pages.build()` with build_pages' fingerprints) so our additions return.
+- 8 Nov · Owner approved via MAIN chat: "Merge all, after de-duplicating". De-duplicated in #172 (commit ed6822a):
+  `/guides/jury-presentation/` → `/studio/guides/architecture-jury-presentation-tips/`, `/guides/jury-deck/` →
+  `/studio/guides/architecture-jury-presentation-slides/` (best content folded in, old addresses redirect).
+- 12:45 IST · Merge attempt refused by this session's permission check ("merge without review"). PRs left ready:
+  merge #176, then #170, then #172 (squash each). The owner merges, or allows merges for this session.
+- 9 Nov 20:47 IST · Owner said "Try again"; the merge was refused again by this session's permission check. Run
+  closed (end time 8 Nov 16:45 passed). Final state: #176, #170, #172 open and mergeable, waiting for the owner.
+
+
+## Next
+
+1. New guides, added to batch PRs (each guide's own commit), in this order (search → guide):
+   - (skipped: "how to make a presentation board step by step" would near-duplicate `/guides/a1-presentation-board/`
+     and `how-to-lay-out-an-a1-architecture-board`; strengthen those instead)
+   - (list done; further ideas only if clearly distinct: "architecture portfolio layout" is covered by the portfolio
+     guide; "architecture model photography" and "how to render for a jury" are candidates)
+2. Candidate guides, only if clearly distinct and useful: "how to render for a jury" (overlaps the AI roundup and
+   plans guide: probably a section, not a page); "architecture presentation colour palette". Otherwise stop adding
+   and polish: read each new guide once more for facts and tone.
+3. Deferred, with reasons: a site-wide footer link to `/studio/guides/` needs a full `build_pages.py` run that rewrites
+   every page and would collide with the other open PRs; the A1 guide (already in every footer) now links the Studio
+   guides instead (#170). `/pricing/` structured data: skipped, low value (prices already in /studio/'s data).
+4. After the owner merges: check the live pages, sitemap and llms.txt; re-run the IndexNow job if the deploy failed.

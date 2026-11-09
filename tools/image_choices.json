@@ -35023,5 +35023,95 @@
   "add": [
    "File:Vennesla Kirke.jpg"
   ]
+ },
+ "canadian-museum-for-human-rights": {
+  "category": "Category:Canadian Museum for Human Rights",
+  "add": [
+   "File:Canadian Museum for Human Rights, Winnipeg, Manitoba (42164424510).jpg",
+   "File:Canadian Museum for Human Rights, Winnipeg, Manitoba (29035323837).jpg",
+   "File:Canadian Museum for Human Rights (Winnipeg, MB).jpg",
+   "File:Canadian Museum for Human Rights at night, Winnipeg, Manitoba, Canada.jpg"
+  ],
+  "skip": [
+   "File:Esplanade Riel.jpg",
+   "File:Canadian Museum for Human Rights and downtown Winnipeg skyline at night, Manitoba, Canada.jpg"
+  ]
+ },
+ "winnipeg-art-gallery": {
+  "category": "Category:Winnipeg Art Gallery",
+  "add": []
+ },
+ "manitoba-legislative-building": {
+  "category": "Category:Manitoba Legislative Building",
+  "add": [
+   "File:Manitoba Legislative building exterior (J).jpg",
+   "File:Parliamentwinnipeg manitoba.jpg",
+   "File:Manitoba Legislative Building, Winnipeg, Canada (35918422850).jpg",
+   "File:Manitoba Legislative Building, Winnipeg (25069380388).jpg"
+  ],
+  "skip": [
+   "File:Queen Memorial Book Winnipeg.jpg"
+  ]
+ },
+ "esplanade-riel": {
+  "category": "Category:Esplanade Riel",
+  "add": [
+   "File:Winnipeg (51552911922).jpg",
+   "File:Esplanade Riel Bridge at dusk, Winnipeg, Canada.jpg",
+   "File:Esplanade Riel Pedestrian Bridge and Winnipeg Skyline (35477287654).jpg"
+  ]
+ },
+ "precious-blood-church-winnipeg": {
+  "category": "Category:Precious Blood Roman Catholic Church (Winnipeg)",
+  "add": [
+   "File:Precious Blood Church (Gaboury).jpg"
+  ]
+ },
+ "union-bank-building-winnipeg": {
+  "category": "Category:Union Bank Building (Winnipeg)",
+  "add": [
+   "File:Union Bank Tower, Winnipeg Manitoba 01.JPG",
+   "File:Union Bank Building.jpg",
+   "File:Detail of Union Bank Building.JPG"
+  ],
+  "skip": [
+   "File:Old Market Square winter.jpg",
+   "File:Winnipeg, Volunteer Monument with Centennial Concert Hall and Union Bank Building (7331070542).jpg"
+  ]
+ },
+ "centennial-concert-hall": {
+  "category": "Category:Centennial Concert Hall",
+  "add": [
+   "File:Centennial Concert Hall, Winnipeg Manitoba 01.JPG",
+   "File:Centennial Concert Hall, Winnipeg Manitoba 02.JPG",
+   "File:Winnipeg (6408567445).jpg"
+  ],
+  "skip": [
+   "File:Untitled Greta Dale 1967 Manitoba Centennial Concert Hall.JPG"
+  ]
+ },
+ "winnipeg-airport-terminal": {
+  "category": "Category:Winnipeg James Armstrong Richardson International Airport",
+  "add": [
+   "File:Winnipeg James Armstrong Richardson International Airport, Winnipeg (502459) (16594984991).jpg"
+  ],
+  "skip": [
+   "File:Winnipeg Richardson International Airport.jpg",
+   "File:CYWG control tower.jpg",
+   "File:Winnipeg James Armstrong Richardson International Airport, Winnipeg, Manitoba (43973508801).jpg",
+   "File:Winnipeg International Airport, Manitoba (450174) (9446748238).jpg",
+   "File:Tim Hortons Express.jpg",
+   "File:Greater Winnipeg Tentative Airport Plan (1946) (3209448195).jpg"
+  ]
+ },
+ "winnipeg-city-hall": {
+  "category": "Category:Winnipeg City Hall",
+  "add": [
+   "File:Winnipeg's City Hall building.JPG"
+  ],
+  "skip": [
+   "File:Souvenir of Winnipeg (1889) (3720322913).jpg",
+   "File:Union Bank and City Hall Winnipeg.jpg"
+  ]
  }
 }

@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://en.wikipedia.org/w/api.php?action=query&generator=search&gsrsearch=%22Winnipeg+Building+Index%22&gsrlimit=30&prop=extlinks&ellimit=max&format=json&formatversion=2"
+ },
+ {
+  "url": "https://en.wikipedia.org/w/api.php?action=query&list=search&srsearch=Qaumajuq+Inuit+art+centre+Maltzan&srlimit=5&format=json&formatversion=2"
+ },
+ {
+  "url": "https://en.wikipedia.org/w/api.php?action=query&list=search&srsearch=Royal+Canadian+Mint+Winnipeg+facility+Gaboury&srlimit=5&format=json&formatversion=2"
+ },
+ {
+  "url": "https://en.wikipedia.org/w/api.php?action=query&list=search&srsearch=Union+Bank+Tower+Winnipeg+Main+Street+1904&srlimit=5&format=json&formatversion=2"
+ },
+ {
+  "url": "https://en.wikipedia.org/w/api.php?action=query&list=search&srsearch=Winnipeg+City+Hall+1964+Green+Blankstein+Russell+civic+centre&srlimit=5&format=json&formatversion=2"
+ },
+ {
+  "url": "https://en.wikipedia.org/w/api.php?action=query&list=search&srsearch=The+Leaf+Assiniboine+Park+conservatory+Diamond+Schmitt&srlimit=5&format=json&formatversion=2"
+ },
+ {
+  "url": "https://en.wikipedia.org/w/api.php?action=query&list=search&srsearch=John+A.+Russell+Building+University+of+Manitoba+architecture&srlimit=5&format=json&formatversion=2"
+ },
+ {
+  "url": "https://en.wikipedia.org/w/api.php?action=query&list=search&srsearch=Winnipeg+airport+terminal+Pelli+2011&srlimit=5&format=json&formatversion=2"
+ },
+ {
+  "url": "https://en.wikipedia.org/w/api.php?action=query&list=search&srsearch=Canadian+Museum+for+Human+Rights+Antoine+Predock&srlimit=5&format=json&formatversion=2"
+ },
+ {
+  "url": "https://en.wikipedia.org/w/api.php?action=query&list=search&srsearch=Centennial+Concert+Hall+Winnipeg+architect&srlimit=5&format=json&formatversion=2"
+ },
+ {
+  "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Qaumajuq&language=en&limit=7&format=json"
+ },
+ {
+  "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Royal+Canadian+Mint+Winnipeg&language=en&limit=7&format=json"
+ },
+ {
+  "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Union+Bank+Tower&language=en&limit=7&format=json"
+ },
+ {
+  "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Winnipeg+City+Hall&language=en&limit=7&format=json"
+ },
+ {
+  "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=The+Leaf&language=en&limit=7&format=json"
+ },
+ {
+  "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=John+A.+Russell+Building&language=en&limit=7&format=json"
+ }
+]

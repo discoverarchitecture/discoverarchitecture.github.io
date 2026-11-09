@@ -21,6 +21,19 @@ def load():
     return [json.loads(f.read_text()) for f in sorted(SRC.glob('*.json'))]
 
 
+def studio_guides():
+    """Studio FGA's guides (tools/build_guides.py), so the two sets of guides link to each other."""
+    import build_guides
+    return build_guides.load()
+
+
+def more_guides(up, n=None):
+    """A list of Studio FGA's guides; `up` leads from the page to the site root."""
+    gs = studio_guides()[:n] if n else studio_guides()
+    return ''.join(f'<li><a href="{up}studio/guides/{g["slug"]}/"><b>{bp.e(g["title"])}</b><span>{bp.e(g["description"])}</span></a></li>'
+                   for g in gs)
+
+
 def images(g):
     """Copies the before/after pictures next to the page, so the guide doesn't break when the Studio sample changes."""
     ba, folder = g.get('before_after'), OUT / g['slug'] / 'img'
@@ -76,7 +89,9 @@ def page(g):
             f'<p class="kicker">{e(g["kicker"])}</p><h1>{e(g["title"])}</h1>'
             f'<p class="byline">By {e(g["author"])} · {e(g["author_note"])}</p>'
             f'<div class="answer"><p class="label">The short answer</p><p>{e(g["answer"])}</p></div>'
-            f'{steps}{pics}{cta}{faq}</article></main>\n')
+            f'{steps}{pics}{cta}{faq}'
+            f'<section class="more"><h2>More guides</h2><ul class="guide-list">{more_guides(up, 4)}</ul>'
+            f'<p><a href="{up}studio/guides/">All guides for architecture students →</a></p></section></article></main>\n')
     return head + body + bp.FOOT.format(up=up)
 
 
@@ -87,18 +102,34 @@ def index(guides):
                           url=bp.BASE + 'guides/', site=bp.NAME, ogtype='website', ogtitle='Guides for architecture students',
                           image=bp.BASE + 'og.jpg', up=up, wallhash='',
                           extra=f'<link rel="stylesheet" href="{up}guide.css?v={bp.fingerprint(bp.SITE / "guide.css")}">', total=bp.TOTAL, css_v=bp.CSS_V)
-    return head + f'<main class="guide"><h1>Guides</h1><ul class="guide-list">{items}</ul></main>\n' + bp.FOOT.format(up=up)
+    return head + (f'<main class="guide"><h1>Guides</h1><ul class="guide-list">{items}{more_guides(up)}</ul></main>\n') + bp.FOOT.format(up=up)
+
+
+def moved(g):
+    """A guide folded into another page (owner, 8 Nov 2026: one page per search question). Its address stays alive as a
+    redirect: GitHub Pages has no server redirects, so a meta refresh plus a canonical, which Google treats as a move."""
+    to, e = g['moved_to'], bp.e
+    url = 'https://findgreatarchitecture.com' + to
+    return ('<!doctype html>\n<html lang="en">\n<head>\n<meta charset="utf-8">\n'
+            '<meta name="viewport" content="width=device-width, initial-scale=1">\n'
+            f'<title>{e(g["title"])} · moved</title>\n<link rel="canonical" href="{e(url)}">\n'
+            f'<meta http-equiv="refresh" content="0; url={e(to)}">\n<script src="../../analytics.js"></script>\n'
+            '<style>body{margin:0;min-height:100vh;display:grid;place-items:center;font:16px/1.4 system-ui,sans-serif;color:#111;background:#fff}a{color:#111}</style>\n'
+            f'</head>\n<body>\n<p>This guide has moved to <a href="{e(to)}">{e(url)}</a>.</p>\n'
+            f'<script>location.replace({json.dumps(to)});</script>\n</body>\n</html>\n')
 
 
 def build(mod=None):
-    """Called by build_pages.main() with its own module, so the pages share its fingerprints and footer."""
+    """Called by build_pages.main() with its own module, so the pages share its fingerprints and footer.
+    Returns the live guides only (a guide with "moved_to" becomes a redirect and leaves the index and the sitemap)."""
     global bp
     if mod is not None:
         bp = mod
-    guides = load()
-    for g in guides:
+    every = load()
+    guides = [g for g in every if not g.get('moved_to')]
+    for g in every:
         (OUT / g['slug']).mkdir(parents=True, exist_ok=True)
-        (OUT / g['slug'] / 'index.html').write_text(page(g))
+        (OUT / g['slug'] / 'index.html').write_text(moved(g) if g.get('moved_to') else page(g))
     (OUT / 'index.html').write_text(index(guides))
     return guides
 
