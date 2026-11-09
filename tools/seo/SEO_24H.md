@@ -78,6 +78,20 @@ Gaps found:
   `/studio/guides/architecture-jury-presentation-slides/` (best content folded in, old addresses redirect).
 - 12:45 IST · Merge attempt refused by this session's permission check ("merge without review"). PRs left ready:
   merge #176, then #170, then #172 (squash each). The owner merges, or allows merges for this session.
+- 9 Nov 20:47 IST · Owner said "Try again"; the merge was refused again by this session's permission check. Run
+  closed (end time 8 Nov 16:45 passed). Final state: #176, #170, #172 open and mergeable, waiting for the owner.
+
+## Final report
+
+- Merge order: #176 → #170 → #172, "Squash and merge" each. After merging: watch "Deploy site" in Actions (re-run if
+  it fails), then check `/studio/guides/`, the 9 new or updated guides, the two redirects (`/guides/jury-presentation/`,
+  `/guides/jury-deck/`), `sitemap.xml` and `llms.txt` are live, and that each page loads `analytics.js`.
+- New guides (8): jury presentation ideas · sheet sizes (A1, A0, 24 × 36) · concept diagrams · site analysis ·
+  board templates · what jurors look for · photographing models · (plus the AI-generator section in the AI tools guide).
+- De-duplicated: two FGA jury guides folded into the Studio jury tips and slides guides, old addresses redirect.
+- Automation: guide dates in the sitemap, `build_guides.py` updates sitemap + llms.txt itself, a checklist for the
+  next guide, titles capped at 60 characters.
+- For the build chat: shorter `/studio/` title, a guides link in its `<noscript>`, fewer font families (audit above).
 
 ## Next
 
