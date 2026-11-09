@@ -282,7 +282,7 @@ GUIDE = '<p><a href="{up}guides/a1-presentation-board/">Guide: how to make an A1
 # researching a precedent. Edit the words here; building_page() places it after the page's content, before the foot.
 STUDIO_BANNER = {
     'heading': 'Jury coming up?',
-    'text': 'Studio FGA lays out your own drawings, renders and brief as an editable jury board + deck. Polish $11 · Transform $16. No subscription.',
+    'text': 'Studio FGA lays out your own drawings, renders and brief as an editable jury board + deck. Polish $6.49 · Transform $9.34. No subscription.',
     'link_text': 'Try Studio FGA →',
     'link': 'studio/?utm_source=site&utm_campaign=building_page',   # from the site root
 }

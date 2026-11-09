@@ -83,7 +83,7 @@ Changing the model itself is different. Adding people, trees, a sky or a context
 - A row of process models from the same angle makes a clear [massing-moves diagram](guide:architecture-concept-diagram-ideas).
 - Check resolution: a photograph that will fill a third of an A1 board should be at least about 2,500 pixels wide. [Sheet sizes and pixels](guide:architecture-sheet-sizes-a1-a0-24x36) explains the arithmetic.
 
-If your model photographs are scattered across old sheets and your phone, [Studio FGA](/studio/) can place them on an A1 board with your drawings and a matching jury deck, with a free preview. Check anything its AI re-lit or redrew against your model before you present.
+If your model photographs are scattered across old sheets and your phone, [Studio FGA](/studio/) can place them on an A1 board with your drawings and a matching jury deck, from $6.49. Check anything its AI re-lit or redrew against your model before you present.
 
 ## FAQ
 

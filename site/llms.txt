@@ -11,8 +11,8 @@ on every page. No sign-up and no paywall for the wall.
 
 - [Studio FGA](https://findgreatarchitecture.com/studio/): turns a student's own plans, sections, sketches and model photos into a jury-ready A1
   architecture presentation board and a matching 10–15 slide jury deck, editable, exported as PDF, PowerPoint and
-  InDesign. Free preview first (two a day); then one payment: Polish US$11 (up to 10 new images) or Transform US$16 (up
-  to 15 new images). No subscription. One free redo within 7 days; no refunds. Files are deleted after 30 days and never
+  InDesign. One payment: Polish US$6.49 (up to 10 new images) or Transform US$9.34 (up
+  to 15 new images). No subscription. Not jury-ready? One free redo, or your money back within 7 days. Files are deleted after 30 days and never
   used to train AI models.
 - [Pricing](https://findgreatarchitecture.com/pricing/)
 - [Terms](https://findgreatarchitecture.com/terms/), [Privacy](https://findgreatarchitecture.com/privacy/), [Refunds](https://findgreatarchitecture.com/refunds/), [Contact](https://findgreatarchitecture.com/contact/)

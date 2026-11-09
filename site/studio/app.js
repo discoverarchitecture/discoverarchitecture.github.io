@@ -1,6 +1,8 @@
 /* Studio FGA: the student's journey, screen by screen (findgreatarchitecture.com/studio).
-   upload -> questions (who, an optional email, the title block, how far AI goes, the concept) -> free preview
+   upload -> questions (who, an optional email, the title block, how far AI goes, the concept) -> [free preview]
    -> price -> Dodo checkout -> making -> result -> editor -> files -> rate.
+   The flow (config.js STUDIO_FLOW, owner 10 Nov 2026, studio D108): "paywall" goes from the last question straight to the
+   price (the server plans after payment, in the making step); "preview" keeps the free preview, every screen of it, as before.
    Every step talks to the Studio API (api.js; its address is in config.js). ?demo=1 runs the same screens offline
    on the sample project, as the approved prototype did, so the page works before the backend is live. */
 (function () {
@@ -8,6 +10,18 @@
   const F = window.FGA, X = window.FGAExport, SAMPLE = window.SAMPLE, API = window.StudioAPI, LAY = window.FGALayout;
   const app = document.getElementById('app');
   const DEMO = new URLSearchParams(location.search).get('demo') === '1';
+  /* the flow switch (config.js); ?flow=preview|paywall overrides it in the demo only, to walk both flows locally */
+  const FLOW = (() => { const q = DEMO && new URLSearchParams(location.search).get('flow'); const f = q || window.STUDIO_FLOW;
+    return f === 'preview' ? 'preview' : 'paywall'; })();
+  const PAYWALL = FLOW === 'paywall';
+  /* the prices (config.js), and "$6.49" as the page writes them */
+  const PRICE = Object.assign({ nice: 6.49, great: 9.34 }, window.STUDIO_PRICES || {});
+  const usd = (v) => '$' + (Math.round(v * 100) % 100 ? Number(v).toFixed(2) : String(Math.round(v)));
+  const FROM = usd(Math.min(PRICE.nice, PRICE.great));
+  const GUARANTEE = 'Not jury-ready? One free redo, or your money back within 7 days.';
+  const PAY_CTA = ['Start · from ' + FROM, 'Pay once · free redo or money back'];   // the landing's button in the paywall flow
+  /* the email step's wording (owner, 10 Nov 2026), kept on the job as email_terms so we know who agreed to what */
+  const EMAIL_TERMS = '2026-11-10-v2';
   /* Owner view (owner, 6 Nov 2026): #view=<job>&exp=<unix>&sig=<hmac>, from "View their preview" on the admin page.
      It opens a student's job read-only: the status is read with the server's signature in place of the job token,
      this browser's storage is never read or written (the owner's own saved project stays as it was), and every
@@ -54,9 +68,15 @@
   /* a picture's address outside the sheets: sample paths in the demo, full or blob: addresses live */
   const pic = (M, s) => /^(blob:|data:|https?:)/.test(s || '') ? s : F.srcOf(M || HP, s);
   const paid = () => !DEMO && !!(ST && ST.paid);
-  /* GoatCounter events (site/analytics.js), live app only and never with personal data: studio/preview (a free
+  /* GoatCounter events (site/analytics.js), live app only and never with personal data: studio/flow/<paywall|preview> (the
+     flow this visit saw, once per visit, so conversion can be compared before and after the switch), studio/preview (a free
      preview asked for), studio/checkout (Pay pressed), studio/paid/<polish|transform> (back from Dodo, paid; once per job) */
   const track = (path, title) => { if (!DEMO && !VIEW && typeof window.fgaEvent === 'function') try { window.fgaEvent(path, title); } catch (e) { /* counting never breaks the app */ } };
+  (function countFlow() {
+    let seen = false;
+    try { seen = sessionStorage.getItem('studio-fga-flow-counted') === FLOW; sessionStorage.setItem('studio-fga-flow-counted', FLOW); } catch (e) { /* storage off: count it */ }
+    if (!seen) track('studio/flow/' + FLOW, 'Studio: flow ' + FLOW);
+  })();
   function trackPaid() {
     if (!ST || !ST.paid || !S.job || !S.payStarted || S.paidCounted === S.job.id) return;
     S.paidCounted = S.job.id; saveS();
@@ -221,7 +241,9 @@
   /* D82: the concept is the student's own words, used exactly as typed (or none: Studio plans from the drawings) */
   const concept = () => tidy('concept', S.concept);
   const briefs = () => DEMO ? (S.briefs || []) : (S.files || []).filter((f) => f.kind === 'brief').map((f) => f.original || f.name);
-  const conceptLabel = () => S.fromHeard ? (paid() ? 'Save my answers' : 'Back to preview') : concept() ? 'See my preview' : 'Skip and see my preview';
+  /* the last question's button: on to the preview, or (paywall) on to pick a finish and pay */
+  const LASTLABEL = () => PAYWALL ? 'Pick my finish' : 'See my preview';
+  const conceptLabel = () => S.fromHeard ? (paid() ? 'Save my answers' : PAYWALL ? 'Back to pay' : 'Back to preview') : PAYWALL ? (concept() ? 'Pick my finish' : 'Skip and pick my finish') : concept() ? 'See my preview' : 'Skip and see my preview';
   const norm = (s) => String(s).toLowerCase().replace(/[“”"’']/g, '').trim();
   /* older answers (the sample's, a saved intake) use older labels: D84 renamed "Re-render to Great", D102 "Keep mine / ours, clean up" */
   const RENAMED = { 're-render to great': 'transform them', 'keep mine, clean up': 'keep my design, polish it', 'keep ours, clean up': 'keep our design, polish it' };
@@ -265,7 +287,7 @@
       card: { name: String(c.name || '').trim(), project_title: tidy('title', c.title), project_location: tidy('loc', c.loc), program: tidy('prog', c.prog) } };
     if (concept()) body.concept_text = concept();
     if (unbranded()) body.no_name = true;
-    if (EMAIL_RE.test(qEmail())) { body.email = qEmail(); body.email_optin = !!S.optin; }
+    if (EMAIL_RE.test(qEmail())) { body.email = qEmail(); body.email_optin = !!S.optin; body.email_terms = EMAIL_TERMS; }
     return body;
   }
   /* the other way: a saved intake (status "intake") back into the screens, e.g. on a new device from the receipt link */
@@ -365,10 +387,12 @@
       if (age < 1700) requestAnimationFrame(frame); else c.remove();
     })(t0);
   }
-  const STEP = { home: -1, upload: 0, q: 1, heard: 1, planning: 2, plan: 2, price: 3, making: 3, result: 4, edit: 4, files: 5, share: 6 };
+  const STEP = PAYWALL ? { home: -1, upload: 0, q: 1, heard: 1, planning: 2, plan: 2, price: 2, making: 2, result: 3, edit: 3, files: 4, share: 5 }
+    : { home: -1, upload: 0, q: 1, heard: 1, planning: 2, plan: 2, price: 3, making: 3, result: 4, edit: 4, files: 5, share: 6 };
+  const PAYAT = STEP.price;   // the step number of the pay screen (3 with a preview, 2 without)
   function top() {
-    const n = STEP[S.screen], back = (i) => i < n && n <= 3 && !paid() && (i < 2 || DEMO || PV);
-    const steps = ['Upload', 'Questions', 'Preview', 'Pay', 'Edit', 'Download', 'Share'].map((t, i) => '<span class="' + (i < n ? 'done' : i === n ? 'now' : '') + (back(i) ? ' back' : '') + '"' + (back(i) ? ' data-act="go" data-s="' + ['upload', 'q', 'plan'][i] + '" role="button" tabindex="0" title="Go back to ' + t + '"' : '') + '>' + (i < n ? '✓ ' : '') + t + '</span>').join('');
+    const n = STEP[S.screen], back = (i) => i < n && n <= PAYAT && !paid() && (i < 2 || DEMO || PV);
+    const steps = (PAYWALL ? ['Upload', 'Questions', 'Pay', 'Edit', 'Download', 'Share'] : ['Upload', 'Questions', 'Preview', 'Pay', 'Edit', 'Download', 'Share']).map((t, i) => '<span class="' + (i < n ? 'done' : i === n ? 'now' : '') + (back(i) ? ' back' : '') + '"' + (back(i) ? ' data-act="go" data-s="' + ['upload', 'q', 'plan'][i] + '" role="button" tabindex="0" title="Go back to ' + t + '"' : '') + '>' + (i < n ? '✓ ' : '') + t + '</span>').join('');
     return '<header class="top"><a class="logo" href="#home" data-act="home"><i aria-hidden="true">✦</i>Studio FGA</a><nav class="steps hide-phone" aria-label="Steps">' + steps +
       '</nav><span class="spacer"></span>' + (DEMO ? '<span class="chip sun">DEMO · SAMPLE PROJECT</span>' : '') + '</header>';
   }
@@ -384,7 +408,7 @@
       : ['Up to 15 new images', 'Hero view, plans, sections and diagrams, redrawn by AI (up to 10 with Polish)'];
     const gets = [[ai[0], ai[1], 'key'], ['A1 board, print-ready', '594 × 841 mm on a clean grid'], ['Jury deck, ' + (nSl || 13) + ' slides', 'Contents first, one idea per slide'],
       ['Story and captions written', 'From your answers, checked against your drawings'], ['Labels, scale bars and north', 'Titles and drawing labels done for you'],
-      ['Files you can keep editing', 'PDF, PowerPoint and InDesign'], [tier === 'nice' ? 'Ready in under 10 minutes' : tier === 'great' ? 'Ready in about 5 minutes' : 'Ready in minutes', 'Plus one free redo within 7 days']];
+      ['Files you can keep editing', 'PDF, PowerPoint and InDesign'], [PAYWALL ? 'Ready in about 5–7 minutes' : tier === 'nice' ? 'Ready in under 10 minutes' : tier === 'great' ? 'Ready in about 5 minutes' : 'Ready in minutes', 'Free redo or money back within 7 days']];
     return gets.map((g, i) => [g[0], g[1], g[2] || '', ['spark', 'board', 'deck', 'text', 'north', 'files', 'clock'][i]]);
   }
   function getsList(tier, nSl, part) {
@@ -399,7 +423,7 @@
     files: '<path d="M14 3H6v18h12V7z"/><path d="M14 3v4h4M9 12h6M9 15.5h6M9 19h3"/>', clock: '<circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/>',
     noacct: '<circle cx="12" cy="8" r="3.5"/><path d="M5 20c1-4 4-6 7-6s6 2 7 6"/><path d="M3 3l18 18"/>', redo: '<path d="M4 12a8 8 0 1 0 2.4-5.7M4 4v4h4"/>', lock: '<rect x="5" y="11" width="14" height="10" rx="2"/><path d="M8 11V8a4 4 0 0 1 8 0v3"/>' };
   const dic = (k) => '<svg class="dic" viewBox="0 0 24 24" aria-hidden="true">' + DI[k] + '</svg>';
-  const TRUST = () => '<ul class="trust"><li>' + dic('noacct') + 'No account needed</li><li>' + dic('redo') + 'One free redo in 7 days</li><li>' + dic('lock') + 'Secure checkout · Dodo Payments</li></ul>';
+  const TRUST = () => '<ul class="trust"><li>' + dic('noacct') + 'No account needed</li><li>' + dic('redo') + 'Free redo or money back</li><li>' + dic('lock') + 'Secure checkout · Dodo Payments</li></ul>';
   /* board and deck side by side at equal weight (owner: "Deck & board both are important") */
   /* m: which model the thumbnails draw ('h' the sample, 'v' the preview, '' the project) */
   function sheets(nShow, extra, m) {
@@ -450,8 +474,8 @@
     } catch (e) { return null; }
   })();
   const aboutLocal = (usd) => FX ? '<span class="fx">about ' + FX.about(usd) + '</span>' : '';
-  const TIERS = { nice: ['Polish', 11, ['Your drawings cleaned up and lined up', 'Up to 10 new images', 'Captions, labels, scale bars and north', 'Board + deck: PDF, PowerPoint, InDesign']],
-    great: ['Transform', 16, ['Everything in the Polish option ($11)', 'Up to 15 new images', 'Hero view, plans and sections redrawn', 'New diagrams in the same family']] };
+  const TIERS = { nice: ['Polish', PRICE.nice, ['Your drawings cleaned up and lined up', 'Up to 10 new images', 'Captions, labels, scale bars and north', 'Board + deck: PDF, PowerPoint, InDesign']],
+    great: ['Transform', PRICE.great, ['Everything in the Polish option (' + usd(PRICE.nice) + ')', 'Up to 15 new images', 'Hero view, plans and sections redrawn', 'New diagrams in the same family']] };
 
   /* ---------- composition preview (rule 26, D85; owner picked option 2 on 28 Oct, prototype b6c744c..d9a1f66).
      The final layout: slots from the student's drawings are shown faded with a bold label and an AI mark, slots
@@ -631,7 +655,7 @@
     const key = getsData(null, nSl)[0];
     return '<aside class="order"><div class="ohead"><p class="kicker">Your order</p></div>' +
       '<h2 class="mid">Your board and deck</h2><p class="osub">A1 board · ' + nSl + '-slide jury deck · ready in minutes</p>' +
-      '<p class="oprice"><small>from</small><b>$11</b><span>Polish $11 · Transform $16 · one payment, no subscription</span></p>' +
+      '<p class="oprice"><small>from</small><b>' + FROM + '</b><span>Polish ' + usd(PRICE.nice) + ' · Transform ' + usd(PRICE.great) + ' · one payment, no subscription</span></p>' +
       (tiers ? '<p class="osub" style="margin:0">Polish adds ' + tiers[0] + ' new · Transform adds ' + tiers[1] + ' new</p>' : '') +
       '<div class="magic">' + dic('spark') + '<div><em class="keytag">✦ The magic part</em><b>' + key[0] + '</b><span>' + key[1] + '</span></div></div>' +
       '<div id="maincta">' + shiny('toPrice', 'Make my board and deck', 'Pick Polish or Transform next') + '</div>' + TRUST() + '</aside>';
@@ -641,7 +665,8 @@
   /* D91's one-tap building check: "We read: 2 blocks · 2 floors · floating slabs. Right?" (server: GET /jobs/{id} `building`,
      PUT /jobs/{id}/building). Yes, or a quick fix that redraws the schematic drawings in code. Never blocks the order. */
   const BC = { fix: false, draft: {}, busy: false, err: '' };
-  const bldg = () => (!DEMO && ST && ST.building && ST.building.fields && !paid()) ? ST.building : null;
+  /* the paywall flow skips the check (owner, 10 Nov 2026): the AI decides */
+  const bldg = () => (!PAYWALL && !DEMO && ST && ST.building && ST.building.fields && !paid()) ? ST.building : null;
   const BQ = [['floors', 'Floors', (f) => [1, 2, 3].concat(f.floors > 3 ? [f.floors] : []).map((n) => [n, String(n)])],
     ['roof', 'Roof', (f) => ['flat', 'pitched'].concat(f.roof === 'tensile' ? ['tensile'] : []).map((r) => [r, r.charAt(0).toUpperCase() + r.slice(1)])],
     ['raised', 'Raised off the ground', () => [[true, 'Yes'], [false, 'No']]],
@@ -680,7 +705,7 @@
     const c = composition(), nSl = pvOn().length, [ny, nn, tiers] = compCounts(c), sh = S.pvShow || 'all';
     const legend = '<div class="legend"><span class="lg yours"><i></i>' + ny + ' from your drawings, retouched by AI</span><span class="lg new"><i></i>' + nn + ' new by AI Studio</span><span class="lg txt"><i></i>Text written for you</span></div>';
     const showSeg = '<div class="seg pvseg" role="group" aria-label="Show">' + [['all', 'Everything'], ['yours', 'Your drawings <small class="airew">(AI reworks)</small>'], ['new', 'What AI Studio adds']].map(([v, l]) => '<button data-act="pvShow" data-v="' + v + '" class="' + (sh === v ? 'on' : '') + '" aria-pressed="' + (sh === v) + '">' + l + '</button>').join('') + '</div>';
-    const ctabar = '<div class="ctabar" id="ctabar"><div><b>Your board + ' + nSl + '-slide deck</b><span>' + ny + ' of your drawings · ' + nn + ' new · from $11</span></div><button class="btn primary" data-act="toPrice">Make it</button></div>';
+    const ctabar = '<div class="ctabar" id="ctabar"><div><b>Your board + ' + nSl + '-slide deck</b><span>' + ny + ' of your drawings · ' + nn + ' new · from ' + FROM + '</span></div><button class="btn primary" data-act="toPrice">Make it</button></div>';
     const head = '<div class="pvhead"><div><p class="kicker">Step 3 · free preview</p><h1 class="mid">This is your board and deck</h1></div></div>';
     const tab = S.pvTab === 'deck' ? 'deck' : 'board';
     const tabs = '<div class="seg pvtabs" role="tablist" aria-label="Sheet">' + [['board', 'A1 board'], ['deck', 'Jury deck · ' + nSl]].map(([v, l]) => '<button role="tab" data-act="pvTab" data-v="' + v + '" class="' + (tab === v ? 'on' : '') + '" aria-selected="' + (tab === v) + '">' + l + '</button>').join('') + '</div>';
@@ -724,7 +749,7 @@
       '<div class="bar upbar" role="progressbar" aria-label="Uploading ' + esc(u.name) + '" aria-valuemin="0" aria-valuemax="100" aria-valuenow="' + pc + '"><i id="up-' + u.k + '" style="width:' + pc + '%"></i></div></div>';
   };
   const kb = (b) => b >= 1048576 ? (b / 1048576).toFixed(1) + ' MB' : Math.max(1, Math.round(b / 1024)) + ' KB';
-  V.upload = () => DEMO ? V.uploadDemo() : '<main class="wrap"><p class="kicker">' + (paid() ? 'Before your free redo' : 'Step 1 · free') + '</p><h1 class="big">Add your drawings. 5–10 works best.</h1>' +
+  V.upload = () => DEMO ? V.uploadDemo() : '<main class="wrap"><p class="kicker">' + (paid() ? 'Before your free redo' : PAYWALL ? 'Step 1' : 'Step 1 · free') + '</p><h1 class="big">Add your drawings. 5–10 works best.</h1>' +
     '<section class="drop" id="drop" aria-label="Your files"><div class="row"><span class="chip lime">' + drawings().length + ' FILES</span>' + (upBusy() ? '<span class="chip">UPLOADING ' + upBusy() + '</span>' : '') + '</div>' +
     '<div class="files">' + drawings().map((f) => '<div class="file"><img src="' + (THUMBS[f.name] || PLACE) + '" alt="' + esc(f.original || f.name) + '">' + (THUMBS[f.name] ? '' : '<span class="fkind">' + esc(String(f.type || 'file').toUpperCase()) + '</span>') + '<span>' + esc(f.original || f.name) + ' · ' + (f.pages ? f.pages + ' page' + (f.pages === 1 ? '' : 's') + ' · ' : '') + kb(f.bytes || 0) + '</span>' + fnotes(f) + '<button class="rm" data-act="rmFile" data-name="' + esc(f.name) + '" aria-label="Remove ' + esc(f.original || f.name) + '">' + RM + '</button></div>').join('') +
     UP.filter((u) => u.kind !== 'brief').map(upCard).join('') + '</div>' +
@@ -736,7 +761,7 @@
     UP.filter((u) => u.kind === 'brief' && u.err).map((u) => '<p class="err" role="alert" style="flex-basis:100%">' + esc(u.err) + '</p>').join('') + '</div></section>' + nudge() +
     '<div class="row">' + (paid() ? '<button class="btn primary" data-act="toResult">Back to my board</button><span class="status">Your free redo uses these drawings.</span>' : '<button class="btn primary" data-act="toQ">Next</button><span class="status">No account needed.</span>') + '</div>' +
     (S.job && (S.files || []).length ? '<button class="link" data-act="newJob" style="align-self:flex-start">' + (S.newArm ? 'Click again: this clears these files from this page' : 'Start a new project instead') + '</button>' : '') + '</main>';
-  V.uploadDemo = () => '<main class="wrap"><p class="kicker">Step 1 · free</p><h1 class="big">Add your drawings. 5–10 works best.</h1>' +
+  V.uploadDemo = () => '<main class="wrap"><p class="kicker">' + (PAYWALL ? 'Step 1' : 'Step 1 · free') + '</p><h1 class="big">Add your drawings. 5–10 works best.</h1>' +
     '<section class="drop" id="drop" aria-label="Your files"><div class="row"><span class="chip lime">' + nFiles() + ' FILES</span><span class="chip">Sample: Law Garden community centre</span></div>' +
     '<div class="files">' + P.raw.map((r, i) => (S.rmRaw || []).includes(i) ? '' : '<div class="file"><img src="' + P.base + r.src + '" alt="' + esc(r.name) + '"><span>' + esc(r.name) + ' · ' + r.kb + ' KB</span><button class="rm" data-act="rmFile" data-k="raw" data-i="' + i + '" aria-label="Remove ' + esc(r.name) + '"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg></button></div>').join('') +
     S.extra.map((n, i) => '<div class="file"><button class="rm" data-act="rmFile" data-k="extra" data-i="' + i + '" aria-label="Remove ' + esc(n) + '"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg></button><img src="data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 4 3%22%3E%3Crect width=%224%22 height=%223%22 fill=%22%23EDE4D3%22/%3E%3C/svg%3E" alt=""><span>' + esc(n) + '</span></div>').join('') + '</div>' +
@@ -755,8 +780,9 @@
       '<div class="bar" role="progressbar" aria-valuemin="0" aria-valuemax="' + n + '" aria-valuenow="' + S.q + '"><i style="width:' + (S.q / n * 100).toFixed(1) + '%"></i></div><span class="kicker">' + S.q + ' / ' + n + '</span></div>';
     const helper = DEMO ? '<button class="link" data-act="student">Fill in the student’s real answers</button>' : '';
     const other = (ph) => '<div class="field"><label for="other">Other</label><input id="other" class="input' + (ans(k) === 'other' ? ' filled' : '') + '" type="text" maxlength="300" placeholder="' + ph + '" value="' + esc(S.oth[k] || '') + '"></div>';
-    const fresh = !DEMO && S.fromHeard && !paid() ? '<p class="hint">Changing an answer makes a fresh preview. You get 2 free previews a day.</p>' : '';
-    const next = (label, on) => fresh + '<p class="err" id="qErr" role="alert"></p><div class="row"><button class="btn ' + (on ? 'primary' : '') + '" data-act="qnext">' + (S.fromHeard ? (paid() ? 'Save my answers' : 'Back to preview') : label) + '</button>' + helper + '</div></main>';
+    const fresh = !PAYWALL && !DEMO && S.fromHeard && !paid() ? '<p class="hint">Changing an answer makes a fresh preview. You get 2 free previews a day.</p>' : '';
+    const back2 = paid() ? 'Save my answers' : PAYWALL ? 'Back to pay' : 'Back to preview';
+    const next = (label, on) => fresh + '<p class="err" id="qErr" role="alert"></p><div class="row"><button class="btn ' + (on ? 'primary' : '') + '" data-act="qnext">' + (S.fromHeard ? back2 : label) + '</button>' + helper + '</div></main>';
     if (CARD[k]) {
       const [f, q, ph] = CARD[k], v = S.card[f] || '', idx = Object.keys(CARD).indexOf(k) + 1;
       const note = f === 'name' ? nameNote() : FIXNOTE;
@@ -764,15 +790,16 @@
         (isPro() ? 'Leave our name off the sheets (unbranded)' : 'Leave my name off the board (anonymous)') + '</span></label>' : '';
       return head + '<p class="kicker">Title block · ' + idx + ' of 4</p><h1 class="mid">' + esc(q()) + '</h1><p class="lede" id="cardNote">' + note + '</p>' +
         '<div class="field"><input id="cardin" data-card="' + f + '" class="input" type="text" required maxlength="' + (f === 'prog' ? 200 : 120) + '" aria-label="' + esc(q()) + '" value="' + esc(v) + '" placeholder="' + esc(ph()) + '">' + onSheet(f, v) + '</div>' + tick + '<p class="err" id="cardErr"></p>' +
-        next(last ? 'See my preview' : 'Continue', !!v.trim());
+        next(last ? LASTLABEL() : 'Continue', !!v.trim());
     }
     if (k === 'email') {
       const v = S.email || '';
-      return head + '<p class="kicker">Optional</p><h1 class="mid">Your email</h1><p class="lede">We’ll send you the link to your preview, so you can open it later on your laptop.</p>' +
+      /* the wording (owner, 10 Nov 2026) is version EMAIL_TERMS, sent with the answers and kept on the job */
+      return head + '<p class="kicker">Optional</p><h1 class="mid">Your email</h1><p class="lede">Your email: we’ll send you the link to your project, and ask you one quick question about how it went.</p>' +
         '<div class="field"><input id="qemail" class="input" type="email" inputmode="email" autocomplete="email" maxlength="254" aria-label="Your email" placeholder="you@school.edu" value="' + esc(v) + '"></div>' +
-        '<label class="tick"><input type="checkbox" id="optin"' + (S.optin ? ' checked' : '') + '><span>OK to email me about my board</span></label>' +
-        '<p class="hint" style="margin:0">If you tick it, we may send one or two short emails about your board, never anything else. <a class="link" href="privacy/" target="_blank" rel="noopener">Privacy</a></p>' +
-        fresh + '<p class="err" id="qErr" role="alert"></p><div class="row"><button class="btn' + (v.trim() ? ' primary' : '') + '" data-act="qnext">' + (S.fromHeard ? (paid() ? 'Save my answers' : 'Back to preview') : 'Continue') + '</button>' +
+        '<label class="tick"><input type="checkbox" id="optin"' + (S.optin ? ' checked' : '') + '><span>Tell me about price drops and offers for my board</span></label>' +
+        '<p class="hint" style="margin:0">One short follow-up at most. Unsubscribe any time. <a class="link" href="privacy/" target="_blank" rel="noopener">Privacy</a></p>' +
+        fresh + '<p class="err" id="qErr" role="alert"></p><div class="row"><button class="btn' + (v.trim() ? ' primary' : '') + '" data-act="qnext">' + (S.fromHeard ? back2 : 'Continue') + '</button>' +
         '<button class="link" data-act="qskip">Skip</button>' + helper + '</div></main>';
     }
     if (k === 'concept') {
@@ -790,7 +817,7 @@
       other('Say it your way') +
       /* one tap picks and moves on (owner, 6 Nov 2026); the button shows only for a typed "Other" answer, or when
          changing an answer from the preview */
-      '<div id="qgo"' + (S.fromHeard || a === 'other' ? '' : ' hidden') + '>' + next(last ? 'See my preview' : 'Continue', true).replace('</main>', '') + '</div>' + (S.fromHeard || a === 'other' ? '' : helper ? '<div class="row">' + helper + '</div>' : '') + '</main>';
+      '<div id="qgo"' + (S.fromHeard || a === 'other' ? '' : ' hidden') + '>' + next(last ? LASTLABEL() : 'Continue', true).replace('</main>', '') + '</div>' + (S.fromHeard || a === 'other' ? '' : helper ? '<div class="row">' + helper + '</div>' : '') + '</main>';
   };
 
 
@@ -845,23 +872,26 @@
       notes + '<div class="two"><div class="list"><h2 class="mid">The three ideas</h2><p class="lede">The spine of your board and deck. Reorder, swap or turn one off; the board preview updates as you go.</p>' + ideas +
       '<h2 class="mid" style="margin-top:18px">The jury deck</h2><p class="lede">' + pvOn().length + ' slides, in the order a jury reads them. Move one or leave it out; the cover stays first.</p>' + slides + '</div>' +
       '<aside class="list" style="position:sticky;top:90px"><p class="kicker">Your A1 board</p>' + compBoard() +
-      '<button class="btn shiny small-shiny" data-act="toPrice">' + SPARK + '<span class="cta"><b>Make it now</b><small>Board + deck · from $11</small></span><span class="arrow" aria-hidden="true">→</span></button></aside></div></main>';
+      '<button class="btn shiny small-shiny" data-act="toPrice">' + SPARK + '<span class="cta"><b>Make it now</b><small>Board + deck · from ' + FROM + '</small></span><span class="arrow" aria-hidden="true">→</span></button></aside></div></main>';
   };
 
   /* Pay page (owner comments, 28 Oct): Transform selected until the student changes it; the landing's taped
      before/after instead of a blurred board; a clear "Write your email" label; the Pay button floats at the bottom. */
   V.price = () => {
     const t = S.tier || 'great';
-    const card = (id, name, price, items) => '<button class="tier' + (t === id ? ' sel' : '') + '" data-act="tier" data-t="' + id + '" aria-pressed="' + (t === id) + '"><span class="kicker">' + name + '</span><span class="price">$' + price + '</span>' + aboutLocal(price) + '<ul>' + items.map((x) => '<li>' + x + '</li>').join('') + '</ul></button>';
+    const card = (id, name, price, items) => '<button class="tier' + (t === id ? ' sel' : '') + '" data-act="tier" data-t="' + id + '" aria-pressed="' + (t === id) + '"><span class="kicker">' + name + '</span><span class="price">' + usd(price) + '</span>' + aboutLocal(price) + '<ul>' + items.map((x) => '<li>' + x + '</li>').join('') + '</ul></button>';
     const note = S.payNote === 'cancelled' ? '<div class="card"><p class="kicker">Payment cancelled</p><p class="lede">Nothing was charged. Pick your finish and try again when you are ready.</p></div>'
       : S.payNote === 'unconfirmed' ? '<div class="card"><p class="kicker">Payment not confirmed yet</p><p class="lede">If you paid, it can take a minute: we email your receipt as soon as it is confirmed. If you cancelled, nothing was charged.</p><div class="row"><button class="btn small" data-act="recheck">Check again</button></div></div>' : '';
-    return '<main class="wrap narrow paywrap">' + backbar([['← Back to your preview', 'plan'], ['Change your answers', 'q'], ['Add or remove drawings', 'upload']]) + note + '<p class="kicker">Step 4</p><h1 class="big">Pick your finish</h1><p class="lede">Both give you the A1 board and the jury deck, as PDF and PowerPoint, with an editor to fix anything. Pay once. No subscription.</p>' +
+    const back = PAYWALL ? backbar([['← Change your answers', 'q'], ['Add or remove drawings', 'upload']])
+      : backbar([['← Back to your preview', 'plan'], ['Change your answers', 'q'], ['Add or remove drawings', 'upload']]);
+    return '<main class="wrap narrow paywrap">' + back + note + '<p class="kicker">' + (PAYWALL ? 'Step 3' : 'Step 4') + '</p><h1 class="big">Pick your finish</h1><p class="lede">Both give you the A1 board and the jury deck, as PDF and PowerPoint, with an editor to fix anything. Pay once. No subscription.' +
+      (PAYWALL ? ' Ready in about 5–7 minutes after you pay.' : '') + '</p>' +
       '<div class="tiers">' + card('nice', ...TIERS.nice) + card('great', ...TIERS.great) + '</div>' +
       '<section class="paywow"><p class="kicker">What AI Studio does</p>' + heroArt() + '</section>' +
       '<div class="field"><label for="email" class="biglabel">Write your email</label><p class="hint" style="margin:0 0 6px">For your receipt and a link back to your files.</p><input id="email" class="input" type="email" autocomplete="email" placeholder="you@school.edu" value="' + esc(S.email) + '"></div><p class="err" id="emailErr" role="alert"></p>' +
-      '<div class="ctabar paybar"><div><b>' + TIERS[t][0] + ' · board + deck</b><span>$' + TIERS[t][1] + ' · one payment, no subscription</span></div>' +
-      '<button class="btn primary" data-act="pay" id="payBtn">Pay $' + TIERS[t][1] + '</button></div>' +
-      '<p class="hint"><b>No refunds. One free redo within 7 days.</b> ' + LEGALLINKS + '</p>' +
+      '<div class="ctabar paybar"><div><b>' + TIERS[t][0] + ' · board + deck</b><span>' + usd(TIERS[t][1]) + ' · one payment · free redo or money back</span></div>' +
+      '<button class="btn primary" data-act="pay" id="payBtn">Pay ' + usd(TIERS[t][1]) + '</button></div>' +
+      '<p class="hint"><b>' + GUARANTEE + '</b> ' + LEGALLINKS + '</p>' +
       (DEMO ? '<p class="status">Demo: no card and no charge. The live app opens the Dodo Payments checkout here.</p>' : '<p class="status">Secure checkout by Dodo Payments, shown in your currency.</p>') + '</main>';
   };
 
@@ -905,7 +935,7 @@
     const st = ST || {}, b = st.build || {}, g = (st.tier || S.tier) === 'great', mail = esc(st.email || S.email || 'you');
     const at = stepAt(BUILD_KEYS, BUILD, b.stage || st.step_key, b.label || st.step), held = b.status === 'held';
     return '<p class="kicker">Paid · receipt sent to ' + mail + '</p><h1 class="big">Making your board and deck</h1>' +
-      '<div class="row"><span class="chip ink">' + (g ? 'TRANSFORM · ABOUT 5 MINUTES' : 'POLISH · UNDER 10 MINUTES') + '</span><span class="chip">' + (held || b.status === 'queued' || b.status === 'none' ? 'IN THE QUEUE' : 'STEP ' + (at + 1) + ' OF ' + BUILD.length) + '</span>' + (typeof st.progress === 'number' ? '<span class="chip">' + st.progress + '%</span>' : '') + totalChip() + '</div>' +
+      '<div class="row"><span class="chip ink">' + (PAYWALL ? (g ? 'TRANSFORM' : 'POLISH') + ' · ABOUT 5–7 MINUTES' : g ? 'TRANSFORM · ABOUT 5 MINUTES' : 'POLISH · UNDER 10 MINUTES') + '</span><span class="chip">' + (held || b.status === 'queued' || b.status === 'none' ? 'IN THE QUEUE' : 'STEP ' + (at + 1) + ' OF ' + BUILD.length) + '</span>' + (typeof st.progress === 'number' ? '<span class="chip">' + st.progress + '%</span>' : '') + totalChip() + '</div>' +
       (held ? '<div class="card"><p class="lede">It is a busy day, so your build waits in a short queue. We will email you when it starts and when it is ready.</p></div>' : '') +
       '<div class="making" id="mk">' + stepList(BUILD, at, b.status === 'running') + '</div>' +
       '<p class="lede">You can close this tab. We will email <b>' + mail + '</b> when it is ready, with a link back to your board.</p>';
@@ -944,7 +974,7 @@
     if (!DEMO) return V.makingLive();
     const g = isGreat(), n = MAKE().length, k = Math.min(S.mk || 0, n - 1) + 1;
     return '<main class="wrap narrow"><p class="kicker">Paid · receipt sent to ' + esc(S.email || 'your email') + '</p><h1 class="big">Making your board and deck</h1>' +
-      '<div class="row"><span class="chip ink">' + (g ? 'TRANSFORM · ABOUT 5 MINUTES' : 'POLISH · UNDER 10 MINUTES') + '</span><span class="chip">STEP ' + k + ' OF ' + n + '</span><span class="chip sun">DEMO: SPED UP</span></div>' +
+      '<div class="row"><span class="chip ink">' + (PAYWALL ? (g ? 'TRANSFORM' : 'POLISH') + ' · ABOUT 5–7 MINUTES' : g ? 'TRANSFORM · ABOUT 5 MINUTES' : 'POLISH · UNDER 10 MINUTES') + '</span><span class="chip">STEP ' + k + ' OF ' + n + '</span><span class="chip sun">DEMO: SPED UP</span></div>' +
       '<div class="making" id="mk">' + MAKE().map((m, i) => '<div class="mk ' + (i < S.mk ? 'done' : i === S.mk ? 'now' : 'todo') + '"><i aria-hidden="true">' + (i < S.mk ? '✓' : '') + '</i>' + esc(m) + '</div>').join('') + '</div>' +
       '<p class="lede">' + (g ? 'You can close this tab. We will email <b>' + esc(S.email || 'you') + '</b> when it is ready, with a link back to your board.' : 'You can stay on this page. It opens on its own when it is done.') + '</p>' +
       '<p class="status">In this demo nothing is being generated: the steps are shown sped up.</p><button class="link" data-act="toResult">Skip ahead</button></main>';
@@ -959,7 +989,7 @@
   let redoArm = false;
   function redoCard() {
     const st = ST || {};
-    if (st.redo_available) return '<section class="card"><p class="kicker">One free redo</p><h2 class="mid">Not quite right?</h2><p class="lede">Redo it free, once, until ' + esc(date(st.redo_until)) + '. Change your answers or drawings first if you like; the redo uses them.</p>' +
+    if (st.redo_available) return '<section class="card"><p class="kicker">One free redo</p><h2 class="mid">Not quite right?</h2><p class="lede">Redo it free, once, until ' + esc(date(st.redo_until)) + '. Change your answers or drawings first if you like; the redo uses them. Or ask for your money back: email hello@findgreatarchitecture.com with your order number.</p>' +
       '<div class="row"><button class="btn primary" data-act="redoJob">' + (redoArm ? 'Click again to start the redo' : 'Redo it free') + '</button><button class="btn" data-act="redoQ">Change answers</button><button class="btn" data-act="go" data-s="upload">Change drawings</button></div></section>';
     return st.redo_used ? '<p class="hint">Your free redo has been used. Something still wrong? Email hello@findgreatarchitecture.com.</p>' : '';
   }
@@ -1138,7 +1168,7 @@
   function lnav() {
     return '<header class="top lnav"><a class="logo" href="#home" data-act="home"><i aria-hidden="true">✦</i>Studio FGA</a><nav class="llinks hide-phone" aria-label="Page">' +
       [['how', 'How it works'], ['get', 'What you get'], ['pricing', 'Pricing'], ['faq', 'FAQ']].map(([id, t]) => '<a href="#' + id + '" data-act="sec" data-id="' + id + '">' + t + '</a>').join('') + '</nav><span class="spacer"></span>' +
-      '<button class="btn small on" data-act="start">Start free</button></header>';
+      '<button class="btn small on" data-act="start">' + (PAYWALL ? 'Start' : 'Start free') + '</button></header>';
   }
   const PH = (t) => '<span class="ph">[' + t + ']</span>';
   /* Hero before/after (prototype commit 3ed209a, option B, owner picked 28 Oct): six small crops of the student's real
@@ -1161,9 +1191,9 @@
   }
   /* The upload box sits in the hero, so a visitor starts by dropping their sheets, not by finding a button (owner,
      5 Nov 2026, after MagicSlides). The chips answer "will my files work?" before anyone asks. */
-  const heroDrop = () => '<div class="hdrop" id="hdrop" data-act="hpick" role="button" tabindex="0" aria-label="Choose or drop your drawings to start a free preview">' +
+  const heroDrop = () => '<div class="hdrop" id="hdrop" data-act="hpick" role="button" tabindex="0" aria-label="Choose or drop your drawings to start' + (PAYWALL ? '' : ' a free preview') + '">' +
     '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 16V4M7 9l5-5 5 5M5 20h14"/></svg>' +
-    '<div class="hdt"><b>Drop your sheets here</b><span><u>or choose files</u> · PDF, JPG, PNG · free, no login</span></div>' +
+    '<div class="hdt"><b>Drop your sheets here</b><span><u>or choose files</u> · ' + (PAYWALL ? 'pay once, from ' + FROM : 'PDF, JPG, PNG · free, no login') + '</span></div>' +
     '<input id="hadd" type="file" multiple accept="image/png,image/jpeg,image/webp,application/pdf,.pdf,.png,.jpg,.jpeg,.webp" hidden></div>';
   /* "What you download" (owner, 7 Nov 2026: "this is the main deliverable", seen right away): one tile per file,
      each saying what it holds and which apps open it. File-type icons, not app logos: Microsoft and Adobe don't
@@ -1251,6 +1281,10 @@
     '<ol class="pvlist">' + PVCALL.map(([, , t, d], i) => '<li><span class="pvpin" aria-hidden="true">' + (i + 1) + '</span><div><b>' + t + '</b>' +
       (i === 2 ? '<span>One tap to confirm what Studio read.</span><div class="bcheck pvbc" aria-hidden="true"><p class="bq"><span><b>We read:</b> 1 block · tensile roof. <b>Right?</b></span></p><div class="bopts"><span class="bopt yes">Yes</span><span class="bopt">Fix it</span></div></div>' : '<span>' + d + '</span>') +
       '</div></li>').join('') + '</ol></div></section>';
+  /* the paywall flow has no free preview, so its spot points to the real boards and the walkthrough instead (owner, 10 Nov 2026) */
+  const seeFirst = () => '<section class="wrap" id="seefirst"><h2 class="kicker">See it first</h2><p class="big hd">Real boards, before you pay</p>' +
+    '<p class="lede">Look through boards made with Studio FGA, or watch one project go from sheets to a jury board.</p><div class="row">' +
+    '<button class="btn" data-act="sec" data-id="boards">Boards made with Studio FGA</button><button class="btn" data-act="sec" data-id="watch">Watch it work · 2:43</button></div></section>';
   /* "Watch it work" (owner, 6 Nov 2026): the 2:43 walkthrough of the Law Garden sample, captions burned in. Nothing
      downloads until play (preload="none"); the poster is one frame from the video. */
   const watch = () => '<section class="wrap" id="watch"><h2 class="kicker">Watch it work</h2><p class="big hd">One real project, start to finish</p>' +
@@ -1316,15 +1350,20 @@
   const newJobLink = () => '<button class="link" data-act="newJob">' + (S.newArm ? 'Click again: this clears your saved project from this browser' : 'Start a new project') + '</button>';
   const savedJobRow = () => !DEMO && S.job ? '<div class="row savedjob"><button class="chip lime" data-act="resume">Continue your project →</button>' + newJobLink() + '</div>' : '';
   V.home = () => {
-    const steps = [['Upload', 'Plans, sections, sketches, model photos. 5 to 10 is best.', 'up'],
+    const steps = PAYWALL ? [['Upload', 'Plans, sections, sketches, model photos. 5 to 10 is best.', 'up'],
+      ['Answer a few questions', 'Your title block, how far AI goes, your concept.', 'q'],
+      ['Pay once', 'Polish ' + usd(PRICE.nice) + ' or Transform ' + usd(PRICE.great) + '. Ready in about 5–7 minutes.', 'plan'],
+      ['Edit and download', 'Fix anything in the editor. Not jury-ready? Free redo or money back.', 'dl']]
+      : [['Upload', 'Plans, sections, sketches, model photos. 5 to 10 is best.', 'up'],
       ['Answer a few questions', 'Your title block, how far AI goes, your concept.', 'q'],
       ['Preview free', 'See every page. Move, swap or remove anything.', 'plan'],
       ['Pay once, download', 'Fix anything in the editor, then download.', 'dl']];
     const sico = { up: '<path d="M12 16V4M7 9l5-5 5 5M5 20h14"/>', q: '<path d="M9 9a3 3 0 1 1 4 2.8c-.7.3-1 .8-1 1.6M12 17h.01"/><circle cx="12" cy="12" r="9"/>', plan: '<path d="M4 6h16M4 12h10M4 18h7"/><circle cx="19" cy="16" r="3"/>', dl: '<path d="M12 4v11M7 10l5 5 5-5M5 20h14"/>' };
     const faq = [
-      ['What if I don’t like the result?', 'You preview your whole board and deck before you pay. If the result is not right, you get one free redo within 7 days. There are no refunds, so check the preview first. <a class="link" href="refund/">Refund policy</a>'],
+      ['What if I don’t like the result?', (PAYWALL ? '' : 'You preview your whole board and deck before you pay. ') + GUARANTEE + ' Email hello@findgreatarchitecture.com with your order number. <a class="link" href="refund/">Refund policy</a>'],
       ['Can I keep editing after I download?', 'Yes. Swap pictures, crop them and fix any line in Studio’s editor, then keep going in PowerPoint, Keynote, Google Slides, Canva or InDesign.'],
-      ['How many free previews can I make?', 'Two a day. Each one is a full preview of your board and deck.'],
+      PAYWALL ? ['How long does it take?', 'About 5 to 7 minutes after you pay. We email you the link to your board and deck when they are ready.']
+        : ['How many free previews can I make?', 'Two a day. Each one is a full preview of your board and deck.'],
       ['What happens to my files?', 'Your uploads, your answers (with the name, project title, location and program you type) and your finished board and deck are kept for 30 days so you can reopen, edit and redo them, then deleted. We don’t sell your data or use your files to train AI models. <a class="link" href="privacy/">Privacy policy</a>'],
       ['Does it work on my phone?', 'Yes. A laptop is easier for editing a big board, and it is usually where your drawings are.']];
     return '<main class="land">' +
@@ -1334,21 +1373,21 @@
       '<p class="lede">Upload your plans, sections and sketches. Get an A1 board and a matching jury deck, written and laid out, still editable.</p>' +
       heroDrop() + savedJobRow() + '</div>' +
       heroArt() + '</section>' + outsStrip() +
-      '<section class="wrap" id="how"><h2 class="kicker">How it works</h2><p class="big hd">Four steps. The first three are free.</p><div class="lsteps">' +
+      '<section class="wrap" id="how"><h2 class="kicker">How it works</h2><p class="big hd">' + (PAYWALL ? 'Four steps. Pay once, from ' + FROM + '.' : 'Four steps. The first three are free.') + '</p><div class="lsteps">' +
       steps.map((t, i) => '<div class="lstep card"><span class="lnum">' + (i + 1) + '</span><svg viewBox="0 0 24 24" aria-hidden="true">' + sico[t[2]] + '</svg><h3 class="h3">' + t[0] + '</h3><p>' + t[1] + '</p></div>').join('') + '</div></section>' +
-      watch() + previewShow() +
-      '<section class="band"><div class="wrap bandin"><p class="big hd">See it before you pay.</p>' + shiny('start', 'Start free', 'No login · preview free') + '</div></section>' +
+      watch() + (PAYWALL ? seeFirst() : previewShow()) +
+      '<section class="band"><div class="wrap bandin"><p class="big hd">' + (PAYWALL ? 'Jury-ready, or your money back.' : 'See it before you pay.') + '</p>' + (PAYWALL ? shiny('start', PAY_CTA[0], PAY_CTA[1]) : shiny('start', 'Start free', 'No login · preview free')) + '</div></section>' +
       '<section class="wrap" id="get"><h2 class="kicker">What you get</h2><p class="big hd">Everything a jury expects, done for you</p><div class="deal deal2">' + sheets(8, '', 'h') +
       '<div class="dealtxt">' + getsList(null, F.visibleSlides(HP).length) + '</div></div></section>' +
       deckFlip() + gallery() +
       '<section class="wrap" id="examples"><h2 class="kicker">Before and after</h2><p class="big hd">From your sheets to a jury board</p>' + didCards() + '</section>' +
       '<section class="wrap" id="pricing"><h2 class="kicker">Pricing</h2><p class="big hd">Pay once per project. No subscription.</p><div class="tiers">' +
-      ['nice', 'great'].map((k) => '<div class="tier ltier' + (k === 'great' ? ' sel' : '') + '"><span class="kicker">' + TIERS[k][0] + (k === 'great' ? ' · the full treatment' : '') + '</span><span class="price">$' + TIERS[k][1] + '</span>' + aboutLocal(TIERS[k][1]) + '<p class="per">A1 board + jury deck</p><ul>' + TIERS[k][2].map((x) => '<li>' + x + '</li>').join('') + '</ul></div>').join('') +
-      '</div><p class="lede">Both include the editor and one free redo within 7 days. No refunds. Charged in your currency.</p>' + shiny('start', 'Start free', 'Preview free before you pay') + '</section>' +
+      ['nice', 'great'].map((k) => '<div class="tier ltier' + (k === 'great' ? ' sel' : '') + '"><span class="kicker">' + TIERS[k][0] + (k === 'great' ? ' · the full treatment' : '') + '</span><span class="price">' + usd(TIERS[k][1]) + '</span>' + aboutLocal(TIERS[k][1]) + '<p class="per">A1 board + jury deck</p><ul>' + TIERS[k][2].map((x) => '<li>' + x + '</li>').join('') + '</ul></div>').join('') +
+      '</div><p class="lede">Both include the editor. ' + GUARANTEE + ' Charged in your currency.</p>' + (PAYWALL ? shiny('start', PAY_CTA[0], PAY_CTA[1]) : shiny('start', 'Start free', 'Preview free before you pay')) + '</section>' +
       '<section class="wrap narrow2" id="faq"><h2 class="kicker">FAQ</h2><p class="big hd">Before you start</p><div class="faq">' +
       faq.map(([q, a]) => '<details><summary>' + q + '</summary><p>' + a + '</p></details>').join('') + '</div>' +
       '<p class="lede">Making it by hand? Read our <a class="link" href="../guides/a1-presentation-board/">step-by-step guide to an A1 presentation board</a>.</p></section>' +
-      '<section class="band dark"><div class="wrap bandin"><p class="big hd">Your jury is closer than you think.</p>' + shiny('start', 'Start free', 'No login · preview free') + '</div></section>' +
+      '<section class="band dark"><div class="wrap bandin"><p class="big hd">Your jury is closer than you think.</p>' + (PAYWALL ? shiny('start', PAY_CTA[0], PAY_CTA[1]) : shiny('start', 'Start free', 'No login · preview free')) + '</div></section>' +
       lfoot() + '</main>';
   };
 
@@ -1567,7 +1606,8 @@
       const tb = ed.sheet && ed.sheet.querySelector(q);
       over = !!(tb && tb.classList.contains('over'));
       h = '<h3>' + esc(name) + '</h3>' + (locked
-        ? '<p class="tip">These lines come from your preview. Reorder, swap or turn off ideas there and both the board and the deck follow.</p><button class="btn small" data-act="toPlan">Open the preview</button>'
+        ? (PAYWALL ? '<p class="tip">These lines come from your project’s plan. To rewrite them, change your answers and use your free redo.</p>'
+          : '<p class="tip">These lines come from your preview. Reorder, swap or turn off ideas there and both the board and the deck follow.</p><button class="btn small" data-act="toPlan">Open the preview</button>')
         : '<p class="tip">' + (sel.type === 'info' ? 'Click a value to type. Red values are placeholders: replace them before the jury sees the board.' : 'Click the text again to type. Enter finishes, Esc too. Pasted text comes in plain.') + '</p>') +
         '<p class="warn" id="overwarn"' + (over ? '' : ' hidden') + '>Too long for its box. Cut a few words so nothing is hidden.</p>';
     }
@@ -1641,10 +1681,10 @@
         return;
       }
       if (k === 'email' && !qEmail()) S.optin = false;
-      if (S.fromHeard || S.q === path().length) { if (DEMO) { S.fromHeard = false; applyIntake(); go('plan'); } else finishQuestions(); } else { S.q += 1; saveS(); render(); }
+      if (S.fromHeard || S.q === path().length) { if (DEMO) { S.fromHeard = false; applyIntake(); go(PAYWALL ? 'price' : 'plan'); } else finishQuestions(); } else { S.q += 1; saveS(); render(); }
     },
     qskip: () => { S.email = ''; S.optin = false; saveS(); A.qnext(); },
-    qback: () => { if (S.fromHeard) { S.fromHeard = false; go(paid() ? 'result' : 'plan'); } else if (S.q > 1) { S.q -= 1; saveS(); render(); } else go('upload'); },
+    qback: () => { if (S.fromHeard) { S.fromHeard = false; go(paid() ? 'result' : PAYWALL ? 'price' : 'plan'); } else if (S.q > 1) { S.q -= 1; saveS(); render(); } else go('upload'); },
     student: () => { studentAnswers(); S.fromHeard = false; S.q = path().indexOf('cname') + 1; saveS(); go('q'); toast(S.card.name ? 'Filled in the student’s real answers.' : 'Filled in the student’s answers. Type any name to test.'); },
     editq: (el) => { S.q = path().indexOf(el.dataset.k) + 1; S.fromHeard = true; go('q'); },
     toPlan: () => go('plan'),
@@ -1705,10 +1745,10 @@
       await flushPlan();
       const r = await API.checkout(S.job, S.tier, v);
       if (r.ok && r.data.checkout_url) { S.payStarted = Date.now(); S.payNote = null; saveS(); location.href = r.data.checkout_url; return; }
-      el.disabled = false; el.textContent = 'Pay $' + TIERS[S.tier || 'great'][1];
+      el.disabled = false; el.textContent = 'Pay ' + usd(TIERS[S.tier || 'great'][1]);
       if (r.status === 409 && /already paid/i.test(r.data.error || '')) { await refresh(); return; }
       er.textContent = r.status === 0 ? 'Studio can’t be reached right now. Check your connection and try again.'
-        : r.status === 409 ? 'Your preview needs to finish first. ' + (r.data.error || '') : r.status === 503 ? 'Payments are not open yet. Please try again later.' : (r.data.error || 'The checkout could not be opened. Try again in a minute.');
+        : r.status === 409 ? (PAYWALL ? (r.data.error ? r.data.error.charAt(0).toUpperCase() + r.data.error.slice(1) + '.' : 'Finish the questions first.') : 'Your preview needs to finish first. ' + (r.data.error || '')) : r.status === 503 ? 'Payments are not open yet. Please try again later.' : (r.data.error || 'The checkout could not be opened. Try again in a minute.');
     },
     toResult: () => { clearTimeout(mkT); go('result'); },
     preview: () => startPreview(),
@@ -1910,7 +1950,7 @@
   async function finishQuestions() {
     const er = document.getElementById('qErr'), btn = document.querySelector('[data-act="qnext"]');
     const body = intakeBody(), same = JSON.stringify(body) === S.lastIntake && fileSig() === S.pvSig;
-    if (same && PV && !paid()) { S.fromHeard = false; saveS(); go('plan'); return; }
+    if (same && PV && !paid() && !PAYWALL) { S.fromHeard = false; saveS(); go('plan'); return; }
     if (btn) { btn.disabled = true; btn.textContent = 'Saving…'; }
     let r = await API.intake(S.job, body);
     if (r.status === 422 && body.no_name && /no_name/.test(r.data.error || '')) { delete body.no_name; r = await API.intake(S.job, body); }   // a server from before C8
@@ -1922,6 +1962,7 @@
     }
     S.lastIntake = JSON.stringify(body); S.fromHeard = false; saveS();
     if (paid()) { toast('Answers saved. Your free redo will use them.'); go('result'); return; }
+    if (PAYWALL) { S.pvSig = fileSig(); saveS(); go('price'); return; }   // D108: no free preview; the server plans after payment
     startPreview();
   }
   async function startPreview() {
@@ -2075,6 +2116,7 @@
       if (!S.pvSig) S.pvSig = fileSig();
       if (S.payStarted && fromReceipt) { S.payDeadline = S.payDeadline || Date.now() + 120000; to = 'making'; }
       else if (S.payStarted) { S.payStarted = null; S.payNote = 'cancelled'; to = 'price'; }
+      else if (PAYWALL) to = ['price', 'q', 'upload'].includes(cur) ? cur : 'price';   // no preview to show: the pay screen
       else to = ['plan', 'price', 'q', 'upload'].includes(cur) ? cur : 'plan';
     } else if (stg === 'building' || stg === 'failed') to = 'making';
     else if (stg === 'ready') { await openResult(); to = ['result', 'edit', 'files', 'share', 'q', 'upload'].includes(cur) ? cur : 'result'; }

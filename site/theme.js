@@ -30,7 +30,7 @@
     heading: 'Jury coming up?',
     text: 'Your own drawings, renders and brief, laid out as an editable A1 jury board + deck.',
     link_text: 'Try Studio FGA →',
-    fine: 'Polish $11 · Transform $16 · No subscription',
+    fine: 'Polish $6.49 · Transform $9.34 · No subscription',
     link: 'studio/?utm_source=site&utm_campaign=corner_card',   // from the site root
     alt: 'Before: six rough sketches and drawings. After: one finished A1 jury board.'
   };

@@ -1,6 +1,8 @@
 """Studio FGA guides (site/studio/guides/): short, useful articles for architecture students, one search question each.
 
     python3 tools/build_guides.py          # rewrite site/studio/guides/index.html and every guide, and stamp ?v=
+    python3 tools/build_guides.py --flow preview   # the Studio cards in the free-preview flow's words (owner, 10 Nov 2026:
+                                                   # the default follows site/studio/config.js STUDIO_FLOW, "paywall" now)
 
 Each guide is a Markdown file in tools/studio_guides/<slug>.md, written by hand. Edit the .md, then rerun this; never edit
 the HTML. The file starts with a few `key: value` lines (slug, title, seo_title, description, kicker, published, related),
@@ -46,10 +48,20 @@ OG_IMAGE = "https://findgreatarchitecture.com/studio/og.jpg?v=2"
 AUTHOR = {"@type": "Person", "name": "Akshat Pagaria", "jobTitle": "Architect", "alumniOf": "CEPT University"}
 PUBLISHER = {"@type": "Organization", "name": "Find Great Architecture", "url": "https://findgreatarchitecture.com/",
              "logo": {"@type": "ImageObject", "url": "https://findgreatarchitecture.com/icon-512.png"}}
-CTA = "Studio FGA turns your drawings into a jury-ready A1 board and a 10–15 slide deck. Free preview first."
+# The Studio card's words in each flow (tools/studio_flow.py; site/studio/config.js STUDIO_FLOW). Flipping back to the free
+# preview: set the flow in config.js and rerun this (or run it with --flow preview).
+CARD_WORDS = {
+    "paywall": {"cta": "Studio FGA turns your drawings into a jury-ready A1 board and a 10–15 slide deck. Pay once, from $6.49. "
+                       "Not jury-ready? One free redo, or your money back within 7 days.",
+                "button": "Start · from $6.49", "small": "Pay once · free redo or money back", "bar": "Start", "nav": "Start"},
+    "preview": {"cta": "Studio FGA turns your drawings into a jury-ready A1 board and a 10–15 slide deck. Free preview first.",
+                "button": "Try Studio FGA free", "small": "Free preview · no login", "bar": "Try free", "nav": "Start free"},
+}
+FLOW = "paywall"   # set in main() from --flow or config.js
+CTA = CARD_WORDS[FLOW]["cta"]
 CTA_PIC = ('<img class="gcta-pic" src="/studio/og.jpg?v=2" width="1200" height="630" loading="lazy" decoding="async" '
            'alt="Before and after: a student\'s six rough drawing sheets, an arrow, and the finished A1 board made from them">')
-# The landing's sparkle (site/studio/app.js SPARK), so the button reads as the same "Start free" button.
+# The landing's sparkle (site/studio/app.js SPARK), so the button reads as the same button as the landing's.
 SPARK = ('<svg class="spark" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2l2.2 6.3L20.5 10.5l-6.3 2.2L12 19l-2.2-6.3L3.5 '
          '10.5l6.3-2.2z"/><path d="M19 15l.9 2.1L22 18l-2.1.9L19 21l-.9-2.1L16 18l2.1-.9z"/></svg>')
 SITE_DIR = os.path.join(ROOT, "site")
@@ -271,15 +283,15 @@ def head(title, desc, url, up, og_type, ld, css):
 def cta_button(ref, page):
     """The landing's shiny lime button. ?ref= tells GoatCounter where the visit came from; the click event says which page."""
     return (f'<a class="btn shiny" href="/studio/?ref={ref}" data-goatcounter-click="studio/guides/cta/{ref}/{page}" '
-            f'data-goatcounter-title="Studio · guides · {ref} · {page}">{SPARK}<span class="cta"><b>Try Studio FGA free</b>'
-            f'<small>Free preview · no login</small></span><span class="arrow" aria-hidden="true">→</span></a>')
+            f'data-goatcounter-title="Studio · guides · {ref} · {page}">{SPARK}<span class="cta"><b>{esc(CARD_WORDS[FLOW]["button"])}</b>'
+            f'<small>{esc(CARD_WORDS[FLOW]["small"])}</small></span><span class="arrow" aria-hidden="true">→</span></a>')
 
 
 def cta_card(where, page):
     """The card under the intro (where="top") and the closing box (where="end"): the same size, picture and button."""
     head = "Messy drawings → jury-ready board" if where == "top" else "Jury coming up? Get your A1 board and deck."
     return (f'<aside class="gcta gcta-{where}" aria-label="Studio FGA"><div class="gcta-pic-wrap">{CTA_PIC}</div>'
-            f'<div class="gcta-body"><p class="kicker">Studio FGA</p><p class="gcta-hd">{esc(head)}</p><p class="gcta-sub">{esc(CTA)}</p></div>'
+            f'<div class="gcta-body"><p class="kicker">Studio FGA</p><p class="gcta-hd">{esc(head)}</p><p class="gcta-sub">{esc(CARD_WORDS[FLOW]["cta"])}</p></div>'
             f'<div class="gcta-go">{cta_button("guides-" + where, page)}</div></aside>\n')
 
 
@@ -287,7 +299,7 @@ def cta_bar(page, js):
     """The slim bar at the bottom of the screen; guides.js shows it after the top card and remembers a close for the visit."""
     return (f'<div class="gbar" id="gbar" hidden><a class="gbar-go" href="/studio/?ref=guides-bar" '
             f'data-goatcounter-click="studio/guides/cta/guides-bar/{page}" data-goatcounter-title="Studio · guides · guides-bar · {page}">'
-            f'<span class="gbar-t">Jury coming up? <b>Get your A1 board + deck →</b></span><span class="gbar-btn">Try free</span></a>'
+            f'<span class="gbar-t">Jury coming up? <b>Get your A1 board + deck →</b></span><span class="gbar-btn">{esc(CARD_WORDS[FLOW]["bar"])}</span></a>'
             f'<button class="gbar-x" type="button" aria-label="Close this bar">×</button></div>\n'
             f'<script src="{js}?v=0" defer></script>\n')
 
@@ -302,7 +314,7 @@ def foot(up, bar=""):
 
 def topbar(up):
     return (f'<header class="top lnav"><a class="logo" href="{up}"><i aria-hidden="true">✦</i>Studio FGA</a>'
-            f'<span class="spacer"></span><a class="btn small on" href="{up}?ref=guides-nav#upload">Start free</a></header>\n')
+            f'<span class="spacer"></span><a class="btn small on" href="{up}?ref=guides-nav#upload">{esc(CARD_WORDS[FLOW]["nav"])}</a></header>\n')
 
 
 def date_text(iso):
@@ -443,6 +455,14 @@ def stamp(paths):
 
 
 def main():
+    global FLOW, CTA
+    import sys
+    import studio_flow
+    FLOW = sys.argv[sys.argv.index("--flow") + 1] if "--flow" in sys.argv else studio_flow.configured()
+    if FLOW not in CARD_WORDS:
+        raise SystemExit("--flow must be paywall or preview")
+    CTA = CARD_WORDS[FLOW]["cta"]
+    studio_flow.apply(FLOW)   # the guides' own sentences about Studio (tools/studio_guides/*.md) follow the flow too
     guides = load()
     by_slug = {g["slug"]: g for g in guides}
     for g in guides:

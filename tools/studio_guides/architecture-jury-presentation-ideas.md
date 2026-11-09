@@ -105,7 +105,7 @@ Caption: The closing slide of the Law Garden sample jury deck, made by Studio FG
 
 Fly-through videos with music use up minutes and take control away from you; if you show one, keep it under thirty seconds and silent so you can talk over it. Interactive or VR set-ups fail at the worst moments, so have a printed fallback. And beware of the device that becomes the project: if the jury talks about your presentation instead of your building, it was too loud.
 
-If your drawings are ready but the board isn't, [Studio FGA](/studio/) lays out your own drawings on an A1 board and builds a matching jury deck, with a free preview, so you can spend the saved hours rehearsing the talk.
+If your drawings are ready but the board isn't, [Studio FGA](/studio/) lays out your own drawings on an A1 board and builds a matching jury deck, from $6.49, so you can spend the saved hours rehearsing the talk.
 
 ## FAQ
 

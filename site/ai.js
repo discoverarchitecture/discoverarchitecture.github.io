@@ -28,7 +28,7 @@
       '<p class="ai-text">You design; it presents. Upload your drawings, name the ideas your board must explain, and get a professional-grade jury board and editable deck.</p>' +
       '<ul class="ai-list"><li>Concept diagrams you guide</li><li>A1, A0 and 24 × 36 in boards</li><li>Editable PowerPoint and PDF</li></ul>' +
       '<a class="ai-go" href="' + url + '">See Studio FGA <span aria-hidden="true">→</span></a>' +
-      '<p class="ai-fine">Free preview first · pay once from $11</p>' +
+      '<p class="ai-fine">Pay once from $6.49 · free redo or money back</p>' +
       '<p class="ai-fine ai-legal"><a href="' + up + 'pricing/">Pricing</a> · <a href="' + up + 'terms/">Terms</a> · <a href="' + up + 'refunds/">Refunds</a> · <a href="' + up + 'privacy/">Privacy</a> · <a href="' + up + 'contact/">Contact</a></p>';
     document.body.appendChild(veil); document.body.appendChild(pop);
     pop.querySelector('.ai-go').addEventListener('click', function () { count('studio/ai-link', 'AI panel: See Studio FGA'); });
