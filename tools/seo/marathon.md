@@ -130,8 +130,8 @@ disables the routine.
 - [x] I. (Owner, 10 Nov) Next Studio guide, "How to do an architecture site analysis"
       (`tools/studio_guides/architecture-site-analysis.md`, built by `tools/build_guides.py`): checked at 390 px and
       desktop, day and night; pull request opened **without merging**, for the owner to approve.
-- [ ] F. Outreach check (separate routine, Tue 14:30 UTC): replies, bounces, report. Nothing to do here.
-- [ ] G. Final report to the owner (short), then disable the routine.
+- [x] F. Outreach check (separate routine, Tue 14:30 UTC): replies, bounces, report. Nothing to do here.
+- [ ] G. Final report to the owner (short), then disable the routine. **Only after 11 Nov 09:00 UTC; a check-in before then does nothing and logs nothing.**
 
 ## Log (second run)
 - 10 Nov 08:50 UTC: plan written at the owner's request; routine re-enabled every 3 hours until 11 Nov 09:00 UTC.
