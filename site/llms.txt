@@ -51,6 +51,8 @@ Practical guides for architecture students, written by an architect (CEPT Univer
 
 - [The wall](https://findgreatarchitecture.com/): every building, with filters by style, type, place, era and idea, a globe map and a game.
 - [All buildings A–Z](https://findgreatarchitecture.com/buildings/): one page per building, e.g. [Villa Savoye](https://findgreatarchitecture.com/buildings/villa-savoye/).
+  Most of the best-known buildings' pages also have an "About the building" paragraph written from cited Wikipedia
+  sentences and fact-checked against them, with the sources named under it, e.g. [Pantheon](https://findgreatarchitecture.com/buildings/pantheon/).
 - [Architects](https://findgreatarchitecture.com/architects/): one page per architect with a short write-up, their buildings, books and reading,
   e.g. [Zaha Hadid](https://findgreatarchitecture.com/architects/zaha-hadid/).
 - [Guess the building](https://findgreatarchitecture.com/play/): a daily architecture quiz.
