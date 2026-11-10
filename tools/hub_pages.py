@@ -203,7 +203,7 @@ SCRIPT = """<script>
     el.className = 't' + (sw ? ' sw' : '') + (m > 1 ? ' sx' : '');
     el.dataset.id = d.id; el.dataset.k = 0; el.style.aspectRatio = '1/' + d.r.toFixed(3);
     el.innerHTML = '<a class="open" href="../../buildings/' + d.id + '/" aria-label="' + esc(d.n + ', ' + d.by + ', ' + d.yr + ', ' + d.c) + '">' +
-      (m ? '<img src="' + esc(src(d.th[0])) + '" width="' + d.w + '" height="' + d.h + '" loading="lazy" decoding="async" alt="">' : '<span class="slot">No free photos yet</span>') + '</a>' +
+      (m ? '<img src="' + esc(src(d.th[0])) + '" width="' + d.w + '" height="' + d.h + '" loading="lazy" decoding="async" alt="' + esc(d.n + ', ' + d.c) + '">' : '<span class="slot">No free photos yet</span>') + '</a>' +
       (m > 1 ? '<button type="button" class="flip prev" aria-label="Previous photo"><svg viewBox="0 0 24 24"><path d="M15 5l-7 7 7 7"/></svg></button><button type="button" class="flip next" aria-label="Next photo"><svg viewBox="0 0 24 24"><path d="M9 5l7 7-7 7"/></svg></button>' : '') +
       (sw ? dots(0, m) : '') + '<span class="cap" aria-hidden="true"><b>' + esc(d.n) + '</b><span class="r2">' + esc(d.yr) + ' · ' + esc(d.c) + '</span></span>';
     el.hubd = d;
@@ -367,7 +367,7 @@ def page(bp, hubs, h, ctx):
     links = ap.links_block(bp, f'Read about {h["label"]}', ap.merge_links(ctx['reading'].get(f'hub:{kind}:{h["slug"]}'), ap.usable_links(h['sources'])), h['label'], up)
     bk = ''.join(
         f'<a class="bk" href="{up}#book:{bp.e(b["id"])}"><span class="cv">' +
-        (f'<img src="{bp.e(bp.at(up, b["cover"]["thumb"]))}" alt="" loading="lazy" width="78" height="117">' if b.get('cover') and b['cover'].get('thumb')
+        (f'<img src="{bp.e(bp.at(up, b["cover"]["thumb"]))}" alt="Cover of {bp.e(b["title"])}" aria-hidden="true" loading="lazy" width="78" height="117">' if b.get('cover') and b['cover'].get('thumb')
          else f'<span class="standin">{bp.e(b["title"].split(":")[0])}</span>') +
         f'</span><span class="bt">{bp.e(b["title"])}<small>{bp.e(b["by"])}, {bp.e(b["year"])}</small></span></a>' for b in books_for(h, ctx['books']))
     books = f'<section class="blk"><h2>Books to read</h2><div class="books">{bk}</div></section>' if bk else ''

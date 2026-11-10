@@ -167,7 +167,7 @@ def page(bp, f, all_films, by_id, by_arch):
         cc = 'US' if 'US' in have else have[0]
         rows = ''.join(
             f'<a href="{e(w["url"])}">'
-            + (f'<img class="plogo" src="{e(bp.at(up, w["logo"]))}" alt="" loading="lazy" width="30" height="30">' if w.get('logo') else '')
+            + (f'<img class="plogo" src="{e(bp.at(up, w["logo"]))}" alt="{e(w["provider"])} logo" aria-hidden="true" loading="lazy" width="30" height="30">' if w.get('logo') else '')
             + f'<span class="pname">{e(w["provider"])}</span>'
               f'<span class="pway">{e(" · ".join(WATCH_WORDS.get(t, t) for t in w["types"]))}</span></a>'
             for w in f['watch'][cc])
@@ -187,7 +187,7 @@ def page(bp, f, all_films, by_id, by_arch):
         who = (f.get('architects') or [None])[0]
         cards = ''.join(
             f'<a class="fp-b" href="{up}buildings/{e(b["id"])}/">'
-            + (f'<span class="ph"><img src="{e(bp.at(up, b["images"][0]["thumb"]))}" alt="" loading="lazy"></span>' if (b.get('images') or []) else '<span class="ph"></span>')
+            + (f'<span class="ph"><img src="{e(bp.at(up, b["images"][0]["thumb"]))}" alt="{e(b["name"])}" aria-hidden="true" loading="lazy"></span>' if (b.get('images') or []) else '<span class="ph"></span>')
             + f'<b>{e(b["name"])}</b><small>{e(b.get("year", ""))} · {e(b["place"].split(",")[0])}</small></a>'
             for b in bs[:8])
         more = ''

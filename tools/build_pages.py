@@ -502,7 +502,7 @@ def fact_icon(k, b):
         for qid in PEOPLE.get('buildings', {}).get(b['id'], []):
             p = PEOPLE['people'].get(qid)
             if p and p.get('thumb'):
-                return f'<img class="fi face" src="{e(p["thumb"])}" alt="" loading="lazy">'
+                return f'<img class="fi face" src="{e(p["thumb"])}" alt="Portrait of {e(p.get("name") or first_architect(b))}" loading="lazy">'
     if k == 'Typology':
         d = (FILTER_ART.get('typeIcons') or {}).get(b['type'])
         if d:
@@ -672,7 +672,8 @@ def byline_html(b, up, mine):
 
 def tile(x, up):
     im = x.get('images') or []
-    ph = f'<img src="{e(at(up, im[0]["thumb"]))}" alt="" loading="lazy">' if im else ''
+    # named for search engines; hidden from screen readers, which read the name beside it (Bing flagged empty alts, 10 Nov 2026)
+    ph = f'<img src="{e(at(up, im[0]["thumb"]))}" alt="{e(x["name"])}, {e(x["place"].split(",")[0])}" aria-hidden="true" loading="lazy">' if im else ''
     return (f'<a href="{up}buildings/{x["id"]}/"><span class="ph">{ph}</span><b>{e(x["name"])}</b>'
             f'<small>{e(x["year"])} · {e(x["place"].split(",")[0])}</small></a>')
 
@@ -806,7 +807,8 @@ def building_page(b, items):
         + '<p class="note">Each opens every building that shares the idea.</p></section>')
     nxt = (mine or pool or kin or near)[0]
     nim = (nxt.get('images') or [{}])[0].get('thumb')
-    next_html = (f'<a class="nextcard" href="{up}buildings/{nxt["id"]}/">{f"<img src={chr(34)}{e(at(up, nim))}{chr(34)} alt={chr(34)}{chr(34)}>" if nim else ""}'
+    nimg = f'<img src="{e(at(up, nim))}" alt="{e(nxt["name"])}" aria-hidden="true">' if nim else ''
+    next_html = (f'<a class="nextcard" href="{up}buildings/{nxt["id"]}/">{nimg}'
                  f'<span><small>Next</small><b>{e(nxt["name"])}</b></span><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 5l7 7-7 7"/></svg></a>'
                  '<script>(function () { var n = document.currentScript.previousElementSibling, f = function () { n.classList.toggle("on", scrollY > 480 || innerWidth > 820); };'
                  ' f(); addEventListener("scroll", f, { passive: true }); addEventListener("resize", f); })();</script>')
@@ -844,6 +846,13 @@ def building_page(b, items):
     return head + body + FOOT.format(up=up, total=TOTAL, css_v=CSS_V)
 
 
+def az_img(x, up):
+    """The A–Z list's small photo: named for search engines, hidden from screen readers (the name is written beside it)."""
+    if not x.get('images'):
+        return ''
+    return f'<img src="{e(at(up, x["images"][0]["thumb"]))}" alt="{e(x["name"])}" aria-hidden="true" loading="lazy">'
+
+
 def index_page(items):
     up = '../'
     url = BASE + 'buildings/'
@@ -851,7 +860,7 @@ def index_page(items):
     head = HEAD.format(title=f'All buildings A–Z · {NAME}', desc=e(desc), url=url, site=NAME, ogtype='website',
                        ogtitle='All buildings A–Z', image=BASE + 'og.jpg', up=up, wallhash='', extra='', total=TOTAL, css_v=CSS_V)
     rows = ''.join(
-        f'<a href="{x["id"]}/"><span class="ph">{f"<img src={chr(34)}{e(at(up, x["images"][0]["thumb"]))}{chr(34)} alt={chr(34)}{chr(34)} loading={chr(34)}lazy{chr(34)}>" if x.get("images") else ""}</span>'
+        f'<a href="{x["id"]}/"><span class="ph">{az_img(x, up)}</span>'
         f'<b>{e(x["name"])}</b><small>{e(x["by"])} · {e(x["year"])}</small></a>'
         for x in sorted(items, key=lambda x: x['name'].lower()))
     body = f'<main class="index"><h1>All buildings</h1><p class="lede">{e(desc)}</p><div class="grid">{rows}</div></main>\n'
@@ -881,7 +890,7 @@ GLOBE = '<svg class="lg" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" 
 def logo_html(n, up):
     if n == 'Official website':
         return GLOBE
-    return f'<img class="lg" src="{up}images/logos/c/{LOGOS[n]}" alt="" aria-hidden="true">' if n in LOGOS else ''
+    return f'<img class="lg" src="{up}images/logos/c/{LOGOS[n]}" alt="{e(n)} logo" aria-hidden="true">' if n in LOGOS else ''
 
 
 def og_image(items):

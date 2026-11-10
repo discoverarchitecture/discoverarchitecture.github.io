@@ -1286,7 +1286,7 @@
     [70.5, 9, 'Change anything before you pay', 'Move, swap, reorder or remove.']];
   const previewShow = () => '<section class="wrap" id="preview"><h2 class="kicker">Your free preview</h2><p class="big hd">What your free preview looks like</p>' +
     '<div class="pvshow"><figure class="pvshot">' +
-    '<img src="preview-shot.webp" width="1400" height="986" loading="lazy" alt="The free preview: an A1 board laid out with the student\'s drawings, striped boxes for new AI images, and the order card">' +
+    '<img src="preview-shot.webp" width="1400" height="986" loading="lazy" alt="Studio FGA\'s layout screen: an A1 board laid out with the student\'s drawings, striped boxes for new AI images, and the order card">' +
     PVCALL.map(([x, y], i) => x ? '<span class="pvpin" style="left:' + x + '%;top:' + y + '%" aria-hidden="true">' + (i + 1) + '</span>' : '').join('') + '</figure>' +
     '<ol class="pvlist">' + PVCALL.map(([, , t, d], i) => '<li><span class="pvpin" aria-hidden="true">' + (i + 1) + '</span><div><b>' + t + '</b>' +
       (i === 2 ? '<span>One tap to confirm what Studio read.</span><div class="bcheck pvbc" aria-hidden="true"><p class="bq"><span><b>We read:</b> 1 block · tensile roof. <b>Right?</b></span></p><div class="bopts"><span class="bopt yes">Yes</span><span class="bopt">Fix it</span></div></div>' : '<span>' + d + '</span>') +
