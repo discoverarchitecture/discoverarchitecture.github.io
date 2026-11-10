@@ -1,13 +1,13 @@
 {
- "fetched_at": "2026-11-10T09:14:56+00:00",
+ "fetched_at": "2026-11-10T09:47:49+00:00",
  "site": "akshatpagaria.goatcounter.com",
  "window_days": 30,
- "visits_30d": 2826,
+ "visits_30d": 2830,
  "sections": {
   "pages": {
    "hits": [
     {
-     "count": 566,
+     "count": 567,
      "path_id": 112020267,
      "path": "/",
      "event": false,
@@ -368,6 +368,14 @@
     },
     {
      "count": 5,
+     "path_id": 117583511,
+     "path": "/styles/high-tech",
+     "event": false,
+     "title": "High-tech architecture: 96 buildings with photos & plans",
+     "max": 1
+    },
+    {
+     "count": 5,
      "path_id": 115682236,
      "path": "/buildings/the-egg-beirut",
      "event": false,
@@ -428,14 +436,6 @@
      "path": "/guides/a1-presentation-board",
      "event": false,
      "title": "How to Make an A1 Architecture Presentation Board (Guide)",
-     "max": 1
-    },
-    {
-     "count": 4,
-     "path_id": 117583511,
-     "path": "/styles/high-tech",
-     "event": false,
-     "title": "High-tech architecture: 96 buildings with photos & plans",
      "max": 1
     },
     {
@@ -807,7 +807,7 @@
      "max": 1
     }
    ],
-   "total": 1563,
+   "total": 1565,
    "more": true
   },
   "referrers": {
@@ -826,7 +826,7 @@
     {
      "id": "chatgpt.com",
      "name": "chatgpt.com",
-     "count": 166,
+     "count": 168,
      "ref_scheme": "c"
     },
     {
@@ -1017,7 +1017,7 @@
     {
      "id": "Chrome",
      "name": "Chrome",
-     "count": 1955
+     "count": 1959
     },
     {
      "id": "Safari",
@@ -1041,7 +1041,7 @@
     {
      "id": "Windows",
      "name": "Windows",
-     "count": 1076
+     "count": 1080
     },
     {
      "id": "iOS",
@@ -1158,6 +1158,11 @@
      "count": 27
     },
     {
+     "id": "EG",
+     "name": "Egypt",
+     "count": 26
+    },
+    {
      "id": "MA",
      "name": "Morocco",
      "count": 26
@@ -1166,11 +1171,6 @@
      "id": "NL",
      "name": "Netherlands",
      "count": 26
-    },
-    {
-     "id": "EG",
-     "name": "Egypt",
-     "count": 22
     },
     {
      "id": "DZ",
@@ -1555,7 +1555,7 @@
     {
      "id": "desktop",
      "name": "",
-     "count": 1299
+     "count": 1303
     },
     {
      "id": "desktophd",
@@ -1575,7 +1575,7 @@
     {
      "id": "(unknown)",
      "name": "(unknown)",
-     "count": 2826
+     "count": 2830
     }
    ],
    "more": false
