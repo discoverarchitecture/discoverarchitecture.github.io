@@ -106,6 +106,14 @@ VARIANTS = [
     ("tools/studio_guides/how-to-photograph-architecture-models.md",
      "with your drawings and a matching jury deck, with a free preview.",
      "with your drawings and a matching jury deck, from $6.49."),
+    ("tools/studio_guides/architecture-concept-diagram-ideas.md", "builds the matching jury deck; the preview is free.",
+     "builds the matching jury deck, from $6.49."),
+    ("tools/studio_guides/architecture-presentation-board-templates.md", "jury deck that you can then edit; the preview is free.",
+     "jury deck that you can then edit, from $6.49."),
+    ("tools/studio_guides/architecture-sheet-sizes-a1-a0-24x36.md", "to adjust to your school's sheet; the preview is free.",
+     "to adjust to your school's sheet, from $6.49."),
+    ("tools/studio_guides/how-to-present-site-analysis.md", "with the rest of your drawings; the preview is free.",
+     "with the rest of your drawings, from $6.49."),
 ]
 
 

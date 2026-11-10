@@ -92,7 +92,7 @@ These are made-up examples; yours come from your own site. Lay them out as a sho
 - **SWOT tables with nothing behind them.** If you use one, every line should link to something you drew.
 - **Analysis that stops.** If the plans never refer back to the findings, the analysis looks like homework done for its own sake.
 
-If your site drawings are scattered across sketchbook pages and screenshots, [Studio FGA](/studio/) can clean them up and set them on an A1 board and in a jury deck with the rest of your drawings; the preview is free.
+If your site drawings are scattered across sketchbook pages and screenshots, [Studio FGA](/studio/) can clean them up and set them on an A1 board and in a jury deck with the rest of your drawings, from $6.49.
 
 ## FAQ
 
