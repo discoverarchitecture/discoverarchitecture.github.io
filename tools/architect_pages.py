@@ -454,7 +454,7 @@ def page(bp, plans, key, ctx):
         f'<h1>{bp.e(name)}</h1><p class="facts">{bp.e(facts)}</p>'
         f'<div class="bio"><p>{bp.e(paras[0])}</p>{more}</div>'
         f'<a class="cta" href="#buildings">See the {n} buildings ↓</a>'
-        f'{links}{books}{films}{simh}</aside>\n'
+        f'{links}{books}{films}{simh}{bp.study_guides_blk(up)}</aside>\n'
         f'<section class="wallpane" id="buildings"><div class="whead"><h2>{bp.e(name)} buildings <span><span id="shown">{n}</span></span></h2>'
         f'<div class="sorts"><span>Sort</span>{sorts}</div></div>{kw}'
         f'<div class="cols">{grid}</div>'
