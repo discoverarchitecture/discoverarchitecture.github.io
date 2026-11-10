@@ -114,7 +114,7 @@ disables the routine.
       `pages.yml` does it), so the 1,771 write-up pages are re-read. Check the run succeeded.
 - [x] B. Keep the numbers coming: run `analytics.yml` and `search-console.yml` by hand once a day (GitHub only, no
       Claude time); note in the log Google's impressions and clicks for the last days and any change in `indexing.json`.
-- [ ] C. Students' missing buildings: from Search Console queries (`search_console/latest.json`) and `search/none/...`
+- [x] C. Students' missing buildings: from Search Console queries (`search_console/latest.json`) and `search/none/...`
       events (GoatCounter), list the buildings and architects students look for that the wall lacks or ranks badly for.
       Write `tools/seo/missing_buildings.md` and send the list to the data collection chat. No site change.
 - [ ] D. Roundup outreach (35 blogs in `tools/outreach/roundups.json`): pick the ones with a real editor and a public
@@ -139,3 +139,4 @@ disables the routine.
 - 10 Nov 09:15 UTC: A done (manual deploy run 161 at 08:47 succeeded; IndexNow sent the whole sitemap). I done differently: the owner asked to merge the two site-analysis guides, so the new text went into the existing page (PR #199, not merged; draft #198 closed). Also merged #197: four guides no longer promise a free preview. Next: B.
 - 10 Nov 11:15 UTC: H done: 147 new write-ups (1,918 in all), PR #207, not merged (owner publishes). Also merged with the owner's yes: #202 (photos from Wikimedia, site 949 → 458 MB) and #205 (robots.txt keeps crawlers off /?q= searches).
 - 10 Nov 12:20 UTC: B done for today (both fetches now run on their own schedule, owner 10 Nov; nothing to dispatch). Google, 2–9 Nov: 0–8 impressions a day, 2 clicks in all (3 Nov). Visits: 40–135 a day (135 on 9 Nov). Indexing: 1,322 of 2,639 checked pages PASS (1,316 before), the rest NEUTRAL. No change worth acting on yet. Next: C.
+- 10 Nov 15:40 UTC: C done: `tools/seo/missing_buildings.md` (11 searched-for buildings not on the wall, 6 on the wall but searched by their local name). The site's own found-nothing searches were never saved; PR #209 (merged) makes the analytics fetch keep them. The list couldn't be sent to the data collection chat from this session (cross-session messages are blocked); it waits in the file. Next: D.
