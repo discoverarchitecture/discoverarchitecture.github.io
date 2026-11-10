@@ -6,7 +6,8 @@ Writes, into --out:
   daily.csv    day,visits  one row per day, grows over time (old days are kept, recent days refreshed)
   signups.csv  day,signups FGA Studio waitlist sign-ups per day (the GoatCounter event studio/signup; no emails)
   events.csv   day,path,count  the FGA Studio page and its events (studio/ai-button, studio/ai-link, studio/signup,
-               studio/details), the map (map/open) and the game (/play, play/...), per day. Fetched on their own,
+               studio/details), the map (map/open), the game (/play, play/...) and searches that found nothing
+               (search/none/<words>), per day. Fetched on their own,
                because latest.json keeps only the 100 busiest paths and the many opened buildings can push these out
   latest.json  the last 30 days: pages, referrers, browsers, systems, locations, screen sizes, languages
 Fails loudly (non-zero exit) on any problem, so a broken job is never mistaken for "no visitors".
@@ -94,7 +95,7 @@ def signups(out, start, end, event='studio/signup'):
     print('Waitlist sign-ups:', sum(days.values()), 'in the last 90 days')
 
 
-EVENT_PREFIXES = ('/studio', 'studio/', 'map/', '/play', 'play/')
+EVENT_PREFIXES = ('/studio', 'studio/', 'map/', '/play', 'play/', 'search/')  # search/none/<words>: searches that found nothing
 
 
 def event_names(out, start, end):
