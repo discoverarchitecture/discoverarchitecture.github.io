@@ -51,3 +51,13 @@ into `sitemap.xml` as `<lastmod>`, so Google and Bing re-read pages that gained 
 entry. After round 8 every indexable building page had been tried once; the 627 still without a write-up mostly have no
 English Wikipedia article (a second pass by Wikidata id, exact name and name + city was set up on
 `claude/writeups-retry1` and stopped by the owner on 7 Nov).
+
+## Second pass (10 Nov 2026)
+
+The 627 indexable pages still without a write-up were fetched again on `claude/writeups-retry1` (Wikidata id, exact
+name, then name + city). 578 returned a long page, but most were about something else (the town, the architect, a
+list, another building of the same name): the fact agents (Sonnet, one per 49) kept 188 with four or more facts about
+the building itself; the writers skipped 38 as too thin on design; the strict fact-check emptied 3 more. 147 went in
+(`facts_25`–`facts_28`). Where Wikipedia's year or credit disagrees with the wall, the paragraph leaves it out
+(`year_conflicts.md`). `check_writeups.py` now combines a building's facts from every round, so an old thin facts file
+no longer hides the new quotes.
