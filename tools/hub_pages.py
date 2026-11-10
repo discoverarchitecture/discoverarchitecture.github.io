@@ -411,7 +411,7 @@ def page(bp, hubs, h, ctx):
         f'<h1>{bp.e(h["h1"])}</h1><p class="facts">{n} buildings</p>'
         f'{body_intro}'
         f'<a class="cta" href="#buildings">See the {n} buildings ↓</a>'
-        f'{globe}{faq}{links}{books}{relh}</aside>\n'
+        f'{globe}{faq}{links}{books}{relh}{bp.study_guides_blk(up)}</aside>\n'
         f'<section class="wallpane" id="buildings"><div class="whead"><h2>Buildings <span><span id="shown">{n}</span></span></h2>'
         f'<div class="sorts"><span>Sort</span>{sorts}</div></div>{kw}'
         f'<div class="cols">{grid}</div><div id="more" aria-hidden="true"></div>'
