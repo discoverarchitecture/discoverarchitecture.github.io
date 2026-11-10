@@ -1,13 +1,13 @@
 {
- "fetched_at": "2026-11-09T18:34:49+00:00",
+ "fetched_at": "2026-11-10T08:58:00+00:00",
  "site": "sc-domain:findgreatarchitecture.com",
  "window_days": 28,
- "start": "2026-10-13",
- "end": "2026-11-09",
+ "start": "2026-10-14",
+ "end": "2026-11-10",
  "web": {
   "total": {
    "clicks": 357,
-   "impressions": 21874,
+   "impressions": 21854,
    "ctr": 0.0163,
    "position": 19.4
   },
@@ -15,8 +15,8 @@
    {
     "query": "villa schreiner",
     "clicks": 3,
-    "impressions": 37,
-    "ctr": 0.0811,
+    "impressions": 36,
+    "ctr": 0.0833,
     "position": 7.3
    },
    {
@@ -162,9 +162,9 @@
    {
     "query": "kokaistudios",
     "clicks": 1,
-    "impressions": 3,
-    "ctr": 0.3333,
-    "position": 2.7
+    "impressions": 2,
+    "ctr": 0.5,
+    "position": 3
    },
    {
     "query": "lal chand ustad",
@@ -4521,13 +4521,6 @@
     "position": 7
    },
    {
-    "query": "cf m\u00f8ller",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 18
-   },
-   {
     "query": "cgac siza",
     "clicks": 0,
     "impressions": 1,
@@ -4596,13 +4589,6 @@
     "impressions": 4,
     "ctr": 0,
     "position": 77.5
-   },
-   {
-    "query": "changi jewel project",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 87
    },
    {
     "query": "chapel lomas de cuernavaca",
@@ -4960,6 +4946,13 @@
     "impressions": 1,
     "ctr": 0,
     "position": 60
+   },
+   {
+    "query": "cocoon building tokyo",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 75
    },
    {
     "query": "coderch casa ugalde",
@@ -7011,21 +7004,28 @@
     "impressions": 7,
     "ctr": 0,
     "position": 7.7
+   },
+   {
+    "query": "frere hall karachi interior",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 10
    }
   ],
   "pages": [
    {
     "page": "https://findgreatarchitecture.com/",
     "clicks": 14,
-    "impressions": 80,
-    "ctr": 0.175,
-    "position": 11.4
+    "impressions": 76,
+    "ctr": 0.1842,
+    "position": 10.8
    },
    {
     "page": "https://findgreatarchitecture.com/buildings/villa-schreiner/",
     "clicks": 6,
-    "impressions": 117,
-    "ctr": 0.0513,
+    "impressions": 116,
+    "ctr": 0.0517,
     "position": 8.1
    },
    {
@@ -7710,9 +7710,9 @@
    {
     "page": "https://findgreatarchitecture.com/buildings/deutsches-architekturmuseum/",
     "clicks": 1,
-    "impressions": 10,
-    "ctr": 0.1,
-    "position": 20.8
+    "impressions": 9,
+    "ctr": 0.1111,
+    "position": 16.2
    },
    {
     "page": "https://findgreatarchitecture.com/buildings/dr-phillips-center/",
@@ -10741,9 +10741,9 @@
    {
     "page": "https://findgreatarchitecture.com/buildings/anahuacalli-museum/",
     "clicks": 0,
-    "impressions": 4,
+    "impressions": 3,
     "ctr": 0,
-    "position": 37.5
+    "position": 46.7
    },
    {
     "page": "https://findgreatarchitecture.com/buildings/ananda-temple/",
@@ -14019,16 +14019,16 @@
    {
     "country": "usa",
     "clicks": 42,
-    "impressions": 3857,
+    "impressions": 3854,
     "ctr": 0.0109,
     "position": 20.7
    },
    {
     "country": "deu",
     "clicks": 27,
-    "impressions": 886,
+    "impressions": 884,
     "ctr": 0.0305,
-    "position": 20.5
+    "position": 20.4
    },
    {
     "country": "ind",
@@ -14040,8 +14040,8 @@
    {
     "country": "gbr",
     "clicks": 20,
-    "impressions": 1312,
-    "ctr": 0.0152,
+    "impressions": 1311,
+    "ctr": 0.0153,
     "position": 21.2
    },
    {
@@ -14068,9 +14068,9 @@
    {
     "country": "esp",
     "clicks": 12,
-    "impressions": 441,
-    "ctr": 0.0272,
-    "position": 13.6
+    "impressions": 440,
+    "ctr": 0.0273,
+    "position": 13.7
    },
    {
     "country": "prt",
@@ -14082,8 +14082,8 @@
    {
     "country": "kor",
     "clicks": 9,
-    "impressions": 316,
-    "ctr": 0.0285,
+    "impressions": 315,
+    "ctr": 0.0286,
     "position": 9.7
    },
    {
@@ -14124,9 +14124,9 @@
    {
     "country": "mex",
     "clicks": 6,
-    "impressions": 241,
-    "ctr": 0.0249,
-    "position": 15.4
+    "impressions": 239,
+    "ctr": 0.0251,
+    "position": 15.5
    },
    {
     "country": "aut",
@@ -14159,15 +14159,15 @@
    {
     "country": "sgp",
     "clicks": 5,
-    "impressions": 124,
-    "ctr": 0.0403,
-    "position": 25.2
+    "impressions": 123,
+    "ctr": 0.0407,
+    "position": 25.0
    },
    {
     "country": "aus",
     "clicks": 4,
-    "impressions": 665,
-    "ctr": 0.006,
+    "impressions": 661,
+    "ctr": 0.0061,
     "position": 24.6
    },
    {
@@ -14278,9 +14278,9 @@
    {
     "country": "twn",
     "clicks": 3,
-    "impressions": 63,
-    "ctr": 0.0476,
-    "position": 12.1
+    "impressions": 62,
+    "ctr": 0.0484,
+    "position": 12.3
    },
    {
     "country": "col",
@@ -14292,8 +14292,8 @@
    {
     "country": "dnk",
     "clicks": 2,
-    "impressions": 132,
-    "ctr": 0.0152,
+    "impressions": 131,
+    "ctr": 0.0153,
     "position": 15.3
    },
    {
@@ -14369,9 +14369,9 @@
    {
     "country": "arm",
     "clicks": 1,
-    "impressions": 16,
-    "ctr": 0.0625,
-    "position": 14.8
+    "impressions": 15,
+    "ctr": 0.0667,
+    "position": 15.4
    },
    {
     "country": "bgr",
@@ -14670,9 +14670,9 @@
    {
     "country": "ecu",
     "clicks": 0,
-    "impressions": 83,
+    "impressions": 82,
     "ctr": 0,
-    "position": 7.2
+    "position": 7.3
    },
    {
     "country": "eth",
@@ -14721,14 +14721,14 @@
    {
     "device": "DESKTOP",
     "clicks": 279,
-    "impressions": 16978,
+    "impressions": 16961,
     "ctr": 0.0164,
     "position": 21.9
    },
    {
     "device": "MOBILE",
     "clicks": 69,
-    "impressions": 4718,
+    "impressions": 4715,
     "ctr": 0.0146,
     "position": 11.0
    },
@@ -14745,8 +14745,8 @@
     "query": "villa schreiner",
     "page": "https://findgreatarchitecture.com/buildings/villa-schreiner/",
     "clicks": 3,
-    "impressions": 37,
-    "ctr": 0.0811,
+    "impressions": 36,
+    "ctr": 0.0833,
     "position": 7.3
    },
    {
@@ -14913,9 +14913,9 @@
     "query": "kokaistudios",
     "page": "https://findgreatarchitecture.com/",
     "clicks": 1,
-    "impressions": 3,
-    "ctr": 0.3333,
-    "position": 2.7
+    "impressions": 2,
+    "ctr": 0.5,
+    "position": 3
    },
    {
     "query": "lal chand ustad",
@@ -19902,14 +19902,6 @@
     "position": 7
    },
    {
-    "query": "cf m\u00f8ller",
-    "page": "https://findgreatarchitecture.com/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 18
-   },
-   {
     "query": "cgac siza",
     "page": "https://findgreatarchitecture.com/buildings/cgac-santiago/",
     "clicks": 0,
@@ -19988,14 +19980,6 @@
     "impressions": 4,
     "ctr": 0,
     "position": 77.5
-   },
-   {
-    "query": "changi jewel project",
-    "page": "https://findgreatarchitecture.com/buildings/jewel-changi-airport/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 87
    },
    {
     "query": "chapel lomas de cuernavaca",
@@ -20404,6 +20388,14 @@
     "impressions": 1,
     "ctr": 0,
     "position": 60
+   },
+   {
+    "query": "cocoon building tokyo",
+    "page": "https://findgreatarchitecture.com/buildings/mode-gakuen-cocoon-tower/",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 75
    },
    {
     "query": "coderch casa ugalde",
@@ -23686,14 +23678,6 @@
     "position": 89
    },
    {
-    "query": "grosvenor hall",
-    "page": "https://findgreatarchitecture.com/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 69
-   },
-   {
     "query": "grosvenor place",
     "page": "https://findgreatarchitecture.com/buildings/grosvenor-place-sydney/",
     "clicks": 0,
@@ -25729,9 +25713,9 @@
     "query": "jewel changi airport drawing",
     "page": "https://findgreatarchitecture.com/buildings/jewel-changi-airport/",
     "clicks": 0,
-    "impressions": 12,
+    "impressions": 11,
     "ctr": 0,
-    "position": 56.2
+    "position": 56.5
    },
    {
     "query": "jewel changi airport rendering",
@@ -26428,14 +26412,6 @@
     "impressions": 1,
     "ctr": 0,
     "position": 37
-   },
-   {
-    "query": "kitakyushu central library",
-    "page": "https://findgreatarchitecture.com/buildings/kitakyushu-central-library/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 9
    },
    {
     "query": "kiyonori kikutake",
@@ -27540,14 +27516,6 @@
     "impressions": 1,
     "ctr": 0,
     "position": 77
-   },
-   {
-    "query": "london eye built",
-    "page": "https://findgreatarchitecture.com/buildings/london-eye/",
-    "clicks": 0,
-    "impressions": 2,
-    "ctr": 0,
-    "position": 78
    },
    {
     "query": "london eye construction",
