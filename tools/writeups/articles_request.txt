@@ -1,2 +1,2 @@
 r1 r2 r3 r4 r5
-# second pass, restarted with a longer time limit
+# second pass, restarted 10 Nov (owner)
