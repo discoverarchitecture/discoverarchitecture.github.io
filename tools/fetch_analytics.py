@@ -27,7 +27,7 @@ def get(path, attempts=5, timeout=40, waits=(15, 45, 90, 120), **params):
     """One GoatCounter request. On a reset connection or a busy server it waits (the pause grows) and tries again.
     GoatCounter sometimes answers a moment's 404 for a page that exists (stats/total, 18 and 19 Oct 2026), so a 404
     is tried again too; a path that is really wrong still fails after the last try."""
-    url = f'{API}/{path}?' + urllib.parse.urlencode(params)
+    url = f'{API}/{path}?' + urllib.parse.urlencode(params, doseq=True)
     req = urllib.request.Request(url, headers={'Authorization': 'Bearer ' + os.environ['GOATCOUNTER_TOKEN'],
                                                'Accept': 'application/json', 'Content-Type': 'application/json', 'User-Agent': 'discoverarchitecture-analytics'})
     for attempt in range(attempts):
@@ -68,7 +68,8 @@ def signups(out, start, end, event='studio/signup'):
     A failure here only warns: it must never cost the daily visits."""
     try:
         time.sleep(1)
-        data = get('stats/hits', attempts=2, timeout=25, waits=(20,), start=start, end=end, filter=event, daily='true', limit=20)
+        data = get('stats/hits', attempts=2, timeout=25, waits=(20,), start=start, end=end, include_paths=[event],
+                   path_by_name='true', daily='true', limit=20)
     except SystemExit as e:
         print(f'::warning::waitlist sign-ups could not be fetched ({e}); keeping the numbers saved earlier')
         return
@@ -96,23 +97,40 @@ def signups(out, start, end, event='studio/signup'):
 EVENT_PREFIXES = ('/studio', 'studio/', 'map/', '/play', 'play/')
 
 
+def event_paths():
+    """{id: path} for every counted path that starts with EVENT_PREFIXES. GoatCounter's /paths lists the site's paths by
+    ID, 200 at a time (stats/hits lost its `filter` parameter, 10 Nov 2026)."""
+    out, after = {}, 0
+    for _ in range(200):  # at most 40,000 paths
+        time.sleep(1)
+        data = get('paths', attempts=2, timeout=25, waits=(20,), limit=200, **({'after': after} if after else {}))
+        ps = data.get('paths') or []
+        out.update({p['id']: p['path'] for p in ps if (p.get('path') or '').startswith(EVENT_PREFIXES)})
+        if not data.get('more') or not ps:
+            break
+        after = ps[-1]['id']
+    return out
+
+
 def events(out, start, end):
     """Per-day counts for the studio page and the map and game events, kept like daily.csv (old days stay, recent days
-    refresh). GoatCounter's filter matches titles too, so only paths that start with EVENT_PREFIXES are kept. Warns on failure."""
+    refresh). Only paths that start with EVENT_PREFIXES are kept. Warns on failure."""
     days = {}
-    for f in ('studio', 'map/', 'play'):
-        try:
+    try:
+        ids = sorted(event_paths())
+        for i in range(0, len(ids), 50):
             time.sleep(1)
-            data = get('stats/hits', attempts=2, timeout=25, waits=(20,), start=start, end=end, filter=f, daily='true', limit=50)
-        except SystemExit as e:
-            print(f'::warning::{f} events could not be fetched ({e}); keeping the numbers saved earlier')
-            return
-        for h in data.get('hits') or []:
-            if not (h.get('path') or '').startswith(EVENT_PREFIXES):
-                continue
-            for d in h.get('stats') or []:
-                if d.get('day') and day_visits(d):
-                    days[(d['day'][:10], h['path'])] = day_visits(d)
+            data = get('stats/hits', attempts=2, timeout=25, waits=(20,), start=start, end=end,
+                       include_paths=[str(x) for x in ids[i:i + 50]], daily='true', limit=100)
+            for h in data.get('hits') or []:
+                if not (h.get('path') or '').startswith(EVENT_PREFIXES):
+                    continue
+                for d in h.get('stats') or []:
+                    if d.get('day') and day_visits(d):
+                        days[(d['day'][:10], h['path'])] = day_visits(d)
+    except SystemExit as e:
+        print(f'::warning::studio, map and game events could not be fetched ({e}); keeping the numbers saved earlier')
+        return
     path = os.path.join(out, 'events.csv')
     old = {}
     if os.path.exists(path):
