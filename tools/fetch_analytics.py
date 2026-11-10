@@ -68,7 +68,8 @@ def signups(out, start, end, event='studio/signup'):
     A failure here only warns: it must never cost the daily visits."""
     try:
         time.sleep(1)
-        data = get('stats/hits', attempts=2, timeout=25, waits=(20,), start=start, end=end, filter=event, daily='true', limit=20)
+        data = get('stats/hits', attempts=2, timeout=25, waits=(20,), start=start, end=end, include_paths=event,
+                   path_by_name='true', daily='true', limit=20)
     except SystemExit as e:
         print(f'::warning::waitlist sign-ups could not be fetched ({e}); keeping the numbers saved earlier')
         return
@@ -96,23 +97,49 @@ def signups(out, start, end, event='studio/signup'):
 EVENT_PREFIXES = ('/studio', 'studio/', 'map/', '/play', 'play/')
 
 
+def event_names(out, start, end):
+    """The event paths to count: those among the 100 busiest paths of the window, those already in events.csv, and those
+    GoatCounter's /paths lists. stats/hits lost its `filter` parameter (10 Nov 2026), and /paths turned out to list only
+    a few hundred paths, so no single source is complete."""
+    names = set()
+    time.sleep(1)
+    top = get('stats/hits', attempts=2, timeout=25, waits=(20,), start=start, end=end, limit=100)
+    names.update(h.get('path') or '' for h in top.get('hits') or [])
+    path = os.path.join(out, 'events.csv')
+    if os.path.exists(path):
+        with open(path, newline='') as f:
+            names.update(r['path'] for r in csv.DictReader(f))
+    after = 0
+    for _ in range(50):
+        time.sleep(1)
+        data = get('paths', attempts=2, timeout=25, waits=(20,), limit=200, **({'after': after} if after else {}))
+        ps = data.get('paths') or []
+        names.update(p.get('path') or '' for p in ps)
+        if not data.get('more') or not ps:
+            break
+        after = max(p['id'] for p in ps)
+    return sorted(n for n in names if n.startswith(EVENT_PREFIXES))
+
+
 def events(out, start, end):
     """Per-day counts for the studio page and the map and game events, kept like daily.csv (old days stay, recent days
-    refresh). GoatCounter's filter matches titles too, so only paths that start with EVENT_PREFIXES are kept. Warns on failure."""
+    refresh). Only paths that start with EVENT_PREFIXES are kept. Warns on failure."""
     days = {}
-    for f in ('studio', 'map/', 'play'):
-        try:
+    try:
+        names = event_names(out, start, end)
+        for i in range(0, len(names), 40):
             time.sleep(1)
-            data = get('stats/hits', attempts=2, timeout=25, waits=(20,), start=start, end=end, filter=f, daily='true', limit=50)
-        except SystemExit as e:
-            print(f'::warning::{f} events could not be fetched ({e}); keeping the numbers saved earlier')
-            return
-        for h in data.get('hits') or []:
-            if not (h.get('path') or '').startswith(EVENT_PREFIXES):
-                continue
-            for d in h.get('stats') or []:
-                if d.get('day') and day_visits(d):
-                    days[(d['day'][:10], h['path'])] = day_visits(d)
+            data = get('stats/hits', attempts=2, timeout=25, waits=(20,), start=start, end=end, include_paths=','.join(names[i:i + 40]),
+                       path_by_name='true', daily='true', limit=100)
+            for h in data.get('hits') or []:
+                if not (h.get('path') or '').startswith(EVENT_PREFIXES):
+                    continue
+                for d in h.get('stats') or []:
+                    if d.get('day') and day_visits(d):
+                        days[(d['day'][:10], h['path'])] = day_visits(d)
+    except SystemExit as e:
+        print(f'::warning::studio, map and game events could not be fetched ({e}); keeping the numbers saved earlier')
+        return
     path = os.path.join(out, 'events.csv')
     old = {}
     if os.path.exists(path):
