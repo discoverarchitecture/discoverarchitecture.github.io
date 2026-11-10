@@ -455,6 +455,25 @@ body[data-screen="upload"] .btn.primary::after, body[data-screen="q"] .btn.prima
 .faq details { border: 2px solid var(--line); border-radius: 14px; background: var(--card); padding: 0 16px; }
 .faq summary { min-height: 56px; display: flex; align-items: center; font-weight: 700; font-size: 17px; cursor: pointer; }
 .faq details p { padding-bottom: 16px; color: var(--muted); }
+/* Studio FGA in plain words (index.html #studio-text, 10 Nov 2026): plain HTML written into the page for search engines
+   and visitors alike; on the landing app.js places it after Pricing. Same tokens as the rest, nothing hidden. */
+.stext { gap: 12px; }
+.land .stext { padding-block: 40px; }
+.stext h2 { font-size: clamp(26px, 3.4vw, 40px); margin-top: 22px; scroll-margin-top: 80px; }
+.stext h2:first-child { margin-top: 0; }
+.stext h3 { font-size: 19px; letter-spacing: -0.01em; margin-top: 10px; }
+.stext p, .stext li { max-width: 68ch; line-height: 1.55; }
+.stext h3 + p { color: var(--muted); }
+.stext a { color: var(--ink); text-decoration: underline; text-underline-offset: 3px; }
+.stext a:hover { color: var(--coral); }
+.stext ol { list-style: none; counter-reset: st; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 14px; }
+.stext ol li { counter-increment: st; position: relative; padding: 16px 16px 16px 58px; background: var(--card); border: 2px solid var(--line); border-radius: var(--r); box-shadow: var(--sh); }
+.stext ol li::before { content: counter(st); position: absolute; left: 16px; top: 12px; font: 800 30px/1 var(--display); color: var(--coral); }
+.stext ul { margin: 0; padding: 0; list-style: none; display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px; }
+.stext ul li { padding: 12px 14px; background: var(--card); border: 2px solid var(--line); border-radius: 14px; font-weight: 600; }
+.stext ul a { text-decoration: none; display: block; }
+.stext ul a::after { content: " →"; color: var(--coral); }
+@media (max-width: 640px) { .stext ol, .stext ul { grid-template-columns: minmax(0, 1fr); } }
 .ph { color: var(--danger); font-family: var(--mono); font-size: .9em; font-style: normal; }
 .lfoot { display: flex; flex-direction: column; gap: 10px; align-items: flex-start; border-top: 2px solid var(--line); color: var(--muted); font-size: 14px; }
 .lfoot .row { gap: 16px; }
