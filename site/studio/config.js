@@ -18,6 +18,10 @@ window.STUDIO_FLOW = "paywall";
 /* The prices (US dollars, owner 10 Nov 2026: exact on purpose). Dodo charges what its products say; keep the two the same. */
 window.STUDIO_PRICES = { nice: 6.49, great: 9.34 };
 
+/* Fixed country prices set in Dodo (Localized Pricing, by country; owner 10 Nov 2026). Shown exactly, not "about".
+   Keep these the same as Dodo's product settings. */
+window.STUDIO_LOCAL_PRICES = { INR: { nice: 499, great: 749 } };
+
 /* Prices in the visitor's own currency (owner, 5 Nov 2026): the page shows "about ₹570" beside $6.49. US dollars per
    unit, rough mid-market rates as of 5 Nov 2026; the page rounds the result, and Dodo charges the exact amount in the
    visitor's currency at checkout. Refresh these a few times a year. A currency missing here shows nothing extra. */

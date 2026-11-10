@@ -470,10 +470,16 @@
       const loc = 'en-' + (cur === 'EUR' && !EURO.includes(cc) ? 'IE' : cc);   // English page, local symbol, Latin digits
       const nf = new Intl.NumberFormat(loc, { style: 'currency', currency: cur, maximumFractionDigits: 0, minimumFractionDigits: 0 });
       const friendly = (v) => { const step = v < 100 ? 1 : v < 500 ? 10 : v < 5000 ? 50 : v < 50000 ? 100 : 1000; return Math.max(step, Math.round(v / step) * step); };
-      return { cur, about: (usd) => nf.format(friendly(usd * rate)) };
+      return { cur, fmt: (v) => nf.format(v), about: (usd) => nf.format(friendly(usd * rate)) };
     } catch (e) { return null; }
   })();
-  const aboutLocal = (usd) => FX ? '<span class="fx">about ' + FX.about(usd) + '</span>' : '';
+  /* a country with its own price in Dodo (window.STUDIO_LOCAL_PRICES) shows that exact price; others show "about" */
+  const LOCALP = window.STUDIO_LOCAL_PRICES || {};
+  const aboutLocal = (usd) => {
+    if (!FX) return '';
+    const tier = usd === PRICE.nice ? 'nice' : usd === PRICE.great ? 'great' : null, fixed = tier && LOCALP[FX.cur] && LOCALP[FX.cur][tier];
+    return fixed ? '<span class="fx">' + FX.fmt(fixed) + ' in ' + (FX.cur === 'INR' ? 'India' : 'your country') + '</span>' : '<span class="fx">about ' + FX.about(usd) + '</span>';
+  };
   const TIERS = { nice: ['Polish', PRICE.nice, ['Your drawings cleaned up and lined up', 'Up to 10 new images', 'Captions, labels, scale bars and north', 'Board + deck: PDF, PowerPoint, InDesign']],
     great: ['Transform', PRICE.great, ['Everything in the Polish option (' + usd(PRICE.nice) + ')', 'Up to 15 new images', 'Hero view, plans and sections redrawn', 'New diagrams in the same family']] };
 
