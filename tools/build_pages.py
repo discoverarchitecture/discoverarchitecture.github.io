@@ -735,6 +735,8 @@ KEEP = ({l.strip() for l in KEEP_FILE.read_text().splitlines() if l.strip() and 
 # Perplexity, Gemini and Copilot answers). The AI crawlers are named so a later "Disallow" for one is a one-line change.
 ROBOTS = """User-agent: *
 Allow: /
+# The wall's own search results (/?q=…) are not pages to index (owner, 10 Nov 2026)
+Disallow: /*?q=
 
 # AI assistants and their search: welcome
 User-agent: GPTBot
@@ -750,6 +752,7 @@ User-agent: Applebot-Extended
 User-agent: Bingbot
 User-agent: CCBot
 Allow: /
+Disallow: /*?q=
 
 Sitemap: {base}sitemap.xml
 """
