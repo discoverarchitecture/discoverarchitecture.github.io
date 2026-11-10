@@ -5,7 +5,7 @@ seo_title: How to Present Site Analysis in Architecture
 description: Turn site analysis into an argument: choose the few findings that shaped your design, draw them on one base map, and pair each finding with the design move it led to.
 kicker: Drawings
 published: 2026-11-07
-related: architecture-concept-diagram-ideas, how-to-present-architectural-plans-and-sections, architecture-jury-presentation-tips
+related: architecture-site-analysis, architecture-concept-diagram-ideas, how-to-present-architectural-plans-and-sections, architecture-jury-presentation-tips
 ---
 Good site analysis on a board is not everything you found out about the site. It is the three to five findings that changed your design, drawn clearly on one consistent base map, each one paired with the move it led to. A jury should be able to point at any part of your building and find the reason for it in the analysis.
 
