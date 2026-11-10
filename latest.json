@@ -1,13 +1,13 @@
 {
- "fetched_at": "2026-11-09T18:34:04+00:00",
+ "fetched_at": "2026-11-10T08:57:12+00:00",
  "site": "akshatpagaria.goatcounter.com",
  "window_days": 30,
- "visits_30d": 2804,
+ "visits_30d": 2826,
  "sections": {
   "pages": {
    "hits": [
     {
-     "count": 563,
+     "count": 566,
      "path_id": 112020267,
      "path": "/",
      "event": false,
@@ -15,7 +15,7 @@
      "max": 36
     },
     {
-     "count": 110,
+     "count": 113,
      "path_id": 113691164,
      "path": "/studio",
      "event": false,
@@ -39,7 +39,7 @@
      "max": 9
     },
     {
-     "count": 70,
+     "count": 73,
      "path_id": 116720890,
      "path": "studio/screen/home",
      "event": true,
@@ -55,7 +55,7 @@
      "max": 3
     },
     {
-     "count": 26,
+     "count": 27,
      "path_id": 116802573,
      "path": "studio/scroll/25",
      "event": true,
@@ -63,7 +63,7 @@
      "max": 2
     },
     {
-     "count": 22,
+     "count": 23,
      "path_id": 116837291,
      "path": "studio/scroll/50",
      "event": true,
@@ -71,7 +71,7 @@
      "max": 2
     },
     {
-     "count": 20,
+     "count": 21,
      "path_id": 116837478,
      "path": "studio/scroll/75",
      "event": true,
@@ -87,7 +87,7 @@
      "max": 2
     },
     {
-     "count": 16,
+     "count": 17,
      "path_id": 116838001,
      "path": "studio/scroll/100",
      "event": true,
@@ -255,6 +255,14 @@
      "max": 1
     },
     {
+     "count": 8,
+     "path_id": 113703681,
+     "path": "/styles/brutalism",
+     "event": false,
+     "title": "Brutalist architecture: 249 buildings with photos & plans",
+     "max": 1
+    },
+    {
      "count": 7,
      "path_id": 118826267,
      "path": "studio/screen/plan",
@@ -285,14 +293,6 @@
      "event": true,
      "title": "Indian Coffee House",
      "max": 3
-    },
-    {
-     "count": 7,
-     "path_id": 113703681,
-     "path": "/styles/brutalism",
-     "event": false,
-     "title": "Brutalist architecture: 249 buildings with photos & plans",
-     "max": 1
     },
     {
      "count": 6,
@@ -424,6 +424,14 @@
     },
     {
      "count": 4,
+     "path_id": 118234266,
+     "path": "/guides/a1-presentation-board",
+     "event": false,
+     "title": "How to Make an A1 Architecture Presentation Board (Guide)",
+     "max": 1
+    },
+    {
+     "count": 4,
      "path_id": 117583511,
      "path": "/styles/high-tech",
      "event": false,
@@ -512,19 +520,19 @@
     },
     {
      "count": 3,
+     "path_id": 120621079,
+     "path": "studio/flow/paywall",
+     "event": true,
+     "title": "Studio: flow paywall",
+     "max": 1
+    },
+    {
+     "count": 3,
      "path_id": 119715264,
      "path": "studio/click/planning/preview",
      "event": true,
      "title": "Studio \u00b7 click \u00b7 planning \u00b7 preview",
      "max": 2
-    },
-    {
-     "count": 3,
-     "path_id": 118234266,
-     "path": "/guides/a1-presentation-board",
-     "event": false,
-     "title": "How to Make an A1 Architecture Presentation Board (Guide)",
-     "max": 1
     },
     {
      "count": 3,
@@ -797,36 +805,28 @@
      "event": false,
      "title": "Malaysian Houses of Parliament \u2014 William Ivor Shipley, 1963",
      "max": 1
-    },
-    {
-     "count": 3,
-     "path_id": 112296484,
-     "path": "/buildings/supreme-court-of-pakistan",
-     "event": false,
-     "title": "Supreme Court of Pakistan Building \u2014 Kenzo Tange, 1993",
-     "max": 1
     }
    ],
-   "total": 1548,
+   "total": 1563,
    "more": true
   },
   "referrers": {
    "stats": [
     {
      "name": "",
-     "count": 1509,
+     "count": 1526,
      "ref_scheme": "o"
     },
     {
      "id": "Google",
      "name": "Google",
-     "count": 374,
+     "count": 376,
      "ref_scheme": "g"
     },
     {
      "id": "chatgpt.com",
      "name": "chatgpt.com",
-     "count": 163,
+     "count": 166,
      "ref_scheme": "c"
     },
     {
@@ -1017,7 +1017,7 @@
     {
      "id": "Chrome",
      "name": "Chrome",
-     "count": 1933
+     "count": 1955
     },
     {
      "id": "Safari",
@@ -1041,7 +1041,7 @@
     {
      "id": "Windows",
      "name": "Windows",
-     "count": 1067
+     "count": 1076
     },
     {
      "id": "iOS",
@@ -1051,17 +1051,17 @@
     {
      "id": "Android",
      "name": "Android",
-     "count": 633
+     "count": 636
     },
     {
      "id": "macOS",
      "name": "macOS",
-     "count": 250
+     "count": 257
     },
     {
      "id": "Linux",
      "name": "Linux",
-     "count": 148
+     "count": 151
     },
     {
      "id": "Chrome OS",
@@ -1085,7 +1085,7 @@
     {
      "id": "US",
      "name": "United States",
-     "count": 443
+     "count": 452
     },
     {
      "id": "TR",
@@ -1133,6 +1133,11 @@
      "count": 34
     },
     {
+     "id": "KR",
+     "name": "South Korea",
+     "count": 34
+    },
+    {
      "id": "CA",
      "name": "Canada",
      "count": 32
@@ -1153,11 +1158,6 @@
      "count": 27
     },
     {
-     "id": "KR",
-     "name": "South Korea",
-     "count": 26
-    },
-    {
      "id": "MA",
      "name": "Morocco",
      "count": 26
@@ -1171,6 +1171,11 @@
      "id": "EG",
      "name": "Egypt",
      "count": 22
+    },
+    {
+     "id": "DZ",
+     "name": "Algeria",
+     "count": 21
     },
     {
      "id": "ES",
@@ -1188,18 +1193,13 @@
      "count": 19
     },
     {
-     "id": "DZ",
-     "name": "Algeria",
-     "count": 18
+     "id": "SG",
+     "name": "Singapore",
+     "count": 19
     },
     {
      "id": "NZ",
      "name": "New Zealand",
-     "count": 18
-    },
-    {
-     "id": "SG",
-     "name": "Singapore",
      "count": 18
     },
     {
@@ -1353,6 +1353,11 @@
      "count": 5
     },
     {
+     "id": "BD",
+     "name": "Bangladesh",
+     "count": 4
+    },
+    {
      "id": "CL",
      "name": "Chile",
      "count": 4
@@ -1375,11 +1380,6 @@
     {
      "id": "AO",
      "name": "Angola",
-     "count": 3
-    },
-    {
-     "id": "BD",
-     "name": "Bangladesh",
      "count": 3
     },
     {
@@ -1545,7 +1545,7 @@
     {
      "id": "phone",
      "name": "",
-     "count": 1321
+     "count": 1324
     },
     {
      "id": "tablet",
@@ -1555,12 +1555,12 @@
     {
      "id": "desktop",
      "name": "",
-     "count": 1287
+     "count": 1299
     },
     {
      "id": "desktophd",
      "name": "",
-     "count": 113
+     "count": 120
     },
     {
      "id": "unknown",
@@ -1575,7 +1575,7 @@
     {
      "id": "(unknown)",
      "name": "(unknown)",
-     "count": 2804
+     "count": 2826
     }
    ],
    "more": false
