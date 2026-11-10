@@ -86,7 +86,7 @@ A wall of buildings that architecture students wander instead of search, with fr
 
 ## Tools and GitHub Actions
 
-- **Scheduled runs are paused** (owner, 28 Oct 2026, to save compute while focusing on FGA Studio): every Claude routine and GitHub timer for this project is off. If the owner asks what was scheduled, read `tools/paused_schedules.md`, list what each one did and ask which to resume; resume only those. Don't create new routines or timers unless the owner asks.
+- **Scheduled runs are paused** (owner, 28 Oct 2026, to save compute while focusing on FGA Studio): every Claude routine and GitHub timer for this project is off, except the two data fetches (`analytics.yml`, `search-console.yml`), which the owner resumed on 10 Nov 2026. If the owner asks what was scheduled, read `tools/paused_schedules.md`, list what each one did and ask which to resume; resume only those. Don't create new routines or timers unless the owner asks.
 
 Claude's sandbox cannot reach Wikidata, Wikimedia or most architecture sites, so network jobs run on GitHub Actions and commit their results back:
 
