@@ -8,6 +8,11 @@ proves the site is ours; it is not a secret.
     python3 tools/indexnow.py --changed <commit before> <commit after>   # the pages a push changed
     python3 tools/indexnow.py --all                                      # every page in the sitemap (once, or after a big change)
     python3 tools/indexnow.py --all --dry-run                            # list them without sending
+
+--changed leaves out pages whose only change is a ?v= stamp, and when a push changes more than BULK pages (a template
+change, such as the Studio banner on every building page) it leaves out existing building pages too (owner, 10 Nov 2026,
+after Bing Webmaster Tools showed 115,000 addresses sent in three weeks). A big round of real new text on building pages
+can be sent with a manual run of the deploy workflow, which sends the whole sitemap once.
 """
 import argparse, json, re, subprocess, sys, urllib.error, urllib.request
 from pathlib import Path
@@ -42,8 +47,58 @@ def changed(before, after):
     if out.returncode:
         print(f'Could not compare {before[:7]} and {after[:7]}: {out.stderr.strip()[:200]}')
         return []
-    urls = (page_url(line) for line in out.stdout.splitlines())
+    files = [f for f in out.stdout.splitlines() if page_url(f)]
+    real = stamp_only_skipped(before, after, files)
+    if len(real) > BULK:
+        # A site-wide template change (the Studio banner, a footer line) touches every building page. Bing re-reads those
+        # on its own visits; telling it about thousands at once only dilutes the pages that really are new or important.
+        new_files = set(subprocess.run(['git', 'diff', '--name-only', '--diff-filter=A', before, after, '--', 'site'], cwd=ROOT,
+                                       capture_output=True, text=True).stdout.split())
+        kept = [f for f in real if not f.startswith('site/buildings/') or f in new_files]
+        print(f'{len(real)} pages is a site-wide change: sending the {len(kept)} that are not existing building pages')
+        real = kept
+    urls = (page_url(f) for f in real)
     return [u for u in urls if u and '/yt/' not in u]  # the /yt/ redirects are noindex on purpose
+
+
+BULK = 300  # more pages than this in one push is a template change, not new writing
+
+
+STAMP = re.compile(r'\?v=[0-9a-f]{6,}')
+
+
+def stamp_only_skipped(before, after, files):
+    """The files whose change is more than new ?v= fingerprints. When a shared style sheet changes, every page's ?v=
+    changes with it, and telling Bing that thousands of pages changed when their words did not (115,000 addresses in
+    three weeks for a site of about 2,700 pages, seen in Bing Webmaster Tools on 10 Nov 2026) teaches it to ignore us."""
+    if not files:
+        return []
+    out = subprocess.run(['git', 'diff', '-U0', '--no-color', before, after, '--'] + files, cwd=ROOT,
+                         capture_output=True, text=True)
+    if out.returncode:
+        return files  # can't tell: keep them all
+    real, cur, minus, plus = [], None, [], []
+
+    def close():
+        if cur and (cur not in real) and sorted(STAMP.sub('', l) for l in minus) != sorted(STAMP.sub('', l) for l in plus):
+            real.append(cur)
+
+    for line in out.stdout.splitlines():
+        if line.startswith('diff --git '):
+            close()
+            cur, minus, plus = line.split(' b/', 1)[1], [], []
+        elif line.startswith('new file') or line.startswith('deleted file'):
+            if cur and cur not in real:
+                real.append(cur)
+        elif line.startswith('---') or line.startswith('+++'):
+            continue
+        elif line.startswith('-'):
+            minus.append(line[1:])
+        elif line.startswith('+'):
+            plus.append(line[1:])
+    close()
+    print(f'{len(files)} pages changed on disk, {len(real)} of them in more than their ?v= stamps')
+    return real
 
 
 def sitemap():
