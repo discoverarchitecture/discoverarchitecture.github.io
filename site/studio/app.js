@@ -9,6 +9,10 @@
   'use strict';
   const F = window.FGA, X = window.FGAExport, SAMPLE = window.SAMPLE, API = window.StudioAPI, LAY = window.FGALayout;
   const app = document.getElementById('app');
+  /* Studio FGA in plain words (how it works, what you get, pricing, FAQ, guides): written into index.html so search
+     engines and visitors read it before any script runs (owner, 10 Nov 2026, after Google left /studio/ out of its
+     index). The landing shows it after Pricing, where its own FAQ used to be; the app's other screens (upload, questions, editor…) leave it out. */
+  const STEXT = document.getElementById('studio-text');
   const DEMO = new URLSearchParams(location.search).get('demo') === '1';
   /* the flow switch (config.js); ?flow=preview|paywall overrides it in the demo only, to walk both flows locally */
   const FLOW = (() => { const q = DEMO && new URLSearchParams(location.search).get('flow'); const f = q || window.STUDIO_FLOW;
@@ -1365,13 +1369,6 @@
       ['Preview free', 'See every page. Move, swap or remove anything.', 'plan'],
       ['Pay once, download', 'Fix anything in the editor, then download.', 'dl']];
     const sico = { up: '<path d="M12 16V4M7 9l5-5 5 5M5 20h14"/>', q: '<path d="M9 9a3 3 0 1 1 4 2.8c-.7.3-1 .8-1 1.6M12 17h.01"/><circle cx="12" cy="12" r="9"/>', plan: '<path d="M4 6h16M4 12h10M4 18h7"/><circle cx="19" cy="16" r="3"/>', dl: '<path d="M12 4v11M7 10l5 5 5-5M5 20h14"/>' };
-    const faq = [
-      ['What if I don’t like the result?', (PAYWALL ? '' : 'You preview your whole board and deck before you pay. ') + GUARANTEE + ' Email hello@findgreatarchitecture.com with your order number. <a class="link" href="refund/">Refund policy</a>'],
-      ['Can I keep editing after I download?', 'Yes. Swap pictures, crop them and fix any line in Studio’s editor, then keep going in PowerPoint, Keynote, Google Slides, Canva or InDesign.'],
-      PAYWALL ? ['How long does it take?', 'About 5 to 7 minutes after you pay. We email you the link to your board and deck when they are ready.']
-        : ['How many free previews can I make?', 'Two a day. Each one is a full preview of your board and deck.'],
-      ['What happens to my files?', 'Your uploads, your answers (with the name, project title, location and program you type) and your finished board and deck are kept for 30 days so you can reopen, edit and redo them, then deleted. We don’t sell your data or use your files to train AI models. <a class="link" href="privacy/">Privacy policy</a>'],
-      ['Does it work on my phone?', 'Yes. A laptop is easier for editing a big board, and it is usually where your drawings are.']];
     return '<main class="land">' +
       '<section class="lhero wrap"><div class="lcopy">' +
       /* one H1 that names the product for search (owner, 29 Oct 2026): the small line plus the big headline, same look */
@@ -1390,9 +1387,6 @@
       '<section class="wrap" id="pricing"><h2 class="kicker">Pricing</h2><p class="big hd">Pay once per project. No subscription.</p><div class="tiers">' +
       ['nice', 'great'].map((k) => '<div class="tier ltier' + (k === 'great' ? ' sel' : '') + '"><span class="kicker">' + TIERS[k][0] + (k === 'great' ? ' · the full treatment' : '') + '</span><span class="price">' + usd(TIERS[k][1]) + '</span>' + aboutLocal(TIERS[k][1]) + '<p class="per">A1 board + jury deck</p><ul>' + TIERS[k][2].map((x) => '<li>' + x + '</li>').join('') + '</ul></div>').join('') +
       '</div><p class="lede">Both include the editor. ' + GUARANTEE + ' Charged in your currency.</p>' + (PAYWALL ? shiny('start', PAY_CTA[0], PAY_CTA[1]) : shiny('start', 'Start free', 'Preview free before you pay')) + '</section>' +
-      '<section class="wrap narrow2" id="faq"><h2 class="kicker">FAQ</h2><p class="big hd">Before you start</p><div class="faq">' +
-      faq.map(([q, a]) => '<details><summary>' + q + '</summary><p>' + a + '</p></details>').join('') + '</div>' +
-      '<p class="lede">Making it by hand? Read our <a class="link" href="../guides/a1-presentation-board/">step-by-step guide to an A1 presentation board</a>.</p></section>' +
       '<section class="band dark"><div class="wrap bandin"><p class="big hd">Your jury is closer than you think.</p>' + (PAYWALL ? shiny('start', PAY_CTA[0], PAY_CTA[1]) : shiny('start', 'Start free', 'No login · preview free')) + '</div></section>' +
       lfoot() + '</main>';
   };
@@ -1412,6 +1406,7 @@
     if (sc !== 'edit') ed = null;
     if ((sc === 'edit' && !P) || (sc === 'plan' && !Q())) { S.screen = sc = (sc === 'edit' ? 'result' : 'upload'); }
     app.innerHTML = (VIEW ? viewBanner() : '') + (sc === 'edit' ? '' : (STEP[sc] === -1) ? lnav() : top()) + V[sc]();
+    if (STEXT) { if (sc === 'home') { const f = app.querySelector('.land > .band.dark') || app.querySelector('.land > .lfoot'); if (f) f.before(STEXT); else app.appendChild(STEXT); } else STEXT.remove(); }
     fillMinis(app);
     if (sc === 'edit') startEditor();
     if (sc === 'making' && DEMO) runMaking();

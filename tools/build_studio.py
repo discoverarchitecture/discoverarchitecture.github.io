@@ -1,6 +1,7 @@
 """Studio FGA pages (site/studio/): the three legal pages, the flow's static wording and the ?v= fingerprints.
 
-    python3 tools/build_studio.py                      # the flow's wording (tools/studio_flow.py) and the ?v= stamps
+    python3 tools/build_studio.py                      # the flow's wording (tools/studio_flow.py), the <noscript> copy
+                                                       # of the page's plain text, and the ?v= stamps
     python3 tools/build_studio.py --legal PATH         # also rewrite terms/, privacy/, refund/ from a legal.js
 
 The flow (site/studio/config.js STUDIO_FLOW, "paywall" or "preview") picks the static wording everywhere crawlers read it
@@ -69,6 +70,36 @@ def legal_pages(path):
         print("wrote", os.path.relpath(os.path.join(out, "index.html"), ROOT))
 
 
+TEXT_START, TEXT_END = "<!-- studio-text:start -->", "<!-- studio-text:end -->"
+COPY_START, COPY_END = "<!-- studio-text:copy:start", "<!-- studio-text:copy:end -->"
+
+
+def sync_text():
+    """The studio page's plain text (how it works, what you get, pricing, FAQ, guides) is written once, in the
+    <section id="studio-text"> that every visitor sees (owner, 10 Nov 2026), and copied word for word into the
+    <noscript> block for AI crawlers that don't run scripts. Edit the section; this rewrites the copy."""
+    p = os.path.join(STUDIO, "index.html")
+    s = open(p, encoding="utf-8").read()
+    a = s.index(TEXT_START) + len(TEXT_START)
+    text = s[a:s.index(TEXT_END, a)]
+    copy = re.sub(r'(<h[23]) id="[^"]*"', r"\1", text)          # the section's anchors (#faq) stay in the section only
+    c0 = s.index(COPY_START)
+    c0 = s.index("-->", c0) + 3
+    c1 = s.index(COPY_END, c0)
+    if s[c0:c1] != copy:
+        s = s[:c0] + copy + s[c1:]
+        open(p, "w", encoding="utf-8").write(s)
+        print("synced the <noscript> copy of the studio page's text")
+    # the FAQPage data must say what the page says (Google asks for it): every question and answer, word for word
+    ld = json.loads(s[s.index('<script type="application/ld+json">') + 35:s.index("</script>", s.index("application/ld+json"))])
+    faq = next(g for g in ld["@graph"] if g["@type"] == "FAQPage")["mainEntity"]
+    plain = html.unescape(re.sub(r"<[^>]+>", "", text)).replace("'", "’")
+    for q in faq:
+        for t in (q["name"], q["acceptedAnswer"]["text"]):
+            if t not in plain:
+                raise SystemExit("studio page: the FAQ data says %r, which the page's text doesn't" % t)
+
+
 def stamp():
     """Every local script and style sheet named with ?v= gets the first 8 hex of its content's hash."""
     pages = [os.path.join(STUDIO, "index.html")] + [os.path.join(STUDIO, k, "index.html") for k in ("terms", "privacy", "refund")]
@@ -92,6 +123,7 @@ def stamp():
 if __name__ == "__main__":
     import studio_flow
     studio_flow.apply()   # the static wording follows config.js STUDIO_FLOW
+    sync_text()
     if "--legal" in sys.argv:
         legal_pages(os.path.expanduser(sys.argv[sys.argv.index("--legal") + 1]))
     stamp()
