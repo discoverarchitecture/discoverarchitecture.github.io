@@ -71,3 +71,45 @@ Round 8 (todo_22-24, 7 Nov 2026): credits and years the quoted sources give diff
 | seinajoki-civil-guard-house | designed 1924-26 / built 1924-29. |
 | karlskirche-vienna | begun 1715 or 1716; completed 1737. |
 | sprinkenhof-hamburg | 1927-1943. |
+
+## Second pass, 10 Nov 2026 (wall vs the Wikipedia page used; the write-ups leave the disputed fact out)
+
+| id | what the page says |
+|---|---|
+| hillside-terrace | Fumihiko Maki page says six phases, Metabolism page says seven |
+| 25-bis-rue-franklin | Auguste Perret page says 1903 and 1902-1904 for the apartment building; wall says 1904 |
+| dominus-winery | page says built 1996, wall says 1997 |
+| dutch-pavilion-venice-biennale | page says rebuilt 1953, wall says 1954 |
+| cabanon-de-le-corbusier | page says 1951, wall says 1952 |
+| orgues-de-flandre | page names the architect 'Martin van Trek', wall says Martin Schulz van Treeck (spelling) |
+| hiroshima-moca | page says museum founded/opened 1989, wall says 1988 |
+| tomb-of-nader-shah | page says completed 1963, wall says 1959 |
+| beira-railway-station | page says built 1958-1966 and adds a third architect, João Garizo de Carmo; wall lists Paulo de Melo Sampaio and Francisco Castro, 1966 |
+| benedictine-monastery-chapel | page is about the whole monastery, not only the chapel; page says designed 1961, built 1962-1964 |
+| gallery-of-modern-art | page says Architectus (Sydney), wall says Kerry Clare, Lindsay Clare |
+| central-bank-of-ireland-dublin | page says built 1975 (head office there from 1979), wall says 1978 |
+| adria-palace | page says built 1925 (list gives 1923-1924), wall says 1924 |
+| basilica-del-salvador | page says renovated 1932 (original date not given), wall says 1932 |
+| pantheon | page says dedicated c. AD 126, wall says 125 |
+| torino-esposizioni-hall-b | page says primarily completed in 1948, wall says 1949 |
+| jongmyo-shrine | page says main buildings constructed October 1394, wall says 1395 |
+| toulouse-school-of-economics | page says new building unveiled in 2020, wall says 2019 |
+| nanjing-international-youth-cultural-centre | page says construction ended 2015, wall says 2018 |
+| estadio-universitario-de-caracas | page says built in 1952, wall says 1951 |
+| oscar-niemeyer-museum | page says inaugurated 2002 as Novo Museu and reinaugurated 2003 with the annex, wall says 2002 |
+| gosstrakh-apartments | page says designed 1926, wall says 1927 |
+| l-arbre-blanc | page says 2017 (est.), wall says 2019 |
+| national-theatre-lagos | page says designed and built by Bulgarian company Techno Exporstroy and does not name Stefan Kolchev |
+| st-louis-lambert-international-airport-terminal-1 | page names Minoru Yamasaki as designer; wall credits Hellmuth, Yamasaki & Leinweber |
+| menara-tabung-haji | page says completed 1984, wall says 1986 |
+| skopje-telecommunications-centre | page says built in stages 1974-1989 (list: 1972-1974 and 1979-1980), wall says 1981 |
+| pavillon-noir | page says designed 1999 and company moved in 2007, wall says 2006 |
+| new-library-magdalene-college | page says opened 2 July 2022, wall says 2021 |
+| lochal | page says designed by Mecanoo, wall says Civic Architects, Braaksma & Roos, Inside Outside |
+| max-aicher-arena | page says outdoor rink opened 1965, wall says 2011 (indoor arena) |
+| santa-justa-station | page says opened 1991 (also gives the line as opened 1992), wall says 1991; page does not name the architect |
+| institute-for-marine-and-antarctic-studies | page says building completed 2013, wall says 2014 |
+| iida-city-museum | page says opened 1989, wall says 1988 |
+| sinan-pasha-mosque-istanbul | page says completed 1555 (work began after Sinan Pasha's death in 1554), wall says 1554 |
+| naturtheater-grotzingen | Aichtal page says the concrete dome was built in 1978; Naturtheater page says 1954 (wall says 1954) |
+| sydney-modern | the north building is named "Naala Badu" in the quote; the wall name field says "Naala Nura" |

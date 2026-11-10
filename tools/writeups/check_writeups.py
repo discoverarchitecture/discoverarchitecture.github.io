@@ -35,8 +35,11 @@ def main():
     cut = args.index('--')
     facts = {}
     for f in args[:cut]:
-        for r in json.loads(Path(f).read_text()):
-            facts[r['id']] = r
+        for r in json.loads(Path(f).read_text()):  # a building tried in two rounds keeps the facts of both
+            if r['id'] in facts:
+                facts[r['id']] = {**r, 'facts': facts[r['id']].get('facts', []) + r.get('facts', [])}
+            else:
+                facts[r['id']] = r
     W, bad, n = wall(), 0, 0
     import hashlib
     rv = Path(__file__).resolve().parent / 'reviewed.txt'  # flags checked by eye, tied to the exact text

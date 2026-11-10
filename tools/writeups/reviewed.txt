@@ -171,3 +171,5 @@ oakland-city-hall | 6895c9c5b20d
 old-faithful-inn | 716434369ffd
 villa-kenwin | 56a39e92c5fa
 renaat-braem-house | cab680a3571b
+nur-alem | d493558deac1
+kadokawa-culture-museum | a589bee7cec1
