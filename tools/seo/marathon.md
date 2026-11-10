@@ -122,8 +122,17 @@ disables the routine.
       nothing.
 - [ ] E. `site/llms.txt`: one plain line that every building page now has a sourced "About the building" paragraph
       (no totals); add the four guides if missing. Small PR; check the live file after the deploy.
+- [ ] H. (Owner, 10 Nov: "make these now, we can upload later") Write-ups second pass on the 627 indexable pages still
+      without one: articles fetching on `claude/writeups-retry1` (request "r1 r2 r3 r4 r5"); then the usual three passes
+      (facts with exact quotes, writing, strict fact-check; scratchpad `wu10/`, copy tools from `wu9/`), merge into
+      `writeups.json` with `added`, `check_writeups.py` passing, rebuild, and open the pull request **without merging**:
+      the owner publishes it. Give each agent its own scratch folder.
+- [ ] I. (Owner, 10 Nov) Next Studio guide, "How to do an architecture site analysis"
+      (`tools/studio_guides/architecture-site-analysis.md`, built by `tools/build_guides.py`): checked at 390 px and
+      desktop, day and night; pull request opened **without merging**, for the owner to approve.
 - [ ] F. Outreach check (separate routine, Tue 14:30 UTC): replies, bounces, report. Nothing to do here.
 - [ ] G. Final report to the owner (short), then disable the routine.
 
 ## Log (second run)
 - 10 Nov 08:50 UTC: plan written at the owner's request; routine re-enabled every 3 hours until 11 Nov 09:00 UTC.
+- 10 Nov ~09:05 UTC: owner asked for the write-ups second pass and the next guide now, published later (tasks H, I). Second-pass fetch restarted; guide draft being written.
