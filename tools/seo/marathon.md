@@ -110,7 +110,7 @@ no write-up rounds (the owner dropped the second pass), no new guide (one a week
 visible change to the site without the owner's yes, no new routines. The last check-in reports to the owner and
 disables the routine.
 
-- [ ] A. Bing, ChatGPT search, Copilot and DuckDuckGo: send the whole sitemap through IndexNow (a manual run of
+- [x] A. Bing, ChatGPT search, Copilot and DuckDuckGo: send the whole sitemap through IndexNow (a manual run of
       `pages.yml` does it), so the 1,771 write-up pages are re-read. Check the run succeeded.
 - [ ] B. Keep the numbers coming: run `analytics.yml` and `search-console.yml` by hand once a day (GitHub only, no
       Claude time); note in the log Google's impressions and clicks for the last days and any change in `indexing.json`.
@@ -127,7 +127,7 @@ disables the routine.
       (facts with exact quotes, writing, strict fact-check; scratchpad `wu10/`, copy tools from `wu9/`), merge into
       `writeups.json` with `added`, `check_writeups.py` passing, rebuild, and open the pull request **without merging**:
       the owner publishes it. Give each agent its own scratch folder.
-- [ ] I. (Owner, 10 Nov) Next Studio guide, "How to do an architecture site analysis"
+- [x] I. (Owner, 10 Nov) Next Studio guide, "How to do an architecture site analysis"
       (`tools/studio_guides/architecture-site-analysis.md`, built by `tools/build_guides.py`): checked at 390 px and
       desktop, day and night; pull request opened **without merging**, for the owner to approve.
 - [ ] F. Outreach check (separate routine, Tue 14:30 UTC): replies, bounces, report. Nothing to do here.
@@ -136,3 +136,4 @@ disables the routine.
 ## Log (second run)
 - 10 Nov 08:50 UTC: plan written at the owner's request; routine re-enabled every 3 hours until 11 Nov 09:00 UTC.
 - 10 Nov ~09:05 UTC: owner asked for the write-ups second pass and the next guide now, published later (tasks H, I). Second-pass fetch restarted; guide draft being written.
+- 10 Nov 09:15 UTC: A done (manual deploy run 161 at 08:47 succeeded; IndexNow sent the whole sitemap). I done differently: the owner asked to merge the two site-analysis guides, so the new text went into the existing page (PR #199, not merged; draft #198 closed). Also merged #197: four guides no longer promise a free preview. Next: B.
