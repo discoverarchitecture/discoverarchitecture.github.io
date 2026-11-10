@@ -23,6 +23,8 @@ ROOT = Path(__file__).resolve().parent.parent
 RESULTS = ROOT / 'tools' / 'architect_bios' / 'results'
 LOGOS = {'wikipedia': 'wikipedia.png', 'archdaily': 'archdaily.png', 'dezeen': 'dezeen.png', 'divisare': 'divisare.png',
          'wikiarquitectura': 'wikiarquitectura.svg', 'archinform': 'archinform.png'}
+LOGO_NAMES = {'wikipedia': 'Wikipedia', 'archdaily': 'ArchDaily', 'dezeen': 'Dezeen', 'divisare': 'Divisare',
+              'wikiarquitectura': 'WikiArquitectura', 'archinform': 'archINFORM'}
 OWN_SITE = re.compile(r'foundation|fundação|fondation|fondazione|stiftung|studio|partners|architects|workshop|projects|oma\b|office', re.I)
 IDEA_CHIPS = 9
 
@@ -107,7 +109,7 @@ def tile(bp, b, up, swipe=False):
     city = b['place'].split(',')[0]
     ideas = '|'.join(b.get('concepts') or [])
     r = ratio_of(b)
-    img = (f'<img src="{bp.e(bp.at(up, im["thumb"]))}" width="{im["w"]}" height="{im["h"]}" loading="lazy" decoding="async" alt="">'
+    img = (f'<img src="{bp.e(bp.at(up, im["thumb"]))}" width="{im["w"]}" height="{im["h"]}" loading="lazy" decoding="async" alt="{bp.e(b["name"])}, {bp.e(city)}">'
            if im else '<span class="slot">No free photos yet</span>')
     label = f'{b["name"]}, {b["by"]}, {b["year"]}, {city}'
     flips = ('<button type="button" class="flip prev" aria-label="Previous photo"><svg viewBox="0 0 24 24"><path d="M15 5l-7 7 7 7"/></svg></button>'
@@ -151,7 +153,7 @@ def link_logo(bp, lk, name, up):
     site = (lk.get('site') or '').lower()
     for k, f in LOGOS.items():
         if k in site:
-            return f'<img src="{up}images/logos/c/{f}" alt="" width="22" height="22">'
+            return f'<img src="{up}images/logos/c/{f}" alt="{LOGO_NAMES.get(k, k)} logo" aria-hidden="true" width="22" height="22">'
     if OWN_SITE.search(lk.get('site') or '') or name.split()[-1].lower() in site:
         return ('<svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><circle cx="12" cy="12" r="9"/>'
                 '<path d="M3 12h18M12 3c2.6 2.8 3.8 5.8 3.8 9s-1.2 6.2-3.8 9c-2.6-2.8-3.8-5.8-3.8-9S9.4 5.8 12 3z"/></svg>')
@@ -410,7 +412,7 @@ def page(bp, plans, key, ctx):
     bks = books_for(bp, key, ctx['nm'], ctx['books'])
     bk = ''.join(
         f'<a class="bk" href="{up}#book:{bp.e(b["id"])}"><span class="cv">' +
-        (f'<img src="{bp.e(bp.at(up, b["cover"]["thumb"]))}" alt="" loading="lazy" width="78" height="117">' if b.get('cover') and b['cover'].get('thumb')
+        (f'<img src="{bp.e(bp.at(up, b["cover"]["thumb"]))}" alt="Cover of {bp.e(b["title"])}" aria-hidden="true" loading="lazy" width="78" height="117">' if b.get('cover') and b['cover'].get('thumb')
          else f'<span class="standin">{bp.e(b["title"].split(":")[0])}</span>') +
         f'</span><span class="bt">{bp.e(b["title"])}<small>{bp.e(b["by"])}, {bp.e(b["year"])}</small></span></a>' for b in bks)
     books = f'<section class="blk"><h2>Books to read</h2><div class="books">{bk}</div></section>' if bk else ''

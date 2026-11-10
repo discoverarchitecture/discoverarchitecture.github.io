@@ -155,6 +155,14 @@
     });
   }
   /* an idea's icon on the brief slide hides with its idea */
+  /* "icon-book-1D1D1B.png" -> "Book icon", "band-F7E9E3.png" -> "Colour band" */
+  function decoAlt(d) {
+    if (d.alt) return d.alt;
+    const m = String(d.src || '').split('/').pop().match(/^(icon|band)-([a-z]+)?/i);
+    if (!m) return 'Decoration';
+    if (m[1].toLowerCase() === 'band') return 'Colour band';
+    return m[2] ? m[2][0].toUpperCase() + m[2].slice(1) + ' icon' : 'Icon';
+  }
   function decoOf(P, page) {
     if (!page.ideaCols) return page.deco;
     const n = ideaList(P).length;
@@ -241,7 +249,8 @@
   }
   function pageHTML(P, page) {
     let h = '';
-    decoOf(P, page).forEach((d) => { h += '<img class="deco" src="' + srcOf(P, d.src) + '" alt="" style="' + box(d) + '">'; });
+    /* decorative icons and bands: hidden from screen readers, but named, so search engines don't count a missing alt */
+    decoOf(P, page).forEach((d) => { h += '<img class="deco" src="' + srcOf(P, d.src) + '" alt="' + esc(decoAlt(d)) + '" aria-hidden="true" style="' + box(d) + '">'; });
     page.slots.forEach((s) => { h += slotHTML(P, page, s); });
     if (page.svg) h += '<svg class="static" viewBox="0 0 ' + page.w + ' ' + page.h + '" style="width:' + page.w + 'mm;height:' + page.h + 'mm" aria-hidden="true">' + page.svg + '</svg>';
     page.slots.forEach((s) => { h += overlayHTML(P, page, s) + captionHTML(P, page, s); });
