@@ -100,15 +100,18 @@ EVENT_PREFIXES = ('/studio', 'studio/', 'map/', '/play', 'play/')
 def event_paths():
     """{id: path} for every counted path that starts with EVENT_PREFIXES. GoatCounter's /paths lists the site's paths by
     ID, 200 at a time (stats/hits lost its `filter` parameter, 10 Nov 2026)."""
-    out, after = {}, 0
+    out, after, seen, pages = {}, 0, set(), 0
     for _ in range(200):  # at most 40,000 paths
         time.sleep(1)
         data = get('paths', attempts=2, timeout=25, waits=(20,), limit=200, **({'after': after} if after else {}))
-        ps = data.get('paths') or []
+        ps = [p for p in data.get('paths') or [] if p['id'] not in seen]
+        pages += 1
+        seen.update(p['id'] for p in ps)
         out.update({p['id']: p['path'] for p in ps if (p.get('path') or '').startswith(EVENT_PREFIXES)})
         if not data.get('more') or not ps:
             break
-        after = ps[-1]['id']
+        after = max(p['id'] for p in ps)
+    print(f'Paths: {len(seen)} listed in {pages} pages (more={data.get("more")}), {len(out)} of them events')
     return out
 
 
