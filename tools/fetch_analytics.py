@@ -97,22 +97,28 @@ def signups(out, start, end, event='studio/signup'):
 EVENT_PREFIXES = ('/studio', 'studio/', 'map/', '/play', 'play/')
 
 
-def event_paths():
-    """{id: path} for every counted path that starts with EVENT_PREFIXES. GoatCounter's /paths lists the site's paths by
-    ID, 200 at a time (stats/hits lost its `filter` parameter, 10 Nov 2026)."""
-    out, after, seen, pages = {}, 0, set(), 0
-    for _ in range(200):  # at most 40,000 paths
+def event_names(out, start, end):
+    """The event paths to count: those among the 100 busiest paths of the window, those already in events.csv, and those
+    GoatCounter's /paths lists. stats/hits lost its `filter` parameter (10 Nov 2026), and /paths turned out to list only
+    a few hundred paths, so no single source is complete."""
+    names = set()
+    time.sleep(1)
+    top = get('stats/hits', attempts=2, timeout=25, waits=(20,), start=start, end=end, limit=100)
+    names.update(h.get('path') or '' for h in top.get('hits') or [])
+    path = os.path.join(out, 'events.csv')
+    if os.path.exists(path):
+        with open(path, newline='') as f:
+            names.update(r['path'] for r in csv.DictReader(f))
+    after = 0
+    for _ in range(50):
         time.sleep(1)
         data = get('paths', attempts=2, timeout=25, waits=(20,), limit=200, **({'after': after} if after else {}))
-        ps = [p for p in data.get('paths') or [] if p['id'] not in seen]
-        pages += 1
-        seen.update(p['id'] for p in ps)
-        out.update({p['id']: p['path'] for p in ps if (p.get('path') or '').startswith(EVENT_PREFIXES)})
+        ps = data.get('paths') or []
+        names.update(p.get('path') or '' for p in ps)
         if not data.get('more') or not ps:
             break
         after = max(p['id'] for p in ps)
-    print(f'Paths: {len(seen)} listed in {pages} pages (more={data.get("more")}), {len(out)} of them events')
-    return out
+    return sorted(n for n in names if n.startswith(EVENT_PREFIXES))
 
 
 def events(out, start, end):
@@ -120,11 +126,11 @@ def events(out, start, end):
     refresh). Only paths that start with EVENT_PREFIXES are kept. Warns on failure."""
     days = {}
     try:
-        ids = sorted(event_paths())
-        for i in range(0, len(ids), 50):
+        names = event_names(out, start, end)
+        for i in range(0, len(names), 40):
             time.sleep(1)
-            data = get('stats/hits', attempts=2, timeout=25, waits=(20,), start=start, end=end,
-                       include_paths=[str(x) for x in ids[i:i + 50]], daily='true', limit=100)
+            data = get('stats/hits', attempts=2, timeout=25, waits=(20,), start=start, end=end, include_paths=names[i:i + 40],
+                       path_by_name='true', daily='true', limit=100)
             for h in data.get('hits') or []:
                 if not (h.get('path') or '').startswith(EVENT_PREFIXES):
                     continue
