@@ -26,6 +26,9 @@ Also paused on 28 Oct 2026, though not part of this project: "PlaceCom Morning D
 
 ## GitHub Actions timers (paused by commenting out `schedule:`; resume by uncommenting it)
 
+**Resumed by the owner on 10 Nov 2026:** both timers below run again (analytics every 6 hours, Search Console daily).
+The Claude routines above are still paused.
+
 | Workflow | What it did | When |
 |---|---|---|
 | `.github/workflows/analytics.yml` (Fetch analytics) | Saved GoatCounter visitor numbers on the `analytics-data` branch | Every 6 hours |

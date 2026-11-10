@@ -288,11 +288,33 @@ STUDIO_BANNER = {
 }
 
 
+# Guides that suit a page about buildings (owner, 10 Nov 2026): a student looking up a building, an architect or a style is
+# usually making a precedent study, a concept diagram or a jury board. Building pages show them in the Studio FGA banner,
+# architect and hub pages as a block in the left column (study_guides_blk). Paths are from the site root.
+STUDY_GUIDES = [
+    ('How to do a precedent study', 'guides/precedent-study/'),
+    ('How to lay out an A1 board', 'studio/guides/how-to-lay-out-an-a1-architecture-board/'),
+    ('Concept diagram ideas', 'studio/guides/architecture-concept-diagram-ideas/'),
+    ('Jury presentation tips', 'studio/guides/architecture-jury-presentation-tips/'),
+]
+
+
+def study_guides(up):
+    return ' · '.join(f'<a href="{up}{h}">{e(t)}</a>' for t, h in STUDY_GUIDES)
+
+
+def study_guides_blk(up):
+    """The guides block in the left column of architect and hub pages."""
+    return (f'<section class="blk guides"><h2>Guides for your project</h2><p class="sim">{study_guides(up)}</p>'
+            f'<p class="hint"><a href="{up}guides/">All guides →</a></p></section>')
+
+
 def studio_banner(up):
     s = STUDIO_BANNER
     return (f'<aside class="block studio-banner" aria-labelledby="studio-banner-h" data-nosnippet><div class="sb-box">'
             f'<h2 id="studio-banner-h">{e(s["heading"])}</h2><p>{e(s["text"])}</p>'
-            f'<a class="sb-go" href="{e(up + s["link"])}">{e(s["link_text"])}</a></div></aside>\n')
+            f'<a class="sb-go" href="{e(up + s["link"])}">{e(s["link_text"])}</a>'
+            f'<p class="sb-guides">Free guides: {study_guides(up)}</p></div></aside>\n')
 
 
 def legal_foot(up):
