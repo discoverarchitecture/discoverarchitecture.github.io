@@ -38,7 +38,7 @@ addresses here (the repository is public). Send about five a day; one short foll
 | 30 | Emory University | Architect and the City guide | 2026-11-07 | 2026-11-09 |  |
 | 31 | New Jersey Institute of Technology | Finding Images in Architecture guide | 2026-11-07 | 2026-11-09 |  |
 | 32 | University of Melbourne | Architectural History guide | 2026-11-07 | 2026-11-09 |  |
-| 33 | University College London | Architecture library guide | 2026-11-07 | 2026-11-09 |  |
+| 33 | University College London | Architecture library guide | 2026-11-07 | 2026-11-09 | yes: will add it to the architecture guide's list of databases, with our name (Bartlett Library, 10 Nov); thanked 10 Nov |
 | 34 | Falmouth University and University of Exeter (FX Plus) | Architecture and Interiors guide | 2026-11-07 | 2026-11-09 |  |
 | 35 | California State University, San Bernardino | Image Resources guide | 2026-11-07 | 2026-11-09 |  |
 | 36 | Iowa State University | Architecture research guide | 2026-11-07 | 2026-11-09 |  |
