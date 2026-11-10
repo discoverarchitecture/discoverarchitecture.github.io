@@ -27,7 +27,7 @@ def get(path, attempts=5, timeout=40, waits=(15, 45, 90, 120), **params):
     """One GoatCounter request. On a reset connection or a busy server it waits (the pause grows) and tries again.
     GoatCounter sometimes answers a moment's 404 for a page that exists (stats/total, 18 and 19 Oct 2026), so a 404
     is tried again too; a path that is really wrong still fails after the last try."""
-    url = f'{API}/{path}?' + urllib.parse.urlencode(params, doseq=True)
+    url = f'{API}/{path}?' + urllib.parse.urlencode(params)
     req = urllib.request.Request(url, headers={'Authorization': 'Bearer ' + os.environ['GOATCOUNTER_TOKEN'],
                                                'Accept': 'application/json', 'Content-Type': 'application/json', 'User-Agent': 'discoverarchitecture-analytics'})
     for attempt in range(attempts):
@@ -68,7 +68,7 @@ def signups(out, start, end, event='studio/signup'):
     A failure here only warns: it must never cost the daily visits."""
     try:
         time.sleep(1)
-        data = get('stats/hits', attempts=2, timeout=25, waits=(20,), start=start, end=end, include_paths=[event],
+        data = get('stats/hits', attempts=2, timeout=25, waits=(20,), start=start, end=end, include_paths=event,
                    path_by_name='true', daily='true', limit=20)
     except SystemExit as e:
         print(f'::warning::waitlist sign-ups could not be fetched ({e}); keeping the numbers saved earlier')
@@ -129,7 +129,7 @@ def events(out, start, end):
         names = event_names(out, start, end)
         for i in range(0, len(names), 40):
             time.sleep(1)
-            data = get('stats/hits', attempts=2, timeout=25, waits=(20,), start=start, end=end, include_paths=names[i:i + 40],
+            data = get('stats/hits', attempts=2, timeout=25, waits=(20,), start=start, end=end, include_paths=','.join(names[i:i + 40]),
                        path_by_name='true', daily='true', limit=100)
             for h in data.get('hits') or []:
                 if not (h.get('path') or '').startswith(EVENT_PREFIXES):
