@@ -15,10 +15,10 @@ OUT = os.path.join(ROOT, 'tools', 'photos', 'resolved.json')
 
 
 def api(**p):
-    url = CM + '?' + urllib.parse.urlencode({**p, 'format': 'json', 'formatversion': 2})
+    body = urllib.parse.urlencode({**p, 'format': 'json', 'formatversion': 2}).encode()  # POST: long file names
     for k in range(5):
         try:
-            with urllib.request.urlopen(urllib.request.Request(url, headers={'User-Agent': UA}), timeout=60) as r:
+            with urllib.request.urlopen(urllib.request.Request(CM, data=body, headers={'User-Agent': UA}), timeout=60) as r:
                 return json.load(r)
         except Exception as e:
             print('retry', k, e, flush=True); time.sleep(20 * (k + 1))

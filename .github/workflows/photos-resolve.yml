@@ -17,7 +17,8 @@ jobs:
       - name: Look up photo addresses
         run: python3 -u tools/photos/resolve.py
       - name: Commit
+        if: always()
         run: |
-          git add tools/photos/resolved.json tools/photos/resolve_report.md
+          git add tools/photos/resolved.json tools/photos/resolve_report.md 2>/dev/null || git add tools/photos/resolved.json || exit 0
           git -c user.name="github-actions[bot]" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" commit -q -m "Photo addresses looked up on Wikimedia" || exit 0
           git push
