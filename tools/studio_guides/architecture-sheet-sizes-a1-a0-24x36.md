@@ -93,7 +93,7 @@ Whatever you choose, use the same size, orientation and grid for every board in 
 - **Print an A3 or tabloid check** first. It catches missing images, stray layers and text that is too small.
 - **Plot the evening before**, not the morning of, so a jammed plotter or a queue doesn't decide your jury. The [48-hour jury plan](guide:architecture-jury-preparation-48-hours) leaves time for it.
 
-If your drawings are ready, [Studio FGA](/studio/) can set them on an A1 board with a matching jury deck, so you have a first layout to adjust to your school's sheet; the preview is free.
+If your drawings are ready, [Studio FGA](/studio/) can set them on an A1 board with a matching jury deck, so you have a first layout to adjust to your school's sheet, from $6.49.
 
 ## FAQ
 

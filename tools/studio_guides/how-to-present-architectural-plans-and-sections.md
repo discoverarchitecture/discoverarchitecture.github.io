@@ -5,7 +5,7 @@ seo_title: How to Present Architectural Plans and Sections
 description: Make plans and sections read on a board: line weights from the cut outward, consistent poché, scale bars and labels, and one accent colour.
 kicker: Drawings
 published: 2026-11-05
-related: how-to-lay-out-an-a1-architecture-board, a1-sheet-layout-ideas, architecture-portfolio-vs-jury-board, architecture-concept-diagram-ideas
+related: how-to-lay-out-an-a1-architecture-board, a1-sheet-layout-ideas, architecture-portfolio-vs-jury-board, architecture-presentation-fonts-and-colours
 ---
 A plan or section reads clearly when the eye can tell, instantly, what is cut, what is seen beyond, and what is far away. That comes down to three things: a line-weight hierarchy that starts at the cut, poché that is consistent across every drawing, and restraint with colour. None of it needs special software, only a few decisions made once and applied everywhere.
 

@@ -151,6 +151,9 @@ img { max-width: 100%; display: block; }
 .studio-banner .sb-go { display: inline-flex; align-items: center; min-height: 44px; padding: 0 16px; border: 1px solid var(--edge); border-radius: var(--r); background: var(--surface); color: var(--ink); font: 600 15px var(--sans); text-decoration: none; }
 .studio-banner .sb-go:focus-visible { outline: 2px solid var(--red); outline-offset: 2px; }
 @media (hover: hover) { .studio-banner .sb-go:hover { border-color: var(--red); color: var(--red); } }
+.studio-banner .sb-guides { font: 400 15px/1.7 var(--sans); color: var(--graphite); }
+.studio-banner .sb-guides a { color: var(--ink); }
+@media (hover: hover) { .studio-banner .sb-guides a:hover { color: var(--red); } }
 
 /* ---------- the building page as the opened building on the wall (v27 · 02 "One with the wall", approved 20 Oct 2026) ----------
    The portrait byline and the country map, the key features, three small threads (today's game, the globe, an idea),
