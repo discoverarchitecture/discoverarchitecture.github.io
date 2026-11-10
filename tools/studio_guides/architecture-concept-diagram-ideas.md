@@ -90,7 +90,7 @@ Lines or cones from key points to what they look at: the view from the entrance 
 
 Put each diagram next to the drawing it explains: the circulation diagram beside the plan, the light diagram beside the section. The source-to-form and massing diagrams usually sit near the title and the project statement, because they introduce the idea. A [left spine or a section band layout](guide:a1-sheet-layout-ideas) gives them a natural place.
 
-If you have the drawings but not the time to set the board, [Studio FGA](/studio/) cleans up your own diagrams and sketches, lays them out on an A1 board next to the drawings they explain, and builds the matching jury deck; the preview is free.
+If you have the drawings but not the time to set the board, [Studio FGA](/studio/) cleans up your own diagrams and sketches, lays them out on an A1 board next to the drawings they explain, and builds the matching jury deck, from $6.49.
 
 ## FAQ
 

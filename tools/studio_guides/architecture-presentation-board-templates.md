@@ -91,7 +91,7 @@ Set custom dimensions in millimetres or inches, add your own grid with guides, a
 - Use the same template for every board in a set, but not necessarily for every project in your portfolio.
 - Check font licences on downloaded templates; a font that isn't on the plotting computer will be swapped for a default.
 
-For eight arrangements to place on your grid, see [A1 sheet layout ideas](guide:a1-sheet-layout-ideas). If you would rather start from a first layout made from your own drawings, [Studio FGA](/studio/) sets them on an A1 board with a matching jury deck that you can then edit; the preview is free.
+For eight arrangements to place on your grid, see [A1 sheet layout ideas](guide:a1-sheet-layout-ideas). If you would rather start from a first layout made from your own drawings, [Studio FGA](/studio/) sets them on an A1 board with a matching jury deck that you can then edit, from $6.49.
 
 ## FAQ
 
