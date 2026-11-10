@@ -122,7 +122,7 @@ disables the routine.
       nothing.
 - [ ] E. `site/llms.txt`: one plain line that every building page now has a sourced "About the building" paragraph
       (no totals); add the four guides if missing. Small PR; check the live file after the deploy.
-- [ ] H. (Owner, 10 Nov: "make these now, we can upload later") Write-ups second pass on the 627 indexable pages still
+- [x] H. (Owner, 10 Nov: "make these now, we can upload later") Write-ups second pass on the 627 indexable pages still
       without one: articles fetching on `claude/writeups-retry1` (request "r1 r2 r3 r4 r5"); then the usual three passes
       (facts with exact quotes, writing, strict fact-check; scratchpad `wu10/`, copy tools from `wu9/`), merge into
       `writeups.json` with `added`, `check_writeups.py` passing, rebuild, and open the pull request **without merging**:
@@ -137,3 +137,4 @@ disables the routine.
 - 10 Nov 08:50 UTC: plan written at the owner's request; routine re-enabled every 3 hours until 11 Nov 09:00 UTC.
 - 10 Nov ~09:05 UTC: owner asked for the write-ups second pass and the next guide now, published later (tasks H, I). Second-pass fetch restarted; guide draft being written.
 - 10 Nov 09:15 UTC: A done (manual deploy run 161 at 08:47 succeeded; IndexNow sent the whole sitemap). I done differently: the owner asked to merge the two site-analysis guides, so the new text went into the existing page (PR #199, not merged; draft #198 closed). Also merged #197: four guides no longer promise a free preview. Next: B.
+- 10 Nov ~12:30 UTC: H done: 147 new write-ups (1,918 in all), PR #207, not merged (owner publishes). Also merged with the owner's yes: #202 (photos from Wikimedia, site 949 → 458 MB) and #205 (robots.txt keeps crawlers off /?q= searches).
