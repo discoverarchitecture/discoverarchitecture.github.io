@@ -101,3 +101,29 @@ Rules that hold the whole time (CLAUDE.md):
 - 7 Nov 20:15 UTC check-in: round 8 articles landed (298, todo_22-24). Six agents take quotes into scratchpad wu9/facts_a..f.json.
 - 7 Nov ~21:00 UTC: round 8 done and **merged (PR #186)**: 222 more write-ups, **1,771 in all**; every indexable building page has now been tried once. 67 credit/year/Key-features notes (PR #187, merged). Second pass started (task 18) on the 627 still without one.
 - 7 Nov ~22:00 UTC: **marathon stopped early at the owner's request** (save compute). Second-pass fetch cancelled; routine trig_01SP4cYZG3qmjtpp1817PWS2 disabled. Owner asked for indexing instead: the 1,771 write-up pages were already indexable, so the sitemap now dates each (`<lastmod>`) and tools/seo/request_indexing.md lists 50 for Search Console (PR #188, merged). Final report sent in the chat.
+
+# Second run, 10–11 Nov 2026 (owner: "whatever we can do for SEO, keep it running, even if the session ends")
+
+Ends **Wed 11 Nov 2026, 09:00 UTC**. The same routine (trig_01SP4cYZG3qmjtpp1817PWS2) wakes the SEO strategy chat
+every 3 hours; each check-in does the first unfinished task below, ticks it, logs one line and pushes. Low compute:
+no write-up rounds (the owner dropped the second pass), no new guide (one a week; the next is due about 14 Nov), no
+visible change to the site without the owner's yes, no new routines. The last check-in reports to the owner and
+disables the routine.
+
+- [ ] A. Bing, ChatGPT search, Copilot and DuckDuckGo: send the whole sitemap through IndexNow (a manual run of
+      `pages.yml` does it), so the 1,771 write-up pages are re-read. Check the run succeeded.
+- [ ] B. Keep the numbers coming: run `analytics.yml` and `search-console.yml` by hand once a day (GitHub only, no
+      Claude time); note in the log Google's impressions and clicks for the last days and any change in `indexing.json`.
+- [ ] C. Students' missing buildings: from Search Console queries (`search_console/latest.json`) and `search/none/...`
+      events (GoatCounter), list the buildings and architects students look for that the wall lacks or ranks badly for.
+      Write `tools/seo/missing_buildings.md` and send the list to the data collection chat. No site change.
+- [ ] D. Roundup outreach (35 blogs in `tools/outreach/roundups.json`): pick the ones with a real editor and a public
+      contact route, and write one short template in `tools/outreach/ROUNDUPS_EMAIL.md` for the owner to approve. Send
+      nothing.
+- [ ] E. `site/llms.txt`: one plain line that every building page now has a sourced "About the building" paragraph
+      (no totals); add the four guides if missing. Small PR; check the live file after the deploy.
+- [ ] F. Outreach check (separate routine, Tue 14:30 UTC): replies, bounces, report. Nothing to do here.
+- [ ] G. Final report to the owner (short), then disable the routine.
+
+## Log (second run)
+- 10 Nov 08:50 UTC: plan written at the owner's request; routine re-enabled every 3 hours until 11 Nov 09:00 UTC.
