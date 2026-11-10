@@ -181,7 +181,7 @@
     hero: { k: 'Hero', q: 'What’s the hero of your project?', sub: 'Decides which diagrams AI Studio proposes.', o: [['The big idea', 'Leads with a concept diagram'], ['Form & structure', 'Leads with an axonometric and a section'], ['Site & context', 'Leads with the site plan and context'], ['People & life', 'Leads with views full of people']] },
     proud: { k: 'Proudest', q: 'Which drawing are you proudest of?', sub: 'AI Studio found these in your files. Your pick gets the biggest slot.', thumbs: true, o: null },
     pers: { k: 'Personality', q: 'Your project’s personality?', sub: 'Pre-picks a style. You can change it later.', o: [['Poetic', 'Pastel Collage style, soft light'], ['Rational', 'Minimal style, crisp grid'], ['Bold', 'Crisp style, strong contrast'], ['Rooted', 'Warm Editorial style, earthy tones']] },
-    ai: { k: 'How much AI', q: 'How far should AI go with your drawings?', sub: 'This also picks Polish or Transform.', o: [['Keep my design, polish it', 'Polish: your drawings, cleaned up'], ['Polish them', 'Polish: cleaned and polished'], ['Transform them', 'Transform: the hero view is re-rendered'], ['Surprise me', 'Transform: AI Studio picks what to re-render']] },
+    ai: { k: 'How much AI', q: 'How far should AI go with your drawings?', sub: 'This also picks Polish or Transform.', o: [['Keep my design, polish it', 'Polish: your drawings cleaned up, lit and polished'], ['Transform them', 'Transform: the hero view is re-rendered'], ['Surprise me', 'Transform: AI Studio picks what to re-render']] },   // one Polish choice (owner, 10 Nov 2026)
     words: { k: 'How many words', q: 'How much should your board talk?', sub: 'Sets the word budget.', o: [['Maximum drawings, limited text', 'Titles and labels only'], ['Captions + 3 ideas', 'Captions plus your 3 key ideas'], ['Elaborate writing', 'The full story, on board and deck'], ['AI decides', 'AI Studio picks the right amount for your project']] },
     proc: { k: 'Process', q: 'How much process to show?', sub: 'Adds a process strip, or not.', o: [['A lot, it’s the story', 'Process strip on the board, plus process slides'], ['A slice', 'One small process strip'], ['Final only', 'Final drawings only']] },
     pwhere: { k: 'Where', q: 'Where will this be shown?', sub: 'Sets the template and the polish.', o: [['Client presentation', 'The deck leads, the board backs it up'], ['Competition entry', 'One bold board, unbranded'], ['Approval / planning submission', 'Clear, factual sheets, drawings first'], ['Website & portfolio', 'Tight edit, sized for screens'], ['Awards entry', 'The strongest images, a short story']] },
@@ -267,7 +267,7 @@
     return k === 'proud' ? (ans('proud') !== null && ans('proud') !== 'other' && QB.proud.o[ans('proud')] ? QB.proud.o[ans('proud')][2] : 'board/hero.jpg')
       : ({ crit: 'board/street.jpg', room: 'board/street.jpg', word: 'board/model-roof.jpg', stage: 'board/model-roof.jpg', words: 'board/fabric.jpg', proc: 'board/sk1.jpg' })[k] || 'board/hero.jpg';
   };
-  const tierFromAnswers = () => ans('ai') === 0 || ans('ai') === 1 ? 'nice' : 'great';
+  const tierFromAnswers = () => ans('ai') === 0 ? 'nice' : 'great';   // one Polish choice since 10 Nov 2026
 
   /* The answers as the API takes them (server/core/intake.py; prompts/INTAKE_QUESTIONS.md v2): the option's own words,
      {"other": text} for an Other box, nothing for a skipped question. */
