@@ -1,5 +1,7 @@
 User-agent: *
 Allow: /
+# The wall's own search results (/?q=…) are not pages to index (owner, 10 Nov 2026)
+Disallow: /*?q=
 
 # AI assistants and their search: welcome
 User-agent: GPTBot
@@ -15,5 +17,6 @@ User-agent: Applebot-Extended
 User-agent: Bingbot
 User-agent: CCBot
 Allow: /
+Disallow: /*?q=
 
 Sitemap: https://findgreatarchitecture.com/sitemap.xml
