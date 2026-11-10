@@ -453,18 +453,26 @@ def write_sheets(rows, prefix='sheet'):
 
 
 # ---------- saving ----------
-def save_image(data, folder, k, thumb_only=False):
+def save_image(data, folder, k, thumb_only=False, keep=True):
+    """Saves the photo here (full and thumbnail, or only the thumbnail), or nothing with keep=False; returns its size."""
     from PIL import Image, ImageOps
     (folder / 'thumbs').mkdir(parents=True, exist_ok=True)
     # phone photos are often stored sideways with a rotation tag; turn them upright before saving
     im = ImageOps.exif_transpose(Image.open(io.BytesIO(data))).convert('RGB')
     im.thumbnail((FULL, FULL))
     w, h = im.size
+    if not keep:
+        return w, h
     if not thumb_only:
         im.save(folder / f'{k}.webp', 'WEBP', quality=80, method=5)
     im.thumbnail((THUMB, THUMB))
     im.save(folder / 'thumbs' / f'{k}.webp', 'WEBP', quality=72, method=5)
     return w, h
+
+
+def wm_thumb(url):
+    """Wikimedia's own 500 px copy of a photo (a standard size, so Wikimedia serves it from its cache)."""
+    return re.sub(r'/\d+px-', '/500px-', url) if '/thumb/' in url else url
 
 
 def load():
@@ -610,10 +618,11 @@ def main():
                 save(head, items)
                 continue
             folder = IMG / b['id']
-            # The first hundred host their photos; later buildings host only the small wall
-            # thumbnail and show the full photo from Wikimedia, to stay under the Pages size limit.
-            # Art Institute works are always hosted here: the museum's image server is theirs, not a CDN.
-            hot = b.get('hotlink', False)
+            # Only the cover photo's small thumbnail is hosted here (the wall, map and search draw it); every
+            # other photo and thumbnail loads Wikimedia's own copy, to stay under the Pages size limit (owner,
+            # 10 Nov 2026; before then the first hundred hosted every photo). Art Institute works are always
+            # hosted here: the museum's image server is theirs, not a CDN.
+            hot = b.get('hotlink', False)  # still sets how many photos a building gets
             photos = [p for p in picks if p['kind'] not in DRAWINGS][:HOT_PICKS if hot else MAX_PICKS]
             picks = photos + [p for p in picks if p['kind'] in DRAWINGS][:MAX_DRAWINGS]
             def download(p):
@@ -629,11 +638,13 @@ def main():
                 got = list(pool.map(download, picks))
             for f in list(folder.glob('*.webp')) + list(folder.glob('thumbs/*.webp')):
                 f.unlink()
-            local = lambda p: not hot or p['title'].startswith('AIC:')
-            sizes = [(save_image(data, folder, k, thumb_only=not local(p)), url) for k, (p, (data, url)) in enumerate(zip(picks, got))]
+            local = lambda p: p['title'].startswith('AIC:')
+            here = lambda k, p: local(p) or k == 0  # the cover's thumbnail, and the Art Institute's works
+            sizes = [(save_image(data, folder, k, thumb_only=not local(p), keep=here(k, p)), url) for k, (p, (data, url)) in enumerate(zip(picks, got))]
             images = []
             for k, (p, ((w, h), url)) in enumerate(zip(picks, sizes)):
-                images.append({'src': f'images/{b["id"]}/{k}.webp' if local(p) else url, 'thumb': f'images/{b["id"]}/thumbs/{k}.webp', 'w': w, 'h': h,
+                images.append({'src': f'images/{b["id"]}/{k}.webp' if local(p) else url,
+                               'thumb': f'images/{b["id"]}/thumbs/{k}.webp' if here(k, p) else wm_thumb(url), 'w': w, 'h': h,
                                'kind': p['kind'], 'caption': caption(p['kind'], p['info'].get('extmetadata', {}), b),
                                'credit': p['credit'], 'license': p['license'], 'source': p['info'].get('descriptionurl'), 'file': p['title']})
             own = [i for i in b.get('images', []) if i['src'].endswith('.svg')]  # our drawing stays the cover,
