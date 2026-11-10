@@ -5,7 +5,7 @@ seo_title: How to Lay Out an A1 Architecture Presentation Board
 description: Margins, a column grid, reading order and sizes: a step-by-step way to lay out an A1 architecture board so a jury reads it in the order you meant.
 kicker: Boards
 published: 2026-11-05
-related: a1-sheet-layout-ideas, how-to-present-architectural-plans-and-sections, architecture-jury-presentation-tips, architecture-sheet-sizes-a1-a0-24x36
+related: a1-sheet-layout-ideas, how-to-present-architectural-plans-and-sections, architecture-jury-presentation-tips, architecture-presentation-fonts-and-colours
 ---
 Most of a good A1 layout is decided before you place a single drawing: orientation, margins, a column grid and a reading order. Get those four right and the drawings almost place themselves. Skip them and you spend the night nudging images a few millimetres left and right, and the board still looks restless.
 
