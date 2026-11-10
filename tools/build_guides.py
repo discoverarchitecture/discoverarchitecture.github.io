@@ -370,6 +370,8 @@ def update_llms(guides):
     pat = re.compile(r"## Studio FGA guides\n.*?(?=^## |\Z)", re.S | re.M)
     if pat.search(s):
         s = pat.sub(lambda m: part, s, count=1)
+        first = s.index(part) + len(part)
+        s = s[:first] + pat.sub("", s[first:])  # a merge can leave an older copy of the section; keep one
     else:
         s = s.replace("## Browse buildings", part + "## Browse buildings", 1)
     open(p, "w", encoding="utf-8").write(s)
