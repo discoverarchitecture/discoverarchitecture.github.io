@@ -1,13 +1,14 @@
 slug: architecture-presentation-board-templates
 order: 13
-title: Architecture presentation board templates: what a good one contains, and how to make your own
-seo_title: Architecture Presentation Board Templates, Explained
-description: What a good architecture board template actually contains (margins, grid, title block, type and image frames), five template structures described, and how to build one in InDesign, Illustrator or PowerPoint.
+title: Architecture presentation board templates: free A1 and 24 × 36 grids, and how to make your own
+seo_title: Free Architecture Board Templates: A1 and 24×36 Grids
+description: Free A1, A0 and 24 × 36 in board grids to download (PDF and SVG), what a good architecture board template contains, and how to build your own.
 kicker: Boards
 published: 2026-11-07
+updated: 2026-11-10
 related: how-to-lay-out-an-a1-architecture-board, a1-sheet-layout-ideas, architecture-sheet-sizes-a1-a0-24x36
 ---
-A good architecture board template is not a finished-looking design you pour your drawings into. It is a set of decisions: the sheet size, the margins, a column grid, a title block, a few text styles and a colour or two. Those decisions make a board look calm and make a set of boards look like one project. Everything else, including where the drawings go, should come from your project. Below is what to look for in a template, five structures that work, and how to build your own in an afternoon.
+A good architecture board template is not a finished-looking design you pour your drawings into. It is a set of decisions: the sheet size, the margins, a column grid, a title block, a few text styles and a colour or two. Those decisions make a board look calm and make a set of boards look like one project. Everything else, including where the drawings go, should come from your project. Below is what to look for in a template, five structures that work, six free grids you can download, and how to build your own in an afternoon.
 
 ## Why templates disappoint
 
@@ -59,6 +60,24 @@ A0 or 36 × 48 inches, usually landscape, with a band of analysis and diagrams a
 ![A Studio FGA test board titled Savings Hall, based on Otto Wagner's Postal Savings Bank in Vienna: a title band, a large photograph of the main front beside the concept text, a row of diagrams, a large plan and section, and a row of numbered steps along the bottom](/studio/sample/gallery/k2-thumb.webp)
 Caption: A Studio FGA test project based on Otto Wagner's Postal Savings Bank, Vienna, not student work: title band, hero and statement, a row of diagrams, then plan and section, then steps along the bottom, all on one grid. Drawings: Otto Wagner, public domain (scans by Hubertl). Photos: P e z i, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/); Thomas Ledl, CC BY-SA 3.0 AT; [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Postsparkasse-Coch-Platz-DSC1238w.jpg). Board shared under CC BY-SA 4.0.
 
+## Free board grids to download
+
+Six grids, drawn at true size and free to use for anything: they are released under CC0, so no credit is needed. Each one has the margins, a column grid with gutters and equal rows, and the portrait sheets have a title band at the top. The numbers follow [laying out an A1 board](guide:how-to-lay-out-an-a1-architecture-board).
+
+![Six layout grids side by side: A1 portrait with a title band and four columns, A1 landscape with six columns, A0 landscape with eight, then the same three ideas on 24 × 36 inch portrait and landscape sheets and a 36 × 48 inch sheet](/studio/grids/preview.webp)
+Caption: The six grids, each drawn to scale. Blue cells are the grid; the red band on the portrait sheets is the title band.
+
+- **A1 portrait (594 × 841 mm):** 25 mm margins, a 60 mm title band, 4 columns of 128.5 mm and 6 rows of 111.8 mm, 10 mm gutters. [PDF](/studio/grids/a1-portrait-4-columns.pdf) · [SVG](/studio/grids/a1-portrait-4-columns.svg)
+- **A1 landscape (841 × 594 mm):** 25 mm margins, 6 columns of 123.5 mm and 4 rows of 128.5 mm, 10 mm gutters. [PDF](/studio/grids/a1-landscape-6-columns.pdf) · [SVG](/studio/grids/a1-landscape-6-columns.svg)
+- **A0 landscape (1189 × 841 mm):** 30 mm margins, 8 columns of 130.6 mm and 6 rows of 120.2 mm, 12 mm gutters. [PDF](/studio/grids/a0-landscape-8-columns.pdf) · [SVG](/studio/grids/a0-landscape-8-columns.svg)
+- **24 × 36 in portrait (ARCH D):** 1 in margins, a 2.4 in title band, 4 columns of 5.2 in and 6 rows of 4.87 in, 0.4 in gutters. [PDF](/studio/grids/arch-d-24x36-portrait-4-columns.pdf) · [SVG](/studio/grids/arch-d-24x36-portrait-4-columns.svg)
+- **24 × 36 in landscape (ARCH D):** 1 in margins, 6 columns of 5.33 in and 4 rows of 5.2 in, 0.4 in gutters. [PDF](/studio/grids/arch-d-24x36-landscape-6-columns.pdf) · [SVG](/studio/grids/arch-d-24x36-landscape-6-columns.svg)
+- **36 × 48 in landscape (ARCH E):** 1.25 in margins, 8 columns of 5.25 in and 6 rows of 5.17 in, 0.5 in gutters. [PDF](/studio/grids/arch-e-36x48-landscape-8-columns.pdf) · [SVG](/studio/grids/arch-e-36x48-landscape-8-columns.svg)
+
+Or take [all six in one zip file](/studio/grids/find-great-architecture-board-grids.zip) (PDF and SVG).
+
+To use one, put it on a layer of its own under your drawings, lock that layer, and hide it before you export or print. In InDesign or Affinity Publisher, place the PDF on that layer, then draw the same columns and rows as guides (in InDesign, Layout › Create Guides) so frames snap to them. In Illustrator, open the PDF and turn the grid into guides with View › Guides › Make Guides. In Figma, Canva or Inkscape, use the SVG and stretch it to fill a page set to the sheet size; in PowerPoint or Keynote, set the slide to the sheet size, insert the SVG or PDF as a picture and send it to the back.
+
 ## How to build your own template
 
 ### In InDesign or Affinity Publisher
@@ -97,7 +116,7 @@ For eight arrangements to place on your grid, see [A1 sheet layout ideas](guide:
 
 ### Where can I get a free architecture presentation board template?
 
-You can build a better one yourself in an afternoon: a document at your sheet size with margins, a column grid, a title block and a few text styles. Free and paid templates exist online, but use them for their grid and type, not their picture boxes, and check their font licences.
+Start from one of the six free grids above (A1, A0 and 24 × 36 in, as PDF and SVG, free to use under CC0), then add your own title block and text styles. Other free and paid templates exist online; use them for their grid and type, not their picture boxes, and check their font licences.
 
 ### What is the best software for an architecture presentation board?
 

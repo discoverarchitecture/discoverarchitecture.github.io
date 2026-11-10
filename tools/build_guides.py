@@ -66,7 +66,7 @@ SPARK = ('<svg class="spark" viewBox="0 0 24 24" aria-hidden="true"><path d="M12
          '10.5l6.3-2.2z"/><path d="M19 15l.9 2.1L22 18l-2.1.9L19 21l-.9-2.1L16 18l2.1-.9z"/></svg>')
 SITE_DIR = os.path.join(ROOT, "site")
 # Pictures a guide may show: only our own (see the note at the top).
-IMAGES_OK = ("/studio/sample/", "/studio/og.jpg", "/studio/preview-shot.webp")
+IMAGES_OK = ("/studio/sample/", "/studio/og.jpg", "/studio/preview-shot.webp", "/studio/grids/")  # grids: our own, tools/studio_grids.py
 # The same strings as the legal pages, so the whole of /studio/ reads as one site.
 FONTS = ("https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=DM+Sans:opsz,wght@9..40,400;"
          "9..40,600;9..40,700&family=JetBrains+Mono:wght@500;600&display=swap")
