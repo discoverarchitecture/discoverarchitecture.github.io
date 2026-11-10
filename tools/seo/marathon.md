@@ -120,7 +120,7 @@ disables the routine.
 - [x] D. Roundup outreach (35 blogs in `tools/outreach/roundups.json`): pick the ones with a real editor and a public
       contact route, and write one short template in `tools/outreach/ROUNDUPS_EMAIL.md` for the owner to approve. Send
       nothing.
-- [ ] E. `site/llms.txt`: one plain line that every building page now has a sourced "About the building" paragraph
+- [x] E. `site/llms.txt`: one plain line that every building page now has a sourced "About the building" paragraph
       (no totals); add the four guides if missing. Small PR; check the live file after the deploy.
 - [x] H. (Owner, 10 Nov: "make these now, we can upload later") Write-ups second pass on the 627 indexable pages still
       without one: articles fetching on `claude/writeups-retry1` (request "r1 r2 r3 r4 r5"); then the usual three passes
@@ -141,3 +141,4 @@ disables the routine.
 - 10 Nov 12:20 UTC: B done for today (both fetches now run on their own schedule, owner 10 Nov; nothing to dispatch). Google, 2–9 Nov: 0–8 impressions a day, 2 clicks in all (3 Nov). Visits: 40–135 a day (135 on 9 Nov). Indexing: 1,322 of 2,639 checked pages PASS (1,316 before), the rest NEUTRAL. No change worth acting on yet. Next: C.
 - 10 Nov 15:40 UTC: C done: `tools/seo/missing_buildings.md` (11 searched-for buildings not on the wall, 6 on the wall but searched by their local name). The site's own found-nothing searches were never saved; PR #209 (merged) makes the analytics fetch keep them. The list couldn't be sent to the data collection chat from this session (cross-session messages are blocked); it waits in the file. Next: D.
 - 10 Nov 18:20 UTC: D done: `tools/outreach/ROUNDUPS_EMAIL.md`, a template and an 8-site shortlist for the owner's approval; nothing sent. Contact routes still to confirm by opening each site. Next: E.
+- 10 Nov 21:20 UTC: E done: llms.txt says the best-known buildings' pages have a sourced "About the building" paragraph (PR #211, merged); both live /guides/ pages were already listed, the other two moved to the Studio guides list. Next: G after 11 Nov 09:00 UTC (F is the separate outreach routine, done 10 Nov 14:30).
