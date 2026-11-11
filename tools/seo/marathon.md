@@ -131,7 +131,7 @@ disables the routine.
       (`tools/studio_guides/architecture-site-analysis.md`, built by `tools/build_guides.py`): checked at 390 px and
       desktop, day and night; pull request opened **without merging**, for the owner to approve.
 - [x] F. Outreach check (separate routine, Tue 14:30 UTC): replies, bounces, report. Nothing to do here.
-- [ ] G. Final report to the owner (short), then disable the routine. **Only after 11 Nov 09:00 UTC; a check-in before then does nothing and logs nothing.**
+- [x] G. Final report to the owner (short), then disable the routine. **Only after 11 Nov 09:00 UTC; a check-in before then does nothing and logs nothing.**
 
 ## Log (second run)
 - 10 Nov 08:50 UTC: plan written at the owner's request; routine re-enabled every 3 hours until 11 Nov 09:00 UTC.
@@ -142,3 +142,4 @@ disables the routine.
 - 10 Nov 15:40 UTC: C done: `tools/seo/missing_buildings.md` (11 searched-for buildings not on the wall, 6 on the wall but searched by their local name). The site's own found-nothing searches were never saved; PR #209 (merged) makes the analytics fetch keep them. The list couldn't be sent to the data collection chat from this session (cross-session messages are blocked); it waits in the file. Next: D.
 - 10 Nov 18:20 UTC: D done: `tools/outreach/ROUNDUPS_EMAIL.md`, a template and an 8-site shortlist for the owner's approval; nothing sent. Contact routes still to confirm by opening each site. Next: E.
 - 10 Nov 21:20 UTC: E done: llms.txt says the best-known buildings' pages have a sourced "About the building" paragraph (PR #211, merged); both live /guides/ pages were already listed, the other two moved to the Studio guides list. Next: G after 11 Nov 09:00 UTC (F is the separate outreach routine, done 10 Nov 14:30).
+- 11 Nov 09:15 UTC: G done: final report sent to the owner in the chat; routine trig_01SP4cYZG3qmjtpp1817PWS2 disabled. Visits 2,896 in 30 days; Google still 0–1 impressions a day (data to 9 Nov); 1,322 pages indexed. Found-nothing searches not saved yet (watch events.csv).
