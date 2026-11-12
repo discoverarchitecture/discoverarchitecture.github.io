@@ -32,3 +32,7 @@ window.STUDIO_FX = { asOf: "2026-11-05", perUSD: {
   AED: 3.67, SAR: 3.75, QAR: 3.64, KWD: 0.307, BHD: 0.376, OMR: 0.385, JOD: 0.709, EGP: 48, MAD: 9.2,
   PKR: 282, BDT: 122, NPR: 141, LKR: 300, NGN: 1500, KES: 129, ZAR: 17.5
 } };
+
+/* The payment opens as an overlay on this page (Dodo's checkout, owner 13 Nov 2026) instead of leaving it. If it ever misbehaves, set this
+   to false: everyone then gets the full-page redirect as before. The overlay also falls back to the redirect by itself when anything fails. */
+window.STUDIO_OVERLAY = true;

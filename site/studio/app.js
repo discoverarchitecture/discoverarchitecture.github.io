@@ -1034,6 +1034,124 @@
       '<button class="btn shiny small-shiny" data-act="toPrice">' + SPARK + '<span class="cta"><b>Make it now</b><small>Board + deck · from ' + FROM + '</small></span><span class="arrow" aria-hidden="true">→</span></button></aside></div></main>';
   };
 
+  /* Trust cues around the Pay button (owner, 13 Nov 2026): the order, the guarantee, who takes the payment, and where to ask.
+     Plain text and simple line icons only: no logos, badges, ratings or counts. */
+  const aboutLocalInline = (v) => { const h = aboutLocal(v); return h ? h.replace('<span class="fx">', '<span class="fxi">').replace('</span>', '</span>') : ''; };
+  const CARDICON = '<svg class="dic" viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="6" width="18" height="12" rx="2"/><path d="M3 10h18M6.5 14.5h4"/></svg>';
+  function payTrust(t) {
+    return '<section class="paytrust" aria-label="Your order and payment">' +
+      '<p class="oline"><b>' + TIERS[t][0] + '</b> · A1 board + jury deck · PDF, PowerPoint, InDesign</p>' +
+      '<p class="oamt"><b>' + usd(TIERS[t][1]) + '</b>' + aboutLocalInline(TIERS[t][1]) + '</p><p class="onote">One payment, no subscription. Local tax is added at checkout where it applies.</p>' +
+      '<ul class="trust"><li>' + dic('redo') + 'Free redo or money back within 7 days</li>' +
+      '<li>' + dic('lock') + 'Secure payment by Dodo Payments · cards, UPI and more</li></ul>' +
+      '<p class="hint">' + CARDICON + '<span>Your card or UPI details go to Dodo Payments, not to us. <a class="link" href="refund/">Refund policy</a> · <a class="link" href="mailto:hello@findgreatarchitecture.com">hello@findgreatarchitecture.com</a></span></p></section>';
+  }
+
+  /* ---------- the Dodo overlay checkout (owner, 13 Nov 2026): the payment opens over our own page instead of leaving it.
+     Dodo's official SDK (dodopayments-checkout, pinned, loaded from jsDelivr only on the pay screen). The full-page redirect stays as
+     the fallback and as the way back from a bank page: the return link (#job=…&t=…?payment_id=…) is handled exactly as before.
+     config.js STUDIO_OVERLAY = false switches the overlay off (everyone gets the redirect). Events counted, numbers only:
+     studio/checkout/overlay-open, overlay-closed, overlay-fallback. */
+  const DODO_SDK = { src: 'https://cdn.jsdelivr.net/npm/dodopayments-checkout@1.9.9/dist/index.js', integrity: 'sha384-H3xQrq3FWZky4TIOdapnx0RrlbUu42WVDeKVnFI5ESWP3rEijoYHP7YyK5hklN3b' };
+  const OVERLAY_ON = window.STUDIO_OVERLAY !== false;
+  let dodoLoad = null, OV = null;
+  const dodoApi = () => window.DodoPaymentsCheckout && window.DodoPaymentsCheckout.DodoPayments;
+  /* the script is fetched once, the first time the pay screen draws (never on the landing); a failure is remembered for this visit */
+  function loadDodo() {
+    if (dodoApi()) return Promise.resolve(dodoApi());
+    if (!dodoLoad) dodoLoad = new Promise((resolve, reject) => {
+      const sc = document.createElement('script'), t = setTimeout(() => reject(new Error('sdk timeout')), 8000);
+      sc.src = DODO_SDK.src; sc.integrity = DODO_SDK.integrity; sc.crossOrigin = 'anonymous'; sc.async = true;
+      sc.onload = () => { clearTimeout(t); dodoApi() ? resolve(dodoApi()) : reject(new Error('sdk missing')); };
+      sc.onerror = () => { clearTimeout(t); reject(new Error('sdk blocked')); };
+      document.head.appendChild(sc);
+    });
+    return dodoLoad;
+  }
+  const warmDodo = () => { if (OVERLAY_ON && !DEMO && !VIEW) loadDodo().catch(() => { /* the redirect will be used */ }); };
+  const payLabel = () => 'Pay ' + usd(TIERS[S.tier || 'great'][1]);
+  function payUi(busy, label, note) {
+    const b = document.getElementById('payBtn'), st = document.getElementById('payStatus');
+    if (b) { b.disabled = !!busy; b.textContent = label || payLabel(); }
+    if (st && note !== undefined) st.textContent = note;
+  }
+  /* the page behind the overlay is inert, so the keyboard and screen readers stay inside the checkout */
+  const holdPage = (on) => { try { if (on) app.setAttribute('inert', ''); else app.removeAttribute('inert'); } catch (e) { /* old browser */ } };
+  function endOverlay() { if (OV) { clearTimeout(OV.t); OV = null; } holdPage(false); }
+  /* the full-page redirect: the way it always worked, and the fallback for anything the overlay can't do */
+  function redirectTo(url, counted) {
+    if (counted) track('studio/checkout/overlay-fallback', 'Studio: checkout overlay fallback (redirect)');
+    endOverlay();
+    try { const d = dodoApi(); if (d && d.Checkout.isOpen()) d.Checkout.close(); } catch (e) { /* closing is best effort */ }
+    setTimeout(() => { location.href = url; }, counted ? 300 : 0);
+  }
+  function backToPay(note) {
+    endOverlay();
+    S.payStarted = null; S.payDeadline = null; if (note !== undefined) S.payNote = note; saveS();
+    if (note && S.screen === 'price') { render(); }
+    else payUi(false, null, '');
+    const b = document.getElementById('payBtn'); if (b) b.focus({ preventScroll: true });
+  }
+  /* paid: the same place the redirect return goes (the making screen, waiting for Dodo's confirmation) */
+  function overlayPaid() {
+    if (!OV || OV.done) return;
+    OV.done = true; endOverlay();
+    try { const d = dodoApi(); if (d.Checkout.isOpen()) d.Checkout.close(); } catch (e) { /* ignore */ }
+    S.payStarted = S.payStarted || Date.now(); saveS();
+    refresh(true);
+  }
+  async function overlayClosed() {
+    const o = OV; if (!o || o.done) return;
+    await new Promise((r) => setTimeout(r, 700));   // a redirect (success, or a bank page) may follow the close at once: leave it alone
+    if (OV !== o || o.redirecting || o.done) return;
+    track('studio/checkout/overlay-closed', 'Studio: checkout overlay closed');
+    const r = S.job ? await API.status(S.job) : null;   // closed after paying? then go on as if it had returned
+    if (OV !== o || o.redirecting || o.done) return;
+    if (r && r.ok && r.data.paid) { ST = r.data; overlayPaid(); return; }
+    backToPay();
+  }
+  function onDodoEvent(ev) {
+    const o = OV, d = (ev && ev.data) || {}, type = ev && ev.event_type;
+    if (!o) return;
+    if (type === 'checkout.opened' || type === 'checkout.form_ready') {
+      if (!o.opened) { o.opened = true; clearTimeout(o.t); track('studio/checkout/overlay-open', 'Studio: checkout overlay opened'); payUi(true, 'Checkout is open', 'The secure checkout is open. Close it to come back here.'); }
+    } else if (type === 'checkout.closed') overlayClosed();
+    else if (type === 'checkout.redirect') {
+      /* SDK is about to leave the page (a bank page, or back to our return link). A return to our own link only changes the #…, so also move on here */
+      const to = String((d.message && d.message.redirect_to) || '');
+      o.redirecting = true;
+      if (S.job && to.indexOf('job=' + S.job.id) !== -1) setTimeout(() => {
+        if (OV !== o) return;
+        if (/[?&]status=(failed|cancel+ed)/i.test(to)) { o.done = true; backToPay('unconfirmed'); return; }
+        S.payDeadline = Date.now() + 120000; overlayPaid();
+      }, 400);
+    } else if (type === 'checkout.status') {
+      const st = String(d.status || (d.message && d.message.status) || '').toLowerCase();
+      if (st === 'succeeded' || st === 'paid') { S.payDeadline = Date.now() + 120000; overlayPaid(); }
+      else if (/^(failed|cancel+ed)$/.test(st)) {   // the same friendly note the return from a failed payment gives
+        o.done = true; try { dodoApi().Checkout.close(); } catch (e) { /* ignore */ }
+        track('studio/checkout/overlay-closed', 'Studio: checkout overlay closed');
+        backToPay('unconfirmed');
+      }
+    } else if (type === 'checkout.error' && !o.opened) redirectTo(o.url, true);   // it never got going: the full page instead
+  }
+  /* opens the session in the overlay; anything that goes wrong falls back to the redirect, so nobody is ever blocked */
+  async function openCheckout(url) {
+    if (!OVERLAY_ON) { redirectTo(url, false); return; }
+    let d;
+    try { d = await loadDodo(); } catch (e) { redirectTo(url, true); return; }
+    try {
+      const u = new URL(url);
+      if (!/(^|\.)checkout\.dodopayments\.com$/.test(u.hostname)) throw new Error('not a Dodo session');
+      /* the mode is the one the server made the session in: its address says which (test.checkout… is test mode) */
+      d.Initialize({ mode: u.hostname === 'test.checkout.dodopayments.com' ? 'test' : 'live', displayType: 'overlay', onEvent: onDodoEvent });
+      const o = OV = { url, opened: false, done: false, redirecting: false };
+      o.t = setTimeout(() => { if (OV === o && !o.opened) redirectTo(url, true); }, 12000);   // never opened: the full page
+      holdPage(true);
+      d.Checkout.open({ checkoutUrl: url });
+    } catch (e) { redirectTo(url, true); }
+  }
+
   /* Pay page (owner comments, 28 Oct): Transform selected until the student changes it; the landing's taped
      before/after instead of a blurred board; a clear "Write your email" label; the Pay button floats at the bottom. */
   V.price = () => {
@@ -1048,10 +1166,12 @@
       '<div class="tiers">' + card('nice', ...TIERS.nice) + card('great', ...TIERS.great) + '</div>' +
       '<section class="paywow"><p class="kicker">What AI Studio does</p>' + heroArt() + '</section>' +
       '<div class="field"><label for="email" class="biglabel">Write your email</label><p class="hint" style="margin:0 0 6px">For your receipt and a link back to your files.</p><input id="email" class="input" type="email" autocomplete="email" placeholder="you@school.edu" value="' + esc(S.email) + '"></div><p class="err" id="emailErr" role="alert"></p>' +
-      '<div class="ctabar paybar"><div><b>' + TIERS[t][0] + ' · board + deck</b><span>' + usd(TIERS[t][1]) + ' · one payment · free redo or money back</span></div>' +
+      payTrust(t) +
+      '<div class="ctabar paybar"><div><b>' + TIERS[t][0] + '\u00a0·\u00a0' + usd(TIERS[t][1]) + aboutLocalInline(TIERS[t][1]) + '</b><span>A1 board + jury deck · free redo or money back in 7 days</span>' +
+      '<span class="bsec">' + dic('lock') + 'Secure payment · Dodo Payments</span></div>' +
       '<button class="btn primary" data-act="pay" id="payBtn">Pay ' + usd(TIERS[t][1]) + '</button></div>' +
-      '<p class="hint"><b>' + GUARANTEE + '</b> ' + LEGALLINKS + '</p>' +
-      (DEMO ? '<p class="status">Demo: no card and no charge. The live app opens the Dodo Payments checkout here.</p>' : '<p class="status">Secure checkout by Dodo Payments, shown in your currency.</p>') + '</main>';
+      (DEMO ? '<p class="status">Demo: no card and no charge. The live app opens the Dodo Payments checkout here.</p>' : '<p class="status" id="payStatus" role="status" aria-live="polite"></p>') +
+      '<p class="hint">' + LEGALLINKS + '</p>' + '</main>';
   };
 
   const isGreat = () => (S.tier || 'great') === 'great';
@@ -1563,6 +1683,7 @@
     if (sc === 'making' && DEMO) runMaking();
     if (sc === 'result' && !P && !DEMO) fillResultArt();
     if (VIEW) { viewOnlyMarks(); return; }   // no drop zones, no focus in a box
+    if (sc === 'price') warmDodo();   // the checkout's script loads here, not on the landing
     if (sc === 'upload') bindDrop();
     if (sc === 'home') { bindHeroDrop(); bindFlip(); bindGallery(); }
     if (sc === 'q') { const ci = document.getElementById('cardin'); if (ci) ci.focus(); }
@@ -1920,7 +2041,7 @@
       el.disabled = true; el.textContent = 'Opening the secure checkout…';
       await flushPlan();
       const r = await API.checkout(S.job, S.tier, v);
-      if (r.ok && r.data.checkout_url) { S.payStarted = Date.now(); S.payNote = null; saveS(); location.href = r.data.checkout_url; return; }
+      if (r.ok && r.data.checkout_url) { S.payStarted = Date.now(); S.payNote = null; saveS(); openCheckout(r.data.checkout_url); return; }
       el.disabled = false; el.textContent = 'Pay ' + usd(TIERS[S.tier || 'great'][1]);
       if (r.status === 409 && /already paid/i.test(r.data.error || '')) { await refresh(); return; }
       er.textContent = r.status === 0 ? 'Studio can’t be reached right now. Check your connection and try again.'
