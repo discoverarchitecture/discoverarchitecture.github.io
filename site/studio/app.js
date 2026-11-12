@@ -1,5 +1,5 @@
 /* Studio FGA: the student's journey, screen by screen (findgreatarchitecture.com/studio).
-   upload -> questions (who, an optional email, the title block, how far AI goes, the concept) -> [free preview]
+   upload -> questions (what you are making, an optional email, the title block, how far AI goes, the concept) -> [free preview]
    -> price -> Dodo checkout -> making -> result -> editor -> files -> rate.
    The flow (config.js STUDIO_FLOW, owner 10 Nov 2026, studio D108): "paywall" goes from the last question straight to the
    price (the server plans after payment, in the making step); "preview" keeps the free preview, every screen of it, as before.
@@ -74,7 +74,8 @@
   const paid = () => !DEMO && !!(ST && ST.paid);
   /* GoatCounter events (site/analytics.js), live app only and never with personal data: studio/flow/<paywall|preview> (the
      flow this visit saw, once per visit, so conversion can be compared before and after the switch), studio/preview (a free
-     preview asked for), studio/checkout (Pay pressed), studio/paid/<polish|transform> (back from Dodo, paid; once per job) */
+     preview asked for), studio/checkout (Pay pressed), studio/paid/<polish|transform> (back from Dodo, paid; once per job),
+     studio/making/<jury|review|site|precedent|portfolio|client> (question 1's answer, each time it is picked) */
   const track = (path, title) => { if (!DEMO && !VIEW && typeof window.fgaEvent === 'function') try { window.fgaEvent(path, title); } catch (e) { /* counting never breaks the app */ } };
   (function countFlow() {
     let seen = false;
@@ -151,6 +152,11 @@
     'A slice': '<path d="M12 3v9h9A9 9 0 1 1 12 3z"/><path d="M15 3.5A9 9 0 0 1 20.5 9H15z"/>',
     'Final only': '<rect x="3" y="3" width="18" height="18"/><rect x="7" y="7" width="10" height="10"/>',
     'Student': '<path d="M2 9l10-5 10 5-10 5z"/><path d="M6 11v5c2 2 10 2 12 0v-5M22 9v6"/>',
+    'Jury board': '<rect x="4" y="3" width="16" height="18" rx="1"/><path d="M7 7h10v6H7zM7 16h4M13 16h4"/>',
+    'Design review': '<path d="M4 20l4-1L19 8l-3-3L5 16z"/><path d="M14 7l3 3M4 20h16"/>',
+    'Site analysis': '<path d="M3 6l6-2 6 2 6-2v14l-6 2-6-2-6 2z"/><path d="M9 4v14M15 6v14"/>',
+    'Precedent / case study': '<circle cx="10.5" cy="10.5" r="6"/><path d="M15 15l6 6M8 12V9l2.5-2L13 9v3"/>',
+    'Portfolio page': '<rect x="3" y="4" width="18" height="16" rx="1"/><path d="M3 15l5-5 4 4 3-3 6 6"/><circle cx="16" cy="8.5" r="1.4"/>',
     'Professional / firm': '<path d="M4 21V5l8-3v19M12 9h8v12M2 21h20M7 8h2M7 12h2M7 16h2M15 13h2M15 17h2"/>',
     '1st–2nd': '<path d="M3 20h18M3 20v-5h6v5"/>',
     '3rd': '<path d="M3 20h18M3 20v-5h6v-5h6v10"/>',
@@ -176,7 +182,12 @@
   /* Question bank (prompts/INTAKE_QUESTIONS.md v2, D80). The ten v1 questions keep their wording and order;
      the professional path reuses six of them with "ours" wording. */
   const QB = {
-    who: { k: 'You', q: 'Who’s presenting?', sub: 'Sets the wording on your board and deck.', o: [['Student', 'A studio project for a jury'], ['Professional / firm', 'A practice presenting a project']] },
+    /* question 1 since 10 Nov 2026 (the studio project's D109): what the board and deck are for. Client presentation is the
+       practice's path (firm name, "our design"); the others are a student's. The key is what the API takes as `making`. */
+    making: { k: 'Making', q: 'What are you making?', sub: 'So the layout and the words fit where it’s shown.', subs: true, noOther: true,
+      o: [['Jury board', 'A final studio jury or pin-up', null, 'jury'], ['Design review', 'Work in progress for your tutor or professor', null, 'review'],
+        ['Site analysis', 'Your site, mapped layer by layer', null, 'site'], ['Precedent / case study', 'Of an existing building', null, 'precedent'],
+        ['Portfolio page', 'One clean page for your portfolio', null, 'portfolio'], ['Client presentation', 'A practice presenting to a client', null, 'client']] },
     year: { k: 'Year', q: 'Which year are you in?', sub: 'Sets the vocabulary. A thesis gets a fuller story.', o: [['1st–2nd', 'Simple words, a clear story'], ['3rd', 'Studio vocabulary, a confident story'], ['4th–5th / thesis', 'A fuller story, research up front'], ['Masters', 'Precise language, the argument first']] },
     where: { k: 'Where', q: 'Where will this be shown?', sub: 'Sets how polished it gets.', o: [['Jury pin-up', 'Jury-ready finish, board and deck'], ['Design review', 'Lighter finish; your working story stays visible'], ['Portfolio', 'Tight edit, sized for a portfolio page'], ['Competition entry', 'One bold board with one strong hero'], ['Instagram / showcase', 'A punchy hero that crops to a square']] },
     word: { k: 'The one word', q: 'What one word do you want the jury to say?', sub: 'AI Studio leans the whole board that way.', o: [['“Beautiful”', 'Atmosphere first: big hero, mood renders'], ['“Clever”', 'Idea first: diagrams up front'], ['“Brave”', 'Gesture first: scale, contrast, few words'], ['“Thoughtful”', 'Site, people and process up front']] },
@@ -205,11 +216,12 @@
   }
   QB.proud.o = proudOpts();
   const PRO = { hero: { q: 'What’s the hero of the project?' }, pers: { q: 'The project’s personality?' }, ai: { q: 'How far should AI go with the drawings?', o0: 'Keep our design, polish it' }, words: { q: 'How much should the board talk?' } };
-  /* The short flow (owner, 6 Nov 2026), the same for students and practices: who, an optional email, the title block,
+  /* The short flow (owner, 6 Nov 2026), the same for students and practices: what you are making (question 1 since 10 Nov
+     2026, replacing "who is presenting"; a client presentation is the practice's path), an optional email, the title block,
      how far AI goes (it pre-picks Polish or Transform) and the concept. The other questions are no longer asked: the
      server sends them to the pipeline as "AI decides", and AI Studio picks the hero drawing itself. */
-  const PATHS = { student: ['who', 'email', 'cname', 'ctitle', 'cloc', 'cprog', 'ai', 'concept'],
-    pro: ['who', 'email', 'cname', 'ctitle', 'cloc', 'cprog', 'ai', 'concept'] };
+  const PATHS = { student: ['making', 'email', 'cname', 'ctitle', 'cloc', 'cprog', 'ai', 'concept'],
+    pro: ['making', 'email', 'cname', 'ctitle', 'cloc', 'cprog', 'ai', 'concept'] };
   /* the title block, one fact per screen (owner, 28 Oct): field, question, example */
   const CARD = { cname: ['name', () => isPro() ? 'Your name or firm' : 'Your name', () => isPro() ? 'e.g. Morgan & Lee Architects' : 'e.g. Alex Morgan'],
     ctitle: ['title', () => 'Project title?', () => 'e.g. A Community Centre for Market Vendors'],
@@ -227,7 +239,10 @@
     return cap1(v);
   }
   const FIXNOTE = 'We correct spelling and grammar, never the meaning.';
-  const isPro = () => S.ans.who === 1;
+  /* what the student is making (question 1): its API key, or null before it is answered */
+  const MAKING = QB.making.o.map((o) => o[3]);
+  const making = () => typeof S.ans.making === 'number' ? MAKING[S.ans.making] || null : null;
+  const isPro = () => making() === 'client';
   const path = () => PATHS[isPro() ? 'pro' : 'student'];
   const curKey = () => path()[S.q - 1];
   function qd(k) {
@@ -254,7 +269,7 @@
   const normA = (s) => { const n = norm(s); return RENAMED[n] || n; };
   const V1 = ['where', 'word', 'aud', 'crit', 'hero', 'proud', 'pers', 'ai', 'words', 'proc'];
   function studentAnswers() {
-    S.ans = { who: 0 }; S.oth = {};
+    S.ans = { making: 0 }; S.oth = {};
     Object.values(P.intake).forEach((v, i) => { const k = V1[i], j = QB[k].o.findIndex((o) => norm(o[0]) === normA(v) || norm(o[0]).startsWith(normA(v))); if (j >= 0) S.ans[k] = j; });
     S.concept = 'Fabric as identity';
     S.card = { name: S.card.name || '', title: SAMPLE.name, loc: 'Law Garden, Ahmedabad', prog: 'Community centre for the cloth market’s vendors' };
@@ -289,6 +304,7 @@
     });
     const c = S.card, body = { path: pro ? 'professional' : 'student', answers,
       card: { name: String(c.name || '').trim(), project_title: tidy('title', c.title), project_location: tidy('loc', c.loc), program: tidy('prog', c.prog) } };
+    if (making()) body.making = making();   // question 1 (D109): the server checks it against the path
     if (concept()) body.concept_text = concept();
     if (unbranded()) body.no_name = true;
     if (EMAIL_RE.test(qEmail())) { body.email = qEmail(); body.email_optin = !!S.optin; body.email_terms = EMAIL_TERMS; }
@@ -297,7 +313,9 @@
   /* the other way: a saved intake (status "intake") back into the screens, e.g. on a new device from the receipt link */
   function fromIntake(it) {
     if (!it) return;
-    S.ans = { who: it.path === 'professional' ? 1 : 0 }; S.oth = {};
+    /* an intake from before question 1 had no `making`: a practice's reads as a client presentation, a student's as a jury board */
+    const mk = MAKING.indexOf(it.making || (it.path === 'professional' ? 'client' : 'jury'));
+    S.ans = { making: mk >= 0 ? mk : 0 }; S.oth = {};
     QB.proud.o = proudOpts();
     Object.entries(AKEY[it.path === 'professional' ? 'pro' : 'student']).forEach(([k, key]) => {
       const v = it[key];
@@ -822,9 +840,10 @@
     const q = qd(k), a = ans(k), sel = a;
     const opts = q.thumbs
       ? '<div class="thumbs">' + q.o.map((o, j) => '<button class="thumb' + (sel === j ? ' sel' : '') + '" data-act="pick" data-j="' + j + '" aria-pressed="' + (sel === j) + '"><img src="' + pic(HP, o[2]) + '" alt=""><span>' + esc(o[0]) + '</span></button>').join('') + '</div>'
-      : '<div class="opts">' + q.o.map((o, j) => '<button class="opt' + (sel === j ? ' sel' : '') + '" data-act="pick" data-j="' + j + '" aria-pressed="' + (sel === j) + '"><b class="ico">' + ico(o[0]) + '</b>' + esc(o[0]) + '</button>').join('') + '</div>';
+      : '<div class="opts">' + q.o.map((o, j) => '<button class="opt' + (sel === j ? ' sel' : '') + '" data-act="pick" data-j="' + j + '" aria-pressed="' + (sel === j) + '"><b class="ico">' + ico(o[0]) + '</b>' +
+        (q.subs ? '<span class="ot"><span>' + esc(o[0]) + '</span><small>' + esc(o[1]) + '</small></span>' : esc(o[0])) + '</button>').join('') + '</div>';
     return head + '<p class="kicker">' + esc(q.k) + '</p><h1 class="mid">' + esc(q.q) + '</h1><p class="lede">' + esc(q.sub) + '</p>' + opts +
-      other('Say it your way') +
+      (q.noOther ? '' : other('Say it your way')) +
       /* one tap picks and moves on (owner, 6 Nov 2026); the button shows only for a typed "Other" answer, or when
          changing an answer from the preview */
       '<div id="qgo"' + (S.fromHeard || a === 'other' ? '' : ' hidden') + '>' + next(last ? LASTLABEL() : 'Continue', true).replace('</main>', '') + '</div>' + (S.fromHeard || a === 'other' ? '' : helper ? '<div class="row">' + helper + '</div>' : '') + '</main>';
@@ -1667,6 +1686,7 @@
       if (picking) return;
       const k = curKey(), j = +el.dataset.j;
       S.ans[k] = j; S.oth[k] = ''; saveS();
+      if (k === 'making' && MAKING[j]) track('studio/making/' + MAKING[j], 'Studio: making ' + MAKING[j]);
       if (S.fromHeard) { render(); return; }
       picking = true;
       document.querySelectorAll('.opt, .thumb').forEach((b) => { const on = b === el; b.classList.toggle('sel', on); b.setAttribute('aria-pressed', String(on)); });
