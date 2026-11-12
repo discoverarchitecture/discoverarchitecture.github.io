@@ -18,6 +18,8 @@
   const FLOW = (() => { const q = DEMO && new URLSearchParams(location.search).get('flow'); const f = q || window.STUDIO_FLOW;
     return f === 'preview' ? 'preview' : 'paywall'; })();
   const PAYWALL = FLOW === 'paywall';
+  /* the demo's read of the sheets (D116): ?read=fail | none | slow | off walk the fallback to the three questions */
+  const READMODE = DEMO ? new URLSearchParams(location.search).get('read') : null;
   /* the prices (config.js), and "$6.49" as the page writes them */
   const PRICE = Object.assign({ nice: 6.49, great: 9.34 }, window.STUDIO_PRICES || {});
   const usd = (v) => '$' + (Math.round(v * 100) % 100 ? Number(v).toFixed(2) : String(Math.round(v)));
@@ -243,7 +245,56 @@
   const MAKING = QB.making.o.map((o) => o[3]);
   const making = () => typeof S.ans.making === 'number' ? MAKING[S.ans.making] || null : null;
   const isPro = () => making() === 'client';
-  const path = () => PATHS[isPro() ? 'pro' : 'student'];
+  /* D116 (owner, 12 Nov 2026): the title, location and program read from the sheets. The read starts when the student
+     presses Next on the upload screen (POST /jobs/{id}/read-card) and runs while they answer questions 1 and 2. When it
+     found at least a title, questions 4-6 become one card ("We read this from your sheets. Right?"); when it failed, found
+     nothing, is switched off, or is still running about 8 s after it started when they reach that step, the three
+     questions stay as they were. S.cardMode: undefined (not decided yet), 'card' or 'questions'. */
+  const READ_WAIT_MS = 8000, CARD3 = ['ctitle', 'cloc', 'cprog'];
+  let RD = null;   // {sig, t0, res}: the read for these drawings; res is the server's answer, null while it runs
+  const path = () => { const p = PATHS[isPro() ? 'pro' : 'student'];
+    return S.cardMode === 'card' ? p.filter((k) => k === 'ctitle' || !CARD3.includes(k)).map((k) => k === 'ctitle' ? 'ccard' : k) : p; };
+  function startRead() {
+    const sig = DEMO ? 'demo' : fileSig();
+    if (RD && RD.sig === sig) return;
+    RD = { sig, t0: Date.now(), res: null };
+    if (!S.fromHeard) S.cardMode = undefined;   // new drawings: decide again (a cached read on the server costs nothing)
+    const mine = RD;
+    if (DEMO) {   // the demo simulates a read of the sample's sheets: a title and a location, no program written
+      if (READMODE === 'off') { mine.res = { status: 'off' }; return; }
+      setTimeout(() => { mine.res = READMODE === 'fail' ? { status: 'failed' } : READMODE === 'none' ? { status: 'empty', values: {} }
+        : { status: 'done', values: { project_title: SAMPLE.name, location: 'Law Garden, Ahmedabad', program: null } }; }, READMODE === 'slow' ? 30000 : 1200);
+      return;
+    }
+    if (!S.job || !API.readCard || VIEW) { mine.res = { status: 'off' }; return; }
+    API.readCard(S.job).then((r) => { mine.res = r.ok && r.data ? r.data : { status: 'failed' }; });
+  }
+  const readDone = () => !!(RD && RD.res);
+  const readTitle = () => readDone() && RD.res.status === 'done' && RD.res.values && RD.res.values.project_title ? RD.res.values : null;
+  /* decide card or questions now (the read is back, or ran past its time); fills only the fields still empty */
+  function settleCard() {
+    if (S.cardMode) return;
+    const v = readTitle();
+    S.cardMode = v ? 'card' : 'questions';
+    if (v) {
+      [['title', 'project_title'], ['loc', 'location'], ['prog', 'program']].forEach(([f, rk]) => { if (!(S.card[f] || '').trim() && v[rk]) S.card[f] = v[rk]; });
+      S.cardEditing = false;
+    }
+    track('studio/readcard/' + S.cardMode, 'Studio: title block ' + (v ? 'read from the sheets' : 'asked'));
+    saveS();
+  }
+  /* on leaving the name step: wait for the read up to about 8 s from its start, then decide and go on */
+  function decideCard(done) {
+    if (S.cardMode) { done(); return; }
+    if (RD && !RD.res && Date.now() - RD.t0 < READ_WAIT_MS) {
+      const b = document.querySelector('[data-act="qnext"]');
+      if (b) { b.disabled = true; b.textContent = 'Reading your sheets…'; }
+      setTimeout(() => decideCard(done), 250);
+      return;
+    }
+    settleCard();
+    done();
+  }
   const curKey = () => path()[S.q - 1];
   function qd(k) {
     const b = QB[k], o = isPro() && PRO[k];
@@ -308,8 +359,36 @@
     if (concept()) body.concept_text = concept();
     if (unbranded()) body.no_name = true;
     if (EMAIL_RE.test(qEmail())) { body.email = qEmail(); body.email_optin = !!S.optin; body.email_terms = EMAIL_TERMS; }
+    body.card_read = S.cardMode === 'card' ? 'card' : 'questions';   // D116: the server records which values came from the read
+    body.language = boardLang();   // D117: the board's language (the site and the emails stay in English)
     return body;
   }
+  /* D117 (owner, 12 Nov 2026): the board's language, picked on the concept step ("Board in: English ▾"). Until the student
+     picks, it is guessed from what they typed (title, program, location, concept), then the browser's language, else English. */
+  const LANGS = [['en', 'English'], ['es', 'Español'], ['pt', 'Português'], ['tr', 'Türkçe'], ['fr', 'Français']];
+  const wordsRe = (words) => new RegExp('(?<!\\p{L})(?:' + words + ')(?!\\p{L})', 'giu');   // whole words, accents included
+  const LANG_HINTS = {
+    tr: [/[ğışİŞĞ]/gu, wordsRe('ve|bir|için|merkezi|evi|yurdu|kültür|okulu|kütüphanesi|kütüphane|konutları|konut|meydanı|meydan|camii|cami|müzesi|müze|parkı|mahallesi')],
+    pt: [/[ãõ]|ção|ções/giu, wordsRe('do|da|dos|das|um|uma|com|centro|casa|escola|moradia|biblioteca|habitação|bairro|praça|cultural')],
+    es: [/[ñ¿¡]|ción|ciones/giu, wordsRe('del|el|los|las|un|una|con|centro|casa|escuela|vivienda|biblioteca|barrio|plaza|cultural')],
+    fr: [/[èêëœàùâ]/giu, wordsRe('du|des|le|les|un|une|avec|au|aux|centre|maison|école|logement|logements|bibliothèque|médiathèque|quartier|place')],
+    en: [wordsRe('the|of|and|for|with|a|an|centre|center|house|school|library|housing|community|museum|market|hall|pavilion|park')] };
+  function guessLang() {
+    const t = [S.card.title, S.card.prog, S.card.loc, S.concept].filter(Boolean).join(' ');
+    const sc = {};
+    Object.keys(LANG_HINTS).forEach((k) => { sc[k] = LANG_HINTS[k].reduce((n, re) => n + (t.match(re) || []).length, 0); });
+    const nav = ((navigator.languages && navigator.languages[0]) || navigator.language || 'en').slice(0, 2).toLowerCase();
+    const best = Math.max(...Object.values(sc));
+    if (best >= 2) {
+      const top = Object.keys(sc).filter((k) => sc[k] === best);
+      return top.includes(nav) ? nav : top[0];
+    }
+    return LANGS.some(([c]) => c === nav) ? nav : 'en';
+  }
+  const boardLang = () => S.lang || guessLang();
+  const langPick = () => { const cur = boardLang();
+    return '<div class="langpick"><label for="lang">Board in:</label><span class="langsel-wrap"><select id="lang" class="langsel" aria-label="Language of your board and deck">' +
+      LANGS.map(([c, n]) => '<option value="' + c + '"' + (c === cur ? ' selected' : '') + '>' + n + '</option>').join('') + '</select></span></div>'; };
   /* the other way: a saved intake (status "intake") back into the screens, e.g. on a new device from the receipt link */
   function fromIntake(it) {
     if (!it) return;
@@ -328,6 +407,8 @@
     S.card = { name: c.name || '', title: c.project_title || '', loc: c.project_location || '', prog: c.program || '' };
     S.concept = it.concept_text || '';
     if (typeof it.no_name === 'boolean') S.noName = it.no_name;
+    if (it.language) S.lang = it.language;   // D117
+    if (it.card_source && it.card_source.shown) S.cardMode = it.card_source.shown === 'card' ? 'card' : 'questions';   // D116
   }
 
   /* Demo only: put the typed title block and the chosen concept onto the sample board and deck (live, the build
@@ -812,13 +893,24 @@
     const back2 = paid() ? 'Save my answers' : PAYWALL ? 'Back to pay' : 'Back to preview';
     const next = (label, on) => fresh + '<p class="err" id="qErr" role="alert"></p><div class="row"><button class="btn ' + (on ? 'primary' : '') + '" data-act="qnext">' + (S.fromHeard ? back2 : label) + '</button>' + helper + '</div></main>';
     if (CARD[k]) {
-      const [f, q, ph] = CARD[k], v = S.card[f] || '', idx = Object.keys(CARD).indexOf(k) + 1;
+      const [f, q, ph] = CARD[k], v = S.card[f] || '', tb = pth.filter((x) => CARD[x] || x === 'ccard'), idx = tb.indexOf(k) + 1;
       const note = f === 'name' ? nameNote() : FIXNOTE;
       const tick = f === 'name' ? '<label class="tick"><input type="checkbox" id="noname"' + (unbranded() ? ' checked' : '') + '><span>' +
         (isPro() ? 'Leave our name off the sheets (unbranded)' : 'Leave my name off the board (anonymous)') + '</span></label>' : '';
-      return head + '<p class="kicker">Title block · ' + idx + ' of 4</p><h1 class="mid">' + esc(q()) + '</h1><p class="lede" id="cardNote">' + note + '</p>' +
+      return head + '<p class="kicker">Title block' + (f === 'name' && !S.cardMode ? '' : ' · ' + idx + ' of ' + tb.length) + '</p><h1 class="mid">' + esc(q()) + '</h1><p class="lede" id="cardNote">' + note + '</p>' +
         '<div class="field"><input id="cardin" data-card="' + f + '" class="input" type="text" required maxlength="' + (f === 'prog' ? 200 : 120) + '" aria-label="' + esc(q()) + '" value="' + esc(v) + '" placeholder="' + esc(ph()) + '">' + onSheet(f, v) + '</div>' + tick + '<p class="err" id="cardErr"></p>' +
         next(last ? LASTLABEL() : 'Continue', !!v.trim());
+    }
+    if (k === 'ccard') {   // D116: questions 4-6 as one card, from the read of the sheets
+      const F3 = [['title', 'Title', 'ctitle', 120], ['loc', 'Location', 'cloc', 120], ['prog', 'Program', 'cprog', 200]];
+      const ed = !!S.cardEditing, have = F3.filter(([f]) => (S.card[f] || '').trim()), gap = F3.filter(([f]) => !(S.card[f] || '').trim());
+      const inp = ([f, label, ck, max]) => '<div class="field rc-field"><label for="rc-' + f + '">' + label + '</label><input id="rc-' + f + '" data-card="' + f + '" class="input rc-in" type="text" maxlength="' + max + '" value="' + esc(S.card[f] || '') + '" placeholder="' + esc(CARD[ck][2]()) + '"></div>';
+      const line = have.length ? '<p class="rc-line">' + have.map(([f, label]) => '<span class="rc-item"><span class="rc-k">' + label + ':</span> <b>' + esc(tidy(f, S.card[f])) + '</b></span>').join('<span class="rc-sep" aria-hidden="true"> · </span>') + '</p>' : '';
+      const tb = pth.filter((x) => CARD[x] || x === 'ccard');
+      return head + '<p class="kicker">Title block · ' + (tb.indexOf(k) + 1) + ' of ' + tb.length + ' · from your sheets</p><h1 class="mid">We read this from your sheets. Right?</h1>' +
+        '<p class="lede">' + (ed ? FIXNOTE : gap.length ? 'Fill in what we couldn’t find, so your title block never shows a blank.' : 'Check it before it goes on your board and deck.') + '</p>' +
+        '<div class="card readcard">' + (ed ? F3.map(inp).join('') : line + gap.map(inp).join('')) + '</div><p class="err" id="cardErr" role="alert"></p>' + fresh +
+        '<div class="row"><button class="btn primary" data-act="qnext">' + (S.fromHeard ? back2 : ed ? 'Continue' : 'Yes, that’s right') + '</button>' + (ed ? '' : '<button class="btn" data-act="rcEdit">Edit</button>') + helper + '</div></main>';
     }
     if (k === 'email') {
       const v = S.email || '';
@@ -835,7 +927,7 @@
       return head + '<p class="kicker">Optional</p><h1 class="mid">Concept?</h1><p class="lede">In a few words. ' + FIXNOTE + '</p>' +
         '<div class="field"><input id="concept" class="input" type="text" maxlength="140" aria-label="Concept" placeholder="e.g. a market that becomes a garden at night" value="' + esc(S.concept || '') + '">' + onSheet('concept', S.concept) +
         '<p class="hint" style="margin:0">' + (b.length ? 'Brief attached: ' + esc(b.join(', ')) + '. AI Studio reads it for text.' : 'Or attach your brief or a concept note in your files. <button class="link" data-act="go" data-s="upload">Go to your files</button>') + '</p></div>' +
-        next(conceptLabel(), !!concept());
+        langPick() + next(conceptLabel(), !!concept());
     }
     const q = qd(k), a = ans(k), sel = a;
     const opts = q.thumbs
@@ -1678,7 +1770,7 @@
         if (why) { upErr = why; const e = document.getElementById('upErr'); if (e) e.textContent = why; return; }
         upErr = '';
       }
-      S.q = 1; S.fromHeard = false; go('q');
+      S.q = 1; S.fromHeard = false; startRead(); go('q');
     },
     /* one tap picks and moves on; tapping the picked option again moves on too (changing an answer from the
        preview still waits for "Back to preview") */
@@ -1702,8 +1794,18 @@
         return;
       }
       if (k === 'email' && !qEmail()) S.optin = false;
+      if (k === 'ccard' && !['title', 'loc', 'prog'].every((f) => (S.card[f] || '').trim())) {
+        const er = document.getElementById('cardErr'), gap = document.querySelector('.rc-in:placeholder-shown');
+        if (er) er.textContent = 'Needed for the title block, so it never shows a blank.';
+        if (gap) gap.focus();
+        return;
+      }
+      if (k === 'ccard') S.cardEditing = false;
+      if (!S.fromHeard && path()[S.q] === 'cname' && readDone()) settleCard();   // the read is back: the counter knows the length now
+      if (!S.fromHeard && k === 'cname' && !S.cardMode) { decideCard(() => { S.q += 1; saveS(); render(); }); return; }
       if (S.fromHeard || S.q === path().length) { if (DEMO) { S.fromHeard = false; applyIntake(); go(PAYWALL ? 'price' : 'plan'); } else finishQuestions(); } else { S.q += 1; saveS(); render(); }
     },
+    rcEdit: () => { S.cardEditing = true; saveS(); render(); const i = document.getElementById('rc-title'); if (i) i.focus(); },
     qskip: () => { S.email = ''; S.optin = false; saveS(); A.qnext(); },
     qback: () => { if (S.fromHeard) { S.fromHeard = false; go(paid() ? 'result' : PAYWALL ? 'price' : 'plan'); } else if (S.q > 1) { S.q -= 1; saveS(); render(); } else go('upload'); },
     student: () => { studentAnswers(); S.fromHeard = false; S.q = path().indexOf('cname') + 1; saveS(); go('q'); toast(S.card.name ? 'Filled in the student’s real answers.' : 'Filled in the student’s answers. Type any name to test.'); },
@@ -1891,7 +1993,7 @@
       saveS();
     }
     if (e.target.id === 'concept' || (e.target.dataset && e.target.dataset.card)) { const fx = document.getElementById('fixed'); if (fx) fx.outerHTML = onSheet(e.target.id === 'concept' ? 'concept' : e.target.dataset.card, e.target.value); }
-    if (e.target.id === 'concept') { S.concept = e.target.value; saveS(); const nb = document.querySelector('[data-act="qnext"]'); if (nb) { nb.textContent = conceptLabel(); nb.classList.toggle('primary', !!concept()); } }
+    if (e.target.id === 'concept') { S.concept = e.target.value; saveS(); if (!S.lang) { const sel = document.getElementById('lang'); if (sel) sel.value = guessLang(); } const nb = document.querySelector('[data-act="qnext"]'); if (nb) { nb.textContent = conceptLabel(); nb.classList.toggle('primary', !!concept()); } }
     if (e.target.dataset && e.target.dataset.card) { S.card[e.target.dataset.card] = e.target.value; saveS(); const on = !!e.target.value.trim(), er = document.getElementById('cardErr'); if (er && on) er.textContent = ''; const nb = document.querySelector('[data-act="qnext"]'); if (nb) nb.classList.toggle('primary', on); }
     if (e.target.id === 'wfnote') { S.waitNote = e.target.value; saveS(); }
     if (e.target.id === 'qemail') { S.email = e.target.value; saveS(); const er = document.getElementById('qErr'); if (er) er.textContent = ''; const nb = document.querySelector('[data-act="qnext"]'); if (nb) nb.classList.toggle('primary', !!e.target.value.trim()); }
@@ -1901,13 +2003,14 @@
   app.addEventListener('change', (e) => {
     if (e.target.id === 'other') render();
     if (e.target.id === 'optin') { S.optin = e.target.checked; saveS(); }
+    if (e.target.id === 'lang') { S.lang = e.target.value; saveS(); track('studio/language/' + S.lang, 'Studio: board language ' + S.lang); }
     if (e.target.id === 'noname') { S.noName = e.target.checked; saveS(); const n = document.getElementById('cardNote'); if (n) n.textContent = nameNote(); }
     if (e.target.name === 'wfr') { S.waitRate = +e.target.value; saveS(); document.querySelectorAll('#waitfb .rstars label').forEach((l, i) => l.classList.toggle('on', i < S.waitRate)); }
   });
   document.addEventListener('keydown', (e) => {
     if (VIEW) return;   // owner view: no typing, no editor shortcuts
     if ((e.key === 'Enter' || e.key === ' ') && e.target.matches && e.target.matches('span[role="button"][data-act]')) { e.preventDefault(); e.target.click(); return; }
-    if (e.key === 'Enter' && e.target.matches && e.target.matches('#cardin, #concept, #qemail, #other')) { e.preventDefault(); if (e.target.id !== 'other' || S.ans[curKey()] === 'other') A.qnext(); return; }
+    if (e.key === 'Enter' && e.target.matches && e.target.matches('#cardin, #concept, #qemail, #other, .rc-in')) { e.preventDefault(); if (e.target.id !== 'other' || S.ans[curKey()] === 'other') A.qnext(); return; }
     if (S.screen !== 'edit') return;
     const mod = e.metaKey || e.ctrlKey;
     if (mod && (e.key === 'z' || e.key === 'Z')) { e.preventDefault(); if (e.shiftKey) redo(); else undo(); }
@@ -1976,6 +2079,7 @@
     let r = await API.intake(S.job, body);
     if (r.status === 422 && body.no_name && /no_name/.test(r.data.error || '')) { delete body.no_name; r = await API.intake(S.job, body); }   // a server from before C8
     if (r.status === 422 && body.email && /email/.test(r.data.error || '') && /extra|permitted/i.test(r.data.error || '')) { delete body.email; delete body.email_optin; r = await API.intake(S.job, body); }   // a server from before the email step
+    if (r.status === 422 && /language|card_read/.test(r.data.error || '') && /extra|permitted/i.test(r.data.error || '')) { delete body.language; delete body.card_read; r = await API.intake(S.job, body); }   // a server from before D116-D117
     if (!r.ok) {
       if (btn) { btn.disabled = false; btn.textContent = 'Try again'; }
       if (er) er.textContent = r.status === 0 ? offline : r.status === 422 ? 'Something in your answers needs a look: ' + (r.data.error || '') : (r.data.error || 'Your answers could not be saved. Try again.');
