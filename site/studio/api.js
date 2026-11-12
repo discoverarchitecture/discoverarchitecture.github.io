@@ -53,6 +53,7 @@
     upload,
     remove: (job, name) => call('DELETE', J(job) + '/files/' + encodeURIComponent(name), job),
     intake: (job, body) => call('PUT', J(job) + '/intake', job, body),
+    readCard: (job) => call('POST', J(job) + '/read-card', job),   // D116: the title, location and program read from the sheets
     preview: (job, email) => call('POST', J(job) + '/preview', job, email ? { email } : {}),
     status: (job) => call('GET', J(job), job),
     plan: (job, body) => call('PUT', J(job) + '/plan', job, body),
