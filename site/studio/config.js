@@ -22,6 +22,10 @@ window.STUDIO_PRICES = { nice: 6.49, great: 9.34 };
    Keep these the same as Dodo's product settings. */
 window.STUDIO_LOCAL_PRICES = { INR: { nice: 499, great: 749 } };
 
+/* Tax Dodo adds on top of those prices, per currency (India: 18% GST; Dodo showed ₹588.82 for ₹499). The page shows the tax-inclusive
+   total so there is no surprise at checkout (owner, 13 Nov 2026). Keep in step with Dodo. */
+window.STUDIO_LOCAL_TAX = { INR: { rate: 0.18, label: "GST" } };
+
 /* Prices in the visitor's own currency (owner, 5 Nov 2026): the page shows "about ₹570" beside $6.49. US dollars per
    unit, rough mid-market rates as of 5 Nov 2026; the page rounds the result, and Dodo charges the exact amount in the
    visitor's currency at checkout. Refresh these a few times a year. A currency missing here shows nothing extra. */

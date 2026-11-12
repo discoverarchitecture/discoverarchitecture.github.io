@@ -614,11 +614,15 @@
   })();
   /* a country with its own price in Dodo (window.STUDIO_LOCAL_PRICES) shows that exact price; others show "about" */
   const LOCALP = window.STUDIO_LOCAL_PRICES || {};
+  const LOCALTAX = window.STUDIO_LOCAL_TAX || {};
   const aboutLocal = (usd) => {
     if (!FX) return '';
     const tier = usd === PRICE.nice ? 'nice' : usd === PRICE.great ? 'great' : null, fixed = tier && LOCALP[FX.cur] && LOCALP[FX.cur][tier];
+    const tx = LOCALTAX[FX.cur];
+    if (fixed && tx) return '<span class="fx">' + FX.fmt(Math.round(fixed * (1 + tx.rate))) + ' incl. ' + tx.label + '</span>';   // what Dodo's checkout totals, so no surprise
     return fixed ? '<span class="fx">' + FX.fmt(fixed) + ' in ' + (FX.cur === 'INR' ? 'India' : 'your country') + '</span>' : '<span class="fx">about ' + FX.about(usd) + '</span>';
   };
+  const taxNote = () => FX && LOCALTAX[FX.cur] && LOCALP[FX.cur] ? LOCALTAX[FX.cur].label + ' is included in the price shown.' : 'Local tax is added at checkout where it applies.';
   const TIERS = { nice: ['Polish', PRICE.nice, ['Your drawings cleaned up and lined up', 'Up to 10 new images', 'Captions, labels, scale bars and north', 'Board + deck: PDF, PowerPoint, InDesign']],
     great: ['Transform', PRICE.great, ['Everything in the Polish option (' + usd(PRICE.nice) + ')', 'Up to 15 new images', 'Hero view, plans and sections redrawn', 'New diagrams in the same family']] };
 
@@ -1041,7 +1045,7 @@
   function payTrust(t) {
     return '<section class="paytrust" aria-label="Your order and payment">' +
       '<p class="oline"><b>' + TIERS[t][0] + '</b> · A1 board + jury deck · PDF, PowerPoint, InDesign</p>' +
-      '<p class="oamt"><b>' + usd(TIERS[t][1]) + '</b>' + aboutLocalInline(TIERS[t][1]) + '</p><p class="onote">One payment, no subscription. Local tax is added at checkout where it applies.</p>' +
+      '<p class="oamt"><b>' + usd(TIERS[t][1]) + '</b>' + aboutLocalInline(TIERS[t][1]) + '</p><p class="onote">One payment, no subscription. ' + taxNote() + '</p>' +
       '<ul class="trust"><li>' + dic('redo') + 'Free redo or money back within 7 days</li>' +
       '<li>' + dic('lock') + 'Secure payment by Dodo Payments · cards, UPI and more</li></ul>' +
       '<p class="hint">' + CARDICON + '<span>Your card or UPI details go to Dodo Payments, not to us. <a class="link" href="refund/">Refund policy</a> · <a class="link" href="mailto:hello@findgreatarchitecture.com">hello@findgreatarchitecture.com</a></span></p></section>';
