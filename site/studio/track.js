@@ -10,6 +10,8 @@
 // app.js counts the money steps itself (live app only): studio/flow/<paywall|preview> (the flow the visit saw, once per visit,
 // config.js STUDIO_FLOW), studio/preview, studio/checkout (Pay pressed) and studio/paid/<polish|transform>; with
 // studio/screen/price these give the conversion before and after the switch to the paywall flow (owner, 10 Nov 2026).
+// The Dodo overlay (owner, 13 Nov 2026) adds studio/checkout/overlay-open (it opened), overlay-closed (the student closed it) and
+// overlay-fallback (it could not open, so the full-page checkout was used); counted by app.js, not here.
 // Each is counted once per visit, so the numbers read as "how many visitors got this far".
 (function () {
   if (!window.fgaEvent) return;

@@ -22,6 +22,10 @@ window.STUDIO_PRICES = { nice: 6.49, great: 9.34 };
    Keep these the same as Dodo's product settings. */
 window.STUDIO_LOCAL_PRICES = { INR: { nice: 499, great: 749 } };
 
+/* Tax Dodo adds on top of those prices, per currency (India: 18% GST; Dodo showed ₹588.82 for ₹499). The page shows the tax-inclusive
+   total so there is no surprise at checkout (owner, 13 Nov 2026). Keep in step with Dodo. */
+window.STUDIO_LOCAL_TAX = { INR: { rate: 0.18, label: "GST" } };
+
 /* Prices in the visitor's own currency (owner, 5 Nov 2026): the page shows "about ₹570" beside $6.49. US dollars per
    unit, rough mid-market rates as of 5 Nov 2026; the page rounds the result, and Dodo charges the exact amount in the
    visitor's currency at checkout. Refresh these a few times a year. A currency missing here shows nothing extra. */
@@ -32,3 +36,7 @@ window.STUDIO_FX = { asOf: "2026-11-05", perUSD: {
   AED: 3.67, SAR: 3.75, QAR: 3.64, KWD: 0.307, BHD: 0.376, OMR: 0.385, JOD: 0.709, EGP: 48, MAD: 9.2,
   PKR: 282, BDT: 122, NPR: 141, LKR: 300, NGN: 1500, KES: 129, ZAR: 17.5
 } };
+
+/* The payment opens as an overlay on this page (Dodo's checkout, owner 13 Nov 2026) instead of leaving it. If it ever misbehaves, set this
+   to false: everyone then gets the full-page redirect as before. The overlay also falls back to the redirect by itself when anything fails. */
+window.STUDIO_OVERLAY = true;
