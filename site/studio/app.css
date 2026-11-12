@@ -833,3 +833,9 @@ body[data-screen="upload"] .btn.primary::after, body[data-screen="q"] .btn.prima
 .langsel { appearance: none; -webkit-appearance: none; min-height: 40px; padding: 6px 32px 6px 12px; font: 600 15px/1.2 var(--body); color: var(--ink);
   background: var(--card); border: 2px solid var(--line); border-radius: 10px; cursor: pointer; }
 .langsel:focus-visible { outline: 3px solid var(--sun); outline-offset: 2px; }
+/* D120: the concept step's idea chips (tap up to two) */
+.chips { display: flex; flex-wrap: wrap; gap: 10px; margin: 2px 0 4px; }
+.chipbtn { min-height: 46px; padding: 0 16px; background: var(--card); color: var(--ink); border: 2px solid var(--line); border-radius: 999px; font: 600 15px/1 var(--body); cursor: pointer; }
+.chipbtn.sel { background: var(--lime); color: var(--on-accent); box-shadow: 3px 3px 0 var(--shadow); transform: translate(-1px, -1px); }
+.chipbtn:disabled { opacity: .45; cursor: default; }
+.chipbtn:focus-visible { outline: 3px solid var(--sun); outline-offset: 2px; }

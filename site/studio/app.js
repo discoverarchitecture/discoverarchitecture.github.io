@@ -198,7 +198,15 @@
     hero: { k: 'Hero', q: 'What’s the hero of your project?', sub: 'Decides which diagrams AI Studio proposes.', o: [['The big idea', 'Leads with a concept diagram'], ['Form & structure', 'Leads with an axonometric and a section'], ['Site & context', 'Leads with the site plan and context'], ['People & life', 'Leads with views full of people']] },
     proud: { k: 'Proudest', q: 'Which drawing are you proudest of?', sub: 'AI Studio found these in your files. Your pick gets the biggest slot.', thumbs: true, o: null },
     pers: { k: 'Personality', q: 'Your project’s personality?', sub: 'Pre-picks a style. You can change it later.', o: [['Poetic', 'Pastel Collage style, soft light'], ['Rational', 'Minimal style, crisp grid'], ['Bold', 'Crisp style, strong contrast'], ['Rooted', 'Warm Editorial style, earthy tones']] },
-    ai: { k: 'How much AI', q: 'How far should AI go with your drawings?', sub: 'This also picks Polish or Transform.', o: [['Keep my design, polish it', 'Polish: your drawings cleaned up, lit and polished'], ['Transform them', 'Transform: the hero view is re-rendered'], ['Surprise me', 'Transform: AI Studio picks what to re-render']] },   // one Polish choice (owner, 10 Nov 2026)
+    /* D119 (owner, 12 Nov 2026): the building program is a tap list. The label is sent as the program; "Something else"
+       sends "Other" (AI Studio reads it from the drawings, and the title block keeps an editable placeholder). */
+    prog: { k: 'Program', q: 'Building program?', sub: 'What the building is for.', noOther: true,
+      o: [['Housing', 'Homes, flats, student or social housing', null, 'Housing'], ['Cultural / museum', 'Museum, gallery, theatre, library', null, 'Cultural / museum'],
+        ['Education', 'School, college, studios', null, 'Education'], ['Community centre', 'A place for a neighbourhood to meet', null, 'Community centre'],
+        ['Office / commercial', 'Workplace, shops, market', null, 'Office / commercial'], ['Hospitality', 'Hotel, restaurant, hostel', null, 'Hospitality'],
+        ['Health', 'Clinic, hospital, care home', null, 'Health'], ['Mixed use', 'Several uses in one building', null, 'Mixed use'],
+        ['Public space', 'Square, park, landscape, pavilion', null, 'Public space'], ['Something else', 'AI Studio reads it from your drawings', null, 'Other']] },
+    ai: { k: 'How much AI', q: 'How far should AI go with your drawings?', sub: 'This also picks Polish or Transform.', noOther: true, o: [['Keep my design, polish it', 'Polish: your drawings cleaned up, lit and polished'], ['Transform them', 'Transform: the hero view is re-rendered'], ['Surprise me', 'Transform: AI Studio picks what to re-render']] },   // one Polish choice (owner, 10 Nov 2026)
     words: { k: 'How many words', q: 'How much should your board talk?', sub: 'Sets the word budget.', o: [['Maximum drawings, limited text', 'Titles and labels only'], ['Captions + 3 ideas', 'Captions plus your 3 key ideas'], ['Elaborate writing', 'The full story, on board and deck'], ['AI decides', 'AI Studio picks the right amount for your project']] },
     proc: { k: 'Process', q: 'How much process to show?', sub: 'Adds a process strip, or not.', o: [['A lot, it’s the story', 'Process strip on the board, plus process slides'], ['A slice', 'One small process strip'], ['Final only', 'Final drawings only']] },
     pwhere: { k: 'Where', q: 'Where will this be shown?', sub: 'Sets the template and the polish.', o: [['Client presentation', 'The deck leads, the board backs it up'], ['Competition entry', 'One bold board, unbranded'], ['Approval / planning submission', 'Clear, factual sheets, drawings first'], ['Website & portfolio', 'Tight edit, sized for screens'], ['Awards entry', 'The strongest images, a short story']] },
@@ -222,8 +230,11 @@
      2026, replacing "who is presenting"; a client presentation is the practice's path), an optional email, the title block,
      how far AI goes (it pre-picks Polish or Transform) and the concept. The other questions are no longer asked: the
      server sends them to the pipeline as "AI decides", and AI Studio picks the hero drawing itself. */
-  const PATHS = { student: ['making', 'email', 'cname', 'ctitle', 'cloc', 'cprog', 'ai', 'concept'],
-    pro: ['making', 'email', 'cname', 'ctitle', 'cloc', 'cprog', 'ai', 'concept'] };
+  /* D118-D121 (owner, 12 Nov 2026: "only have mcqs"): every question before payment is a tap, except the optional email.
+     The name is typed in the editor after payment; the title and location come only from the read of the sheets (the card,
+     shown only when a title was read); the program and the concept are tap lists. */
+  const PATHS = { student: ['making', 'email', 'ccard', 'prog', 'ai', 'concept'],
+    pro: ['making', 'email', 'ccard', 'prog', 'ai', 'concept'] };
   /* the title block, one fact per screen (owner, 28 Oct): field, question, example */
   const CARD = { cname: ['name', () => isPro() ? 'Your name or firm' : 'Your name', () => isPro() ? 'e.g. Morgan & Lee Architects' : 'e.g. Alex Morgan'],
     ctitle: ['title', () => 'Project title?', () => 'e.g. A Community Centre for Market Vendors'],
@@ -250,10 +261,13 @@
      found at least a title, questions 4-6 become one card ("We read this from your sheets. Right?"); when it failed, found
      nothing, is switched off, or is still running about 8 s after it started when they reach that step, the three
      questions stay as they were. S.cardMode: undefined (not decided yet), 'card' or 'questions'. */
-  const READ_WAIT_MS = 8000, CARD3 = ['ctitle', 'cloc', 'cprog'];
+  const READ_WAIT_MS = 8000;
   let RD = null;   // {sig, t0, res}: the read for these drawings; res is the server's answer, null while it runs
+  /* the card step is in the path once the read found a title, and while it may still (so the counter reads "n / 6");
+     without a title the path is five steps */
   const path = () => { const p = PATHS[isPro() ? 'pro' : 'student'];
-    return S.cardMode === 'card' ? p.filter((k) => k === 'ctitle' || !CARD3.includes(k)).map((k) => k === 'ctitle' ? 'ccard' : k) : p; };
+    const card = S.cardMode ? S.cardMode === 'card' : !(readDone() && !readTitle()) && !!RD;
+    return card ? p : p.filter((k) => k !== 'ccard'); };
   function startRead() {
     const sig = DEMO ? 'demo' : fileSig();
     if (RD && RD.sig === sig) return;
@@ -276,14 +290,23 @@
     if (S.cardMode) return;
     const v = readTitle();
     S.cardMode = v ? 'card' : 'questions';
-    if (v) {
-      [['title', 'project_title'], ['loc', 'location'], ['prog', 'program']].forEach(([f, rk]) => { if (!(S.card[f] || '').trim() && v[rk]) S.card[f] = v[rk]; });
-      S.cardEditing = false;
-    }
+    S.read = v ? { title: v.project_title || '', loc: v.location || '', prog: v.program || '' } : null;
+    S.cardOk = null;   // [Yes] or [Not quite], once answered
+    const pj = v && v.program ? progFromText(v.program) : -1;   // D119: a program read on the sheets pre-selects its option
+    if (pj >= 0 && S.ans.prog === undefined) S.ans.prog = pj;
     track('studio/readcard/' + S.cardMode, 'Studio: title block ' + (v ? 'read from the sheets' : 'asked'));
     saveS();
   }
-  /* on leaving the name step: wait for the read up to about 8 s from its start, then decide and go on */
+  /* the tap option a program read on the sheets matches (keywords), or -1 */
+  const PROG_WORDS = [/hous|home|flat|apartment|residen|dwelling|dorm|hostel|vivienda|habita|logement|konut/i, /museum|gallery|theat|cultur|library|librar|exhibit|museo|museu|musée|müze|kütüphane|biblio/i,
+    /school|college|universit|educat|campus|kindergarten|escuela|escola|école|okul/i, /communit|civic|neighbo|social cent|comunit|toplum/i,
+    /office|commerc|retail|shop|market|workplace|mercado|bureau|ofis|çarşı/i, /hotel|restaurant|café|cafe|hospitality|resort|hostería|otel/i,
+    /health|clinic|hospital|care|medical|salud|saúde|santé|sağlık/i, /mixed|multi-?use|uso mixto|uso misto|karma/i, /park|square|plaza|landscape|pavilion|public space|praça|meydan/i];
+  const progFromText = (t) => PROG_WORDS.findIndex((re) => re.test(String(t || '')));
+  const progLabel = () => { const a = ans('prog'); return typeof a === 'number' && QB.prog.o[a] ? QB.prog.o[a][3] : ''; };
+  const workingTitle = () => { const m = making(); if (m === 'site') return 'Site analysis'; if (m === 'precedent') return 'Precedent study'; if (m === 'portfolio') return 'Portfolio page';
+    const l = progLabel(); return !l || l === 'Other' ? 'Architecture project' : l === 'Community centre' ? 'Community centre' : l.split(' / ')[0].replace('Mixed use', 'Mixed-use') + ' project'; };
+  /* on leaving the email step: wait for the read up to about 8 s from its start, then decide and go on */
   function decideCard(done) {
     if (S.cardMode) { done(); return; }
     if (RD && !RD.res && Date.now() - RD.t0 < READ_WAIT_MS) {
@@ -309,11 +332,12 @@
   const qEmail = () => String(S.email || '').trim().toLowerCase();
   const cardOk = () => ['name', 'title', 'loc', 'prog'].every((f) => (S.card[f] || '').trim());
   /* D82: the concept is the student's own words, used exactly as typed (or none: Studio plans from the drawings) */
-  const concept = () => tidy('concept', S.concept);
+  const concept = () => '';   // D120: no typed concept before payment any more (tapped idea chips instead; a brief file still counts)
   const briefs = () => DEMO ? (S.briefs || []) : (S.files || []).filter((f) => f.kind === 'brief').map((f) => f.original || f.name);
   /* the last question's button: on to the preview, or (paywall) on to pick a finish and pay */
   const LASTLABEL = () => PAYWALL ? 'Pick my finish' : 'See my preview';
-  const conceptLabel = () => S.fromHeard ? (paid() ? 'Save my answers' : PAYWALL ? 'Back to pay' : 'Back to preview') : PAYWALL ? (concept() ? 'Pick my finish' : 'Skip and pick my finish') : concept() ? 'See my preview' : 'Skip and see my preview';
+  const conceptLabel = () => S.fromHeard ? (paid() ? 'Save my answers' : PAYWALL ? 'Back to pay' : 'Back to preview') : PAYWALL ? 'Pick my finish' : 'See my preview';
+  const CHIPS = ['Light', 'Landscape', 'Gathering', 'Heritage', 'Structure / material', 'Climate', 'Movement'];   // D120 (language.CHIPS)
   const norm = (s) => String(s).toLowerCase().replace(/[“”"’']/g, '').trim();
   /* older answers (the sample's, a saved intake) use older labels: D84 renamed "Re-render to Great", D102 "Keep mine / ours, clean up" */
   const RENAMED = { 're-render to great': 'transform them', 'keep mine, clean up': 'keep my design, polish it', 'keep ours, clean up': 'keep our design, polish it' };
@@ -322,8 +346,9 @@
   function studentAnswers() {
     S.ans = { making: 0 }; S.oth = {};
     Object.values(P.intake).forEach((v, i) => { const k = V1[i], j = QB[k].o.findIndex((o) => norm(o[0]) === normA(v) || norm(o[0]).startsWith(normA(v))); if (j >= 0) S.ans[k] = j; });
-    S.concept = 'Fabric as identity';
-    S.card = { name: S.card.name || '', title: SAMPLE.name, loc: 'Law Garden, Ahmedabad', prog: 'Community centre for the cloth market’s vendors' };
+    S.chips = ['Gathering', 'Heritage'];
+    S.ans.prog = QB.prog.o.findIndex((o) => o[3] === 'Community centre');
+    S.read = { title: SAMPLE.name, loc: 'Law Garden, Ahmedabad', prog: '' }; S.cardMode = 'card'; S.cardOk = true;
   }
   const said = (k) => { const a = ans(k); return a === null ? 'skipped' : a === 'other' ? '“' + S.oth[k] + '”' : qd(k).o[a][0]; };
   const heard = (k, fb) => { const a = ans(k); return a === null ? fb : a === 'other' ? 'Your words: “' + S.oth[k] + '”' : qd(k).o[a][1]; };
@@ -353,18 +378,20 @@
       const o = qd(k).o[a];
       if (o) answers[key] = k === 'proud' ? (o[3] || o[0]) : plain(o[0]);
     });
-    const c = S.card, body = { path: pro ? 'professional' : 'student', answers,
-      card: { name: String(c.name || '').trim(), project_title: tidy('title', c.title), project_location: tidy('loc', c.loc), program: tidy('prog', c.prog) } };
+    /* D118-D121: no name (typed in the editor after payment); the title and location only when the read's card was accepted;
+       the program is the tapped label ("Other" for "Something else"); the concept is up to two tapped idea chips */
+    const card = { program: progLabel() || 'Other' };
+    if (S.cardOk === true && S.read) { if (S.read.title) card.project_title = S.read.title; if (S.read.loc) card.project_location = S.read.loc; }
+    const body = { path: pro ? 'professional' : 'student', answers, card };
     if (making()) body.making = making();   // question 1 (D109): the server checks it against the path
-    if (concept()) body.concept_text = concept();
-    if (unbranded()) body.no_name = true;
+    body.concept_chips = (S.chips || []).slice(0, 2);
     if (EMAIL_RE.test(qEmail())) { body.email = qEmail(); body.email_optin = !!S.optin; body.email_terms = EMAIL_TERMS; }
-    body.card_read = S.cardMode === 'card' ? 'card' : 'questions';   // D116: the server records which values came from the read
+    body.card_read = S.cardMode === 'card' ? 'card' : 'questions';   // D116: which the page showed; the server records what came from the read
     body.language = boardLang();   // D117: the board's language (the site and the emails stay in English)
     return body;
   }
   /* D117 (owner, 12 Nov 2026): the board's language, picked on the concept step ("Board in: English ▾"). Until the student
-     picks, it is guessed from what they typed (title, program, location, concept), then the browser's language, else English. */
+     picks, it is guessed from the words read on their sheets (title, location, program), then the browser's language, else English. */
   const LANGS = [['en', 'English'], ['es', 'Español'], ['pt', 'Português'], ['tr', 'Türkçe'], ['fr', 'Français']];
   const wordsRe = (words) => new RegExp('(?<!\\p{L})(?:' + words + ')(?!\\p{L})', 'giu');   // whole words, accents included
   const LANG_HINTS = {
@@ -374,7 +401,8 @@
     fr: [/[èêëœàùâ]/giu, wordsRe('du|des|le|les|un|une|avec|au|aux|centre|maison|école|logement|logements|bibliothèque|médiathèque|quartier|place')],
     en: [wordsRe('the|of|and|for|with|a|an|centre|center|house|school|library|housing|community|museum|market|hall|pavilion|park')] };
   function guessLang() {
-    const t = [S.card.title, S.card.prog, S.card.loc, S.concept].filter(Boolean).join(' ');
+    const r = S.read || (readTitle() ? { title: RD.res.values.project_title, loc: RD.res.values.location, prog: RD.res.values.program } : {});
+    const t = [r.title, r.loc, r.prog].filter(Boolean).join(' ');   // what the read found on the sheets (nothing is typed now)
     const sc = {};
     Object.keys(LANG_HINTS).forEach((k) => { sc[k] = LANG_HINTS[k].reduce((n, re) => n + (t.match(re) || []).length, 0); });
     const nav = ((navigator.languages && navigator.languages[0]) || navigator.language || 'en').slice(0, 2).toLowerCase();
@@ -405,7 +433,10 @@
     });
     const c = it.card || {};
     S.card = { name: c.name || '', title: c.project_title || '', loc: c.project_location || '', prog: c.program || '' };
-    S.concept = it.concept_text || '';
+    const pj = QB.prog.o.findIndex((o) => o[3] === c.program);
+    if (pj >= 0) S.ans.prog = pj; else if (c.program) { const g = progFromText(c.program); S.ans.prog = g >= 0 ? g : QB.prog.o.length - 1; }
+    S.chips = (it.concept_chips || []).slice(0, 2);
+    if (c.project_title) { S.read = { title: c.project_title, loc: c.project_location || '', prog: '' }; S.cardOk = true; }
     if (typeof it.no_name === 'boolean') S.noName = it.no_name;
     if (it.language) S.lang = it.language;   // D117
     if (it.card_source && it.card_source.shown) S.cardMode = it.card_source.shown === 'card' ? 'card' : 'questions';   // D116
@@ -416,23 +447,28 @@
   function applyIntake() {
     const np = F.clone(P), c = S.card, pages = [np.board].concat(np.slides), orig = freshP();
     const T = (pg, pred) => pg.texts.find(pred);
-    if (cardOk()) {
-      const title = tidy('title', c.title), old = np.tbTitle || SAMPLE.name;
+    /* D118-D121: the name is a red [Your name] placeholder until the editor; an unaccepted read leaves a working title */
+    const acc = S.cardOk === true && S.read, PHC = '#D33A2C';
+    const ph = (v, p) => v ? [v, false] : ['[' + p + ']', true];
+    {
+      const [title, tph] = ph(acc ? S.read.title : '', workingTitle()), old = np.tbTitle || SAMPLE.name;
       if (title !== old) pages.forEach((pg) => pg.texts.forEach((t) => (t.paras || []).forEach((p) => p.runs.forEach((r) => { r.t = r.t.split(old).join(title).split(old.toUpperCase()).join(title.toUpperCase()); }))));
       np.tbTitle = title;
-      const rows = [[isPro() ? 'Architect' : 'Student', c.name.trim()], ['Project', title], ['Location', tidy('loc', c.loc)], ['Program', tidy('prog', c.prog)]].filter((r, i) => i || !unbranded());
+      const pl = progLabel(), prog = pl && pl !== 'Other' ? pl : '';
+      const rows = [[isPro() ? 'Architect' : 'Student'].concat(ph('', isPro() ? 'Your name or firm' : 'Your name')), ['Project', title, tph],
+        ['Location'].concat(ph(acc ? S.read.loc : '', 'Project location')), ['Program'].concat(ph(prog, 'Program'))].filter((r, i) => i || !unbranded());
       const info = T(np.board, (t) => t.kind === 'info');
-      if (info) info.rows = rows.map(([k, v]) => ({ k, v, ph: false }));
+      if (info) info.rows = rows.map(([k, v, isPh]) => ({ k, v, ph: !!isPh }));
       np.slides.forEach((sl) => {
         const fr = sl.texts.filter((t) => t.name === 'info' && t.paras);
         if (fr.length === 2) {
           const kp = fr[0].paras[0], vp = fr[1].paras.find((p) => p.runs[0].c !== '#D33A2C') || fr[1].paras[0];
           fr[0].paras = rows.map(([k]) => Object.assign({}, kp, { runs: [Object.assign({}, kp.runs[0], { t: k.toUpperCase() })] }));
-          fr[1].paras = rows.map(([, v]) => Object.assign({}, vp, { runs: [Object.assign({}, vp.runs[0], { t: v, c: '#1D1D1B' })] }));
+          fr[1].paras = rows.map(([, v, isPh]) => Object.assign({}, vp, { runs: [Object.assign({}, vp.runs[0], { t: v, c: isPh ? PHC : '#1D1D1B' })] }));
         }
         sl.texts.filter((t) => t.name === 'credits').forEach((t) => {
           const r0 = t.paras[0].runs[0], sep = t.paras[0].runs.find((r) => r.t.trim() === '·') || r0;
-          const parts = (unbranded() ? [] : [c.name.trim()]).concat([tidy('prog', c.prog), tidy('loc', c.loc)]);
+          const parts = rows.filter(([k]) => k !== 'Project').map(([, v]) => v);
           t.paras = [Object.assign({}, t.paras[0], { runs: [].concat(...parts.map((v, i) => (i ? [Object.assign({}, sep)] : []).concat([Object.assign({}, r0, { t: v, c: '#1D1D1B' })]))) })];
         });
       });
@@ -672,7 +708,7 @@
   const cropCSS = (cr) => !cr ? 'background-size:cover;background-position:center' : (() => { const w = cr[2] - cr[0], h = cr[3] - cr[1], bp = (a, sp) => sp >= 1 ? '0' : (a / (1 - sp) * 100).toFixed(1) + '%';
     return 'background-size:' + (100 / w).toFixed(1) + '% ' + (100 / h).toFixed(1) + '%;background-position:' + bp(cr[0], w) + ' ' + bp(cr[1], h); })();
   const MINISPARK = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3l1.8 4.7L18.5 9.5l-4.7 1.8L12 16l-1.8-4.7L5.5 9.5l4.7-1.8z"/></svg>';
-  const projTitle = () => tidy('title', S.card.title) || (ST && ST.intake && ST.intake.card ? ST.intake.card.project_title : '') || (DEMO ? SAMPLE.name : 'Your project');
+  const projTitle = () => (S.cardOk === true && S.read ? S.read.title : '') || (ST && ST.intake && ST.intake.card ? ST.intake.card.project_title : '') || (DEMO ? SAMPLE.name : 'Your project');
   function compSlot(sl, p, i) {
     const pos = 'left:' + (sl.x * 100).toFixed(2) + '%;top:' + (sl.y * 100).toFixed(2) + '%;width:' + (sl.w * 100).toFixed(2) + '%;height:' + (sl.h * 100).toFixed(2) + '%';
     const sel = S.pvSel && S.pvSel[0] === p && S.pvSel[1] === i ? ' sel' : '';
@@ -901,16 +937,17 @@
         '<div class="field"><input id="cardin" data-card="' + f + '" class="input" type="text" required maxlength="' + (f === 'prog' ? 200 : 120) + '" aria-label="' + esc(q()) + '" value="' + esc(v) + '" placeholder="' + esc(ph()) + '">' + onSheet(f, v) + '</div>' + tick + '<p class="err" id="cardErr"></p>' +
         next(last ? LASTLABEL() : 'Continue', !!v.trim());
     }
-    if (k === 'ccard') {   // D116: questions 4-6 as one card, from the read of the sheets
-      const F3 = [['title', 'Title', 'ctitle', 120], ['loc', 'Location', 'cloc', 120], ['prog', 'Program', 'cprog', 200]];
-      const ed = !!S.cardEditing, have = F3.filter(([f]) => (S.card[f] || '').trim()), gap = F3.filter(([f]) => !(S.card[f] || '').trim());
-      const inp = ([f, label, ck, max]) => '<div class="field rc-field"><label for="rc-' + f + '">' + label + '</label><input id="rc-' + f + '" data-card="' + f + '" class="input rc-in" type="text" maxlength="' + max + '" value="' + esc(S.card[f] || '') + '" placeholder="' + esc(CARD[ck][2]()) + '"></div>';
-      const line = have.length ? '<p class="rc-line">' + have.map(([f, label]) => '<span class="rc-item"><span class="rc-k">' + label + ':</span> <b>' + esc(tidy(f, S.card[f])) + '</b></span>').join('<span class="rc-sep" aria-hidden="true"> · </span>') + '</p>' : '';
-      const tb = pth.filter((x) => CARD[x] || x === 'ccard');
-      return head + '<p class="kicker">Title block · ' + (tb.indexOf(k) + 1) + ' of ' + tb.length + ' · from your sheets</p><h1 class="mid">We read this from your sheets. Right?</h1>' +
-        '<p class="lede">' + (ed ? FIXNOTE : gap.length ? 'Fill in what we couldn’t find, so your title block never shows a blank.' : 'Check it before it goes on your board and deck.') + '</p>' +
-        '<div class="card readcard">' + (ed ? F3.map(inp).join('') : line + gap.map(inp).join('')) + '</div><p class="err" id="cardErr" role="alert"></p>' + fresh +
-        '<div class="row"><button class="btn primary" data-act="qnext">' + (S.fromHeard ? back2 : ed ? 'Continue' : 'Yes, that’s right') + '</button>' + (ed ? '' : '<button class="btn" data-act="rcEdit">Edit</button>') + helper + '</div></main>';
+    if (k === 'ccard') {   // D116 / D121: what the read found on the sheets, to accept or drop; nothing is typed here
+      const R = S.read || {}, rows = [['Title', R.title], ['Location', R.loc]].filter(([, v]) => v);
+      const pj = R.prog ? progFromText(R.prog) : -1;
+      if (pj >= 0) rows.push(['Program', QB.prog.o[pj][0]]);
+      const line = '<p class="rc-line">' + rows.map(([l, v]) => '<span class="rc-item"><span class="rc-k">' + l + ':</span> <b>' + esc(v) + '</b></span>').join('<span class="rc-sep" aria-hidden="true"> · </span>') + '</p>';
+      const tb = [];
+      if (!R.loc) tb.push('the location');
+      return head + '<p class="kicker">From your sheets</p><h1 class="mid">We read this from your sheets. Right?</h1>' +
+        '<p class="lede">' + (tb.length ? 'You can add ' + tb.join(' and ') + ' and your name in the editor after payment.' : 'You add your name in the editor after payment.') + '</p>' +
+        '<div class="card readcard">' + line + '</div>' + fresh +
+        '<div class="row"><button class="btn' + (S.cardOk !== false ? ' primary' : '') + '" data-act="rcYes">Yes, that’s right</button><button class="btn' + (S.cardOk === false ? ' primary' : '') + '" data-act="rcNo">Not quite</button>' + helper + '</div></main>';
     }
     if (k === 'email') {
       const v = S.email || '';
@@ -922,12 +959,13 @@
         fresh + '<p class="err" id="qErr" role="alert"></p><div class="row"><button class="btn' + (v.trim() ? ' primary' : '') + '" data-act="qnext">' + (S.fromHeard ? back2 : 'Continue') + '</button>' +
         '<button class="link" data-act="qskip">Skip</button>' + helper + '</div></main>';
     }
-    if (k === 'concept') {
-      const b = briefs();
-      return head + '<p class="kicker">Optional</p><h1 class="mid">Concept?</h1><p class="lede">In a few words. ' + FIXNOTE + '</p>' +
-        '<div class="field"><input id="concept" class="input" type="text" maxlength="140" aria-label="Concept" placeholder="e.g. a market that becomes a garden at night" value="' + esc(S.concept || '') + '">' + onSheet('concept', S.concept) +
-        '<p class="hint" style="margin:0">' + (b.length ? 'Brief attached: ' + esc(b.join(', ')) + '. AI Studio reads it for text.' : 'Or attach your brief or a concept note in your files. <button class="link" data-act="go" data-s="upload">Go to your files</button>') + '</p></div>' +
-        langPick() + next(conceptLabel(), !!concept());
+    if (k === 'concept') {   // D120: tap up to two ideas, or none; hints for AI Studio, never your words on the board
+      const b = briefs(), on = S.chips || [];
+      const chips = '<div class="chips" role="group" aria-label="Ideas">' + CHIPS.map((c) => { const sel = on.includes(c);
+        return '<button class="chipbtn' + (sel ? ' sel' : '') + '" data-act="chip" data-c="' + esc(c) + '" aria-pressed="' + sel + '"' + (!sel && on.length >= 2 ? ' disabled' : '') + '>' + esc(c) + '</button>'; }).join('') + '</div>';
+      return head + '<p class="kicker">Optional</p><h1 class="mid">What is your project about?</h1><p class="lede">Tap up to two ideas, or none. AI Studio leans the story that way only where your drawings show it.</p>' +
+        chips + '<p class="hint" style="margin:0">' + (b.length ? 'Brief attached: ' + esc(b.join(', ')) + '. AI Studio reads it for text.' : 'Have a brief or a concept note? Add it to your files. <button class="link" data-act="go" data-s="upload">Go to your files</button>') + '</p>' +
+        langPick() + next(conceptLabel(), true);
     }
     const q = qd(k), a = ans(k), sel = a;
     const opts = q.thumbs
@@ -935,7 +973,7 @@
       : '<div class="opts">' + q.o.map((o, j) => '<button class="opt' + (sel === j ? ' sel' : '') + '" data-act="pick" data-j="' + j + '" aria-pressed="' + (sel === j) + '"><b class="ico">' + ico(o[0]) + '</b>' +
         (q.subs ? '<span class="ot"><span>' + esc(o[0]) + '</span><small>' + esc(o[1]) + '</small></span>' : esc(o[0])) + '</button>').join('') + '</div>';
     return head + '<p class="kicker">' + esc(q.k) + '</p><h1 class="mid">' + esc(q.q) + '</h1><p class="lede">' + esc(q.sub) + '</p>' + opts +
-      (q.noOther ? '' : other('Say it your way')) +
+      /* owner, 12 Nov 2026: no typed "Other" box on a tap step; the email is the only typed box before payment */
       /* one tap picks and moves on (owner, 6 Nov 2026); the button shows only for a typed "Other" answer, or when
          changing an answer from the preview */
       '<div id="qgo"' + (S.fromHeard || a === 'other' ? '' : ' hidden') + '>' + next(last ? LASTLABEL() : 'Continue', true).replace('</main>', '') + '</div>' + (S.fromHeard || a === 'other' ? '' : helper ? '<div class="row">' + helper + '</div>' : '') + '</main>';
@@ -1282,6 +1320,8 @@
     '<div class="seg" role="group" aria-label="History"><button data-act="undo" id="undo" title="Undo (Ctrl or Cmd + Z)" aria-label="Undo">↶<span class="hide-phone"> Undo</span></button><button data-act="redo" id="redo" title="Redo (Shift + Ctrl or Cmd + Z)" aria-label="Redo">↷<span class="hide-phone"> Redo</span></button></div>' +
     '<div class="seg" role="group" aria-label="Text style"><button data-act="ts" data-v="A" class="' + (P.ts === 'A' ? 'on' : '') + '">A<span class="hide-phone"> · Swiss Bold</span></button><button data-act="ts" data-v="C" class="' + (P.ts === 'C' ? 'on' : '') + '">C<span class="hide-phone"> · Drawing Sheet</span></button></div>' +
     '<div class="seg hide-phone" role="group" aria-label="View zoom"><button data-act="vz" data-v="-1" aria-label="Zoom out">−</button><button data-act="vz" data-v="0">Fit</button><button data-act="vz" data-v="1" aria-label="Zoom in">+</button></div>' +
+    /* D118: the name is typed here, in the title block (click the red [Your name]); or left off for an anonymous entry */
+    '<button class="btn small" data-act="noNameEd" title="Leave your name off the board and deck (anonymous)">No name</button>' +
     '<span class="spacer"></span><span class="saved hide-phone" id="saved">Saved on this device</span><button class="btn small dlall" data-act="dlAll" id="dlall"><span>Download all</span><small>Board PDF + JPG · Deck PDF + PowerPoint</small></button></div>' +
     '<div class="edbody ' + (S.edView === 'deck' ? 'deck' : 'board') + '"><nav class="rail" id="rail" aria-label="Slides"></nav><div class="viewport" id="vp"></div><aside class="panel" id="panel" aria-label="Edit panel"></aside></div></div>';
 
@@ -1785,8 +1825,7 @@
       setTimeout(() => { picking = false; if (S.screen === 'q' && curKey() === k) A.qnext(); }, 180);
     },
     qnext: () => {
-      const k = curKey(), ck = CARD[k];
-      if (ck && !(S.card[ck[0]] || '').trim()) { document.getElementById('cardErr').textContent = 'Needed for the title block, so it never shows a blank.'; document.getElementById('cardin').focus(); return; }
+      const k = curKey();
       if (k === 'email' && qEmail() && !EMAIL_RE.test(qEmail())) {
         const er = document.getElementById('qErr'), m = document.getElementById('qemail');
         if (er) er.textContent = 'That email doesn’t look right. Check it, or tap Skip.';
@@ -1794,21 +1833,35 @@
         return;
       }
       if (k === 'email' && !qEmail()) S.optin = false;
-      if (k === 'ccard' && !['title', 'loc', 'prog'].every((f) => (S.card[f] || '').trim())) {
-        const er = document.getElementById('cardErr'), gap = document.querySelector('.rc-in:placeholder-shown');
-        if (er) er.textContent = 'Needed for the title block, so it never shows a blank.';
-        if (gap) gap.focus();
-        return;
-      }
-      if (k === 'ccard') S.cardEditing = false;
-      if (!S.fromHeard && path()[S.q] === 'cname' && readDone()) settleCard();   // the read is back: the counter knows the length now
-      if (!S.fromHeard && k === 'cname' && !S.cardMode) { decideCard(() => { S.q += 1; saveS(); render(); }); return; }
+      if (!S.fromHeard && k === 'making' && readDone()) settleCard();   // the read is back: the counter knows the length now
+      if (!S.fromHeard && k === 'email' && !S.cardMode) { decideCard(() => { S.q += 1; saveS(); render(); }); return; }
       if (S.fromHeard || S.q === path().length) { if (DEMO) { S.fromHeard = false; applyIntake(); go(PAYWALL ? 'price' : 'plan'); } else finishQuestions(); } else { S.q += 1; saveS(); render(); }
     },
-    rcEdit: () => { S.cardEditing = true; saveS(); render(); const i = document.getElementById('rc-title'); if (i) i.focus(); },
+    /* D118: the anonymous choice after payment: the name row leaves every title block, and the name leaves the deck's credits */
+    noNameEd: () => {
+      const KEYS = /^(student|by|architect|name|estudiante|por|estudante|réalisé par|par|öğrenci|hazırlayan)$/i, PHN = /^\[(your name|your name or firm|name|tu nombre|tu nombre o estudio|seu nome|seu nome ou escritório|adınız|adınız veya ofisiniz|votre nom|votre nom ou agence)\]$/i;
+      const np = F.clone(P), names = new Set();
+      [np.board].concat(np.slides).forEach((pg) => pg.texts.forEach((t) => {
+        if (t.kind === 'info' && t.rows) { t.rows.filter((r) => KEYS.test(String(r.k).trim())).forEach((r) => names.add(String(r.v).trim())); t.rows = t.rows.filter((r) => !KEYS.test(String(r.k).trim())); }
+      }));
+      np.slides.forEach((sl) => {   // the deck cover's title block: a key frame and a value frame, row by row
+        const fr = sl.texts.filter((t) => t.name === 'info' && t.paras);
+        if (fr.length !== 2) return;
+        const txt = (pa) => pa.runs.map((r) => r.t).join('').trim();
+        for (let i = fr[0].paras.length - 1; i >= 0; i--) if (KEYS.test(txt(fr[0].paras[i]))) { if (fr[1].paras[i]) names.add(txt(fr[1].paras[i])); fr[0].paras.splice(i, 1); fr[1].paras.splice(i, 1); }
+      });
+      [np.board].concat(np.slides).forEach((pg) => pg.texts.forEach((t) => (t.paras || []).forEach((pa) => {
+        pa.runs = pa.runs.filter((r) => !PHN.test(r.t.trim()) && !names.has(r.t.trim()));
+      })));
+      setP(np, 'No name'); render(); toast('Your name is off the board and deck. Undo brings it back.');
+    },
+    rcYes: () => { S.cardOk = true; saveS(); A.qnext(); },
+    rcNo: () => { S.cardOk = false; saveS(); A.qnext(); },   // D121: the guess is dropped: a working title and an editable location
+    chip: (el) => { const c = el.dataset.c, on = S.chips || [];
+      S.chips = on.includes(c) ? on.filter((x) => x !== c) : on.length < 2 ? on.concat(c) : on; saveS(); render(); },
     qskip: () => { S.email = ''; S.optin = false; saveS(); A.qnext(); },
     qback: () => { if (S.fromHeard) { S.fromHeard = false; go(paid() ? 'result' : PAYWALL ? 'price' : 'plan'); } else if (S.q > 1) { S.q -= 1; saveS(); render(); } else go('upload'); },
-    student: () => { studentAnswers(); S.fromHeard = false; S.q = path().indexOf('cname') + 1; saveS(); go('q'); toast(S.card.name ? 'Filled in the student’s real answers.' : 'Filled in the student’s answers. Type any name to test.'); },
+    student: () => { studentAnswers(); S.fromHeard = false; S.q = path().length; saveS(); go('q'); toast('Filled in the student’s real answers.'); },
     editq: (el) => { S.q = path().indexOf(el.dataset.k) + 1; S.fromHeard = true; go('q'); },
     toPlan: () => go('plan'),
     ideaUp: (el) => { moveIdea(+el.dataset.i, -1); },
@@ -2079,7 +2132,7 @@
     let r = await API.intake(S.job, body);
     if (r.status === 422 && body.no_name && /no_name/.test(r.data.error || '')) { delete body.no_name; r = await API.intake(S.job, body); }   // a server from before C8
     if (r.status === 422 && body.email && /email/.test(r.data.error || '') && /extra|permitted/i.test(r.data.error || '')) { delete body.email; delete body.email_optin; r = await API.intake(S.job, body); }   // a server from before the email step
-    if (r.status === 422 && /language|card_read/.test(r.data.error || '') && /extra|permitted/i.test(r.data.error || '')) { delete body.language; delete body.card_read; r = await API.intake(S.job, body); }   // a server from before D116-D117
+    if (r.status === 422 && /language|card_read|concept_chips/.test(r.data.error || '') && /extra|permitted/i.test(r.data.error || '')) { delete body.language; delete body.card_read; delete body.concept_chips; r = await API.intake(S.job, body); }   // a server from before D116-D117
     if (!r.ok) {
       if (btn) { btn.disabled = false; btn.textContent = 'Try again'; }
       if (er) er.textContent = r.status === 0 ? offline : r.status === 422 ? 'Something in your answers needs a look: ' + (r.data.error || '') : (r.data.error || 'Your answers could not be saved. Try again.');
