@@ -1,13 +1,13 @@
 {
- "fetched_at": "2026-11-11T14:00:42+00:00",
+ "fetched_at": "2026-11-12T00:29:44+00:00",
  "site": "akshatpagaria.goatcounter.com",
  "window_days": 30,
- "visits_30d": 2921,
+ "visits_30d": 2953,
  "sections": {
   "pages": {
    "hits": [
     {
-     "count": 572,
+     "count": 575,
      "path_id": 112020267,
      "path": "/",
      "event": false,
@@ -15,7 +15,7 @@
      "max": 36
     },
     {
-     "count": 121,
+     "count": 126,
      "path_id": 113691164,
      "path": "/studio",
      "event": false,
@@ -39,12 +39,20 @@
      "max": 9
     },
     {
-     "count": 79,
+     "count": 84,
      "path_id": 116720890,
      "path": "studio/screen/home",
      "event": true,
      "title": "Studio \u00b7 screen \u00b7 home",
      "max": 3
+    },
+    {
+     "count": 30,
+     "path_id": 116802573,
+     "path": "studio/scroll/25",
+     "event": true,
+     "title": "Studio \u00b7 scroll \u00b7 25",
+     "max": 2
     },
     {
      "count": 30,
@@ -55,15 +63,7 @@
      "max": 3
     },
     {
-     "count": 29,
-     "path_id": 116802573,
-     "path": "studio/scroll/25",
-     "event": true,
-     "title": "Studio \u00b7 scroll \u00b7 25",
-     "max": 2
-    },
-    {
-     "count": 25,
+     "count": 26,
      "path_id": 116837291,
      "path": "studio/scroll/50",
      "event": true,
@@ -71,7 +71,7 @@
      "max": 2
     },
     {
-     "count": 22,
+     "count": 23,
      "path_id": 116837478,
      "path": "studio/scroll/75",
      "event": true,
@@ -87,7 +87,7 @@
      "max": 2
     },
     {
-     "count": 18,
+     "count": 19,
      "path_id": 116838001,
      "path": "studio/scroll/100",
      "event": true,
@@ -116,6 +116,14 @@
      "path": "studio/click/q/pick",
      "event": true,
      "title": "Studio \u00b7 click \u00b7 q \u00b7 pick",
+     "max": 3
+    },
+    {
+     "count": 14,
+     "path_id": 120621079,
+     "path": "studio/flow/paywall",
+     "event": true,
+     "title": "Studio: flow paywall",
      "max": 3
     },
     {
@@ -208,19 +216,19 @@
     },
     {
      "count": 10,
+     "path_id": 113703681,
+     "path": "/styles/brutalism",
+     "event": false,
+     "title": "Brutalist architecture: 249 buildings with photos & plans",
+     "max": 1
+    },
+    {
+     "count": 10,
      "path_id": 113671658,
      "path": "play/daily/3-of-5",
      "event": true,
      "title": "Daily five finished: 3 of 5 right",
      "max": 2
-    },
-    {
-     "count": 9,
-     "path_id": 120621079,
-     "path": "studio/flow/paywall",
-     "event": true,
-     "title": "Studio: flow paywall",
-     "max": 1
     },
     {
      "count": 9,
@@ -236,14 +244,6 @@
      "path": "studio/click/upload/add",
      "event": true,
      "title": "Studio \u00b7 click \u00b7 upload \u00b7 add",
-     "max": 1
-    },
-    {
-     "count": 9,
-     "path_id": 113703681,
-     "path": "/styles/brutalism",
-     "event": false,
-     "title": "Brutalist architecture: 249 buildings with photos & plans",
      "max": 1
     },
     {
@@ -552,6 +552,14 @@
     },
     {
      "count": 3,
+     "path_id": 117204370,
+     "path": "/buildings/copan-building",
+     "event": false,
+     "title": "Copan Building by Oscar Niemeyer: photos & plans",
+     "max": 1
+    },
+    {
+     "count": 3,
      "path_id": 116838040,
      "path": "studio/click/home/home",
      "event": true,
@@ -612,6 +620,14 @@
      "path": "/buildings/foguang-temple-east-hall",
      "event": false,
      "title": "East Hall of Foguang Temple by Tang dynasty builders: photos",
+     "max": 1
+    },
+    {
+     "count": 3,
+     "path_id": 114098560,
+     "path": "/buildings/king-faisal-mosque-sharjah",
+     "event": false,
+     "title": "King Faisal Mosque, Sharjah: photos",
      "max": 1
     },
     {
@@ -789,32 +805,16 @@
      "event": false,
      "title": "St. George's Cathedral \u2014 Sebastiano Castagna, 1911: photos",
      "max": 1
-    },
-    {
-     "count": 3,
-     "path_id": 112487066,
-     "path": "/buildings/mercado-municipal-de-sao-paulo",
-     "event": false,
-     "title": "Municipal Market of S\u00e3o Paulo, 1933: photos",
-     "max": 1
-    },
-    {
-     "count": 3,
-     "path_id": 112481251,
-     "path": "/buildings/bouca-housing",
-     "event": false,
-     "title": "Bou\u00e7a Social Housing \u2014 \u00c1lvaro Siza, 2006: photos",
-     "max": 1
     }
    ],
-   "total": 1611,
+   "total": 1634,
    "more": true
   },
   "referrers": {
    "stats": [
     {
      "name": "",
-     "count": 1574,
+     "count": 1588,
      "ref_scheme": "o"
     },
     {
@@ -826,19 +826,19 @@
     {
      "id": "chatgpt.com",
      "name": "chatgpt.com",
-     "count": 172,
+     "count": 174,
      "ref_scheme": "c"
     },
     {
      "id": "www.linkedin.com",
      "name": "www.linkedin.com",
-     "count": 110,
+     "count": 114,
      "ref_scheme": "h"
     },
     {
      "id": "com.linkedin.android",
      "name": "com.linkedin.android",
-     "count": 25,
+     "count": 32,
      "ref_scheme": "o"
     },
     {
@@ -850,7 +850,7 @@
     {
      "id": "wall",
      "name": "wall",
-     "count": 19,
+     "count": 20,
      "ref_scheme": "c"
     },
     {
@@ -910,7 +910,7 @@
     {
      "id": "duckduckgo.com",
      "name": "duckduckgo.com",
-     "count": 3,
+     "count": 4,
      "ref_scheme": "h"
     },
     {
@@ -1026,6 +1026,18 @@
      "name": "guides-nav",
      "count": 1,
      "ref_scheme": "c"
+    },
+    {
+     "id": "guides-end",
+     "name": "guides-end",
+     "count": 1,
+     "ref_scheme": "c"
+    },
+    {
+     "id": "guides-top",
+     "name": "guides-top",
+     "count": 1,
+     "ref_scheme": "c"
     }
    ],
    "more": false
@@ -1035,12 +1047,12 @@
     {
      "id": "Chrome",
      "name": "Chrome",
-     "count": 2016
+     "count": 2040
     },
     {
      "id": "Safari",
      "name": "Safari",
-     "count": 862
+     "count": 870
     },
     {
      "id": "Firefox",
@@ -1059,17 +1071,17 @@
     {
      "id": "Windows",
      "name": "Windows",
-     "count": 1139
+     "count": 1155
     },
     {
      "id": "iOS",
      "name": "iOS",
-     "count": 708
+     "count": 716
     },
     {
      "id": "Android",
      "name": "Android",
-     "count": 636
+     "count": 643
     },
     {
      "id": "macOS",
@@ -1079,7 +1091,7 @@
     {
      "id": "Linux",
      "name": "Linux",
-     "count": 152
+     "count": 153
     },
     {
      "id": "Chrome OS",
@@ -1098,17 +1110,17 @@
     {
      "id": "IN",
      "name": "India",
-     "count": 1282
+     "count": 1296
     },
     {
      "id": "US",
      "name": "United States",
-     "count": 456
+     "count": 458
     },
     {
      "id": "TR",
      "name": "Turkey",
-     "count": 89
+     "count": 90
     },
     {
      "id": "DE",
@@ -1123,16 +1135,16 @@
     {
      "id": "AR",
      "name": "Argentina",
-     "count": 50
-    },
-    {
-     "id": "CH",
-     "name": "Switzerland",
-     "count": 42
+     "count": 51
     },
     {
      "id": "IT",
      "name": "Italy",
+     "count": 43
+    },
+    {
+     "id": "CH",
+     "name": "Switzerland",
      "count": 42
     },
     {
@@ -1151,18 +1163,23 @@
      "count": 35
     },
     {
+     "id": "BR",
+     "name": "Brazil",
+     "count": 35
+    },
+    {
      "id": "KR",
      "name": "South Korea",
      "count": 34
     },
     {
-     "id": "BR",
-     "name": "Brazil",
-     "count": 33
-    },
-    {
      "id": "CA",
      "name": "Canada",
+     "count": 32
+    },
+    {
+     "id": "PK",
+     "name": "Pakistan",
      "count": 32
     },
     {
@@ -1178,11 +1195,6 @@
     {
      "id": "JO",
      "name": "Hashemite Kingdom of Jordan",
-     "count": 29
-    },
-    {
-     "id": "PK",
-     "name": "Pakistan",
      "count": 29
     },
     {
@@ -1203,7 +1215,12 @@
     {
      "id": "DZ",
      "name": "Algeria",
-     "count": 21
+     "count": 22
+    },
+    {
+     "id": "BE",
+     "name": "Belgium",
+     "count": 20
     },
     {
      "id": "ES",
@@ -1211,14 +1228,14 @@
      "count": 20
     },
     {
-     "id": "BE",
-     "name": "Belgium",
-     "count": 19
-    },
-    {
      "id": "NZ",
      "name": "New Zealand",
      "count": 18
+    },
+    {
+     "id": "SC",
+     "name": "Seychelles",
+     "count": 15
     },
     {
      "id": "AE",
@@ -1256,11 +1273,6 @@
      "count": 12
     },
     {
-     "id": "SC",
-     "name": "Seychelles",
-     "count": 12
-    },
-    {
      "id": "HK",
      "name": "Hong Kong",
      "count": 11
@@ -1283,7 +1295,7 @@
     {
      "id": "CO",
      "name": "Colombia",
-     "count": 8
+     "count": 9
     },
     {
      "id": "EC",
@@ -1331,6 +1343,11 @@
      "count": 6
     },
     {
+     "id": "MY",
+     "name": "Malaysia",
+     "count": 6
+    },
+    {
      "id": "PE",
      "name": "Peru",
      "count": 6
@@ -1353,11 +1370,6 @@
     {
      "id": "IQ",
      "name": "Iraq",
-     "count": 5
-    },
-    {
-     "id": "MY",
-     "name": "Malaysia",
      "count": 5
     },
     {
@@ -1441,6 +1453,11 @@
      "count": 2
     },
     {
+     "id": "CR",
+     "name": "Costa Rica",
+     "count": 2
+    },
+    {
      "id": "ET",
      "name": "Ethiopia",
      "count": 2
@@ -1506,11 +1523,6 @@
      "count": 1
     },
     {
-     "id": "CR",
-     "name": "Costa Rica",
-     "count": 1
-    },
-    {
      "id": "GH",
      "name": "Ghana",
      "count": 1
@@ -1573,17 +1585,17 @@
     {
      "id": "phone",
      "name": "",
-     "count": 1329
+     "count": 1343
     },
     {
      "id": "tablet",
      "name": "",
-     "count": 107
+     "count": 108
     },
     {
      "id": "desktop",
      "name": "",
-     "count": 1359
+     "count": 1376
     },
     {
      "id": "desktophd",
@@ -1603,7 +1615,7 @@
     {
      "id": "(unknown)",
      "name": "(unknown)",
-     "count": 2921
+     "count": 2953
     }
    ],
    "more": false
