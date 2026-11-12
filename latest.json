@@ -1,13 +1,13 @@
 {
- "fetched_at": "2026-11-12T00:29:44+00:00",
+ "fetched_at": "2026-11-12T15:00:34+00:00",
  "site": "akshatpagaria.goatcounter.com",
  "window_days": 30,
- "visits_30d": 2953,
+ "visits_30d": 3004,
  "sections": {
   "pages": {
    "hits": [
     {
-     "count": 575,
+     "count": 582,
      "path_id": 112020267,
      "path": "/",
      "event": false,
@@ -15,7 +15,7 @@
      "max": 36
     },
     {
-     "count": 126,
+     "count": 128,
      "path_id": 113691164,
      "path": "/studio",
      "event": false,
@@ -39,7 +39,7 @@
      "max": 9
     },
     {
-     "count": 84,
+     "count": 86,
      "path_id": 116720890,
      "path": "studio/screen/home",
      "event": true,
@@ -47,7 +47,7 @@
      "max": 3
     },
     {
-     "count": 30,
+     "count": 31,
      "path_id": 116802573,
      "path": "studio/scroll/25",
      "event": true,
@@ -55,7 +55,7 @@
      "max": 2
     },
     {
-     "count": 30,
+     "count": 31,
      "path_id": 113702981,
      "path": "studio/ai-button",
      "event": true,
@@ -63,7 +63,7 @@
      "max": 3
     },
     {
-     "count": 26,
+     "count": 27,
      "path_id": 116837291,
      "path": "studio/scroll/50",
      "event": true,
@@ -71,7 +71,7 @@
      "max": 2
     },
     {
-     "count": 23,
+     "count": 24,
      "path_id": 116837478,
      "path": "studio/scroll/75",
      "event": true,
@@ -79,7 +79,7 @@
      "max": 2
     },
     {
-     "count": 22,
+     "count": 23,
      "path_id": 116802640,
      "path": "studio/screen/upload",
      "event": true,
@@ -95,7 +95,7 @@
      "max": 2
     },
     {
-     "count": 18,
+     "count": 19,
      "path_id": 116802650,
      "path": "studio/click/upload/toQ",
      "event": true,
@@ -103,7 +103,7 @@
      "max": 3
     },
     {
-     "count": 16,
+     "count": 17,
      "path_id": 117976633,
      "path": "studio/screen/q",
      "event": true,
@@ -111,15 +111,7 @@
      "max": 3
     },
     {
-     "count": 15,
-     "path_id": 117976651,
-     "path": "studio/click/q/pick",
-     "event": true,
-     "title": "Studio \u00b7 click \u00b7 q \u00b7 pick",
-     "max": 3
-    },
-    {
-     "count": 14,
+     "count": 16,
      "path_id": 120621079,
      "path": "studio/flow/paywall",
      "event": true,
@@ -127,7 +119,15 @@
      "max": 3
     },
     {
-     "count": 14,
+     "count": 16,
+     "path_id": 117976651,
+     "path": "studio/click/q/pick",
+     "event": true,
+     "title": "Studio \u00b7 click \u00b7 q \u00b7 pick",
+     "max": 3
+    },
+    {
+     "count": 15,
      "path_id": 117976689,
      "path": "studio/click/q/qnext",
      "event": true,
@@ -135,7 +135,7 @@
      "max": 3
     },
     {
-     "count": 13,
+     "count": 14,
      "path_id": 117976646,
      "path": "studio/typed/q",
      "event": true,
@@ -232,6 +232,22 @@
     },
     {
      "count": 9,
+     "path_id": 119289191,
+     "path": "studio/files/home",
+     "event": true,
+     "title": "Studio \u00b7 files \u00b7 home",
+     "max": 2
+    },
+    {
+     "count": 9,
+     "path_id": 119289179,
+     "path": "studio/click/home/hpick",
+     "event": true,
+     "title": "Studio \u00b7 click \u00b7 home \u00b7 hpick",
+     "max": 2
+    },
+    {
+     "count": 9,
      "path_id": 118824824,
      "path": "studio/preview",
      "event": true,
@@ -245,22 +261,6 @@
      "event": true,
      "title": "Studio \u00b7 click \u00b7 upload \u00b7 add",
      "max": 1
-    },
-    {
-     "count": 8,
-     "path_id": 119289191,
-     "path": "studio/files/home",
-     "event": true,
-     "title": "Studio \u00b7 files \u00b7 home",
-     "max": 2
-    },
-    {
-     "count": 8,
-     "path_id": 119289179,
-     "path": "studio/click/home/hpick",
-     "event": true,
-     "title": "Studio \u00b7 click \u00b7 home \u00b7 hpick",
-     "max": 2
     },
     {
      "count": 8,
@@ -301,6 +301,14 @@
      "event": true,
      "title": "Indian Coffee House",
      "max": 3
+    },
+    {
+     "count": 6,
+     "path_id": 118826722,
+     "path": "studio/screen/price",
+     "event": true,
+     "title": "Studio \u00b7 screen \u00b7 price",
+     "max": 1
     },
     {
      "count": 6,
@@ -368,14 +376,6 @@
     },
     {
      "count": 5,
-     "path_id": 118826722,
-     "path": "studio/screen/price",
-     "event": true,
-     "title": "Studio \u00b7 screen \u00b7 price",
-     "max": 1
-    },
-    {
-     "count": 5,
      "path_id": 118234266,
      "path": "/guides/a1-presentation-board",
      "event": false,
@@ -396,6 +396,14 @@
      "path": "/styles/high-tech",
      "event": false,
      "title": "High-tech architecture: 96 buildings with photos & plans",
+     "max": 1
+    },
+    {
+     "count": 5,
+     "path_id": 116902096,
+     "path": "/buildings/baron-empain-palace",
+     "event": false,
+     "title": "Baron Empain Palace by Alexandre Marcel: photos",
      "max": 1
     },
     {
@@ -444,14 +452,6 @@
      "path": "studio/click/plan/toPrice",
      "event": true,
      "title": "Studio \u00b7 click \u00b7 plan \u00b7 toPrice",
-     "max": 1
-    },
-    {
-     "count": 4,
-     "path_id": 116902096,
-     "path": "/buildings/baron-empain-palace",
-     "event": false,
-     "title": "Baron Empain Palace by Alexandre Marcel: photos",
      "max": 1
     },
     {
@@ -528,10 +528,26 @@
     },
     {
      "count": 3,
+     "path_id": 121021779,
+     "path": "/studio/guides/how-to-lay-out-an-a1-architecture-board",
+     "event": false,
+     "title": "How to Lay Out an A1 Architecture Presentation Board",
+     "max": 1
+    },
+    {
+     "count": 3,
      "path_id": 120824340,
      "path": "/studio/guides/architecture-presentation-board-templates",
      "event": false,
      "title": "Architecture Presentation Board Templates, Explained",
+     "max": 1
+    },
+    {
+     "count": 3,
+     "path_id": 120777597,
+     "path": "/studio/guides/a1-sheet-layout-ideas",
+     "event": false,
+     "title": "A1 Sheet Layout Ideas for Architecture Students \u00b7 Studio FGA",
      "max": 1
     },
     {
@@ -541,6 +557,14 @@
      "event": true,
      "title": "Studio \u00b7 click \u00b7 planning \u00b7 preview",
      "max": 2
+    },
+    {
+     "count": 3,
+     "path_id": 119304638,
+     "path": "studio/click/q/qback",
+     "event": true,
+     "title": "Studio \u00b7 click \u00b7 q \u00b7 qback",
+     "max": 1
     },
     {
      "count": 3,
@@ -781,40 +805,16 @@
      "event": false,
      "title": "Teatro Oficina \u2014 Lina Bo Bardi and Edson Elito, 1993",
      "max": 1
-    },
-    {
-     "count": 3,
-     "path_id": 112640815,
-     "path": "/buildings/svalbard-global-seed-vault",
-     "event": false,
-     "title": "Svalbard Global Seed Vault \u2014 Peter W. Soderman, 2008: photos",
-     "max": 2
-    },
-    {
-     "count": 3,
-     "path_id": 112610074,
-     "path": "/buildings/garden-and-house",
-     "event": false,
-     "title": "Garden & House \u2014 Ryue Nishizawa, 2011: photos",
-     "max": 1
-    },
-    {
-     "count": 3,
-     "path_id": 112542443,
-     "path": "/buildings/st-george-cathedral-addis-ababa",
-     "event": false,
-     "title": "St. George's Cathedral \u2014 Sebastiano Castagna, 1911: photos",
-     "max": 1
     }
    ],
-   "total": 1634,
+   "total": 1661,
    "more": true
   },
   "referrers": {
    "stats": [
     {
      "name": "",
-     "count": 1588,
+     "count": 1611,
      "ref_scheme": "o"
     },
     {
@@ -826,7 +826,7 @@
     {
      "id": "chatgpt.com",
      "name": "chatgpt.com",
-     "count": 174,
+     "count": 181,
      "ref_scheme": "c"
     },
     {
@@ -850,13 +850,13 @@
     {
      "id": "wall",
      "name": "wall",
-     "count": 20,
+     "count": 21,
      "ref_scheme": "c"
     },
     {
      "id": "www.bing.com",
      "name": "www.bing.com",
-     "count": 18,
+     "count": 20,
      "ref_scheme": "h"
     },
     {
@@ -1047,12 +1047,12 @@
     {
      "id": "Chrome",
      "name": "Chrome",
-     "count": 2040
+     "count": 2064
     },
     {
      "id": "Safari",
      "name": "Safari",
-     "count": 870
+     "count": 897
     },
     {
      "id": "Firefox",
@@ -1071,17 +1071,17 @@
     {
      "id": "Windows",
      "name": "Windows",
-     "count": 1155
+     "count": 1176
     },
     {
      "id": "iOS",
      "name": "iOS",
-     "count": 716
+     "count": 743
     },
     {
      "id": "Android",
      "name": "Android",
-     "count": 643
+     "count": 645
     },
     {
      "id": "macOS",
@@ -1091,7 +1091,7 @@
     {
      "id": "Linux",
      "name": "Linux",
-     "count": 153
+     "count": 154
     },
     {
      "id": "Chrome OS",
@@ -1110,17 +1110,17 @@
     {
      "id": "IN",
      "name": "India",
-     "count": 1296
+     "count": 1318
     },
     {
      "id": "US",
      "name": "United States",
-     "count": 458
+     "count": 463
     },
     {
      "id": "TR",
      "name": "Turkey",
-     "count": 90
+     "count": 91
     },
     {
      "id": "DE",
@@ -1130,7 +1130,7 @@
     {
      "id": "GB",
      "name": "United Kingdom",
-     "count": 68
+     "count": 69
     },
     {
      "id": "AR",
@@ -1140,7 +1140,7 @@
     {
      "id": "IT",
      "name": "Italy",
-     "count": 43
+     "count": 44
     },
     {
      "id": "CH",
@@ -1148,24 +1148,24 @@
      "count": 42
     },
     {
-     "id": "FR",
-     "name": "France",
-     "count": 36
-    },
-    {
      "id": "JP",
      "name": "Japan",
-     "count": 36
+     "count": 42
     },
     {
      "id": "AU",
      "name": "Australia",
-     "count": 35
+     "count": 36
     },
     {
      "id": "BR",
      "name": "Brazil",
-     "count": 35
+     "count": 36
+    },
+    {
+     "id": "FR",
+     "name": "France",
+     "count": 36
     },
     {
      "id": "KR",
@@ -1175,7 +1175,7 @@
     {
      "id": "CA",
      "name": "Canada",
-     "count": 32
+     "count": 33
     },
     {
      "id": "PK",
@@ -1185,6 +1185,11 @@
     {
      "id": "NL",
      "name": "Netherlands",
+     "count": 30
+    },
+    {
+     "id": "SG",
+     "name": "Singapore",
      "count": 30
     },
     {
@@ -1206,11 +1211,6 @@
      "id": "EG",
      "name": "Egypt",
      "count": 26
-    },
-    {
-     "id": "SG",
-     "name": "Singapore",
-     "count": 23
     },
     {
      "id": "DZ",
@@ -1325,12 +1325,12 @@
     {
      "id": "TH",
      "name": "Thailand",
-     "count": 7
+     "count": 8
     },
     {
      "id": "TW",
      "name": "Taiwan",
-     "count": 7
+     "count": 8
     },
     {
      "id": "AT",
@@ -1350,6 +1350,11 @@
     {
      "id": "PE",
      "name": "Peru",
+     "count": 6
+    },
+    {
+     "id": "VN",
+     "name": "Vietnam",
      "count": 6
     },
     {
@@ -1375,11 +1380,6 @@
     {
      "id": "SE",
      "name": "Sweden",
-     "count": 5
-    },
-    {
-     "id": "VN",
-     "name": "Vietnam",
      "count": 5
     },
     {
@@ -1435,6 +1435,11 @@
     {
      "id": "NO",
      "name": "Norway",
+     "count": 3
+    },
+    {
+     "id": "RS",
+     "name": "Serbia",
      "count": 3
     },
     {
@@ -1563,11 +1568,6 @@
      "count": 1
     },
     {
-     "id": "RS",
-     "name": "Serbia",
-     "count": 1
-    },
-    {
      "id": "UZ",
      "name": "Uzbekistan",
      "count": 1
@@ -1585,17 +1585,17 @@
     {
      "id": "phone",
      "name": "",
-     "count": 1343
+     "count": 1351
     },
     {
      "id": "tablet",
      "name": "",
-     "count": 108
+     "count": 129
     },
     {
      "id": "desktop",
      "name": "",
-     "count": 1376
+     "count": 1398
     },
     {
      "id": "desktophd",
@@ -1615,7 +1615,7 @@
     {
      "id": "(unknown)",
      "name": "(unknown)",
-     "count": 2953
+     "count": 3004
     }
    ],
    "more": false
