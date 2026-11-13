@@ -1,13 +1,13 @@
 {
- "fetched_at": "2026-11-13T06:21:46+00:00",
+ "fetched_at": "2026-11-13T19:31:59+00:00",
  "site": "akshatpagaria.goatcounter.com",
  "window_days": 30,
- "visits_30d": 3042,
+ "visits_30d": 3169,
  "sections": {
   "pages": {
    "hits": [
     {
-     "count": 574,
+     "count": 580,
      "path_id": 112020267,
      "path": "/",
      "event": false,
@@ -15,12 +15,20 @@
      "max": 36
     },
     {
-     "count": 131,
+     "count": 136,
      "path_id": 113691164,
      "path": "/studio",
      "event": false,
      "title": "FGA Studio: AI jury board & presentation generator",
      "max": 6
+    },
+    {
+     "count": 94,
+     "path_id": 116720890,
+     "path": "studio/screen/home",
+     "event": true,
+     "title": "Studio \u00b7 screen \u00b7 home",
+     "max": 3
     },
     {
      "count": 94,
@@ -31,14 +39,6 @@
      "max": 12
     },
     {
-     "count": 89,
-     "path_id": 116720890,
-     "path": "studio/screen/home",
-     "event": true,
-     "title": "Studio \u00b7 screen \u00b7 home",
-     "max": 3
-    },
-    {
      "count": 86,
      "path_id": 112020274,
      "path": "/play",
@@ -47,7 +47,7 @@
      "max": 9
     },
     {
-     "count": 31,
+     "count": 33,
      "path_id": 116802573,
      "path": "studio/scroll/25",
      "event": true,
@@ -55,7 +55,7 @@
      "max": 2
     },
     {
-     "count": 31,
+     "count": 33,
      "path_id": 113702981,
      "path": "studio/ai-button",
      "event": true,
@@ -63,7 +63,7 @@
      "max": 3
     },
     {
-     "count": 27,
+     "count": 28,
      "path_id": 116837291,
      "path": "studio/scroll/50",
      "event": true,
@@ -71,15 +71,7 @@
      "max": 2
     },
     {
-     "count": 24,
-     "path_id": 116837478,
-     "path": "studio/scroll/75",
-     "event": true,
-     "title": "Studio \u00b7 scroll \u00b7 75",
-     "max": 2
-    },
-    {
-     "count": 24,
+     "count": 28,
      "path_id": 116802640,
      "path": "studio/screen/upload",
      "event": true,
@@ -87,7 +79,15 @@
      "max": 2
     },
     {
-     "count": 21,
+     "count": 25,
+     "path_id": 116837478,
+     "path": "studio/scroll/75",
+     "event": true,
+     "title": "Studio \u00b7 scroll \u00b7 75",
+     "max": 2
+    },
+    {
+     "count": 25,
      "path_id": 116802650,
      "path": "studio/click/upload/toQ",
      "event": true,
@@ -95,7 +95,7 @@
      "max": 3
     },
     {
-     "count": 19,
+     "count": 24,
      "path_id": 120621079,
      "path": "studio/flow/paywall",
      "event": true,
@@ -103,7 +103,31 @@
      "max": 3
     },
     {
-     "count": 19,
+     "count": 22,
+     "path_id": 117976633,
+     "path": "studio/screen/q",
+     "event": true,
+     "title": "Studio \u00b7 screen \u00b7 q",
+     "max": 3
+    },
+    {
+     "count": 21,
+     "path_id": 117976651,
+     "path": "studio/click/q/pick",
+     "event": true,
+     "title": "Studio \u00b7 click \u00b7 q \u00b7 pick",
+     "max": 3
+    },
+    {
+     "count": 20,
+     "path_id": 117976689,
+     "path": "studio/click/q/qnext",
+     "event": true,
+     "title": "Studio \u00b7 click \u00b7 q \u00b7 qnext",
+     "max": 3
+    },
+    {
+     "count": 20,
      "path_id": 116838001,
      "path": "studio/scroll/100",
      "event": true,
@@ -112,30 +136,6 @@
     },
     {
      "count": 18,
-     "path_id": 117976633,
-     "path": "studio/screen/q",
-     "event": true,
-     "title": "Studio \u00b7 screen \u00b7 q",
-     "max": 3
-    },
-    {
-     "count": 17,
-     "path_id": 117976651,
-     "path": "studio/click/q/pick",
-     "event": true,
-     "title": "Studio \u00b7 click \u00b7 q \u00b7 pick",
-     "max": 3
-    },
-    {
-     "count": 16,
-     "path_id": 117976689,
-     "path": "studio/click/q/qnext",
-     "event": true,
-     "title": "Studio \u00b7 click \u00b7 q \u00b7 qnext",
-     "max": 3
-    },
-    {
-     "count": 15,
      "path_id": 117976646,
      "path": "studio/typed/q",
      "event": true,
@@ -151,12 +151,36 @@
      "max": 1
     },
     {
-     "count": 12,
+     "count": 13,
+     "path_id": 119289179,
+     "path": "studio/click/home/hpick",
+     "event": true,
+     "title": "Studio \u00b7 click \u00b7 home \u00b7 hpick",
+     "max": 2
+    },
+    {
+     "count": 13,
      "path_id": 117976607,
      "path": "studio/files/upload",
      "event": true,
      "title": "Studio \u00b7 files \u00b7 upload",
      "max": 2
+    },
+    {
+     "count": 12,
+     "path_id": 119289191,
+     "path": "studio/files/home",
+     "event": true,
+     "title": "Studio \u00b7 files \u00b7 home",
+     "max": 2
+    },
+    {
+     "count": 11,
+     "path_id": 118826722,
+     "path": "studio/screen/price",
+     "event": true,
+     "title": "Studio \u00b7 screen \u00b7 price",
+     "max": 1
     },
     {
      "count": 11,
@@ -189,6 +213,14 @@
      "event": true,
      "title": "Studio \u00b7 screen \u00b7 planning",
      "max": 3
+    },
+    {
+     "count": 10,
+     "path_id": 117976564,
+     "path": "studio/click/upload/add",
+     "event": true,
+     "title": "Studio \u00b7 click \u00b7 upload \u00b7 add",
+     "max": 1
     },
     {
      "count": 10,
@@ -232,22 +264,6 @@
     },
     {
      "count": 9,
-     "path_id": 119289191,
-     "path": "studio/files/home",
-     "event": true,
-     "title": "Studio \u00b7 files \u00b7 home",
-     "max": 2
-    },
-    {
-     "count": 9,
-     "path_id": 119289179,
-     "path": "studio/click/home/hpick",
-     "event": true,
-     "title": "Studio \u00b7 click \u00b7 home \u00b7 hpick",
-     "max": 2
-    },
-    {
-     "count": 9,
      "path_id": 118824824,
      "path": "studio/preview",
      "event": true,
@@ -256,14 +272,6 @@
     },
     {
      "count": 9,
-     "path_id": 117976564,
-     "path": "studio/click/upload/add",
-     "event": true,
-     "title": "Studio \u00b7 click \u00b7 upload \u00b7 add",
-     "max": 1
-    },
-    {
-     "count": 8,
      "path_id": 117212605,
      "path": "studio/click/home/sec",
      "event": true,
@@ -280,18 +288,26 @@
     },
     {
      "count": 7,
-     "path_id": 118826722,
-     "path": "studio/screen/price",
-     "event": true,
-     "title": "Studio \u00b7 screen \u00b7 price",
-     "max": 1
-    },
-    {
-     "count": 7,
      "path_id": 118826267,
      "path": "studio/screen/plan",
      "event": true,
      "title": "Studio \u00b7 screen \u00b7 plan",
+     "max": 1
+    },
+    {
+     "count": 7,
+     "path_id": 117976873,
+     "path": "studio/click/upload/addBrief",
+     "event": true,
+     "title": "Studio \u00b7 click \u00b7 upload \u00b7 addBrief",
+     "max": 1
+    },
+    {
+     "count": 7,
+     "path_id": 117976867,
+     "path": "studio/click/upload/rmFile",
+     "event": true,
+     "title": "Studio \u00b7 click \u00b7 upload \u00b7 rmFile",
      "max": 1
     },
     {
@@ -316,14 +332,6 @@
      "path": "/guides/a1-presentation-board",
      "event": false,
      "title": "How to Make an A1 Architecture Presentation Board (Guide)",
-     "max": 1
-    },
-    {
-     "count": 6,
-     "path_id": 117976867,
-     "path": "studio/click/upload/rmFile",
-     "event": true,
-     "title": "Studio \u00b7 click \u00b7 upload \u00b7 rmFile",
      "max": 1
     },
     {
@@ -384,10 +392,26 @@
     },
     {
      "count": 5,
-     "path_id": 117976873,
-     "path": "studio/click/upload/addBrief",
+     "path_id": 121452455,
+     "path": "studio/making/jury",
      "event": true,
-     "title": "Studio \u00b7 click \u00b7 upload \u00b7 addBrief",
+     "title": "Studio: making jury",
+     "max": 1
+    },
+    {
+     "count": 5,
+     "path_id": 120777597,
+     "path": "/studio/guides/a1-sheet-layout-ideas",
+     "event": false,
+     "title": "A1 Sheet Layout Ideas for Architecture Students \u00b7 Studio FGA",
+     "max": 1
+    },
+    {
+     "count": 5,
+     "path_id": 119304638,
+     "path": "studio/click/q/qback",
+     "event": true,
+     "title": "Studio \u00b7 click \u00b7 q \u00b7 qback",
      "max": 1
     },
     {
@@ -440,10 +464,18 @@
     },
     {
      "count": 4,
-     "path_id": 120777597,
-     "path": "/studio/guides/a1-sheet-layout-ideas",
+     "path_id": 121730660,
+     "path": "studio/click/q/chip",
+     "event": true,
+     "title": "Studio \u00b7 click \u00b7 q \u00b7 chip",
+     "max": 1
+    },
+    {
+     "count": 4,
+     "path_id": 121021779,
+     "path": "/studio/guides/how-to-lay-out-an-a1-architecture-board",
      "event": false,
-     "title": "A1 Sheet Layout Ideas for Architecture Students \u00b7 Studio FGA",
+     "title": "How to Lay Out an A1 Architecture Presentation Board",
      "max": 1
     },
     {
@@ -544,6 +576,38 @@
     },
     {
      "count": 3,
+     "path_id": 121730585,
+     "path": "studio/readcard/questions",
+     "event": true,
+     "title": "Studio: title block asked",
+     "max": 1
+    },
+    {
+     "count": 3,
+     "path_id": 121452711,
+     "path": "studio/checkout",
+     "event": true,
+     "title": "Studio: Pay pressed",
+     "max": 1
+    },
+    {
+     "count": 3,
+     "path_id": 121452684,
+     "path": "studio/click/price/pay",
+     "event": true,
+     "title": "Studio \u00b7 click \u00b7 price \u00b7 pay",
+     "max": 1
+    },
+    {
+     "count": 3,
+     "path_id": 121452467,
+     "path": "studio/click/q/qskip",
+     "event": true,
+     "title": "Studio \u00b7 click \u00b7 q \u00b7 qskip",
+     "max": 1
+    },
+    {
+     "count": 3,
      "path_id": 121135577,
      "path": "/studio/guides/architecture-concept-diagram-ideas",
      "event": false,
@@ -552,10 +616,10 @@
     },
     {
      "count": 3,
-     "path_id": 121021779,
-     "path": "/studio/guides/how-to-lay-out-an-a1-architecture-board",
+     "path_id": 120832161,
+     "path": "/studio/guides",
      "event": false,
-     "title": "How to Lay Out an A1 Architecture Presentation Board",
+     "title": "Guides for Architecture Students \u00b7 Studio FGA",
      "max": 1
     },
     {
@@ -573,14 +637,6 @@
      "event": true,
      "title": "Studio \u00b7 click \u00b7 planning \u00b7 preview",
      "max": 2
-    },
-    {
-     "count": 3,
-     "path_id": 119304638,
-     "path": "studio/click/q/qback",
-     "event": true,
-     "title": "Studio \u00b7 click \u00b7 q \u00b7 qback",
-     "max": 1
     },
     {
      "count": 3,
@@ -672,6 +728,14 @@
     },
     {
      "count": 3,
+     "path_id": 114025180,
+     "path": "/buildings/new-gourna-village",
+     "event": false,
+     "title": "New Gourna Village by Hassan Fathy: photos & key features",
+     "max": 1
+    },
+    {
+     "count": 3,
      "path_id": 113995400,
      "path": "building/kanchanjunga-apartments",
      "event": true,
@@ -693,6 +757,14 @@
      "event": true,
      "title": "SDU Campus Kolding",
      "max": 2
+    },
+    {
+     "count": 3,
+     "path_id": 113987998,
+     "path": "building/quay-quarter-tower",
+     "event": true,
+     "title": "Quay Quarter Tower",
+     "max": 1
     },
     {
      "count": 3,
@@ -733,100 +805,28 @@
      "event": false,
      "title": "Eastgate Centre by Mick Pearce, 1996: photos & key features",
      "max": 1
-    },
-    {
-     "count": 3,
-     "path_id": 113685200,
-     "path": "play/daily/0-of-5",
-     "event": true,
-     "title": "Daily five finished: 0 of 5 right",
-     "max": 1
-    },
-    {
-     "count": 3,
-     "path_id": 113681186,
-     "path": "building/unknown-soldier-memorial-cairo",
-     "event": true,
-     "title": "Unknown Soldier Memorial, Cairo",
-     "max": 1
-    },
-    {
-     "count": 3,
-     "path_id": 113367278,
-     "path": "/buildings/petrobras-headquarters-edise",
-     "event": false,
-     "title": "Petrobras Headquarters (Edise) by Roberto Lu\u00eds Gandolfi",
-     "max": 1
-    },
-    {
-     "count": 3,
-     "path_id": 113341409,
-     "path": "/buildings/sines-arts-centre",
-     "event": false,
-     "title": "Centro de Artes de Sines by Aires Mateus: photos",
-     "max": 1
-    },
-    {
-     "count": 3,
-     "path_id": 113297412,
-     "path": "/buildings/national-museum-of-the-republic",
-     "event": false,
-     "title": "National Museum of the Republic by Oscar Niemeyer: photos",
-     "max": 1
-    },
-    {
-     "count": 3,
-     "path_id": 113148939,
-     "path": "building/state-trading-corporation-building",
-     "event": true,
-     "title": "State Trading Corporation Building",
-     "max": 1
-    },
-    {
-     "count": 3,
-     "path_id": 113146147,
-     "path": "/buildings/bergpolderflat",
-     "event": false,
-     "title": "Bergpolderflat, 1934: photos",
-     "max": 1
-    },
-    {
-     "count": 3,
-     "path_id": 113009392,
-     "path": "/buildings/mediopadana-station",
-     "event": false,
-     "title": "Reggio Emilia AV Mediopadana station, 2013: photos",
-     "max": 1
-    },
-    {
-     "count": 3,
-     "path_id": 113007284,
-     "path": "/buildings/jacobs-ii-house-solar-hemicycle",
-     "event": false,
-     "title": "Jacobs II House (Solar Hemicycle) \u2014 Frank Lloyd Wright, 1948",
-     "max": 1
     }
    ],
-   "total": 1675,
+   "total": 1750,
    "more": true
   },
   "referrers": {
    "stats": [
     {
      "name": "",
-     "count": 1633,
+     "count": 1709,
      "ref_scheme": "o"
     },
     {
      "id": "Google",
      "name": "Google",
-     "count": 375,
+     "count": 379,
      "ref_scheme": "g"
     },
     {
      "id": "chatgpt.com",
      "name": "chatgpt.com",
-     "count": 188,
+     "count": 195,
      "ref_scheme": "c"
     },
     {
@@ -842,21 +842,21 @@
      "ref_scheme": "o"
     },
     {
-     "id": "wall",
-     "name": "wall",
-     "count": 21,
-     "ref_scheme": "c"
-    },
-    {
      "id": "www.bing.com",
      "name": "www.bing.com",
-     "count": 20,
+     "count": 23,
      "ref_scheme": "h"
+    },
+    {
+     "id": "wall",
+     "name": "wall",
+     "count": 22,
+     "ref_scheme": "c"
     },
     {
      "id": "ig",
      "name": "ig",
-     "count": 18,
+     "count": 19,
      "ref_scheme": "c"
     },
     {
@@ -932,6 +932,12 @@
      "ref_scheme": "c"
     },
     {
+     "id": "www.ecosia.org",
+     "name": "www.ecosia.org",
+     "count": 2,
+     "ref_scheme": "h"
+    },
+    {
      "id": "chatgpt.com",
      "name": "chatgpt.com",
      "count": 2,
@@ -972,12 +978,6 @@
      "name": "site",
      "count": 1,
      "ref_scheme": "c"
-    },
-    {
-     "id": "www.ecosia.org",
-     "name": "www.ecosia.org",
-     "count": 1,
-     "ref_scheme": "h"
     },
     {
      "id": "www.perplexity.ai",
@@ -1044,6 +1044,12 @@
      "name": "guides-text",
      "count": 1,
      "ref_scheme": "c"
+    },
+    {
+     "id": "wall-bar",
+     "name": "wall-bar",
+     "count": 1,
+     "ref_scheme": "c"
     }
    ],
    "more": false
@@ -1053,17 +1059,17 @@
     {
      "id": "Chrome",
      "name": "Chrome",
-     "count": 2082
+     "count": 2130
     },
     {
      "id": "Safari",
      "name": "Safari",
-     "count": 897
+     "count": 958
     },
     {
      "id": "Firefox",
      "name": "Firefox",
-     "count": 44
+     "count": 62
     },
     {
      "name": "",
@@ -1077,27 +1083,27 @@
     {
      "id": "Windows",
      "name": "Windows",
-     "count": 1200
+     "count": 1204
     },
     {
      "id": "iOS",
      "name": "iOS",
-     "count": 743
+     "count": 793
     },
     {
      "id": "Android",
      "name": "Android",
-     "count": 648
+     "count": 669
     },
     {
      "id": "macOS",
      "name": "macOS",
-     "count": 279
+     "count": 327
     },
     {
      "id": "Linux",
      "name": "Linux",
-     "count": 152
+     "count": 156
     },
     {
      "id": "Chrome OS",
@@ -1116,22 +1122,22 @@
     {
      "id": "IN",
      "name": "India",
-     "count": 1320
+     "count": 1357
     },
     {
      "id": "US",
      "name": "United States",
-     "count": 458
+     "count": 499
+    },
+    {
+     "id": "DE",
+     "name": "Germany",
+     "count": 92
     },
     {
      "id": "TR",
      "name": "Turkey",
      "count": 91
-    },
-    {
-     "id": "DE",
-     "name": "Germany",
-     "count": 72
     },
     {
      "id": "AR",
@@ -1142,6 +1148,11 @@
      "id": "GB",
      "name": "United Kingdom",
      "count": 68
+    },
+    {
+     "id": "PK",
+     "name": "Pakistan",
+     "count": 51
     },
     {
      "id": "IT",
@@ -1159,19 +1170,19 @@
      "count": 42
     },
     {
+     "id": "BR",
+     "name": "Brazil",
+     "count": 37
+    },
+    {
      "id": "AU",
      "name": "Australia",
      "count": 36
     },
     {
-     "id": "BR",
-     "name": "Brazil",
-     "count": 36
-    },
-    {
      "id": "FR",
      "name": "France",
-     "count": 35
+     "count": 36
     },
     {
      "id": "KR",
@@ -1184,14 +1195,14 @@
      "count": 33
     },
     {
-     "id": "PK",
-     "name": "Pakistan",
-     "count": 32
-    },
-    {
      "id": "SG",
      "name": "Singapore",
      "count": 32
+    },
+    {
+     "id": "NL",
+     "name": "Netherlands",
+     "count": 30
     },
     {
      "id": "IR",
@@ -1204,19 +1215,14 @@
      "count": 29
     },
     {
-     "id": "NL",
-     "name": "Netherlands",
-     "count": 29
+     "id": "EG",
+     "name": "Egypt",
+     "count": 27
     },
     {
      "id": "MA",
      "name": "Morocco",
      "count": 27
-    },
-    {
-     "id": "EG",
-     "name": "Egypt",
-     "count": 26
     },
     {
      "id": "DZ",
@@ -1239,14 +1245,14 @@
      "count": 18
     },
     {
+     "id": "AE",
+     "name": "United Arab Emirates",
+     "count": 16
+    },
+    {
      "id": "SC",
      "name": "Seychelles",
      "count": 15
-    },
-    {
-     "id": "AE",
-     "name": "United Arab Emirates",
-     "count": 14
     },
     {
      "id": "ID",
@@ -1401,6 +1407,11 @@
     {
      "id": "CL",
      "name": "Chile",
+     "count": 4
+    },
+    {
+     "id": "CY",
+     "name": "Cyprus",
      "count": 4
     },
     {
@@ -1596,17 +1607,17 @@
     {
      "id": "phone",
      "name": "",
-     "count": 1354
+     "count": 1400
     },
     {
      "id": "tablet",
      "name": "",
-     "count": 130
+     "count": 166
     },
     {
      "id": "desktop",
      "name": "",
-     "count": 1415
+     "count": 1460
     },
     {
      "id": "desktophd",
@@ -1626,7 +1637,7 @@
     {
      "id": "(unknown)",
      "name": "(unknown)",
-     "count": 3025
+     "count": 3152
     }
    ],
    "more": false
