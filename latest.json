@@ -1,13 +1,13 @@
 {
- "fetched_at": "2026-11-13T19:31:59+00:00",
+ "fetched_at": "2026-11-14T06:02:26+00:00",
  "site": "akshatpagaria.goatcounter.com",
  "window_days": 30,
- "visits_30d": 3169,
+ "visits_30d": 3190,
  "sections": {
   "pages": {
    "hits": [
     {
-     "count": 580,
+     "count": 555,
      "path_id": 112020267,
      "path": "/",
      "event": false,
@@ -15,7 +15,7 @@
      "max": 36
     },
     {
-     "count": 136,
+     "count": 137,
      "path_id": 113691164,
      "path": "/studio",
      "event": false,
@@ -23,7 +23,7 @@
      "max": 6
     },
     {
-     "count": 94,
+     "count": 95,
      "path_id": 116720890,
      "path": "studio/screen/home",
      "event": true,
@@ -39,7 +39,7 @@
      "max": 12
     },
     {
-     "count": 86,
+     "count": 79,
      "path_id": 112020274,
      "path": "/play",
      "event": false,
@@ -47,7 +47,7 @@
      "max": 9
     },
     {
-     "count": 33,
+     "count": 34,
      "path_id": 116802573,
      "path": "studio/scroll/25",
      "event": true,
@@ -63,7 +63,7 @@
      "max": 3
     },
     {
-     "count": 28,
+     "count": 29,
      "path_id": 116837291,
      "path": "studio/scroll/50",
      "event": true,
@@ -71,7 +71,7 @@
      "max": 2
     },
     {
-     "count": 28,
+     "count": 29,
      "path_id": 116802640,
      "path": "studio/screen/upload",
      "event": true,
@@ -79,7 +79,7 @@
      "max": 2
     },
     {
-     "count": 25,
+     "count": 26,
      "path_id": 116837478,
      "path": "studio/scroll/75",
      "event": true,
@@ -88,18 +88,18 @@
     },
     {
      "count": 25,
-     "path_id": 116802650,
-     "path": "studio/click/upload/toQ",
-     "event": true,
-     "title": "Studio \u00b7 click \u00b7 upload \u00b7 toQ",
-     "max": 3
-    },
-    {
-     "count": 24,
      "path_id": 120621079,
      "path": "studio/flow/paywall",
      "event": true,
      "title": "Studio: flow paywall",
+     "max": 3
+    },
+    {
+     "count": 25,
+     "path_id": 116802650,
+     "path": "studio/click/upload/toQ",
+     "event": true,
+     "title": "Studio \u00b7 click \u00b7 upload \u00b7 toQ",
      "max": 3
     },
     {
@@ -119,20 +119,20 @@
      "max": 3
     },
     {
+     "count": 21,
+     "path_id": 116838001,
+     "path": "studio/scroll/100",
+     "event": true,
+     "title": "Studio \u00b7 scroll \u00b7 100",
+     "max": 2
+    },
+    {
      "count": 20,
      "path_id": 117976689,
      "path": "studio/click/q/qnext",
      "event": true,
      "title": "Studio \u00b7 click \u00b7 q \u00b7 qnext",
      "max": 3
-    },
-    {
-     "count": 20,
-     "path_id": 116838001,
-     "path": "studio/scroll/100",
-     "event": true,
-     "title": "Studio \u00b7 scroll \u00b7 100",
-     "max": 2
     },
     {
      "count": 18,
@@ -143,7 +143,7 @@
      "max": 3
     },
     {
-     "count": 14,
+     "count": 15,
      "path_id": 116802639,
      "path": "studio/click/home/start",
      "event": true,
@@ -199,14 +199,6 @@
      "max": 2
     },
     {
-     "count": 11,
-     "path_id": 112160373,
-     "path": "/buildings",
-     "event": false,
-     "title": "All buildings A\u2013Z \u00b7 Find Great Architecture",
-     "max": 3
-    },
-    {
      "count": 10,
      "path_id": 118824825,
      "path": "studio/screen/planning",
@@ -229,6 +221,14 @@
      "event": false,
      "title": "National Stadium, Singapore by Arup Associates",
      "max": 2
+    },
+    {
+     "count": 10,
+     "path_id": 117212605,
+     "path": "studio/click/home/sec",
+     "event": true,
+     "title": "Studio \u00b7 click \u00b7 home \u00b7 sec",
+     "max": 1
     },
     {
      "count": 10,
@@ -263,20 +263,20 @@
      "max": 2
     },
     {
+     "count": 10,
+     "path_id": 112160373,
+     "path": "/buildings",
+     "event": false,
+     "title": "All buildings A\u2013Z \u00b7 Find Great Architecture",
+     "max": 3
+    },
+    {
      "count": 9,
      "path_id": 118824824,
      "path": "studio/preview",
      "event": true,
      "title": "Studio: free preview",
      "max": 2
-    },
-    {
-     "count": 9,
-     "path_id": 117212605,
-     "path": "studio/click/home/sec",
-     "event": true,
-     "title": "Studio \u00b7 click \u00b7 home \u00b7 sec",
-     "max": 1
     },
     {
      "count": 8,
@@ -292,6 +292,14 @@
      "path": "studio/screen/plan",
      "event": true,
      "title": "Studio \u00b7 screen \u00b7 plan",
+     "max": 1
+    },
+    {
+     "count": 7,
+     "path_id": 118234266,
+     "path": "/guides/a1-presentation-board",
+     "event": false,
+     "title": "How to Make an A1 Architecture Presentation Board (Guide)",
      "max": 1
     },
     {
@@ -328,10 +336,10 @@
     },
     {
      "count": 6,
-     "path_id": 118234266,
-     "path": "/guides/a1-presentation-board",
+     "path_id": 120777597,
+     "path": "/studio/guides/a1-sheet-layout-ideas",
      "event": false,
-     "title": "How to Make an A1 Architecture Presentation Board (Guide)",
+     "title": "A1 Sheet Layout Ideas for Architecture Students \u00b7 Studio FGA",
      "max": 1
     },
     {
@@ -400,14 +408,6 @@
     },
     {
      "count": 5,
-     "path_id": 120777597,
-     "path": "/studio/guides/a1-sheet-layout-ideas",
-     "event": false,
-     "title": "A1 Sheet Layout Ideas for Architecture Students \u00b7 Studio FGA",
-     "max": 1
-    },
-    {
-     "count": 5,
      "path_id": 119304638,
      "path": "studio/click/q/qback",
      "event": true,
@@ -452,14 +452,6 @@
      "path": "/buildings/aalto-house-riihitie",
      "event": false,
      "title": "Aalto House (Riihitie) by Alvar Aalto: photos & key features",
-     "max": 1
-    },
-    {
-     "count": 5,
-     "path_id": 112168513,
-     "path": "/buildings/villa-schreiner",
-     "event": false,
-     "title": "Villa Schreiner \u2014 Sverre Fehn, 1963: photos for a case study \u00b7 Find Great Architecture",
      "max": 1
     },
     {
@@ -572,6 +564,14 @@
      "path": "/buildings/fredensborg-houses",
      "event": false,
      "title": "Fredensborg Houses \u2014 J\u00f8rn Utzon, 1963: photos",
+     "max": 1
+    },
+    {
+     "count": 4,
+     "path_id": 112168513,
+     "path": "/buildings/villa-schreiner",
+     "event": false,
+     "title": "Villa Schreiner \u2014 Sverre Fehn, 1963: photos for a case study \u00b7 Find Great Architecture",
      "max": 1
     },
     {
@@ -807,26 +807,26 @@
      "max": 1
     }
    ],
-   "total": 1750,
+   "total": 1728,
    "more": true
   },
   "referrers": {
    "stats": [
     {
      "name": "",
-     "count": 1709,
+     "count": 1713,
      "ref_scheme": "o"
     },
     {
      "id": "Google",
      "name": "Google",
-     "count": 379,
+     "count": 366,
      "ref_scheme": "g"
     },
     {
      "id": "chatgpt.com",
      "name": "chatgpt.com",
-     "count": 195,
+     "count": 198,
      "ref_scheme": "c"
     },
     {
@@ -844,7 +844,7 @@
     {
      "id": "www.bing.com",
      "name": "www.bing.com",
-     "count": 23,
+     "count": 24,
      "ref_scheme": "h"
     },
     {
@@ -856,7 +856,7 @@
     {
      "id": "ig",
      "name": "ig",
-     "count": 19,
+     "count": 15,
      "ref_scheme": "c"
     },
     {
@@ -880,14 +880,8 @@
     {
      "id": "bing.com",
      "name": "bing.com",
-     "count": 8,
-     "ref_scheme": "h"
-    },
-    {
-     "id": "YouTube",
-     "name": "YouTube",
      "count": 7,
-     "ref_scheme": "c"
+     "ref_scheme": "h"
     },
     {
      "id": "l.instagram.com",
@@ -902,12 +896,6 @@
      "ref_scheme": "h"
     },
     {
-     "id": "youtube`",
-     "name": "youtube`",
-     "count": 5,
-     "ref_scheme": "c"
-    },
-    {
      "id": "duckduckgo.com",
      "name": "duckduckgo.com",
      "count": 4,
@@ -918,6 +906,12 @@
      "name": "sentinal.dodopayments.com",
      "count": 3,
      "ref_scheme": "h"
+    },
+    {
+     "id": "YouTube",
+     "name": "YouTube",
+     "count": 2,
+     "ref_scheme": "c"
     },
     {
      "id": "t.co",
@@ -942,6 +936,12 @@
      "name": "chatgpt.com",
      "count": 2,
      "ref_scheme": "h"
+    },
+    {
+     "id": "youtube`",
+     "name": "youtube`",
+     "count": 2,
+     "ref_scheme": "c"
     },
     {
      "id": "Yahoo",
@@ -1059,17 +1059,17 @@
     {
      "id": "Chrome",
      "name": "Chrome",
-     "count": 2130
+     "count": 2103
     },
     {
      "id": "Safari",
      "name": "Safari",
-     "count": 958
+     "count": 953
     },
     {
      "id": "Firefox",
      "name": "Firefox",
-     "count": 62
+     "count": 61
     },
     {
      "name": "",
@@ -1083,27 +1083,27 @@
     {
      "id": "Windows",
      "name": "Windows",
-     "count": 1204
+     "count": 1182
     },
     {
      "id": "iOS",
      "name": "iOS",
-     "count": 793
+     "count": 790
     },
     {
      "id": "Android",
      "name": "Android",
-     "count": 669
+     "count": 668
     },
     {
      "id": "macOS",
      "name": "macOS",
-     "count": 327
+     "count": 321
     },
     {
      "id": "Linux",
      "name": "Linux",
-     "count": 156
+     "count": 155
     },
     {
      "id": "Chrome OS",
@@ -1122,17 +1122,17 @@
     {
      "id": "IN",
      "name": "India",
-     "count": 1357
+     "count": 1331
     },
     {
      "id": "US",
      "name": "United States",
-     "count": 499
+     "count": 490
     },
     {
      "id": "DE",
      "name": "Germany",
-     "count": 92
+     "count": 103
     },
     {
      "id": "TR",
@@ -1147,7 +1147,7 @@
     {
      "id": "GB",
      "name": "United Kingdom",
-     "count": 68
+     "count": 66
     },
     {
      "id": "PK",
@@ -1157,7 +1157,7 @@
     {
      "id": "IT",
      "name": "Italy",
-     "count": 44
+     "count": 43
     },
     {
      "id": "CH",
@@ -1170,19 +1170,19 @@
      "count": 42
     },
     {
-     "id": "BR",
-     "name": "Brazil",
-     "count": 37
-    },
-    {
      "id": "AU",
      "name": "Australia",
      "count": 36
     },
     {
+     "id": "BR",
+     "name": "Brazil",
+     "count": 36
+    },
+    {
      "id": "FR",
      "name": "France",
-     "count": 36
+     "count": 35
     },
     {
      "id": "KR",
@@ -1190,19 +1190,14 @@
      "count": 34
     },
     {
-     "id": "CA",
-     "name": "Canada",
-     "count": 33
-    },
-    {
      "id": "SG",
      "name": "Singapore",
      "count": 32
     },
     {
-     "id": "NL",
-     "name": "Netherlands",
-     "count": 30
+     "id": "CA",
+     "name": "Canada",
+     "count": 31
     },
     {
      "id": "IR",
@@ -1217,12 +1212,17 @@
     {
      "id": "EG",
      "name": "Egypt",
-     "count": 27
+     "count": 28
+    },
+    {
+     "id": "NL",
+     "name": "Netherlands",
+     "count": 28
     },
     {
      "id": "MA",
      "name": "Morocco",
-     "count": 27
+     "count": 26
     },
     {
      "id": "DZ",
@@ -1335,18 +1335,13 @@
      "count": 8
     },
     {
-     "id": "TH",
-     "name": "Thailand",
-     "count": 8
-    },
-    {
      "id": "TW",
      "name": "Taiwan",
      "count": 8
     },
     {
-     "id": "PE",
-     "name": "Peru",
+     "id": "TH",
+     "name": "Thailand",
      "count": 7
     },
     {
@@ -1368,6 +1363,16 @@
      "id": "MY",
      "name": "Malaysia",
      "count": 6
+    },
+    {
+     "id": "PE",
+     "name": "Peru",
+     "count": 6
+    },
+    {
+     "id": "CL",
+     "name": "Chile",
+     "count": 5
     },
     {
      "id": "DO",
@@ -1402,11 +1407,6 @@
     {
      "id": "BD",
      "name": "Bangladesh",
-     "count": 4
-    },
-    {
-     "id": "CL",
-     "name": "Chile",
      "count": 4
     },
     {
@@ -1462,6 +1462,11 @@
     {
      "id": "SI",
      "name": "Slovenia",
+     "count": 3
+    },
+    {
+     "id": "VE",
+     "name": "Venezuela",
      "count": 3
     },
     {
@@ -1522,11 +1527,6 @@
     {
      "id": "SA",
      "name": "Saudi Arabia",
-     "count": 2
-    },
-    {
-     "id": "VE",
-     "name": "Venezuela",
      "count": 2
     },
     {
@@ -1612,17 +1612,17 @@
     {
      "id": "tablet",
      "name": "",
-     "count": 166
+     "count": 155
     },
     {
      "id": "desktop",
      "name": "",
-     "count": 1460
+     "count": 1439
     },
     {
      "id": "desktophd",
      "name": "",
-     "count": 126
+     "count": 125
     },
     {
      "id": "unknown",
@@ -1637,7 +1637,7 @@
     {
      "id": "(unknown)",
      "name": "(unknown)",
-     "count": 3152
+     "count": 3119
     }
    ],
    "more": false
