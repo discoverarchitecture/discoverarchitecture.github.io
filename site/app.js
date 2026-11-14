@@ -481,6 +481,9 @@
     cols.style.setProperty('--n', C);
     cols.replaceChildren(...feedState.colEls);
     addBatch();
+    cols.style.minHeight = '';   // index.html reserves 150vh until the first tiles are in (no layout shift)
+    // the top picture of each column is what the visitor sees first: fetched at once and first, the rest stay lazy
+    feedState.colEls.forEach(col => { const im = col.querySelector('img'); if (im) { im.loading = 'eager'; im.fetchPriority = 'high'; } });
     const atTable = state.mode === 'books' && !state.q && !state.shelf;
     $('table').hidden = !atTable;
     if (atTable) drawTable();
