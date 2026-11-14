@@ -1,13 +1,13 @@
 {
- "fetched_at": "2026-11-14T06:02:26+00:00",
+ "fetched_at": "2026-11-14T13:23:29+00:00",
  "site": "akshatpagaria.goatcounter.com",
  "window_days": 30,
- "visits_30d": 3190,
+ "visits_30d": 3210,
  "sections": {
   "pages": {
    "hits": [
     {
-     "count": 555,
+     "count": 558,
      "path_id": 112020267,
      "path": "/",
      "event": false,
@@ -15,7 +15,7 @@
      "max": 36
     },
     {
-     "count": 137,
+     "count": 138,
      "path_id": 113691164,
      "path": "/studio",
      "event": false,
@@ -23,7 +23,7 @@
      "max": 6
     },
     {
-     "count": 95,
+     "count": 96,
      "path_id": 116720890,
      "path": "studio/screen/home",
      "event": true,
@@ -39,7 +39,7 @@
      "max": 12
     },
     {
-     "count": 79,
+     "count": 80,
      "path_id": 112020274,
      "path": "/play",
      "event": false,
@@ -47,7 +47,7 @@
      "max": 9
     },
     {
-     "count": 34,
+     "count": 35,
      "path_id": 116802573,
      "path": "studio/scroll/25",
      "event": true,
@@ -55,7 +55,7 @@
      "max": 2
     },
     {
-     "count": 33,
+     "count": 34,
      "path_id": 113702981,
      "path": "studio/ai-button",
      "event": true,
@@ -63,7 +63,7 @@
      "max": 3
     },
     {
-     "count": 29,
+     "count": 30,
      "path_id": 116837291,
      "path": "studio/scroll/50",
      "event": true,
@@ -79,7 +79,7 @@
      "max": 2
     },
     {
-     "count": 26,
+     "count": 27,
      "path_id": 116837478,
      "path": "studio/scroll/75",
      "event": true,
@@ -87,7 +87,7 @@
      "max": 2
     },
     {
-     "count": 25,
+     "count": 26,
      "path_id": 120621079,
      "path": "studio/flow/paywall",
      "event": true,
@@ -111,20 +111,20 @@
      "max": 3
     },
     {
+     "count": 22,
+     "path_id": 116838001,
+     "path": "studio/scroll/100",
+     "event": true,
+     "title": "Studio \u00b7 scroll \u00b7 100",
+     "max": 2
+    },
+    {
      "count": 21,
      "path_id": 117976651,
      "path": "studio/click/q/pick",
      "event": true,
      "title": "Studio \u00b7 click \u00b7 q \u00b7 pick",
      "max": 3
-    },
-    {
-     "count": 21,
-     "path_id": 116838001,
-     "path": "studio/scroll/100",
-     "event": true,
-     "title": "Studio \u00b7 scroll \u00b7 100",
-     "max": 2
     },
     {
      "count": 20,
@@ -488,6 +488,14 @@
     },
     {
      "count": 4,
+     "path_id": 117204370,
+     "path": "/buildings/copan-building",
+     "event": false,
+     "title": "Copan Building by Oscar Niemeyer: photos & plans",
+     "max": 1
+    },
+    {
+     "count": 4,
      "path_id": 116838040,
      "path": "studio/click/home/home",
      "event": true,
@@ -640,18 +648,18 @@
     },
     {
      "count": 3,
-     "path_id": 117421152,
-     "path": "/ideas/courtyard",
-     "event": false,
-     "title": "Courtyard architecture examples: 325 buildings & photos",
+     "path_id": 119572539,
+     "path": "studio/video/play",
+     "event": true,
+     "title": "Studio \u00b7 video \u00b7 play",
      "max": 1
     },
     {
      "count": 3,
-     "path_id": 117204370,
-     "path": "/buildings/copan-building",
+     "path_id": 117421152,
+     "path": "/ideas/courtyard",
      "event": false,
-     "title": "Copan Building by Oscar Niemeyer: photos & plans",
+     "title": "Courtyard architecture examples: 325 buildings & photos",
      "max": 1
     },
     {
@@ -797,30 +805,22 @@
      "event": false,
      "title": "The Custom House by James Gandon: photos & key features",
      "max": 2
-    },
-    {
-     "count": 3,
-     "path_id": 113701512,
-     "path": "/buildings/eastgate-centre",
-     "event": false,
-     "title": "Eastgate Centre by Mick Pearce, 1996: photos & key features",
-     "max": 1
     }
    ],
-   "total": 1728,
+   "total": 1741,
    "more": true
   },
   "referrers": {
    "stats": [
     {
      "name": "",
-     "count": 1713,
+     "count": 1714,
      "ref_scheme": "o"
     },
     {
      "id": "Google",
      "name": "Google",
-     "count": 366,
+     "count": 368,
      "ref_scheme": "g"
     },
     {
@@ -832,7 +832,7 @@
     {
      "id": "www.linkedin.com",
      "name": "www.linkedin.com",
-     "count": 114,
+     "count": 128,
      "ref_scheme": "h"
     },
     {
@@ -844,7 +844,7 @@
     {
      "id": "www.bing.com",
      "name": "www.bing.com",
-     "count": 24,
+     "count": 25,
      "ref_scheme": "h"
     },
     {
@@ -908,6 +908,12 @@
      "ref_scheme": "h"
     },
     {
+     "id": "Yahoo",
+     "name": "Yahoo",
+     "count": 2,
+     "ref_scheme": "g"
+    },
+    {
      "id": "YouTube",
      "name": "YouTube",
      "count": 2,
@@ -942,12 +948,6 @@
      "name": "youtube`",
      "count": 2,
      "ref_scheme": "c"
-    },
-    {
-     "id": "Yahoo",
-     "name": "Yahoo",
-     "count": 1,
-     "ref_scheme": "g"
     },
     {
      "id": "betalist",
@@ -1059,12 +1059,12 @@
     {
      "id": "Chrome",
      "name": "Chrome",
-     "count": 2103
+     "count": 2122
     },
     {
      "id": "Safari",
      "name": "Safari",
-     "count": 953
+     "count": 954
     },
     {
      "id": "Firefox",
@@ -1083,12 +1083,12 @@
     {
      "id": "Windows",
      "name": "Windows",
-     "count": 1182
+     "count": 1201
     },
     {
      "id": "iOS",
      "name": "iOS",
-     "count": 790
+     "count": 791
     },
     {
      "id": "Android",
@@ -1122,7 +1122,7 @@
     {
      "id": "IN",
      "name": "India",
-     "count": 1331
+     "count": 1349
     },
     {
      "id": "US",
@@ -1190,14 +1190,14 @@
      "count": 34
     },
     {
-     "id": "SG",
-     "name": "Singapore",
+     "id": "CA",
+     "name": "Canada",
      "count": 32
     },
     {
-     "id": "CA",
-     "name": "Canada",
-     "count": 31
+     "id": "SG",
+     "name": "Singapore",
+     "count": 32
     },
     {
      "id": "IR",
@@ -1210,13 +1210,13 @@
      "count": 29
     },
     {
-     "id": "EG",
-     "name": "Egypt",
-     "count": 28
-    },
-    {
      "id": "NL",
      "name": "Netherlands",
+     "count": 29
+    },
+    {
+     "id": "EG",
+     "name": "Egypt",
      "count": 28
     },
     {
@@ -1607,7 +1607,7 @@
     {
      "id": "phone",
      "name": "",
-     "count": 1400
+     "count": 1401
     },
     {
      "id": "tablet",
@@ -1617,7 +1617,7 @@
     {
      "id": "desktop",
      "name": "",
-     "count": 1439
+     "count": 1458
     },
     {
      "id": "desktophd",
@@ -1637,7 +1637,7 @@
     {
      "id": "(unknown)",
      "name": "(unknown)",
-     "count": 3119
+     "count": 3139
     }
    ],
    "more": false
