@@ -1679,7 +1679,9 @@
     go.setAttribute('href', where(b));
     if (phone()) { const again = from === b && !pop.hidden; from = b; return show(!again); }
     if (window.fgaEvent) fgaEvent('studio/ai-button', 'AI Jury Presentation Generator');
-    setTimeout(() => { location.href = go.href; }, 150); // a moment for the count to leave
+    // Studio FGA opens in a tab of its own, so the wall keeps its place (owner, 13 Nov 2026); a blocked pop-up falls back to this tab
+    const w = window.open(go.href, '_blank'); // not the 'noopener' feature: it makes open() return null, which can't be told from a blocked pop-up
+    if (w) { try { w.opener = null; } catch (err) { /* already cross-origin */ } } else setTimeout(() => { location.href = go.href; }, 150);
   }));
   go.addEventListener('click', () => { if (window.fgaEvent) fgaEvent('studio/ai-link', 'AI panel: See Studio FGA'); });
   const close = () => { show(false); from.focus(); };

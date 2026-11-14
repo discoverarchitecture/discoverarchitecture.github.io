@@ -852,3 +852,11 @@ body[data-screen="upload"] .btn.primary::after, body[data-screen="q"] .btn.prima
 .chipbtn.sel { background: var(--lime); color: var(--on-accent); box-shadow: 3px 3px 0 var(--shadow); transform: translate(-1px, -1px); }
 .chipbtn:disabled { opacity: .45; cursor: default; }
 .chipbtn:focus-visible { outline: 3px solid var(--sun); outline-offset: 2px; }
+
+/* ---------- share button and social row (owner, 13 Nov 2026; share.css has the rest) in Studio's own outlined look */
+.top .fga-share { border: 2px solid var(--line); background: var(--card); box-shadow: 3px 3px 0 var(--shadow); font-family: var(--body); }
+.top .fga-share[aria-expanded="true"] { background: var(--ink); color: var(--paper); }
+.fga-s-pop { border: 2px solid var(--line); box-shadow: 6px 6px 0 var(--shadow); }
+.fga-s-main { background: var(--coral); border-color: var(--line); color: var(--on-accent); }
+.fga-s-link, .fga-s-main { border-width: 2px; border-color: var(--line); }
+.lfoot .fga-social a { color: var(--ink); }

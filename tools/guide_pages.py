@@ -66,13 +66,13 @@ def page(g):
                 f'</div><p class="credit">{e(ba["credit"])}</p></section>')
     c = g['cta']
     cta = (f'<aside class="cta-card"><h2>{e(c["h"])}</h2><p>{e(c["p"])}</p>'
-           f'<a class="cta-go" href="{up}{c["href"]}">{e(c["link"])} →</a></aside>')
+           f'<a class="cta-go" href="{up}{c["href"]}" target="_blank" rel="noopener">{e(c["link"])} →</a></aside>')
     faq = ('<section class="faq"><h2>Questions students ask</h2>' +
            ''.join(f'<details><summary>{e(f["q"])}</summary><p>{e(f["a"])}</p></details>' for f in g['faq']) + '</section>')
     ld = [{'@context': 'https://schema.org', '@type': 'Article', 'headline': g['title'], 'description': g['description'], 'url': url,
            'datePublished': g['published'], 'dateModified': g.get('updated', g['published']),
            'author': {'@type': 'Person', 'name': g['author'], 'jobTitle': 'Architect', 'alumniOf': 'CEPT University'},
-           'publisher': {'@type': 'Organization', 'name': bp.NAME, 'url': bp.BASE, 'logo': bp.BASE + 'icon-512.png'},
+           'publisher': {'@type': 'Organization', 'name': bp.NAME, 'url': bp.BASE, 'logo': bp.BASE + 'icon-512.png', 'sameAs': [bp.share_html.IG, bp.share_html.YT]},
            'image': f'{url}img/{names[-1]}' if names else bp.BASE + 'og.jpg'},
           {'@context': 'https://schema.org', '@type': 'FAQPage', 'mainEntity': [
               {'@type': 'Question', 'name': f['q'], 'acceptedAnswer': {'@type': 'Answer', 'text': f['a']}} for f in g['faq']]},

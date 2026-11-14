@@ -75,7 +75,7 @@
     var x = el('button', 'sc-x', '×'); x.type = 'button'; x.setAttribute('aria-label', 'Close');
     var art = el('span', 'sc-art'); art.setAttribute('role', 'img'); art.setAttribute('aria-label', CARD.alt);
     var body = el('div', 'sc-body'), h = el('h2', '', CARD.heading); h.id = 'scard-h';
-    var go = el('a', 'sc-go', CARD.link_text); go.href = base + CARD.link;
+    var go = el('a', 'sc-go', CARD.link_text); go.href = base + CARD.link; go.target = '_blank'; go.rel = 'noopener';   // Studio FGA opens in its own tab (owner, 13 Nov 2026)
     body.append(el('span', 'sc-eye', CARD.eyebrow), h, el('p', '', CARD.text), go, el('p', 'sc-fine', CARD.fine));
     card.append(x, art, body);
     x.addEventListener('click', close);

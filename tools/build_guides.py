@@ -39,6 +39,10 @@ import html
 import json
 import os
 import re
+import sys
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import share_html   # the Share button, the footer's social row and their <head> lines
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SRC = os.path.join(ROOT, "tools", "studio_guides")
@@ -47,7 +51,8 @@ SITE = "https://findgreatarchitecture.com/studio/"
 OG_IMAGE = "https://findgreatarchitecture.com/studio/og.jpg?v=2"
 AUTHOR = {"@type": "Person", "name": "Akshat Pagaria", "jobTitle": "Architect", "alumniOf": "CEPT University"}
 PUBLISHER = {"@type": "Organization", "name": "Find Great Architecture", "url": "https://findgreatarchitecture.com/",
-             "logo": {"@type": "ImageObject", "url": "https://findgreatarchitecture.com/icon-512.png"}}
+             "logo": {"@type": "ImageObject", "url": "https://findgreatarchitecture.com/icon-512.png"},
+             "sameAs": [share_html.IG, share_html.YT]}
 # The Studio card's words in each flow (tools/studio_flow.py; site/studio/config.js STUDIO_FLOW). Flipping back to the free
 # preview: set the flow in config.js and rerun this (or run it with --flow preview).
 CARD_WORDS = {
@@ -277,6 +282,7 @@ def head(title, desc, url, up, og_type, ld, css):
 <link rel="stylesheet" href="{up}app.css?v=0">
 <link rel="stylesheet" href="{css}?v=0">
 <script src="{up}../analytics.js"></script>
+{share_html.assets(up + "../")}
 """ + "".join(f'<script type="application/ld+json">{json.dumps(x, ensure_ascii=False)}</script>\n' for x in ld) + "</head>\n"
 
 
@@ -309,12 +315,12 @@ def foot(up, bar=""):
              f'<a class="link" href="{up}privacy/">Privacy</a> · <a class="link" href="{up}refund/">Refund policy</a>')
     return (f'<footer class="lfoot wrap"><a class="logo" href="{up}"><i aria-hidden="true">✦</i>Studio FGA</a><p>{FOOTLINE}</p>'
             f'<p class="row">{links}</p>\n<p>Part of <a class="link" href="/">Find Great Architecture</a> · '
-            f'findgreatarchitecture.com/studio · @findgreatarchitecture</p></footer></main>\n{bar}</body>\n</html>\n')
+            f'findgreatarchitecture.com/studio · @findgreatarchitecture</p>{share_html.SOCIAL}</footer></main>\n{bar}</body>\n</html>\n')
 
 
 def topbar(up):
     return (f'<header class="top lnav"><a class="logo" href="{up}"><i aria-hidden="true">✦</i>Studio FGA</a>'
-            f'<span class="spacer"></span><a class="btn small on" href="{up}?ref=guides-nav#upload">{esc(CARD_WORDS[FLOW]["nav"])}</a></header>\n')
+            f'<span class="spacer"></span><a class="btn small on" href="{up}?ref=guides-nav#upload">{esc(CARD_WORDS[FLOW]["nav"])}</a>{share_html.SHARE_BTN}</header>\n')
 
 
 def date_text(iso):

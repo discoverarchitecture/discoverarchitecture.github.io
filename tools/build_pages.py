@@ -19,6 +19,8 @@ buildings people look up most (Wikipedia pageviews, Oct 2025 to Sep 2026) for th
 import html, json, os, random, re, textwrap, urllib.parse
 from pathlib import Path
 
+import share_html   # the Share button, the footer's social row and their <head> lines (tools/share_html.py)
+
 ROOT = Path(__file__).resolve().parent.parent
 SITE = ROOT / 'site'
 BASE = os.environ.get('SITE_URL', 'https://findgreatarchitecture.com/')
@@ -219,6 +221,8 @@ HEAD = """<!doctype html>
 <link rel="stylesheet" href="{up}pages.css?v={css_v}">
 <link rel="stylesheet" href="{up}ai.css?v={css_v}">
 <script src="{up}analytics.js"></script>
+<link rel="stylesheet" href="{up}share.css?v={css_v}">
+<script src="{up}share.js?v={css_v}" defer></script>
 <script src="{up}rows.js?v={css_v}" defer></script>
 <script src="{up}ai.js?v={css_v}" defer></script>
 {extra}
@@ -247,9 +251,10 @@ TOPBAR = """<header class="top" data-nosnippet>
   <form class="search" action="{up}" method="get" role="search"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-4-4"/></svg><label class="sr" for="tq">Search buildings, architects, cities or ideas</label><input id="tq" type="search" name="q" placeholder="Search a building, architect, city or idea…" autocomplete="off" enterkeyhint="search"></form><script src="{up}sitesearch.js" defer></script>
   <a class="tbtn fbtn" href="{up}#filter" aria-label="Filter"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 7h16M7 12h10M10 17h4"/></svg><span>Filter</span></a>
   {theme_btn}
-  <a class="ai-btn ai-bar" href="{up}studio/?ref=page" aria-haspopup="dialog" aria-expanded="false">{ai_spark}<span class="ai-long">AI Jury Presentation Generator</span><span class="ai-short">AI</span></a>
+  <a class="ai-btn ai-bar" href="{up}studio/?ref=page" target="_blank" rel="noopener" aria-haspopup="dialog" aria-expanded="false">{ai_spark}<span class="ai-long">AI Jury Presentation Generator</span><span class="ai-short">AI</span></a>
   <div class="play"><button type="button" class="tbtn play-btn" aria-haspopup="menu" aria-expanded="false"><svg class="pi" viewBox="0 0 24 24" aria-hidden="true"><path d="M7 4.5v15l12.5-7.5z"/></svg><span>Guess the building?</span><svg class="chev" viewBox="0 0 24 24" aria-hidden="true"><path d="m6 9 6 6 6-6"/></svg></button>
     <div class="play-menu" role="menu" hidden><a role="menuitem" href="{up}play/#daily"><b>Daily five</b><span>Same five for everyone. New every day.</span></a><a role="menuitem" href="{up}play/#endless"><b>Endless</b><span>Keep going until you miss one.</span></a></div></div>
+  {share_btn}
   <script>(function () { var p = document.currentScript.parentNode.querySelector('.play'), b = p.querySelector('button'), m = p.querySelector('.play-menu');
     function set(o) { m.hidden = !o; b.setAttribute('aria-expanded', o); }
     b.addEventListener('click', function (e) { e.stopPropagation(); set(m.hidden); });
@@ -260,7 +265,7 @@ TOPBAR = """<header class="top" data-nosnippet>
 # The AI jury presentation generator's spark (site/ai.css, site/ai.js): in every page's bar, so it is always in sight (owner, 24 Oct 2026).
 AI_SPARK = ('<svg class="ai-spark" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2.5c.6 4.6 2.9 6.9 7.5 7.5-4.6.6-6.9 2.9-7.5 7.5-.6-4.6-2.9-6.9-7.5-7.5 4.6-.6 6.9-2.9 7.5-7.5z"/>'
             '<path d="M19 14.5c.3 2 1.3 3 3.3 3.3-2 .3-3 1.3-3.3 3.3-.3-2-1.3-3-3.3-3.3 2-.3 3-1.3 3.3-3.3z"/></svg>')
-TOPBAR = TOPBAR.replace('{theme_btn}', THEME_BTN).replace('{ai_spark}', AI_SPARK)
+TOPBAR = TOPBAR.replace('{theme_btn}', THEME_BTN).replace('{ai_spark}', AI_SPARK).replace('{share_btn}', share_html.SHARE_BTN)
 DOCK = ('<nav class="dock" data-nosnippet aria-label="Browse"><a href="{up}">Home</a>'
         '<a class="map" href="{up}#map"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c3 3.5 3 14.5 0 18M12 3c-3 3.5-3 14.5 0 18"/></svg>Map</a>'
         '<a class="go" href="{up}#surprise">Surprise me</a></nav>')
@@ -271,7 +276,7 @@ HEAD = HEAD.replace('{topbar}', TOPBAR.replace('{', '{{').replace('}', '}}').rep
 # site/play/index.html and the hand-written pages (terms, privacy, pricing, refunds, contact).
 LEGAL = ('<p class="legal-links"><a href="{up}pricing/">Pricing</a> · <a href="{up}terms/">Terms</a> · '
          '<a href="{up}privacy/">Privacy</a> · <a href="{up}refunds/">Refunds</a> · <a href="{up}contact/">Contact</a></p>'
-         '<p>Find Great Architecture · run by Akshat Pagaria · India</p>')
+         '<p>Find Great Architecture · run by Akshat Pagaria · India</p>' + share_html.SOCIAL)
 
 
 # The guides (tools/guide_pages.py) are linked from every page's foot, next to the legal links (owner, 3 Nov 2026).
@@ -313,7 +318,7 @@ def studio_banner(up):
     s = STUDIO_BANNER
     return (f'<aside class="block studio-banner" aria-labelledby="studio-banner-h" data-nosnippet><div class="sb-box">'
             f'<h2 id="studio-banner-h">{e(s["heading"])}</h2><p>{e(s["text"])}</p>'
-            f'<a class="sb-go" href="{e(up + s["link"])}">{e(s["link_text"])}</a>'
+            f'<a class="sb-go" href="{e(up + s["link"])}" target="_blank" rel="noopener">{e(s["link_text"])}</a>'
             f'<p class="sb-guides">Free guides: {study_guides(up)}</p></div></aside>\n')
 
 
@@ -324,7 +329,7 @@ def legal_foot(up):
 FOOT = """<footer class="foot" data-nosnippet>
   <p>Photos are public domain or Creative Commons, credited under each photo and sourced from Wikimedia Commons; a few historic drawings and photos come from the Art Institute of Chicago (public domain).</p>
   <p><a href="{up}">Find Great Architecture</a> · <a href="{up}buildings/">All buildings</a></p>
-  <p><a href="{up}studio/?ref=footer">Studio FGA: make an architecture presentation board from your own drawings →</a></p>
+  <p><a href="{up}studio/?ref=footer" target="_blank" rel="noopener">Studio FGA: make an architecture presentation board from your own drawings →</a></p>
   {legal}
 </footer>
 {dock}
@@ -958,20 +963,20 @@ def stamp_wall():
     instead of waiting for their cached copy to expire."""
     page = SITE / 'index.html'
     html = page.read_text()
-    for name in ('theme.css', 'theme.js', 'styles.css', 'search.css', 'data/wall.js', 'data/names.js', 'data/architects.js', 'data/pritzker.js', 'data/filters.js', 'data/world.js', 'data/books.js', 'data/book_lines.js', 'data/swipe.js', 'data/arch_pages.js', 'search.js', 'app.js', 'searchbox.js', 'filter.js', 'rows.js', 'map.js', 'ai.css'):
+    for name in ('theme.css', 'theme.js', 'styles.css', 'search.css', 'data/wall.js', 'data/names.js', 'data/architects.js', 'data/pritzker.js', 'data/filters.js', 'data/world.js', 'data/books.js', 'data/book_lines.js', 'data/swipe.js', 'data/arch_pages.js', 'search.js', 'app.js', 'searchbox.js', 'filter.js', 'rows.js', 'map.js', 'ai.css', 'share.css', 'share.js'):
         html = re.sub(r'(["\'])' + re.escape(name) + r'(\?v=[0-9a-f]*)?\1', lambda m: f'{m.group(1)}{name}?v={fingerprint(SITE / name)}{m.group(1)}', html)
     page.write_text(html)
     play = SITE / 'play' / 'index.html'  # the game page: its own script and styles, and the buildings it asks about
     if play.exists():
         html = play.read_text()
-        for name, path in (('../theme.css', SITE / 'theme.css'), ('../theme.js', SITE / 'theme.js'), ('play.css', SITE / 'play' / 'play.css'), ('play.js', SITE / 'play' / 'play.js'), ('../data/buildings.js', SITE / 'data' / 'buildings.js'), ('../data/links.js', SITE / 'data' / 'links.js'), ('../data/architects.js', SITE / 'data' / 'architects.js'), ('../data/names.js', SITE / 'data' / 'names.js'), ('../ai.css', SITE / 'ai.css'), ('../ai.js', SITE / 'ai.js')):
+        for name, path in (('../theme.css', SITE / 'theme.css'), ('../theme.js', SITE / 'theme.js'), ('play.css', SITE / 'play' / 'play.css'), ('play.js', SITE / 'play' / 'play.js'), ('../data/buildings.js', SITE / 'data' / 'buildings.js'), ('../data/links.js', SITE / 'data' / 'links.js'), ('../data/architects.js', SITE / 'data' / 'architects.js'), ('../data/names.js', SITE / 'data' / 'names.js'), ('../ai.css', SITE / 'ai.css'), ('../ai.js', SITE / 'ai.js'), ('../share.css', SITE / 'share.css'), ('../share.js', SITE / 'share.js')):
             html = re.sub(r'(["\'])' + re.escape(name) + r'(\?v=[0-9a-f]*)?\1', lambda m: f'{m.group(1)}{name}?v={fingerprint(path)}{m.group(1)}', html)
         play.write_text(html)
     for extra in ('privacy', 'terms', 'pricing', 'refunds', 'contact'):
         page = SITE / extra / 'index.html'
         if page.exists():
             html = page.read_text()
-            for name, path in (('../theme.css', SITE / 'theme.css'), ('../theme.js', SITE / 'theme.js'), ('../pages.css', SITE / 'pages.css'), ('../ai.css', SITE / 'ai.css'), ('../ai.js', SITE / 'ai.js')):
+            for name, path in (('../theme.css', SITE / 'theme.css'), ('../theme.js', SITE / 'theme.js'), ('../pages.css', SITE / 'pages.css'), ('../ai.css', SITE / 'ai.css'), ('../ai.js', SITE / 'ai.js'), ('../share.css', SITE / 'share.css'), ('../share.js', SITE / 'share.js')):
                 html = re.sub(r'(["\'])' + re.escape(name) + r'(\?v=[0-9a-f]*)?\1', lambda m: f'{m.group(1)}{name}?v={fingerprint(path)}{m.group(1)}', html)
             page.write_text(html)
 
@@ -1118,7 +1123,7 @@ def main():
     global TOTAL, CSS_V
     items = load()
     TOTAL = f'{len(items):,}'
-    CSS_V = fingerprint_all(SITE / 'pages.css', SITE / 'theme.css', SITE / 'theme.js', SITE / 'rows.js', SITE / 'popup.js', SITE / 'ai.css', SITE / 'ai.js')
+    CSS_V = fingerprint_all(SITE / 'pages.css', SITE / 'theme.css', SITE / 'theme.js', SITE / 'rows.js', SITE / 'popup.js', SITE / 'ai.css', SITE / 'ai.js', SITE / 'share.css', SITE / 'share.js')
     page = SITE / 'index.html'
     page.write_text(re.sub(r'<!-- about:start -->.*?<!-- about:end -->', lambda m: '<!-- about:start -->\n' + home_block(items) + '\n<!-- about:end -->',
                            page.read_text(), flags=re.S))
