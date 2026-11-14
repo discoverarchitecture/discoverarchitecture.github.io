@@ -1,13 +1,13 @@
 {
- "fetched_at": "2026-11-14T13:23:29+00:00",
+ "fetched_at": "2026-11-14T22:15:10+00:00",
  "site": "akshatpagaria.goatcounter.com",
  "window_days": 30,
- "visits_30d": 3210,
+ "visits_30d": 3215,
  "sections": {
   "pages": {
    "hits": [
     {
-     "count": 558,
+     "count": 560,
      "path_id": 112020267,
      "path": "/",
      "event": false,
@@ -39,7 +39,7 @@
      "max": 12
     },
     {
-     "count": 80,
+     "count": 81,
      "path_id": 112020274,
      "path": "/play",
      "event": false,
@@ -464,6 +464,14 @@
     },
     {
      "count": 4,
+     "path_id": 121135577,
+     "path": "/studio/guides/architecture-concept-diagram-ideas",
+     "event": false,
+     "title": "Architecture Concept Diagram Ideas: 10 That Work",
+     "max": 1
+    },
+    {
+     "count": 4,
      "path_id": 121021779,
      "path": "/studio/guides/how-to-lay-out-an-a1-architecture-board",
      "event": false,
@@ -616,10 +624,10 @@
     },
     {
      "count": 3,
-     "path_id": 121135577,
-     "path": "/studio/guides/architecture-concept-diagram-ideas",
+     "path_id": 121016913,
+     "path": "/studio/guides/how-to-present-site-analysis",
      "event": false,
-     "title": "Architecture Concept Diagram Ideas: 10 That Work",
+     "title": "How to Do and Present an Architecture Site Analysis",
      "max": 1
     },
     {
@@ -797,17 +805,9 @@
      "event": true,
      "title": "AI panel: See FGA Studio",
      "max": 1
-    },
-    {
-     "count": 3,
-     "path_id": 113852201,
-     "path": "/buildings/custom-house-dublin",
-     "event": false,
-     "title": "The Custom House by James Gandon: photos & key features",
-     "max": 2
     }
    ],
-   "total": 1741,
+   "total": 1745,
    "more": true
   },
   "referrers": {
@@ -826,7 +826,7 @@
     {
      "id": "chatgpt.com",
      "name": "chatgpt.com",
-     "count": 198,
+     "count": 202,
      "ref_scheme": "c"
     },
     {
@@ -1059,12 +1059,12 @@
     {
      "id": "Chrome",
      "name": "Chrome",
-     "count": 2122
+     "count": 2125
     },
     {
      "id": "Safari",
      "name": "Safari",
-     "count": 954
+     "count": 956
     },
     {
      "id": "Firefox",
@@ -1083,12 +1083,12 @@
     {
      "id": "Windows",
      "name": "Windows",
-     "count": 1201
+     "count": 1204
     },
     {
      "id": "iOS",
      "name": "iOS",
-     "count": 791
+     "count": 793
     },
     {
      "id": "Android",
@@ -1182,7 +1182,7 @@
     {
      "id": "FR",
      "name": "France",
-     "count": 35
+     "count": 36
     },
     {
      "id": "KR",
@@ -1200,6 +1200,11 @@
      "count": 32
     },
     {
+     "id": "NL",
+     "name": "Netherlands",
+     "count": 31
+    },
+    {
      "id": "IR",
      "name": "Iran",
      "count": 29
@@ -1207,11 +1212,6 @@
     {
      "id": "JO",
      "name": "Hashemite Kingdom of Jordan",
-     "count": 29
-    },
-    {
-     "id": "NL",
-     "name": "Netherlands",
      "count": 29
     },
     {
@@ -1250,14 +1250,14 @@
      "count": 16
     },
     {
-     "id": "SC",
-     "name": "Seychelles",
+     "id": "ID",
+     "name": "Indonesia",
      "count": 15
     },
     {
-     "id": "ID",
-     "name": "Indonesia",
-     "count": 14
+     "id": "SC",
+     "name": "Seychelles",
+     "count": 15
     },
     {
      "id": "OM",
@@ -1360,6 +1360,11 @@
      "count": 6
     },
     {
+     "id": "IQ",
+     "name": "Iraq",
+     "count": 6
+    },
+    {
      "id": "MY",
      "name": "Malaysia",
      "count": 6
@@ -1387,11 +1392,6 @@
     {
      "id": "IE",
      "name": "Ireland",
-     "count": 5
-    },
-    {
-     "id": "IQ",
-     "name": "Iraq",
      "count": 5
     },
     {
@@ -1607,7 +1607,7 @@
     {
      "id": "phone",
      "name": "",
-     "count": 1401
+     "count": 1403
     },
     {
      "id": "tablet",
@@ -1617,7 +1617,7 @@
     {
      "id": "desktop",
      "name": "",
-     "count": 1458
+     "count": 1461
     },
     {
      "id": "desktophd",
@@ -1637,7 +1637,7 @@
     {
      "id": "(unknown)",
      "name": "(unknown)",
-     "count": 3139
+     "count": 3144
     }
    ],
    "more": false
