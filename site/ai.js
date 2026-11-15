@@ -1,5 +1,5 @@
 /* Find Great Architecture: the AI jury presentation generator button in every page's top bar (owner, 24 Oct 2026; the wall has
-   its own in app.js). On a computer it goes straight to Studio FGA (/studio/); on a phone it opens the same sheet as on the
+   its own in app.js). On a computer it opens Studio FGA (/studio/) in a new tab; on a phone it opens the same sheet as on the
    wall, from the bottom, which leads there. Pressing it is counted as studio/ai-button and following the sheet's link as
    studio/ai-link, as on the wall; the address says which kind of page it was pressed on (?ref=building, architect, hub,
    game or page). Styles in ai.css. */
@@ -27,7 +27,7 @@
       '<img class="ai-board" src="' + up + 'studio/board.webp" alt="A sample A1 jury board of the Salk Institute, made for this preview" width="600" height="849" loading="lazy">' +
       '<p class="ai-text">You design; it presents. Upload your drawings, name the ideas your board must explain, and get a professional-grade jury board and editable deck.</p>' +
       '<ul class="ai-list"><li>Concept diagrams you guide</li><li>A1, A0 and 24 × 36 in boards</li><li>Editable PowerPoint and PDF</li></ul>' +
-      '<a class="ai-go" href="' + url + '">See Studio FGA <span aria-hidden="true">→</span></a>' +
+      '<a class="ai-go" href="' + url + '" target="_blank" rel="noopener">See Studio FGA <span aria-hidden="true">→</span></a>' +
       '<p class="ai-fine">Pay once from $6.49 · free redo or money back</p>' +
       '<p class="ai-fine ai-legal"><a href="' + up + 'pricing/">Pricing</a> · <a href="' + up + 'terms/">Terms</a> · <a href="' + up + 'refunds/">Refunds</a> · <a href="' + up + 'privacy/">Privacy</a> · <a href="' + up + 'contact/">Contact</a></p>';
     document.body.appendChild(veil); document.body.appendChild(pop);
@@ -47,11 +47,13 @@
     e.preventDefault();
     if (phone()) { make(); var again = from === b && !pop.hidden; from = b; return show(!again); }
     count('studio/ai-button', 'AI Jury Presentation Generator');
-    setTimeout(function () { location.href = url; }, 150); // a moment for the count to leave
+    // Studio FGA opens in a tab of its own, so the reader keeps their place (owner, 13 Nov 2026); a blocked pop-up falls back to this tab
+    var w = window.open(url, '_blank'); // not the 'noopener' feature: it makes open() return null, which can't be told from a blocked pop-up
+    if (w) { try { w.opener = null; } catch (err) { /* cross-origin already */ } } else setTimeout(function () { location.href = url; }, 150);
   });
   document.addEventListener('keydown', function (e) { if (e.key === 'Escape' && pop && !pop.hidden) { show(false); if (from) from.focus(); } });
   // the buttons written into the page point at the right address before anything is pressed
   document.addEventListener('DOMContentLoaded', function () {
-    [].forEach.call(document.querySelectorAll('a.ai-btn'), function (a) { a.href = url; });
+    [].forEach.call(document.querySelectorAll('a.ai-btn'), function (a) { a.href = url; a.target = '_blank'; a.rel = 'noopener'; });
   });
 })();

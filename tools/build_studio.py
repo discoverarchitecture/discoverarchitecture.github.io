@@ -19,6 +19,9 @@ import os
 import re
 import sys
 
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import share_html   # the Share button, the footer's social row and their <head> lines
+
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 STUDIO = os.path.join(ROOT, "site", "studio")
 SITE = "https://findgreatarchitecture.com/studio/"
@@ -56,13 +59,14 @@ def legal_pages(path):
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="{FONTS}">
 <link rel="stylesheet" href="../app.css?v=0">
+{share_html.assets("../../")}
 </head>
 <body data-screen="{key}">
 <!-- Made from studio/legal/{key}.md by tools/build_studio.py. Edit the draft there, not this file. -->
-<header class="top lnav"><a class="logo" href="../"><i aria-hidden="true">✦</i>Studio FGA</a><span class="spacer"></span><a class="btn small on" href="../#upload">{start}</a></header>
+<header class="top lnav"><a class="logo" href="../"><i aria-hidden="true">✦</i>Studio FGA</a><span class="spacer"></span><a class="btn small on" href="../#upload">{start}</a>{share_html.SHARE_BTN}</header>
 <main class="land"><article class="wrap narrow legal"><a class="link" href="../">← Back to Studio FGA</a><p class="kicker">Legal</p><h1 class="big">{html.escape(L["title"])}</h1>{L["html"]}</article>
 <footer class="lfoot wrap"><a class="logo" href="../"><i aria-hidden="true">✦</i>Studio FGA</a><p>{FOOTLINE}</p><p class="row">{links}</p>
-<p>Part of <a class="link" href="/">Find Great Architecture</a> · findgreatarchitecture.com/studio · @findgreatarchitecture</p></footer></main>
+<p>Part of <a class="link" href="/">Find Great Architecture</a> · findgreatarchitecture.com/studio · @findgreatarchitecture</p>{share_html.SOCIAL}</footer></main>
 </body>
 </html>
 """

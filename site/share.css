@@ -1,0 +1,40 @@
+/* Share button, share popover and the footer's social row (owner, 13 Nov 2026). Used by every page; wired by share.js.
+   Colours come from the page's own tokens (theme.css on the wall, app.css in Studio) with plain fallbacks, so day and night
+   both work. Touch targets are 44 px. On a narrow header the button is the icon alone. */
+.fga-share, .fga-s-pop, .fga-social { --s-bg: var(--surface, var(--card, #fff)); --s-ink: var(--ink, #111110); --s-mute: var(--graphite, var(--muted, #5d5c57));
+  --s-line: var(--hair, var(--line, #d9d7d1)); --s-edge: var(--edge, var(--line, #bdbab2)); --s-acc: var(--red, var(--coral, #da3a26)); }
+.fga-share { position: relative; display: inline-flex; align-items: center; justify-content: center; gap: 8px; flex: none; min-height: 44px; min-width: 44px; margin: 0; padding: 0 14px; border: 1px solid var(--s-edge); border-radius: 999px;
+  background: var(--s-bg); color: var(--s-ink); font-family: var(--body, system-ui, sans-serif); font-weight: 600; font-size: 14px; line-height: 1; cursor: pointer; -webkit-tap-highlight-color: transparent; }
+.fga-share svg { width: 18px; height: 18px; flex: none; fill: none; stroke: currentColor; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+.fga-share:hover { border-color: var(--s-ink); }
+.fga-share[aria-expanded="true"] { background: var(--s-ink); color: var(--s-bg); border-color: var(--s-ink); }
+.fga-share:focus-visible, .fga-s-pop :focus-visible, .fga-social a:focus-visible { outline: 3px solid var(--focus, #2f5bff); outline-offset: 2px; }
+@media (max-width: 720px) { .fga-share { padding: 0; width: 44px; } .fga-share-t { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; } }
+/* the popover: under the button on a computer, a sheet from the bottom on a narrow screen */
+.fga-s-pop { position: fixed; z-index: 2000; box-sizing: border-box; display: grid; gap: 10px; max-height: calc(100dvh - 24px); overflow: auto; padding: 16px; background: var(--s-bg); color: var(--s-ink);
+  border: 1px solid var(--s-edge); border-radius: 16px; box-shadow: 0 16px 44px rgba(0,0,0,.22); font-family: var(--body, system-ui, sans-serif); font-size: 15px; line-height: 1.35; font-weight: 400; text-align: left; }
+.fga-s-pop[hidden], .fga-s-veil[hidden] { display: none; }
+.fga-s-pop.is-sheet { left: 0; right: 0; bottom: 0; top: auto; width: auto; border-radius: 18px 18px 0 0; padding-bottom: max(16px, env(safe-area-inset-bottom, 0px)); }
+.fga-s-veil { position: fixed; inset: 0; z-index: 1999; background: rgba(14,14,13,.45); }
+.fga-s-h { margin: 0; font-weight: 700; font-size: 17px; }
+.fga-s-sub { margin: 4px 0 -2px; font-family: var(--mono, var(--body, system-ui, sans-serif)); font-weight: 600; font-size: 12px; line-height: 1; letter-spacing: .08em; text-transform: uppercase; color: var(--s-mute); }
+.fga-s-live { margin: -4px 0 0; font-size: 13px; color: var(--s-mute); word-break: break-all; }
+.fga-s-live:empty { display: none; }
+.fga-s-main, .fga-s-link { display: flex; align-items: center; gap: 10px; box-sizing: border-box; min-height: 44px; padding: 0 12px; border: 1px solid var(--s-edge); border-radius: 12px; background: var(--s-bg); color: var(--s-ink);
+  font-family: inherit; font-weight: 600; font-size: 15px; line-height: 1.2; text-decoration: none; cursor: pointer; }
+.fga-s-main { background: var(--s-acc); border-color: var(--s-acc); color: #fff; justify-content: center; }
+.fga-s-main.is-done { background: var(--s-ink); border-color: var(--s-ink); color: var(--s-bg); }
+.fga-s-pop svg { width: 20px; height: 20px; flex: none; fill: none; stroke: currentColor; stroke-width: 1.9; stroke-linecap: round; stroke-linejoin: round; }
+.fga-s-link:hover { border-color: var(--s-ink); }
+.fga-s-row { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+.fga-s-follow { grid-template-columns: 1fr; }
+.fga-s-link span { display: grid; gap: 2px; min-width: 0; }
+.fga-s-link small { font-weight: 400; font-size: 12px; color: var(--s-mute); }
+/* the footer's social row: simple glyphs and plain labels, in every page's foot */
+.fga-social { display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 6px 18px; margin: 14px 0 6px; font-size: 14px; color: var(--s-mute); }
+.fga-social a { display: inline-flex; align-items: center; gap: 8px; min-height: 44px; padding: 0 6px; color: inherit; text-decoration: none; }
+.fga-social a:hover { color: var(--s-ink); text-decoration: underline; }
+.fga-social svg { width: 20px; height: 20px; fill: none; stroke: currentColor; stroke-width: 1.9; stroke-linecap: round; stroke-linejoin: round; }
+@media (prefers-reduced-motion: no-preference) { .fga-s-pop:not([hidden]) { animation: fgaPop .16s ease-out; } @keyframes fgaPop { from { opacity: 0; transform: translateY(-4px); } } .fga-s-pop.is-sheet:not([hidden]) { animation-name: fgaSheet; } @keyframes fgaSheet { from { transform: translateY(24px); opacity: 0; } } }
+.foot .fga-social, .pfoot .fga-social, .about-legal .fga-social, .lfoot .fga-social { justify-content: flex-start; margin: 6px 0; }
+.foot .fga-social a, .pfoot .fga-social a, .about-legal .fga-social a { padding: 0 8px 0 0; }

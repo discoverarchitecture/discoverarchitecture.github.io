@@ -884,6 +884,13 @@ body[data-screen="upload"] .btn.primary::after, body[data-screen="q"] .btn.prima
 .chipbtn:disabled { opacity: .45; cursor: default; }
 .chipbtn:focus-visible { outline: 3px solid var(--sun); outline-offset: 2px; }
 
+/* ---------- share button and social row (owner, 13 Nov 2026; share.css has the rest) in Studio's own outlined look */
+.top .fga-share { border: 2px solid var(--line); background: var(--card); box-shadow: 3px 3px 0 var(--shadow); font-family: var(--body); }
+.top .fga-share[aria-expanded="true"] { background: var(--ink); color: var(--paper); }
+.fga-s-pop { border: 2px solid var(--line); box-shadow: 6px 6px 0 var(--shadow); }
+.fga-s-main { background: var(--coral); border-color: var(--line); color: var(--on-accent); }
+.fga-s-link, .fga-s-main { border-width: 2px; border-color: var(--line); }
+.lfoot .fga-social a { color: var(--ink); }
 /* ---------- loading: jury boards shuffling (owner, 13 Nov 2026). Four A1 sheets, 594 x 841, riffle like a deck of cards:
    the front one flies out, tucks behind the stack, the rest step forward. Pure CSS, transform and z-index only. Under
    prefers-reduced-motion the sheets sit still, fanned. Sizes: .xs .s (default) .m .l (set --w, the sheet's width). */

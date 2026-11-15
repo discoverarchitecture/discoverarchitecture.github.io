@@ -51,6 +51,10 @@
     try { if (window.goatcounter) window.goatcounter.no_onload = true; window.fgaEvent = undefined; } catch (e) { /* counting is optional */ }
   }
   const esc = F.esc;
+  /* Share button (top right) and the footer's Instagram / YouTube row, the same markup as every other page (tools/share_html.py);
+     ../share.js wires them by event delegation, ../share.css styles them */
+  const SHAREBTN = '<button type="button" class="fga-share" aria-haspopup="dialog" aria-expanded="false" aria-label="Share this page"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="18" cy="5.5" r="2.5"/><circle cx="6" cy="12" r="2.5"/><circle cx="18" cy="18.5" r="2.5"/><path d="m8.2 10.8 7.6-4M8.2 13.2l7.6 4"/></svg><span class="fga-share-t">Share</span></button>';
+  const SOCIALROW = '<p class="fga-social" data-nosnippet><a href="https://www.instagram.com/findgreatarchitecture/" target="_blank" rel="noopener" data-social="instagram"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="3.5" width="17" height="17" rx="5"/><circle cx="12" cy="12" r="4"/><path d="M17.2 6.8v.1"/></svg>Instagram</a><a href="https://www.youtube.com/@findgreatarchitecture" target="_blank" rel="noopener" data-social="youtube"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="2.5" y="5.5" width="19" height="13" rx="4"/><path d="m10 9.2 5 2.8-5 2.8z"/></svg>YouTube</a></p>';
   /* ---------- loading (owner, 13 Nov 2026: "jury boards shuffling"). Four A1 sheets shuffle like a deck of cards, pure CSS (app.css,
      .shuf). Wherever a board, slide or big picture loads, a box of its final shape holds the place (so nothing jumps) with
      the sheets shuffling over it, until the picture is there. */
@@ -551,7 +555,7 @@
     const n = STEP[S.screen], back = (i) => i < n && n <= PAYAT && !paid() && (i < 2 || DEMO || PV);
     const steps = (PAYWALL ? ['Upload', 'Questions', 'Pay', 'Edit', 'Download', 'Share'] : ['Upload', 'Questions', 'Preview', 'Pay', 'Edit', 'Download', 'Share']).map((t, i) => '<span class="' + (i < n ? 'done' : i === n ? 'now' : '') + (back(i) ? ' back' : '') + '"' + (back(i) ? ' data-act="go" data-s="' + ['upload', 'q', 'plan'][i] + '" role="button" tabindex="0" title="Go back to ' + t + '"' : '') + '>' + (i < n ? '✓ ' : '') + t + '</span>').join('');
     return '<header class="top"><a class="logo" href="#home" data-act="home"><i aria-hidden="true">✦</i>Studio FGA</a><nav class="steps hide-phone" aria-label="Steps">' + steps +
-      '</nav><span class="spacer"></span>' + (DEMO ? '<span class="chip sun">DEMO · SAMPLE PROJECT</span>' : '') + '</header>';
+      '</nav><span class="spacer"></span>' + (DEMO ? '<span class="chip sun">DEMO · SAMPLE PROJECT</span>' : '') + SHAREBTN + '</header>';
   }
 
   /* ---------------------------------------------------------- shared parts (landing and app use the same pieces) */
@@ -1474,7 +1478,7 @@
   function lnav() {
     return '<header class="top lnav"><a class="logo" href="#home" data-act="home"><i aria-hidden="true">✦</i>Studio FGA</a><nav class="llinks hide-phone" aria-label="Page">' +
       [['how', 'How it works'], ['get', 'What you get'], ['pricing', 'Pricing'], ['faq', 'FAQ']].map(([id, t]) => '<a href="#' + id + '" data-act="sec" data-id="' + id + '">' + t + '</a>').join('') + '</nav><span class="spacer"></span>' +
-      '<button class="btn small on" data-act="start">' + (PAYWALL ? 'Start' : 'Start free') + '</button></header>';
+      '<button class="btn small on" data-act="start">' + (PAYWALL ? 'Start' : 'Start free') + '</button>' + SHAREBTN + '</header>';
   }
   const PH = (t) => '<span class="ph">[' + t + ']</span>';
   /* Hero before/after (prototype commit 3ed209a, option B, owner picked 28 Oct): six small crops of the student's real
@@ -1724,7 +1728,7 @@
   const LEGALLINKS = '<a class="link" href="terms/">Terms</a> · <a class="link" href="privacy/">Privacy</a> · <a class="link" href="refund/">Refund policy</a> · <a class="link" href="../pricing/">Pricing</a> · <a class="link" href="guides/">Guides</a>';
   const FOOTLINE = 'Studio FGA is run by Akshat Pagaria · 302, Shantinath Residency, Beawar, Rajasthan, India · hello@findgreatarchitecture.com · Payments handled by Dodo Payments, our merchant of record';
   const lfoot = () => '<footer class="lfoot wrap"><a class="logo" href="#home" data-act="home"><i aria-hidden="true">✦</i>Studio FGA</a><p>' + FOOTLINE + '</p><p class="row">' + LEGALLINKS + '</p>' +
-    '<p>Part of <a class="link" href="/">Find Great Architecture</a> · findgreatarchitecture.com/studio · @findgreatarchitecture</p>' + (DEMO ? '' : '<a class="link" href="?demo=1#home">Try the demo with a sample project</a>') + '</footer>';
+    '<p>Part of <a class="link" href="/">Find Great Architecture</a> · findgreatarchitecture.com/studio · @findgreatarchitecture</p>' + SOCIALROW + (DEMO ? '' : '<a class="link" href="?demo=1#home">Try the demo with a sample project</a>') + '</footer>';
 
   /* ---------------------------------------------------------- render */
   let ed = null;
