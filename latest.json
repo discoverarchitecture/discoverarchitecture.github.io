@@ -1,13 +1,13 @@
 {
- "fetched_at": "2026-11-14T22:15:10+00:00",
+ "fetched_at": "2026-11-15T06:06:48+00:00",
  "site": "akshatpagaria.goatcounter.com",
  "window_days": 30,
- "visits_30d": 3215,
+ "visits_30d": 3224,
  "sections": {
   "pages": {
    "hits": [
     {
-     "count": 560,
+     "count": 550,
      "path_id": 112020267,
      "path": "/",
      "event": false,
@@ -344,6 +344,14 @@
     },
     {
      "count": 6,
+     "path_id": 116902096,
+     "path": "/buildings/baron-empain-palace",
+     "event": false,
+     "title": "Baron Empain Palace by Alexandre Marcel: photos",
+     "max": 1
+    },
+    {
+     "count": 6,
      "path_id": 115515870,
      "path": "/styles/parametric",
      "event": false,
@@ -408,6 +416,14 @@
     },
     {
      "count": 5,
+     "path_id": 121135577,
+     "path": "/studio/guides/architecture-concept-diagram-ideas",
+     "event": false,
+     "title": "Architecture Concept Diagram Ideas: 10 That Work",
+     "max": 1
+    },
+    {
+     "count": 5,
      "path_id": 119304638,
      "path": "studio/click/q/qback",
      "event": true,
@@ -420,14 +436,6 @@
      "path": "/styles/high-tech",
      "event": false,
      "title": "High-tech architecture: 96 buildings with photos & plans",
-     "max": 1
-    },
-    {
-     "count": 5,
-     "path_id": 116902096,
-     "path": "/buildings/baron-empain-palace",
-     "event": false,
-     "title": "Baron Empain Palace by Alexandre Marcel: photos",
      "max": 1
     },
     {
@@ -455,6 +463,14 @@
      "max": 1
     },
     {
+     "count": 5,
+     "path_id": 112475234,
+     "path": "/buildings/ningbo-history-museum",
+     "event": false,
+     "title": "Ningbo History Museum \u2014 Wang Shu, 2008: photos",
+     "max": 2
+    },
+    {
      "count": 4,
      "path_id": 121730660,
      "path": "studio/click/q/chip",
@@ -464,18 +480,18 @@
     },
     {
      "count": 4,
-     "path_id": 121135577,
-     "path": "/studio/guides/architecture-concept-diagram-ideas",
-     "event": false,
-     "title": "Architecture Concept Diagram Ideas: 10 That Work",
-     "max": 1
-    },
-    {
-     "count": 4,
      "path_id": 121021779,
      "path": "/studio/guides/how-to-lay-out-an-a1-architecture-board",
      "event": false,
      "title": "How to Lay Out an A1 Architecture Presentation Board",
+     "max": 1
+    },
+    {
+     "count": 4,
+     "path_id": 121016913,
+     "path": "/studio/guides/how-to-present-site-analysis",
+     "event": false,
+     "title": "How to Do and Present an Architecture Site Analysis",
      "max": 1
     },
     {
@@ -576,14 +592,6 @@
     },
     {
      "count": 4,
-     "path_id": 112368513,
-     "path": "/buildings/fredensborg-houses",
-     "event": false,
-     "title": "Fredensborg Houses \u2014 J\u00f8rn Utzon, 1963: photos",
-     "max": 1
-    },
-    {
-     "count": 4,
      "path_id": 112168513,
      "path": "/buildings/villa-schreiner",
      "event": false,
@@ -620,14 +628,6 @@
      "path": "studio/click/q/qskip",
      "event": true,
      "title": "Studio \u00b7 click \u00b7 q \u00b7 qskip",
-     "max": 1
-    },
-    {
-     "count": 3,
-     "path_id": 121016913,
-     "path": "/studio/guides/how-to-present-site-analysis",
-     "event": false,
-     "title": "How to Do and Present an Architecture Site Analysis",
      "max": 1
     },
     {
@@ -807,26 +807,26 @@
      "max": 1
     }
    ],
-   "total": 1745,
+   "total": 1739,
    "more": true
   },
   "referrers": {
    "stats": [
     {
      "name": "",
-     "count": 1714,
+     "count": 1698,
      "ref_scheme": "o"
     },
     {
      "id": "Google",
      "name": "Google",
-     "count": 368,
+     "count": 349,
      "ref_scheme": "g"
     },
     {
      "id": "chatgpt.com",
      "name": "chatgpt.com",
-     "count": 202,
+     "count": 204,
      "ref_scheme": "c"
     },
     {
@@ -854,15 +854,15 @@
      "ref_scheme": "c"
     },
     {
-     "id": "ig",
-     "name": "ig",
+     "id": "reddit",
+     "name": "reddit",
      "count": 15,
      "ref_scheme": "c"
     },
     {
-     "id": "reddit",
-     "name": "reddit",
-     "count": 15,
+     "id": "ig",
+     "name": "ig",
+     "count": 14,
      "ref_scheme": "c"
     },
     {
@@ -1059,17 +1059,17 @@
     {
      "id": "Chrome",
      "name": "Chrome",
-     "count": 2125
+     "count": 2100
     },
     {
      "id": "Safari",
      "name": "Safari",
-     "count": 956
+     "count": 941
     },
     {
      "id": "Firefox",
      "name": "Firefox",
-     "count": 61
+     "count": 60
     },
     {
      "name": "",
@@ -1083,27 +1083,27 @@
     {
      "id": "Windows",
      "name": "Windows",
-     "count": 1204
+     "count": 1195
     },
     {
      "id": "iOS",
      "name": "iOS",
-     "count": 793
+     "count": 781
     },
     {
      "id": "Android",
      "name": "Android",
-     "count": 668
+     "count": 659
     },
     {
      "id": "macOS",
      "name": "macOS",
-     "count": 321
+     "count": 316
     },
     {
      "id": "Linux",
      "name": "Linux",
-     "count": 155
+     "count": 149
     },
     {
      "id": "Chrome OS",
@@ -1122,22 +1122,22 @@
     {
      "id": "IN",
      "name": "India",
-     "count": 1349
+     "count": 1335
     },
     {
      "id": "US",
      "name": "United States",
-     "count": 490
+     "count": 477
     },
     {
      "id": "DE",
      "name": "Germany",
-     "count": 103
+     "count": 100
     },
     {
      "id": "TR",
      "name": "Turkey",
-     "count": 91
+     "count": 88
     },
     {
      "id": "AR",
@@ -1147,12 +1147,12 @@
     {
      "id": "GB",
      "name": "United Kingdom",
-     "count": 66
+     "count": 65
     },
     {
      "id": "PK",
      "name": "Pakistan",
-     "count": 51
+     "count": 50
     },
     {
      "id": "IT",
@@ -1170,19 +1170,24 @@
      "count": 42
     },
     {
-     "id": "AU",
-     "name": "Australia",
-     "count": 36
-    },
-    {
      "id": "BR",
      "name": "Brazil",
      "count": 36
     },
     {
+     "id": "SG",
+     "name": "Singapore",
+     "count": 36
+    },
+    {
+     "id": "AU",
+     "name": "Australia",
+     "count": 35
+    },
+    {
      "id": "FR",
      "name": "France",
-     "count": 36
+     "count": 35
     },
     {
      "id": "KR",
@@ -1192,12 +1197,7 @@
     {
      "id": "CA",
      "name": "Canada",
-     "count": 32
-    },
-    {
-     "id": "SG",
-     "name": "Singapore",
-     "count": 32
+     "count": 31
     },
     {
      "id": "NL",
@@ -1235,11 +1235,6 @@
      "count": 20
     },
     {
-     "id": "ES",
-     "name": "Spain",
-     "count": 20
-    },
-    {
      "id": "NZ",
      "name": "New Zealand",
      "count": 18
@@ -1247,6 +1242,11 @@
     {
      "id": "AE",
      "name": "United Arab Emirates",
+     "count": 16
+    },
+    {
+     "id": "ES",
+     "name": "Spain",
      "count": 16
     },
     {
@@ -1265,23 +1265,23 @@
      "count": 14
     },
     {
-     "id": "MX",
-     "name": "Mexico",
-     "count": 13
-    },
-    {
-     "id": "PT",
-     "name": "Portugal",
-     "count": 13
-    },
-    {
      "id": "KZ",
      "name": "Kazakhstan",
      "count": 12
     },
     {
+     "id": "MX",
+     "name": "Mexico",
+     "count": 12
+    },
+    {
      "id": "PH",
      "name": "Philippines",
+     "count": 12
+    },
+    {
+     "id": "PT",
+     "name": "Portugal",
      "count": 12
     },
     {
@@ -1340,11 +1340,6 @@
      "count": 8
     },
     {
-     "id": "TH",
-     "name": "Thailand",
-     "count": 7
-    },
-    {
      "id": "VN",
      "name": "Vietnam",
      "count": 7
@@ -1352,6 +1347,11 @@
     {
      "id": "AT",
      "name": "Austria",
+     "count": 6
+    },
+    {
+     "id": "CL",
+     "name": "Chile",
      "count": 6
     },
     {
@@ -1365,19 +1365,14 @@
      "count": 6
     },
     {
-     "id": "MY",
-     "name": "Malaysia",
-     "count": 6
-    },
-    {
      "id": "PE",
      "name": "Peru",
      "count": 6
     },
     {
-     "id": "CL",
-     "name": "Chile",
-     "count": 5
+     "id": "TH",
+     "name": "Thailand",
+     "count": 6
     },
     {
      "id": "DO",
@@ -1397,6 +1392,11 @@
     {
      "id": "LY",
      "name": "Libya",
+     "count": 5
+    },
+    {
+     "id": "MY",
+     "name": "Malaysia",
      "count": 5
     },
     {
@@ -1607,7 +1607,7 @@
     {
      "id": "phone",
      "name": "",
-     "count": 1403
+     "count": 1384
     },
     {
      "id": "tablet",
@@ -1617,12 +1617,12 @@
     {
      "id": "desktop",
      "name": "",
-     "count": 1461
+     "count": 1440
     },
     {
      "id": "desktophd",
      "name": "",
-     "count": 125
+     "count": 124
     },
     {
      "id": "unknown",
@@ -1637,7 +1637,7 @@
     {
      "id": "(unknown)",
      "name": "(unknown)",
-     "count": 3144
+     "count": 3103
     }
    ],
    "more": false
