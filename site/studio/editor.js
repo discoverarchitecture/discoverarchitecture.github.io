@@ -40,6 +40,11 @@
   const clamp = (v, a, b) => Math.max(a, Math.min(b, v));
   /* a picture's address: a fetched asset (the paid build's pictures, loaded with the job's key) or base + path */
   const srcOf = (P, s) => (window.FGA_ASSETS && window.FGA_ASSETS[s]) || (P.base || '') + s;
+  /* Thumbnails (miniSheet) are drawn at 150-620 px, so the sample's 3000 px pictures are far more than they need:
+     they read the 1000 px copy tools/optimize_studio_samples.py makes next to each one, and load only when near the
+     screen. The editor and the exports still read the full picture. */
+  let MINI = 0;   // 0: the editor; 1: a thumbnail (lazy pictures); 2: a thumbnail at the top of the page (the board's hero picture at once and first, the rest lazy)
+  const miniSrc = (P, s) => P.base === 'sample/' && /^(board|deck)\/.+\.webp$/.test(s) && !(window.FGA_ASSETS && window.FGA_ASSETS[s]) ? P.base + s.replace(/\.webp$/, '-m.webp') : srcOf(P, s);
 
   /* where a content's image sits inside a slot */
   function geo(slot, c) {
@@ -196,7 +201,7 @@
 
   function slotHTML(P, page, slot) {
     const c = page.contents[slot.content], g = geo(slot, c);
-    return '<div class="slot" data-slot="' + slot.id + '" style="' + box(slot) + '"><img src="' + srcOf(P, c.src) + '" alt="' + esc(c.alt || '') +
+    return '<div class="slot" data-slot="' + slot.id + '" style="' + box(slot) + '"><img src="' + (MINI ? miniSrc(P, c.src) : srcOf(P, c.src)) + '"' + (MINI === 2 && slot.id === 'b-hero' ? ' decoding="async" fetchpriority="high"' : MINI ? ' loading="lazy" decoding="async"' : '') + ' alt="' + esc(c.alt || '') +
       '" draggable="false" style="left:' + g.left.toFixed(3) + 'mm;top:' + g.top.toFixed(3) + 'mm;width:' + g.dw.toFixed(3) + 'mm;height:' + g.dh.toFixed(3) + 'mm"></div>';
   }
   function overlayHTML(P, page, slot) {
@@ -271,14 +276,15 @@
   }
   function checkOver(el) { el.querySelectorAll('.tb[data-h], .tb[data-max]').forEach((t) => { fitTitles(t); t.classList.toggle('over', isOver(t)); }); }
   /* a sheet scaled to a width in CSS px (thumbnails, previews) */
-  function miniSheet(P, page, widthPx) {
+  function miniSheet(P, page, widthPx, eager) {
     const wrap = document.createElement('div');
     wrap.className = 'mini';
     const k = widthPx / (page.w * MMPX);
     wrap.style.width = widthPx + 'px';
     wrap.style.height = (page.h * MMPX * k) + 'px';
     const s = document.createElement('div');
-    renderInto(s, P, page);
+    MINI = eager ? 2 : 1;
+    try { renderInto(s, P, page); } finally { MINI = 0; }
     s.style.transform = 'scale(' + k + ')';
     s.style.transformOrigin = '0 0';
     wrap.appendChild(s);

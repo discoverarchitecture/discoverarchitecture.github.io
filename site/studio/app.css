@@ -1,11 +1,15 @@
 /* Studio FGA prototype. Look: landing option A ("Highlighter"): cream paper, ink outlines, hard shadows.
    To restyle the whole app, change only these tokens. Board and deck sheets keep their own text styles (A / C). */
+/* Stand-ins for the two web faces, scaled to their widths (measured: Bricolage Grotesque 800 is 92.4% of Arial Bold, DM Sans 91.7% of Arial),
+   so the headline wraps the same before and after the real fonts arrive and the picture under it does not jump (CLS 0.19 -> 0). */
+@font-face { font-family: 'Bricolage Fallback'; src: local('Arial Bold'), local('Arial-BoldMT'), local('Liberation Sans Bold'), local('Arimo Bold'); font-weight: 600 800; size-adjust: 92.4%; }
+@font-face { font-family: 'DM Sans Fallback'; src: local('Arial'), local('ArialMT'), local('Liberation Sans'), local('Arimo'); font-weight: 400 700; size-adjust: 91.7%; }
 :root {
   --paper: #FFF6EA; --card: #FFFFFF; --ink: #1B1A17; --muted: #6B655B; --line: #1B1A17; --shadow: #1B1A17;
   --coral: #FF5A36; --lime: #CFF25A; --sun: #FFD84D; --lilac: #E4DAFF; --desk: #EDE4D3; --on-accent: #1B1A17;
   --danger: #B42A17; --focus: #2F5BFF; --hl: #CFF25A; --warn: #8A5300; --warn-bg: #FFEBC2;
-  --display: 'Bricolage Grotesque', 'Arial Black', Arial, sans-serif;
-  --body: 'DM Sans', Helvetica, Arial, sans-serif;
+  --display: 'Bricolage Grotesque', 'Bricolage Fallback', 'Arial Black', Arial, sans-serif;
+  --body: 'DM Sans', 'DM Sans Fallback', Helvetica, Arial, sans-serif;
   --mono: 'JetBrains Mono', Menlo, Consolas, monospace;
   --r: 16px; --sh: 4px 4px 0 var(--shadow); --sh-big: 6px 6px 0 var(--shadow);
 }
@@ -62,8 +66,17 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
 .link { background: none; border: 0; padding: 0; min-height: 44px; text-decoration: underline; cursor: pointer; color: var(--ink); }
 
 /* ---------- upload */
-.drop { border: 2.5px dashed var(--line); border-radius: 22px; padding: 26px; background: var(--card); display: flex; flex-direction: column; gap: 16px; }
-.drop.hot { background: var(--lime); color: var(--on-accent); }
+.drop { position: relative; border: 2.5px dashed var(--line); border-radius: 22px; padding: 26px; background: var(--card); display: flex; flex-direction: column; gap: 16px;
+  transition: transform .25s cubic-bezier(.2, .8, .2, 1), box-shadow .25s, background .15s; }
+.drop.hot, .drop.open { background: var(--lime); color: var(--on-accent); transform: scale(1.015); box-shadow: 8px 8px 0 var(--shadow); }
+.drop.press { transform: scale(1.01); box-shadow: 6px 6px 0 var(--shadow); }
+/* the cover shown over the whole files panel while files are dragged over the screen or the file window is open */
+.dzmsg { position: absolute; inset: 0; z-index: 3; display: grid; place-content: center; justify-items: center; gap: 8px; padding: 16px; text-align: center; border-radius: inherit; background: var(--lime); color: var(--on-accent);
+  opacity: 0; visibility: hidden; pointer-events: none; transition: opacity .2s, visibility 0s .2s; }
+.dzmsg svg { width: 76px; height: 76px; padding: 16px; border: 2px solid var(--line); border-radius: 22px; background: var(--card); color: var(--ink); }
+.dzmsg b { font: 800 clamp(22px, 4.4vw, 32px)/1.1 var(--display); letter-spacing: -0.01em; }
+.dzmsg span { font-size: 15px; }
+.drop.hot .dzmsg, .drop.open .dzmsg { opacity: 1; visibility: visible; transition: opacity .2s; }
 .files { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 12px; }
 .file { display: flex; flex-direction: column; gap: 6px; font-size: 13px; min-width: 0; }
 .file img { width: 100%; aspect-ratio: 4 / 3; object-fit: cover; border: 2px solid var(--line); border-radius: 10px; background: #fff; }
@@ -749,16 +762,34 @@ body[data-screen="upload"] .btn.primary::after, body[data-screen="q"] .btn.prima
 .bopt:disabled { opacity: .45; cursor: default; }
 @media (max-width: 560px) { .bgroups { gap: 10px 14px; } .bopt { padding: 0 12px; } }
 
-/* hero upload box (owner, 5 Nov 2026) */
-.hdrop { display: flex; align-items: center; gap: 16px; margin: 22px 0 12px; padding: 22px 24px; border: 2.5px dashed var(--line); border-radius: 22px; background: var(--card); box-shadow: 5px 5px 0 var(--shadow); cursor: pointer; transition: transform .12s, box-shadow .12s, background .12s; }
+/* hero upload box (owner, 5 Nov 2026). It grows when pressed, focused, hovered by a drag or open for file choice (owner,
+   13 Nov 2026: "more surface area"). The wrapper keeps the resting height (--hd0, set by bindHeroDrop), the box is
+   laid over it, so it grows downwards over empty space and nothing below moves. */
+.hdwrap { position: relative; margin: 22px 0 12px; }
+.hdwrap.on { height: var(--hd0); }
+.hdwrap.on .hdrop { position: absolute; inset: 0 0 auto; min-height: var(--hd0); z-index: 6; }
+.hdrop { display: flex; align-items: center; gap: 16px; padding: 22px 24px; border: 2.5px dashed var(--line); border-radius: 22px; background: var(--card); box-shadow: 5px 5px 0 var(--shadow); cursor: pointer;
+  transition: min-height .3s cubic-bezier(.2, .8, .2, 1), padding .3s cubic-bezier(.2, .8, .2, 1), gap .3s, transform .15s, box-shadow .2s, background .15s; }
 .hdrop:hover { transform: translate(-2px, -2px); box-shadow: 7px 7px 0 var(--shadow); }
 .hdrop:focus-visible { outline: 3px solid var(--focus, #2F5BFF); outline-offset: 3px; }
+.hdrop:is(:active, :focus-visible, .hot, .open) { min-height: 178px; padding: 38px 28px; gap: 22px; box-shadow: 8px 8px 0 var(--shadow); }
 .hdrop.hot { background: var(--lime); color: var(--on-accent); }
-.hdrop svg { flex: none; width: 44px; height: 44px; padding: 9px; border: 2px solid var(--line); border-radius: 14px; background: var(--lime); color: var(--on-accent); }
+.hdrop svg { flex: none; width: 44px; height: 44px; padding: 9px; border: 2px solid var(--line); border-radius: 14px; background: var(--lime); color: var(--on-accent); transition: width .3s, height .3s, padding .3s, border-radius .3s; }
+.hdrop:is(:active, :focus-visible, .hot, .open) svg { width: 72px; height: 72px; padding: 16px; border-radius: 20px; }
+.hdrop.hot svg { background: #fff; color: #1B1A17; }
 .hdt { display: flex; flex-direction: column; gap: 4px; min-width: 0; }
-.hdt b { font: 800 21px/1.1 var(--display); letter-spacing: -0.01em; }
-.hdt span { font-size: 14px; color: var(--muted); } .hdrop.hot .hdt span { color: inherit; }
-@media (max-width: 520px) { .hdrop { padding: 18px; gap: 12px; } .hdt b { font-size: 18px; } }
+.hdt b { position: relative; font: 800 21px/1.1 var(--display); letter-spacing: -0.01em; transition: font-size .3s; }
+.hd-b { position: absolute; left: 0; top: 0; opacity: 0; transition: opacity .2s; }
+.hdrop:is(:active, :focus-visible, .hot, .open) .hdt b { font-size: 28px; }
+.hdrop:is(:active, :focus-visible, .hot, .open) .hd-a { position: absolute; left: 0; top: 0; opacity: 0; }
+.hdrop:is(:active, :focus-visible, .hot, .open) .hd-b { position: static; opacity: 1; }
+.hd-sub { font-size: 14px; color: var(--muted); transition: font-size .3s; }
+.hdrop:is(:active, :focus-visible, .hot, .open) .hd-sub { font-size: 16px; }
+.hdrop.hot .hd-sub { color: inherit; }
+@media (max-width: 520px) { .hdrop { padding: 18px; gap: 12px; } .hdt b { font-size: 18px; }
+  .hdrop:is(:active, :focus-visible, .hot, .open) { min-height: 156px; padding: 28px 18px; gap: 16px; }
+  .hdrop:is(:active, :focus-visible, .hot, .open) svg { width: 60px; height: 60px; padding: 13px; }
+  .hdrop:is(:active, :focus-visible, .hot, .open) .hdt b { font-size: 23px; } }
 
 /* the whole deck, flip-through (owner, 5 Nov 2026) */
 .flip { display: grid; grid-template-columns: auto minmax(0, 1fr) auto; align-items: center; gap: 12px; margin-top: 18px; }
@@ -852,3 +883,46 @@ body[data-screen="upload"] .btn.primary::after, body[data-screen="q"] .btn.prima
 .chipbtn.sel { background: var(--lime); color: var(--on-accent); box-shadow: 3px 3px 0 var(--shadow); transform: translate(-1px, -1px); }
 .chipbtn:disabled { opacity: .45; cursor: default; }
 .chipbtn:focus-visible { outline: 3px solid var(--sun); outline-offset: 2px; }
+
+/* ---------- loading: jury boards shuffling (owner, 13 Nov 2026). Four A1 sheets, 594 x 841, riffle like a deck of cards:
+   the front one flies out, tucks behind the stack, the rest step forward. Pure CSS, transform and z-index only. Under
+   prefers-reduced-motion the sheets sit still, fanned. Sizes: .xs .s (default) .m .l (set --w, the sheet's width). */
+.shuf { --w: 30px; position: relative; display: block; flex: none; width: calc(var(--w) * 2.1); height: calc(var(--w) * 1.65); margin: auto; pointer-events: none; }
+.shuf.xs { --w: 20px; } .shuf.m { --w: 42px; } .shuf.l { --w: 60px; }
+.shuf i { position: absolute; left: calc(var(--w) * .9); bottom: 0; width: var(--w); height: calc(var(--w) * 1.416); border: 1.5px solid var(--line); border-radius: 2px; background:
+  linear-gradient(var(--c), var(--c)) 11% 8% / 54% 7% no-repeat,
+  linear-gradient(var(--desk), var(--desk)) 11% 22% / 78% 34% no-repeat,
+  linear-gradient(var(--c), var(--c)) 11% 61% / 36% 22% no-repeat,
+  repeating-linear-gradient(var(--line) 0 1px, transparent 1px 4px) 54% 63% / 35% 20% no-repeat,
+  var(--card); box-shadow: 2px 2px 0 var(--shadow); will-change: transform; animation: shuf 3.6s ease-in-out infinite; }
+.shuf i:nth-child(1) { --c: var(--coral); transform: none; z-index: 4; }
+.shuf i:nth-child(2) { --c: var(--lime); transform: translate(4%, -4%) rotate(-1deg); z-index: 3; animation-delay: -2.7s; }
+.shuf i:nth-child(3) { --c: var(--sun); transform: translate(8%, -8%) rotate(1.5deg); z-index: 2; animation-delay: -1.8s; }
+.shuf i:nth-child(4) { --c: var(--lilac); transform: translate(12%, -12%) rotate(-1deg); z-index: 1; animation-delay: -.9s; }
+@keyframes shuf {
+  0%, 15% { transform: translate(0, 0) rotate(0); z-index: 4; }
+  22%, 25% { transform: translate(-88%, 3%) rotate(-9deg); z-index: 4; }
+  25.1% { z-index: 1; }
+  32%, 45% { transform: translate(12%, -12%) rotate(-1deg); z-index: 1; }
+  50%, 70% { transform: translate(8%, -8%) rotate(1.5deg); z-index: 2; }
+  75%, 95% { transform: translate(4%, -4%) rotate(-1deg); z-index: 3; }
+  100% { transform: translate(0, 0) rotate(0); z-index: 4; }
+}
+@media (prefers-reduced-motion: reduce) { .shuf i { animation: none !important; } .shuf i:nth-child(1) { transform: translate(-30%, 4%) rotate(-5deg); } }
+/* a box of the picture's final shape, the shuffle over it until the picture has loaded (no jump when it arrives) */
+.ldwrap { position: relative; }
+.ldov { position: absolute; inset: 0; z-index: 5; display: grid; place-items: center; background: var(--desk); border-radius: inherit; pointer-events: none; transition: opacity .25s ease, visibility 0s; }
+.ldwrap.ready > .ldov { opacity: 0; visibility: hidden; transition: opacity .25s ease, visibility 0s .25s; }
+.ldov .shuf { margin: 0; }
+.fcard > .ldov { z-index: 1; }
+.fcard { position: relative; }
+.glimg .glbox { aspect-ratio: var(--ar); width: min(100%, calc((100dvh - 210px) * var(--arn))); max-width: 100%; background: #fff; }
+.glimg .glbox img { display: block; width: 100%; height: 100%; max-height: none; object-fit: contain; }
+.glimg.zoom .glbox { width: 100%; }
+.rboardimg.ph, .rslide.ph { display: grid; place-items: center; }
+.mkshuf { display: grid; place-items: center; padding: 8px 0 14px; }
+.boot-land { min-height: 100vh; min-height: 100svh; }
+.boot { display: flex; align-items: center; gap: 16px; margin: 22px 0 12px; min-height: 96px; font: 600 14px var(--mono); color: var(--muted); }
+.boot .shuf { --w: 40px; margin: 0; }
+.pimgs .ldov { border-radius: 8px; }
+.ed .viewport > .ldov { z-index: 8; }
