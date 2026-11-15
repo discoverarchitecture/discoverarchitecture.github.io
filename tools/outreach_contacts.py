@@ -5,6 +5,7 @@ Runs on GitHub Actions (outreach-contacts.yml). The result never goes into the r
 log, because the repository is public: the workflow encrypts it to a key only the SEO strategy chat holds. Brief: tools/outreach/BRIEF.md.
 
     python3 tools/outreach_contacts.py <index> <index> ...   (positions in tools/outreach/libguides.json)
+    python3 tools/outreach_contacts.py --list queue.json <index> ...   (positions in another list in tools/outreach/)
 """
 import html, json, re, sys, urllib.parse, urllib.request
 from pathlib import Path
@@ -28,9 +29,13 @@ def read(url):
 
 
 def main():
-    guides = json.loads((DIR / 'libguides.json').read_text())
+    args = sys.argv[1:]
+    name = 'libguides.json'
+    if args[:1] == ['--list']:
+        name, args = args[1], args[2:]
+    guides = json.loads((DIR / name).read_text())
     out = []
-    for i in map(int, sys.argv[1:]):
+    for i in map(int, args):
         g = guides[i]
         rec = {'i': i, 'school': g['school'], 'guide_url': g['url']}
         try:

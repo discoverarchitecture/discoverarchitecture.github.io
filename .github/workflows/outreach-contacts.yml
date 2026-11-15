@@ -20,6 +20,9 @@ jobs:
       # Only the SEO strategy chat holds the private key: the log shows the answers encrypted, never in plain text.
       - name: Encrypt the answers for the chat
         run: |
+          # A daily run commits its own one-time public key (tools/outreach/pub.pem) and keeps the private half only for
+          # that run (tools/outreach/DAILY.md); without one, the SEO strategy chat's older key below is used.
+          if [ -s tools/outreach/pub.pem ]; then cp tools/outreach/pub.pem pub.pem; else
           cat > pub.pem <<'KEY'
           -----BEGIN PUBLIC KEY-----
           MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAti7ZoGUnfH5kPM/XMk4r
@@ -31,6 +34,7 @@ jobs:
           hQIDAQAB
           -----END PUBLIC KEY-----
           KEY
+          fi
           openssl rand -hex 32 > k.txt
           openssl enc -aes-256-cbc -pbkdf2 -salt -in contacts.json -pass file:k.txt | base64 -w0 > c.b64
           openssl pkeyutl -encrypt -pubin -inkey pub.pem -in k.txt | base64 -w0 > k.b64
