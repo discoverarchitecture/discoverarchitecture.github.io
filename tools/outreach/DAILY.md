@@ -50,7 +50,16 @@ At most 15 follow-ups in one run; the rest wait for the next.
 
 ### 4. New emails: five every weekday
 
-Take the next five schools from `queue.json` that are not in `sent.md`. Their contact details come from
+**Two of every five go to Indian architecture colleges, three to the queue** (owner, 15 Nov 2026: about 40% Indian
+colleges, where CEPT University is well known; this overrides the Western-first order for outreach only). Indian
+colleges rarely have LibGuides, so for them use the college's own website: the library page's librarian or library
+address, or else the architecture department's head or a named faculty contact. Start with the colleges in
+`india.md` (keep it updated: college, city, where the contact came from, never the address itself); when it runs low,
+add more by web search (schools of planning and architecture, NITs and IITs with architecture departments, the
+well-known private colleges), spreading across states. Name the college and, if it has one, its library or
+department in the email instead of a guide.
+
+For the queue, take the next three schools from `queue.json` that are not in `sent.md`. Their contact details come from
 `outreach-contacts.yml`, which reads each guide on GitHub and encrypts the answers to **this run's own key**:
 
 ```
@@ -80,9 +89,9 @@ name the guide. A school with no address at all: note `no contact` in `sent.md` 
 
 > Hello [name, or nothing],
 >
-> I'm Akshat. I trained as an architect at CEPT University in Ahmedabad and am now doing an MBA. As a student I found
-> that discovering great architecture was harder than it should be, so I built [Find Great Architecture]: a free site
-> where architecture students browse buildings instead of searching for them.
+> I'm Akshat. I did my BArch at CEPT University, Ahmedabad, India, and am now doing an MBA. As a student I found that
+> discovering great architecture was harder than it should be, so I built [Find Great Architecture]: a free site where
+> architecture students browse buildings instead of searching for them.
 >
 > I came across [the guide name, and the section if it has one], and thought this might be a useful free addition for
 > students working on precedents:
@@ -95,11 +104,17 @@ name the guide. A school with no address at all: note `no contact` in `sent.md` 
 > No ads, no sign-up, no paywall. If it fits the guide, I'd be grateful for a mention, and if you see anything that would
 > make it more useful to your students, I'd really like to hear it.
 >
+> If you'd like to connect further, here is my [LinkedIn].
+>
 > Thanks for your time,
 > Akshat
 > findgreatarchitecture.com
 
-Links: "Find Great Architecture" → `https://findgreatarchitecture.com/?ref=libguide`; "Brutalism" →
+For an Indian college, the second paragraph names the college and its library or department instead of a guide, and
+the ask is to share it with students or add it to the library's list of online resources.
+
+Links: "LinkedIn" → the owner's LinkedIn profile, from `tools/outreach/owner.md` (a public profile link, not an email
+address); until that file has the link, send no new emails (do steps 1–3 only) and remind the owner once; "Find Great Architecture" → `https://findgreatarchitecture.com/?ref=libguide`; "Brutalism" →
 `https://findgreatarchitecture.com/styles/brutalism/?ref=libguide`; the sign-off links the home page the same way.
 Before sending, make sure every promise is still true (no ads, no sign-up, no paywall on the wall).
 
