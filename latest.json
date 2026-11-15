@@ -1,13 +1,13 @@
 {
- "fetched_at": "2026-11-15T13:52:04+00:00",
+ "fetched_at": "2026-11-15T22:43:57+00:00",
  "site": "akshatpagaria.goatcounter.com",
  "window_days": 30,
- "visits_30d": 3254,
+ "visits_30d": 3284,
  "sections": {
   "pages": {
    "hits": [
     {
-     "count": 550,
+     "count": 552,
      "path_id": 112020267,
      "path": "/",
      "event": false,
@@ -15,7 +15,7 @@
      "max": 36
     },
     {
-     "count": 142,
+     "count": 144,
      "path_id": 113691164,
      "path": "/studio",
      "event": false,
@@ -23,7 +23,7 @@
      "max": 6
     },
     {
-     "count": 100,
+     "count": 102,
      "path_id": 116720890,
      "path": "studio/screen/home",
      "event": true,
@@ -55,11 +55,19 @@
      "max": 2
     },
     {
-     "count": 34,
+     "count": 35,
      "path_id": 113702981,
      "path": "studio/ai-button",
      "event": true,
      "title": "AI jury presentation generator",
+     "max": 3
+    },
+    {
+     "count": 32,
+     "path_id": 120621079,
+     "path": "studio/flow/paywall",
+     "event": true,
+     "title": "Studio: flow paywall",
      "max": 3
     },
     {
@@ -71,15 +79,7 @@
      "max": 2
     },
     {
-     "count": 30,
-     "path_id": 120621079,
-     "path": "studio/flow/paywall",
-     "event": true,
-     "title": "Studio: flow paywall",
-     "max": 3
-    },
-    {
-     "count": 30,
+     "count": 31,
      "path_id": 116802640,
      "path": "studio/screen/upload",
      "event": true,
@@ -95,7 +95,7 @@
      "max": 2
     },
     {
-     "count": 26,
+     "count": 27,
      "path_id": 116802650,
      "path": "studio/click/upload/toQ",
      "event": true,
@@ -103,11 +103,27 @@
      "max": 3
     },
     {
-     "count": 23,
+     "count": 24,
      "path_id": 117976633,
      "path": "studio/screen/q",
      "event": true,
      "title": "Studio \u00b7 screen \u00b7 q",
+     "max": 3
+    },
+    {
+     "count": 22,
+     "path_id": 117976689,
+     "path": "studio/click/q/qnext",
+     "event": true,
+     "title": "Studio \u00b7 click \u00b7 q \u00b7 qnext",
+     "max": 3
+    },
+    {
+     "count": 22,
+     "path_id": 117976651,
+     "path": "studio/click/q/pick",
+     "event": true,
+     "title": "Studio \u00b7 click \u00b7 q \u00b7 pick",
      "max": 3
     },
     {
@@ -119,23 +135,7 @@
      "max": 2
     },
     {
-     "count": 21,
-     "path_id": 117976689,
-     "path": "studio/click/q/qnext",
-     "event": true,
-     "title": "Studio \u00b7 click \u00b7 q \u00b7 qnext",
-     "max": 3
-    },
-    {
-     "count": 21,
-     "path_id": 117976651,
-     "path": "studio/click/q/pick",
-     "event": true,
-     "title": "Studio \u00b7 click \u00b7 q \u00b7 pick",
-     "max": 3
-    },
-    {
-     "count": 18,
+     "count": 19,
      "path_id": 117976646,
      "path": "studio/typed/q",
      "event": true,
@@ -151,7 +151,7 @@
      "max": 1
     },
     {
-     "count": 13,
+     "count": 14,
      "path_id": 119289179,
      "path": "studio/click/home/hpick",
      "event": true,
@@ -160,14 +160,6 @@
     },
     {
      "count": 13,
-     "path_id": 117976607,
-     "path": "studio/files/upload",
-     "event": true,
-     "title": "Studio \u00b7 files \u00b7 upload",
-     "max": 2
-    },
-    {
-     "count": 12,
      "path_id": 119289191,
      "path": "studio/files/home",
      "event": true,
@@ -175,12 +167,20 @@
      "max": 2
     },
     {
-     "count": 12,
+     "count": 13,
      "path_id": 118826722,
      "path": "studio/screen/price",
      "event": true,
      "title": "Studio \u00b7 screen \u00b7 price",
      "max": 1
+    },
+    {
+     "count": 13,
+     "path_id": 117976607,
+     "path": "studio/files/upload",
+     "event": true,
+     "title": "Studio \u00b7 files \u00b7 upload",
+     "max": 2
     },
     {
      "count": 11,
@@ -480,6 +480,22 @@
     },
     {
      "count": 4,
+     "path_id": 121730585,
+     "path": "studio/readcard/questions",
+     "event": true,
+     "title": "Studio: title block asked",
+     "max": 1
+    },
+    {
+     "count": 4,
+     "path_id": 121452467,
+     "path": "studio/click/q/qskip",
+     "event": true,
+     "title": "Studio \u00b7 click \u00b7 q \u00b7 qskip",
+     "max": 1
+    },
+    {
+     "count": 4,
      "path_id": 121021779,
      "path": "/studio/guides/how-to-lay-out-an-a1-architecture-board",
      "event": false,
@@ -600,14 +616,6 @@
     },
     {
      "count": 3,
-     "path_id": 121730585,
-     "path": "studio/readcard/questions",
-     "event": true,
-     "title": "Studio: title block asked",
-     "max": 1
-    },
-    {
-     "count": 3,
      "path_id": 121452711,
      "path": "studio/checkout",
      "event": true,
@@ -620,14 +628,6 @@
      "path": "studio/click/price/pay",
      "event": true,
      "title": "Studio \u00b7 click \u00b7 price \u00b7 pay",
-     "max": 1
-    },
-    {
-     "count": 3,
-     "path_id": 121452467,
-     "path": "studio/click/q/qskip",
-     "event": true,
-     "title": "Studio \u00b7 click \u00b7 q \u00b7 qskip",
      "max": 1
     },
     {
@@ -669,6 +669,14 @@
      "event": false,
      "title": "Djamaa el Djaza\u00efr by KSP J\u00fcrgen Engel Architekten: photos",
      "max": 1
+    },
+    {
+     "count": 3,
+     "path_id": 118194828,
+     "path": "/buildings/barcelona-pavilion",
+     "event": false,
+     "title": "Barcelona Pavilion by Mies van der Rohe: photos & plans",
+     "max": 2
     },
     {
      "count": 3,
@@ -797,24 +805,16 @@
      "event": true,
      "title": "Perth Arena",
      "max": 1
-    },
-    {
-     "count": 3,
-     "path_id": 113971187,
-     "path": "building/golconde",
-     "event": true,
-     "title": "Golconde",
-     "max": 2
     }
    ],
-   "total": 1764,
+   "total": 1784,
    "more": true
   },
   "referrers": {
    "stats": [
     {
      "name": "",
-     "count": 1721,
+     "count": 1743,
      "ref_scheme": "o"
     },
     {
@@ -826,7 +826,7 @@
     {
      "id": "chatgpt.com",
      "name": "chatgpt.com",
-     "count": 207,
+     "count": 210,
      "ref_scheme": "c"
     },
     {
@@ -844,7 +844,7 @@
     {
      "id": "www.bing.com",
      "name": "www.bing.com",
-     "count": 27,
+     "count": 28,
      "ref_scheme": "h"
     },
     {
@@ -902,16 +902,22 @@
      "ref_scheme": "h"
     },
     {
+     "id": "Yahoo",
+     "name": "Yahoo",
+     "count": 3,
+     "ref_scheme": "g"
+    },
+    {
+     "id": "tab",
+     "name": "tab",
+     "count": 3,
+     "ref_scheme": "c"
+    },
+    {
      "id": "sentinal.dodopayments.com",
      "name": "sentinal.dodopayments.com",
      "count": 3,
      "ref_scheme": "h"
-    },
-    {
-     "id": "Yahoo",
-     "name": "Yahoo",
-     "count": 2,
-     "ref_scheme": "g"
     },
     {
      "id": "YouTube",
@@ -924,12 +930,6 @@
      "name": "t.co",
      "count": 2,
      "ref_scheme": "h"
-    },
-    {
-     "id": "tab",
-     "name": "tab",
-     "count": 2,
-     "ref_scheme": "c"
     },
     {
      "id": "www.ecosia.org",
@@ -1059,12 +1059,12 @@
     {
      "id": "Chrome",
      "name": "Chrome",
-     "count": 2129
+     "count": 2151
     },
     {
      "id": "Safari",
      "name": "Safari",
-     "count": 942
+     "count": 950
     },
     {
      "id": "Firefox",
@@ -1083,12 +1083,12 @@
     {
      "id": "Windows",
      "name": "Windows",
-     "count": 1208
+     "count": 1227
     },
     {
      "id": "iOS",
      "name": "iOS",
-     "count": 782
+     "count": 790
     },
     {
      "id": "Android",
@@ -1098,12 +1098,12 @@
     {
      "id": "macOS",
      "name": "macOS",
-     "count": 330
+     "count": 331
     },
     {
      "id": "Linux",
      "name": "Linux",
-     "count": 151
+     "count": 153
     },
     {
      "id": "Chrome OS",
@@ -1127,7 +1127,7 @@
     {
      "id": "US",
      "name": "United States",
-     "count": 479
+     "count": 481
     },
     {
      "id": "DE",
@@ -1155,8 +1155,18 @@
      "count": 50
     },
     {
+     "id": "CH",
+     "name": "Switzerland",
+     "count": 47
+    },
+    {
      "id": "IT",
      "name": "Italy",
+     "count": 44
+    },
+    {
+     "id": "EG",
+     "name": "Egypt",
      "count": 43
     },
     {
@@ -1165,28 +1175,23 @@
      "count": 43
     },
     {
-     "id": "CH",
-     "name": "Switzerland",
-     "count": 42
-    },
-    {
      "id": "KR",
      "name": "South Korea",
      "count": 39
     },
     {
-     "id": "BR",
-     "name": "Brazil",
-     "count": 36
-    },
-    {
      "id": "FR",
      "name": "France",
-     "count": 36
+     "count": 38
     },
     {
      "id": "SG",
      "name": "Singapore",
+     "count": 38
+    },
+    {
+     "id": "BR",
+     "name": "Brazil",
      "count": 36
     },
     {
@@ -1215,11 +1220,6 @@
      "count": 29
     },
     {
-     "id": "EG",
-     "name": "Egypt",
-     "count": 28
-    },
-    {
      "id": "MA",
      "name": "Morocco",
      "count": 26
@@ -1240,13 +1240,13 @@
      "count": 18
     },
     {
-     "id": "AE",
-     "name": "United Arab Emirates",
-     "count": 16
-    },
-    {
      "id": "ES",
      "name": "Spain",
+     "count": 17
+    },
+    {
+     "id": "AE",
+     "name": "United Arab Emirates",
      "count": 16
     },
     {
@@ -1315,6 +1315,11 @@
      "count": 10
     },
     {
+     "id": "RO",
+     "name": "Romania",
+     "count": 9
+    },
+    {
      "id": "EC",
      "name": "Ecuador",
      "count": 8
@@ -1327,11 +1332,6 @@
     {
      "id": "PL",
      "name": "Poland",
-     "count": 8
-    },
-    {
-     "id": "RO",
-     "name": "Romania",
      "count": 8
     },
     {
@@ -1385,6 +1385,11 @@
      "count": 5
     },
     {
+     "id": "CY",
+     "name": "Cyprus",
+     "count": 5
+    },
+    {
      "id": "DO",
      "name": "Dominican Republic",
      "count": 5
@@ -1408,11 +1413,6 @@
      "id": "SE",
      "name": "Sweden",
      "count": 5
-    },
-    {
-     "id": "CY",
-     "name": "Cyprus",
-     "count": 4
     },
     {
      "id": "IL",
@@ -1607,22 +1607,22 @@
     {
      "id": "phone",
      "name": "",
-     "count": 1385
+     "count": 1393
     },
     {
      "id": "tablet",
      "name": "",
-     "count": 155
+     "count": 156
     },
     {
      "id": "desktop",
      "name": "",
-     "count": 1469
+     "count": 1489
     },
     {
      "id": "desktophd",
      "name": "",
-     "count": 124
+     "count": 125
     },
     {
      "id": "unknown",
@@ -1637,7 +1637,7 @@
     {
      "id": "(unknown)",
      "name": "(unknown)",
-     "count": 3133
+     "count": 3163
     }
    ],
    "more": false
