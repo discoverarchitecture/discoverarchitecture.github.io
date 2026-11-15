@@ -55,6 +55,24 @@
      ../share.js wires them by event delegation, ../share.css styles them */
   const SHAREBTN = '<button type="button" class="fga-share" aria-haspopup="dialog" aria-expanded="false" aria-label="Share this page"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="18" cy="5.5" r="2.5"/><circle cx="6" cy="12" r="2.5"/><circle cx="18" cy="18.5" r="2.5"/><path d="m8.2 10.8 7.6-4M8.2 13.2l7.6 4"/></svg><span class="fga-share-t">Share</span></button>';
   const SOCIALROW = '<p class="fga-social" data-nosnippet><a href="https://www.instagram.com/findgreatarchitecture/" target="_blank" rel="noopener" data-social="instagram"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="3.5" width="17" height="17" rx="5"/><circle cx="12" cy="12" r="4"/><path d="M17.2 6.8v.1"/></svg>Instagram</a><a href="https://www.youtube.com/@findgreatarchitecture" target="_blank" rel="noopener" data-social="youtube"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="2.5" y="5.5" width="19" height="13" rx="4"/><path d="m10 9.2 5 2.8-5 2.8z"/></svg>YouTube</a></p>';
+  /* ---------- loading (owner, 13 Nov 2026: "jury boards shuffling"). Four A1 sheets shuffle like a deck of cards, pure CSS (app.css,
+     .shuf). Wherever a board, slide or big picture loads, a box of its final shape holds the place (so nothing jumps) with
+     the sheets shuffling over it, until the picture is there. */
+  const SHUF = (cls) => '<span class="shuf' + (cls ? ' ' + cls : '') + '" aria-hidden="true"><i></i><i></i><i></i><i></i></span>';
+  const LDOV = (cls) => '<span class="ldov" aria-hidden="true">' + SHUF(cls) + '</span>';
+  /* a `.ldwrap` is ready (the shuffle fades) once half of its pictures have loaded, or failed, or 8 s have passed */
+  function watchLoad(root) {
+    (root || document).querySelectorAll('.ldwrap:not(.ready)').forEach((w) => {
+      if (w._ld) return;
+      w._ld = 1;
+      const imgs = [...w.querySelectorAll('img')], need = Math.max(1, Math.ceil(imgs.length / 2));
+      let have = 0, off = null;
+      const ok = () => { if (++have >= need) { clearTimeout(off); w.classList.add('ready'); } };
+      if (!imgs.length) { w.classList.add('ready'); return; }
+      imgs.forEach((im) => { if (im.complete && im.naturalWidth) ok(); else { im.addEventListener('load', ok, { once: true }); im.addEventListener('error', ok, { once: true }); } });
+      if (!w.classList.contains('ready')) off = setTimeout(() => w.classList.add('ready'), 8000);
+    });
+  }
 
   /* ---------------------------------------------------------- state */
   function freshP() {
@@ -363,8 +381,8 @@
       const p = k === 'proud' ? hero : pics.find((x) => want.includes(x.use)) || hero;
       return p ? p.thumb : PLACE;
     }
-    return k === 'proud' ? (ans('proud') !== null && ans('proud') !== 'other' && QB.proud.o[ans('proud')] ? QB.proud.o[ans('proud')][2] : 'board/hero.jpg')
-      : ({ crit: 'board/street.jpg', room: 'board/street.jpg', word: 'board/model-roof.jpg', stage: 'board/model-roof.jpg', words: 'board/fabric.jpg', proc: 'board/sk1.jpg' })[k] || 'board/hero.jpg';
+    return k === 'proud' ? (ans('proud') !== null && ans('proud') !== 'other' && QB.proud.o[ans('proud')] ? QB.proud.o[ans('proud')][2] : 'board/hero.webp')
+      : ({ crit: 'board/street.webp', room: 'board/street.webp', word: 'board/model-roof.webp', stage: 'board/model-roof.webp', words: 'board/fabric.webp', proc: 'board/sk1.webp' })[k] || 'board/hero.webp';
   };
   const tierFromAnswers = () => ans('ai') === 0 ? 'nice' : 'great';   // one Polish choice since 10 Nov 2026
 
@@ -577,7 +595,7 @@
       show.map((x) => '<div><div class="sth" data-mini="slide:' + x.n + '"' + mm + ' data-w="170" data-fit="1" data-min="60"></div></div>').join('') + '</div></figure></div>';
   }
   const modelOf = (m) => m === 'h' ? HP : m === 'v' ? Q() : P;
-  const didCards = () => '<div class="didgrid">' + DID.map(([b, a, t, d]) => '<figure class="pair"><div class="pimgs"><div><img src="' + HP.base + b + '" alt="Before: ' + esc(t) + '" loading="lazy"><em>Before</em></div><span class="parrow" aria-hidden="true">→</span><div><img src="' + HP.base + a + '" alt="After: ' + esc(t) + '" loading="lazy"><em class="after">After</em></div></div><figcaption><b>' + t + '</b><span>' + d + '</span></figcaption></figure>').join('') + '</div>';
+  const didCards = () => '<div class="didgrid">' + DID.map(([b, a, t, d]) => '<figure class="pair"><div class="pimgs"><div class="ldwrap"><img src="' + HP.base + b + '" alt="Before: ' + esc(t) + '" width="4" height="3" loading="lazy" decoding="async">' + LDOV('xs') + '<em>Before</em></div><span class="parrow" aria-hidden="true">→</span><div class="ldwrap"><img src="' + HP.base + a + '" alt="After: ' + esc(t) + '" width="4" height="3" loading="lazy" decoding="async">' + LDOV('xs') + '<em class="after">After</em></div></div><figcaption><b>' + t + '</b><span>' + d + '</span></figcaption></figure>').join('') + '</div>';
   /* "about ₹950" beside a dollar price, in the visitor's own currency (owner, 5 Nov 2026). The country comes from
      the time zone first (many Indian students run en-US browsers), then the browser language. Rates: config.js. */
   const FX = (() => {
@@ -668,26 +686,26 @@
     const txt = (id, label, role) => Object.assign(at(P.board.texts.find((x) => x.id === id)), { label, role, source: 'text', image_url: null });
     const board = { ratio: BW / BH, h_mm: BH, slots: [txt('b-title', 'Title', 'title'), txt('b-info', 'Title block', 'info'), img('b-hero', 'Hero render', 'render', 'create'),
       txt('b-concept', 'Concept', 'concept'), txt('b-story', 'Story', 'text'), txt('b-ideas', 'Three ideas', 'text'),
-      img('b-sk1', 'Sketch', 'process', 'student', 'sheet-3.jpg', [.228, .036, .474, .338]), img('b-sk2', 'Sketch', 'process', 'student', 'sheet-3.jpg', [.228, .36, .474, .66]),
-      img('b-sk3', 'Sketch', 'process', 'student', 'sheet-3.jpg', [.228, .68, .474, .98]), img('b-fabric', 'Concept diagram', 'concept', 'student', 'sheet-3.jpg', [.609, .07, .987, .25]),
-      img('b-elev', 'Elevation', 'elevation', 'create'), img('b-model-court', 'Model photo', 'model', 'student', 'sheet-3.jpg', [.609, .507, .987, .74]),
-      img('b-model-fabric', 'Model photo', 'model', 'student', 'sheet-3.jpg', [.609, .75, .987, .99]), img('b-model-roof', 'Model photo', 'model', 'student', 'sheet-5.jpg', [.176, .548, .647, .99]),
-      img('b-site', 'Site plan', 'site', 'student', 'sheet-1.jpg', [.15, .225, .578, .97]), img('b-plan', 'Plan', 'plan', 'student', 'sheet-6.jpg'),
-      img('b-section', 'Section', 'section', 'student', 'sheet-5.jpg', [.005, .028, .995, .524]), img('b-street', 'Section perspective', 'view', 'create')] };
+      img('b-sk1', 'Sketch', 'process', 'student', 'sheet-3.webp', [.228, .036, .474, .338]), img('b-sk2', 'Sketch', 'process', 'student', 'sheet-3.webp', [.228, .36, .474, .66]),
+      img('b-sk3', 'Sketch', 'process', 'student', 'sheet-3.webp', [.228, .68, .474, .98]), img('b-fabric', 'Concept diagram', 'concept', 'student', 'sheet-3.webp', [.609, .07, .987, .25]),
+      img('b-elev', 'Elevation', 'elevation', 'create'), img('b-model-court', 'Model photo', 'model', 'student', 'sheet-3.webp', [.609, .507, .987, .74]),
+      img('b-model-fabric', 'Model photo', 'model', 'student', 'sheet-3.webp', [.609, .75, .987, .99]), img('b-model-roof', 'Model photo', 'model', 'student', 'sheet-5.webp', [.176, .548, .647, .99]),
+      img('b-site', 'Site plan', 'site', 'student', 'sheet-1.webp', [.15, .225, .578, .97]), img('b-plan', 'Plan', 'plan', 'student', 'sheet-6.webp'),
+      img('b-section', 'Section', 'section', 'student', 'sheet-5.webp', [.005, .028, .995, .524]), img('b-street', 'Section perspective', 'view', 'create')] };
     const S_ = (label, role, source, x, y, w, h, file, crop) => ({ label, role, source, x, y, w, h, image_url: file ? raw(file) : null, crop });
     const T_ = (label, x, y, w, h, role) => S_(label, role || 'text', 'text', x, y, w, h);
     const head = T_('Title', .04, .07, .5, .14, 'heading');
     const slides = [
       ['Cover', 'cover', ['Hero render · new', 'Project title and title block'], [S_('Hero render', 'render', 'create', .04, .08, .56, .84), T_('Title', .64, .1, .32, .26, 'title'), T_('Title block', .64, .7, .32, .18, 'info')]],
       ['Contents', 'contents', ['The sections, numbered'], [T_('Contents', .06, .1, .88, .78)]],
-      ['Brief & program', 'brief', ['Brief note', '1 brief sheet'], [head, T_('Brief', .04, .3, .38, .55), S_('Brief sheet', 'brief', 'student', .48, .3, .48, .55, 'sheet-2.jpg')]],
-      ['Site & context', 'site', ['1 site plan', 'Site note'], [head, S_('Site plan', 'site', 'student', .36, .24, .6, .7, 'sheet-1.jpg', [.15, .225, .578, .97]), T_('About the site', .04, .62, .28, .28)]],
-      ['Concept', 'concept', ['Concept note', '1 concept diagram'], [head, S_('Concept diagram', 'concept', 'student', .36, .26, .6, .5, 'sheet-3.jpg', [.609, .07, .987, .25]), T_('Concept', .04, .3, .28, .4, 'concept')]],
-      ['Process', 'process', ['2 sketches', '1 model photo'], [head, S_('Sketch', 'process', 'student', .04, .32, .29, .5, 'sheet-3.jpg', [.228, .036, .474, .338]), S_('Sketch', 'process', 'student', .355, .32, .29, .5, 'sheet-3.jpg', [.228, .36, .474, .66]), S_('Model photo', 'model', 'student', .67, .32, .29, .5, 'sheet-3.jpg', [.609, .507, .987, .74])]],
-      ['Plans', 'plan', ['1 plan', 'Plan note'], [head, S_('Plan', 'plan', 'student', .36, .1, .6, .84, 'sheet-6.jpg'), T_('About the plan', .04, .62, .28, .28)]],
-      ['Sections', 'section', ['1 section', 'Section note'], [head, S_('Section', 'section', 'student', .04, .27, .92, .5, 'sheet-5.jpg', [.005, .028, .995, .524]), T_('About the section', .04, .82, .5, .1)]],
+      ['Brief & program', 'brief', ['Brief note', '1 brief sheet'], [head, T_('Brief', .04, .3, .38, .55), S_('Brief sheet', 'brief', 'student', .48, .3, .48, .55, 'sheet-2.webp')]],
+      ['Site & context', 'site', ['1 site plan', 'Site note'], [head, S_('Site plan', 'site', 'student', .36, .24, .6, .7, 'sheet-1.webp', [.15, .225, .578, .97]), T_('About the site', .04, .62, .28, .28)]],
+      ['Concept', 'concept', ['Concept note', '1 concept diagram'], [head, S_('Concept diagram', 'concept', 'student', .36, .26, .6, .5, 'sheet-3.webp', [.609, .07, .987, .25]), T_('Concept', .04, .3, .28, .4, 'concept')]],
+      ['Process', 'process', ['2 sketches', '1 model photo'], [head, S_('Sketch', 'process', 'student', .04, .32, .29, .5, 'sheet-3.webp', [.228, .036, .474, .338]), S_('Sketch', 'process', 'student', .355, .32, .29, .5, 'sheet-3.webp', [.228, .36, .474, .66]), S_('Model photo', 'model', 'student', .67, .32, .29, .5, 'sheet-3.webp', [.609, .507, .987, .74])]],
+      ['Plans', 'plan', ['1 plan', 'Plan note'], [head, S_('Plan', 'plan', 'student', .36, .1, .6, .84, 'sheet-6.webp'), T_('About the plan', .04, .62, .28, .28)]],
+      ['Sections', 'section', ['1 section', 'Section note'], [head, S_('Section', 'section', 'student', .04, .27, .92, .5, 'sheet-5.webp', [.005, .028, .995, .524]), T_('About the section', .04, .82, .5, .1)]],
       ['Elevations', 'elevation', ['1 elevation · new'], [head, S_('Elevation', 'elevation', 'create', .04, .3, .92, .48), T_('About the elevation', .04, .82, .5, .1)]],
-      ['Views', 'views', ['1 entrance view', '1 model photo', '1 interior view · new'], [S_('Entrance view', 'render', 'student', .04, .08, .6, .84, 'sheet-4.jpg'), S_('Model photo', 'model', 'student', .68, .08, .28, .4, 'sheet-5.jpg', [.176, .548, .647, .99]), S_('Interior view', 'render', 'create', .68, .52, .28, .4)]],
+      ['Views', 'views', ['1 entrance view', '1 model photo', '1 interior view · new'], [S_('Entrance view', 'render', 'student', .04, .08, .6, .84, 'sheet-4.webp'), S_('Model photo', 'model', 'student', .68, .08, .28, .4, 'sheet-5.webp', [.176, .548, .647, .99]), S_('Interior view', 'render', 'create', .68, .52, .28, .4)]],
       ['Axonometric', 'axonometric', ['1 axonometric · new', 'Structure note'], [head, S_('Axonometric', 'axonometric', 'create', .36, .1, .6, .84), T_('How it stands', .04, .62, .28, .28)]],
       ['Closing', 'closing', ['Hero render', 'The three ideas'], [S_('Hero render', 'render', 'create', 0, 0, 1, 1), T_('Three ideas', .05, .58, .5, .32)]]
     ].map(([title, kind, contents, slots], i) => ({ n: i + 1, title, kind, contents, note: kind === 'concept', slots }));
@@ -903,7 +921,7 @@
   };
   const kb = (b) => b >= 1048576 ? (b / 1048576).toFixed(1) + ' MB' : Math.max(1, Math.round(b / 1024)) + ' KB';
   V.upload = () => DEMO ? V.uploadDemo() : '<main class="wrap"><p class="kicker">' + (paid() ? 'Before your free redo' : PAYWALL ? 'Step 1' : 'Step 1 · free') + '</p><h1 class="big">Add your drawings. 5–10 works best.</h1>' +
-    '<section class="drop" id="drop" aria-label="Your files"><div class="row"><span class="chip lime">' + drawings().length + ' FILES</span>' + (upBusy() ? '<span class="chip">UPLOADING ' + upBusy() + '</span>' : '') + '</div>' +
+    '<section class="drop" id="drop" aria-label="Your files">' + DZMSG + '<div class="row"><span class="chip lime">' + drawings().length + ' FILES</span>' + (upBusy() ? '<span class="chip">UPLOADING ' + upBusy() + '</span>' : '') + '</div>' +
     '<div class="files">' + drawings().map((f) => '<div class="file"><img src="' + (THUMBS[f.name] || PLACE) + '" alt="' + esc(f.original || f.name) + '">' + (THUMBS[f.name] ? '' : '<span class="fkind">' + esc(String(f.type || 'file').toUpperCase()) + '</span>') + '<span>' + esc(f.original || f.name) + ' · ' + (f.pages ? f.pages + ' page' + (f.pages === 1 ? '' : 's') + ' · ' : '') + kb(f.bytes || 0) + '</span>' + fnotes(f) + '<button class="rm" data-act="rmFile" data-name="' + esc(f.name) + '" aria-label="Remove ' + esc(f.original || f.name) + '">' + RM + '</button></div>').join('') +
     UP.filter((u) => u.kind !== 'brief').map(upCard).join('') + '</div>' +
     (drawings().length || UP.length ? '' : '<p class="status">Plans, sections, sketches, model photos, renders, or screenshots of your sheets.</p>') +
@@ -915,7 +933,7 @@
     '<div class="row">' + (paid() ? '<button class="btn primary" data-act="toResult">Back to my board</button><span class="status">Your free redo uses these drawings.</span>' : '<button class="btn primary" data-act="toQ">Next</button><span class="status">No account needed.</span>') + '</div>' +
     (S.job && (S.files || []).length ? '<button class="link" data-act="newJob" style="align-self:flex-start">' + (S.newArm ? 'Click again: this clears these files from this page' : 'Start a new project instead') + '</button>' : '') + '</main>';
   V.uploadDemo = () => '<main class="wrap"><p class="kicker">' + (PAYWALL ? 'Step 1' : 'Step 1 · free') + '</p><h1 class="big">Add your drawings. 5–10 works best.</h1>' +
-    '<section class="drop" id="drop" aria-label="Your files"><div class="row"><span class="chip lime">' + nFiles() + ' FILES</span><span class="chip">Sample: Law Garden community centre</span></div>' +
+    '<section class="drop" id="drop" aria-label="Your files">' + DZMSG + '<div class="row"><span class="chip lime">' + nFiles() + ' FILES</span><span class="chip">Sample: Law Garden community centre</span></div>' +
     '<div class="files">' + P.raw.map((r, i) => (S.rmRaw || []).includes(i) ? '' : '<div class="file"><img src="' + P.base + r.src + '" alt="' + esc(r.name) + '"><span>' + esc(r.name) + ' · ' + r.kb + ' KB</span><button class="rm" data-act="rmFile" data-k="raw" data-i="' + i + '" aria-label="Remove ' + esc(r.name) + '"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg></button></div>').join('') +
     S.extra.map((n, i) => '<div class="file"><button class="rm" data-act="rmFile" data-k="extra" data-i="' + i + '" aria-label="Remove ' + esc(n) + '"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg></button><img src="data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 4 3%22%3E%3Crect width=%224%22 height=%223%22 fill=%22%23EDE4D3%22/%3E%3C/svg%3E" alt=""><span>' + esc(n) + '</span></div>').join('') + '</div>' +
     '<div class="row"><button class="btn small" data-act="add">Add files</button><input id="add" type="file" multiple accept="image/*,.pdf" hidden><span class="status">or drag them here</span></div>' +
@@ -1182,6 +1200,8 @@
       '<p class="hint">' + LEGALLINKS + '</p>' + '</main>';
   };
 
+  /* the waiting screens: the sheets shuffle above the progress steps (outside #mkzone, which is redrawn at every poll, so it never restarts) */
+  const WAITSHUF = '<div class="mkshuf">' + SHUF('l') + '</div>';
   const isGreat = () => (S.tier || 'great') === 'great';
   const MAKE = () => ['Drawings cleaned and placed on the grid', 'Plan, section and site set to scale, scale bars and north drawn']
     .concat(isGreat() ? ['Re-rendering the entrance view', 'Redrawing the plan and section: tones, shadows, trees', 'Drawing new diagrams in the same family'] : ['Rendering the plan, section and elevation', 'Polishing your drawings, with up to 10 AI images'])
@@ -1211,12 +1231,12 @@
     'Laying out the board and deck', 'Filling every slot', 'Building the files', 'Final checks'];
   V.makingLive = () => {
     const st = ST || {}, b = st.build || {}, g = (st.tier || S.tier) === 'great', mail = esc(st.email || S.email || 'you');
-    if (!st.paid) return '<main class="wrap narrow"><p class="kicker">Step 4</p><h1 class="big">Confirming your payment</h1><div class="making"><div class="mk now"><i aria-hidden="true"></i>Waiting for Dodo Payments to confirm</div></div>' +
+    if (!st.paid) return '<main class="wrap narrow">' + WAITSHUF + '<p class="kicker">Step 4</p><h1 class="big">Confirming your payment</h1><div class="making"><div class="mk now"><i aria-hidden="true"></i>Waiting for Dodo Payments to confirm</div></div>' +
       '<p class="lede">This usually takes a few seconds. Keep this page open; it moves on by itself.</p></main>';
     if (st.stage === 'failed') return '<main class="wrap narrow"><p class="kicker">Paid · receipt sent to ' + mail + '</p><h1 class="big">Something went wrong on our side</h1>' +
       '<div class="card"><p class="lede">We are rerunning it for free. You will get an email at <b>' + mail + '</b> as soon as your board and deck are ready, with a link back here.</p></div>' +
       '<p class="hint">Nothing to do on your side. Questions: hello@findgreatarchitecture.com</p></main>';
-    return '<main class="wrap narrow"><div id="mkzone">' + makingZone() + '</div>' + waitFeedback() + '</main>';
+    return '<main class="wrap narrow">' + WAITSHUF + '<div id="mkzone">' + makingZone() + '</div>' + waitFeedback() + '</main>';
   };
   function makingZone() {
     const st = ST || {}, b = st.build || {}, g = (st.tier || S.tier) === 'great', mail = esc(st.email || S.email || 'you');
@@ -1252,26 +1272,27 @@
       '<div class="card"><p class="lede">' + esc(S.pvErr || pv.error || 'The preview could not be made this time. Try again in a minute.') + '</p></div>' +
       '<div class="row"><button class="btn primary" data-act="preview">Try again</button><button class="btn" data-act="go" data-s="upload">Add or change drawings</button></div></main>';
     const at = stepAt(PLAN_KEYS, PLANS, pv.stage || st.step_key, pv.label || st.step), running = pv.status === 'running';
-    return '<main class="wrap narrow"><p class="kicker">Step 3 · free</p><h1 class="big">Planning your board and deck</h1>' +
+    return '<main class="wrap narrow">' + WAITSHUF + '<p class="kicker">Step 3 · free</p><h1 class="big">Planning your board and deck</h1>' +
       '<div class="row"><span class="chip ink">FREE PREVIEW</span><span class="chip">' + (running ? 'STEP ' + (at + 1) + ' OF ' + PLANS.length : 'STARTING') + '</span>' + totalChip() + '</div>' +
       '<div class="making" id="mk">' + stepList(PLANS, at, running) + '</div>' +
       '<p class="lede">AI Studio is reading every sheet and planning the story from your answers. It opens here by itself, usually in a minute or two.</p></main>';
   };
+  const demoSteps = () => MAKE().map((m, i) => '<div class="mk ' + (i < S.mk ? 'done' : i === S.mk ? 'now' : 'todo') + '"><i aria-hidden="true">' + (i < S.mk ? '✓' : '') + '</i>' + esc(m) + '</div>').join('');
   V.making = () => {
     if (!DEMO) return V.makingLive();
     const g = isGreat(), n = MAKE().length, k = Math.min(S.mk || 0, n - 1) + 1;
-    return '<main class="wrap narrow"><p class="kicker">Paid · receipt sent to ' + esc(S.email || 'your email') + '</p><h1 class="big">Making your board and deck</h1>' +
-      '<div class="row"><span class="chip ink">' + (PAYWALL ? (g ? 'TRANSFORM' : 'POLISH') + ' · ABOUT 5–7 MINUTES' : g ? 'TRANSFORM · ABOUT 5 MINUTES' : 'POLISH · UNDER 10 MINUTES') + '</span><span class="chip">STEP ' + k + ' OF ' + n + '</span><span class="chip sun">DEMO: SPED UP</span></div>' +
-      '<div class="making" id="mk">' + MAKE().map((m, i) => '<div class="mk ' + (i < S.mk ? 'done' : i === S.mk ? 'now' : 'todo') + '"><i aria-hidden="true">' + (i < S.mk ? '✓' : '') + '</i>' + esc(m) + '</div>').join('') + '</div>' +
+    return '<main class="wrap narrow">' + WAITSHUF + '<p class="kicker">Paid · receipt sent to ' + esc(S.email || 'your email') + '</p><h1 class="big">Making your board and deck</h1>' +
+      '<div class="row"><span class="chip ink">' + (PAYWALL ? (g ? 'TRANSFORM' : 'POLISH') + ' · ABOUT 5–7 MINUTES' : g ? 'TRANSFORM · ABOUT 5 MINUTES' : 'POLISH · UNDER 10 MINUTES') + '</span><span class="chip" id="mkstep">STEP ' + k + ' OF ' + n + '</span><span class="chip sun">DEMO: SPED UP</span></div>' +
+      '<div class="making" id="mk">' + demoSteps() + '</div>' +
       '<p class="lede">' + (g ? 'You can close this tab. We will email <b>' + esc(S.email || 'you') + '</b> when it is ready, with a link back to your board.' : 'You can stay on this page. It opens on its own when it is done.') + '</p>' +
       '<p class="status">In this demo nothing is being generated: the steps are shown sped up.</p><button class="link" data-act="toResult">Skip ahead</button></main>';
   };
 
-  const DID = [['raw/sheet-4.jpg', 'board/hero.jpg', 'Sketch to hero render', 'Your entrance sketch, rendered in light and material.'],
-    ['raw/sheet-6.jpg', 'board/plan.jpg', 'Plan, cleaned and coloured', 'Walls in poché, rooms labelled, greenery, north and scale.'],
-    ['raw/sheet-5.jpg', 'board/section.jpg', 'Section, redrawn', 'Clear cut, terracotta street, trees for context.'],
-    ['raw/sheet-1.jpg', 'board/site.jpg', 'Site map to site plan', 'The garden in colour, the site marked, labels aligned.'],
-    ['raw/sheet-3.jpg', 'board/sk1.jpg', 'Sketches, sharpened', 'Paper whitened, charcoal kept, each one captioned.']];
+  const DID = [['raw/sheet-4.webp', 'board/hero.webp', 'Sketch to hero render', 'Your entrance sketch, rendered in light and material.'],
+    ['raw/sheet-6.webp', 'board/plan.webp', 'Plan, cleaned and coloured', 'Walls in poché, rooms labelled, greenery, north and scale.'],
+    ['raw/sheet-5.webp', 'board/section.webp', 'Section, redrawn', 'Clear cut, terracotta street, trees for context.'],
+    ['raw/sheet-1.webp', 'board/site.webp', 'Site map to site plan', 'The garden in colour, the site marked, labels aligned.'],
+    ['raw/sheet-3.webp', 'board/sk1.webp', 'Sketches, sharpened', 'Paper whitened, charcoal kept, each one captioned.']];
   const date = (iso) => { try { return new Date(iso).toLocaleDateString(undefined, { day: 'numeric', month: 'long' }); } catch (e) { return ''; } };
   let redoArm = false;
   function redoCard() {
@@ -1323,9 +1344,9 @@
     const board = outOf('board/board.png'), slides = ((ST || {}).outputs || []).filter((o) => /^deck\/slides\/.+\.png$/i.test(o.name)).sort((a, b) => a.name.localeCompare(b.name, undefined, { numeric: true }));
     const cache = PDFIMG[pdfKey()] || {}, deckImgs = slides.length ? slides.map((o) => o.url) : cache.deck || [];
     const nSl = deckImgs.length || cache.deckN || 0, hasPptx = !!outOf('deck/deck.pptx');
-    const boardHTML = board ? '<img class="rboardimg" src="' + esc(board.url) + '" alt="Your A1 board">' : cache.board ? '<img class="rboardimg" src="' + cache.board + '" alt="Your A1 board">' : '<div class="rboardimg ph" id="rboard" aria-label="Your A1 board, loading"></div>';
+    const boardHTML = board ? '<img class="rboardimg" src="' + esc(board.url) + '" alt="Your A1 board">' : cache.board ? '<img class="rboardimg" src="' + cache.board + '" alt="Your A1 board">' : '<div class="rboardimg ph" id="rboard" role="img" aria-label="Your A1 board, loading">' + SHUF('m') + '</div>';
     const strip = deckImgs.length ? deckImgs.map((u, k) => '<div class="ewrap"><img class="rslide" src="' + esc(u) + '" alt="Slide ' + (k + 1) + '" loading="lazy"></div>').join('')
-      : outOf('deck/deck.pdf') ? Array.from({ length: 6 }, () => '<div class="ewrap"><div class="rslide ph"></div></div>').join('') : '';
+      : outOf('deck/deck.pdf') ? Array.from({ length: 6 }, () => '<div class="ewrap"><div class="rslide ph">' + SHUF('s') + '</div></div>').join('') : '';
     const editNote = '<div class="card rguide"><h3 class="h3">Keep editing</h3><p class="lede" style="margin:0">' + (hasPptx ? 'Open the PowerPoint in PowerPoint, Keynote or Google Slides, or in Canva: Upload, then Import. Every word stays editable.' : 'Open the PDF in any editor you like.') + '</p></div>';
     return '<main class="wrap"><span class="chip lime" style="align-self:flex-start">READY</span><h1 class="big">Your board and deck are ready</h1><p class="lede">Check every word before the jury does, then download everything at once.</p>' +
       '<div class="result"><div class="list"><p class="rlabel"><b class="chip lime">Board · A1</b> 594 × 841 mm, portrait</p><div class="ewrap">' + boardHTML + '</div></div>' +
@@ -1363,7 +1384,7 @@
         if (needBoard) { const [im] = await pdfImages(outOf('board/board.pdf').url, 900, 1); cache.board = im[0]; const el = document.getElementById('rboard'); if (el) el.outerHTML = '<img class="rboardimg" src="' + im[0] + '" alt="Your A1 board">'; }
         if (needDeck) {
           const [imgs, n] = await pdfImages(outOf('deck/deck.pdf').url, 320, 15, (imgs, n) => { cache.deckN = n; const dn = document.getElementById('rdeckn'); if (dn) dn.textContent = 'Deck · ' + n + ' slides'; const st = document.getElementById('rstrip');
-            if (st) st.innerHTML = imgs.map((u, k) => '<div class="ewrap"><img class="rslide" src="' + u + '" alt="Slide ' + (k + 1) + '"></div>').join('') + Array.from({ length: Math.max(0, n - imgs.length) }, () => '<div class="ewrap"><div class="rslide ph"></div></div>').join(''); });
+            if (st) st.innerHTML = imgs.map((u, k) => '<div class="ewrap"><img class="rslide" src="' + u + '" alt="Slide ' + (k + 1) + '"></div>').join('') + Array.from({ length: Math.max(0, n - imgs.length) }, () => '<div class="ewrap"><div class="rslide ph">' + SHUF('s') + '</div></div>').join(''); });
           cache.deck = imgs; cache.deckN = n;
         }
       } catch (e) { console.warn('preview pictures', e); }
@@ -1463,9 +1484,9 @@
   /* Hero before/after (prototype commit 3ed209a, option B, owner picked 28 Oct): six small crops of the student's real
      sheets (three rough: sketches and a model photo; three decent: plan, section, site map) -> green arrow -> the
      finished A1 board. Crops are CSS windows on the original files: [file, x0, y0, x1, y1 as fractions, label, rough]. */
-  const RAWSZ = { 'raw/sheet-1.jpg': [900, 609], 'raw/sheet-3.jpg': [900, 503], 'raw/sheet-5.jpg': [900, 611], 'raw/sheet-6.jpg': [806, 576] };
-  const CROPS = [['raw/sheet-6.jpg', 0, 0, 1, 1, 'Plan', 0], ['raw/sheet-3.jpg', .228, .036, .474, .338, 'Sketch', 1], ['raw/sheet-5.jpg', .10, .03, .75, .52, 'Section', 0],
-    ['raw/sheet-3.jpg', .609, .507, .987, .740, 'Model photo', 1], ['raw/sheet-1.jpg', .15, .225, .578, .97, 'Site map', 0], ['raw/sheet-3.jpg', .609, .258, .987, .497, 'Elevation sketch', 1]];
+  const RAWSZ = { 'raw/sheet-1.webp': [900, 609], 'raw/sheet-3.webp': [900, 503], 'raw/sheet-5.webp': [900, 611], 'raw/sheet-6.webp': [806, 576] };
+  const CROPS = [['raw/sheet-6.webp', 0, 0, 1, 1, 'Plan', 0], ['raw/sheet-3.webp', .228, .036, .474, .338, 'Sketch', 1], ['raw/sheet-5.webp', .10, .03, .75, .52, 'Section', 0],
+    ['raw/sheet-3.webp', .609, .507, .987, .740, 'Model photo', 1], ['raw/sheet-1.webp', .15, .225, .578, .97, 'Site map', 0], ['raw/sheet-3.webp', .609, .258, .987, .497, 'Elevation sketch', 1]];
   function cropEl([src, x0, y0, x1, y1, lab, rough], i) {
     const [W, H] = RAWSZ[src], w = x1 - x0, h = y1 - y0, bp = (a, span) => span >= 1 ? '0' : (a / (1 - span) * 100).toFixed(2) + '%';
     return '<div class="crop c' + i + (rough ? ' rough' : '') + '" role="img" aria-label="' + lab + ', as uploaded" style="aspect-ratio:' + (w * W / (h * H)).toFixed(3) +
@@ -1480,10 +1501,14 @@
   }
   /* The upload box sits in the hero, so a visitor starts by dropping their sheets, not by finding a button (owner,
      5 Nov 2026, after MagicSlides). The chips answer "will my files work?" before anyone asks. */
-  const heroDrop = () => '<div class="hdrop" id="hdrop" data-act="hpick" role="button" tabindex="0" aria-label="Choose or drop your drawings to start' + (PAYWALL ? '' : ' a free preview') + '">' +
-    '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 16V4M7 9l5-5 5 5M5 20h14"/></svg>' +
-    '<div class="hdt"><b>Drop your sheets here</b><span><u>or choose files</u> · ' + (PAYWALL ? 'pay once, from ' + FROM : 'PDF, JPG, PNG · free, no login') + '</span></div>' +
-    '<input id="hadd" type="file" multiple accept="image/png,image/jpeg,image/webp,application/pdf,.pdf,.png,.jpg,.jpeg,.webp" hidden></div>';
+  /* Pressed, focused, hovered by a drag or opened for file choice, the box grows (taller, a bigger icon and bigger words:
+     owner, 13 Nov 2026, "more surface area"). It grows over a wrapper that keeps its resting height, so nothing below moves. */
+  const DROPICO = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 16V4M7 9l5-5 5 5M5 20h14"/></svg>';
+  /* the upload panel's own version: a cover that appears over the whole files panel while files are dragged or chosen */
+  const DZMSG = '<div class="dzmsg" aria-hidden="true">' + DROPICO + '<b>Drop your sheets anywhere here</b><span>PNG, JPG, WebP or PDF</span></div>';
+  const heroDrop = () => '<div class="hdwrap" id="hdwrap"><div class="hdrop" id="hdrop" data-act="hpick" role="button" tabindex="0" aria-label="Choose or drop your drawings to start' + (PAYWALL ? '' : ' a free preview') + '">' + DROPICO +
+    '<div class="hdt"><b><span class="hd-a">Drop your sheets here</span><span class="hd-b" aria-hidden="true">Drop your sheets anywhere here</span></b><span class="hd-sub"><u>or choose files</u> · ' + (PAYWALL ? 'pay once, from ' + FROM : 'PDF, JPG, PNG · free, no login') + '</span></div>' +
+    '<input id="hadd" type="file" multiple accept="image/png,image/jpeg,image/webp,application/pdf,.pdf,.png,.jpg,.jpeg,.webp" hidden></div></div>';
   /* "What you download" (owner, 7 Nov 2026: "this is the main deliverable", seen right away): one tile per file,
      each saying what it holds and which apps open it. File-type icons, not app logos: Microsoft and Adobe don't
      allow their logos without permission, and the app names say it plainly. */
@@ -1501,15 +1526,43 @@
     if (!DEMO && S.job) { toast('You have a saved project. Continue it, or start a new one first.'); return; }
     go('upload'); asBrief = false; addFiles(list);
   }
+  /* a drag only counts when it carries files (not a dragged word or link) */
+  const hasFiles = (e) => !!e.dataTransfer && [...(e.dataTransfer.types || [])].includes('Files');
+  /* While a file is dragged anywhere over `zone`, `box` gets the class `hot` (it grows). A counter, because dragenter and
+     dragleave also fire for every child the pointer crosses. */
+  function dragZone(zone, box, onDrop) {
+    let n = 0;
+    zone.addEventListener('dragenter', (e) => { if (!hasFiles(e)) return; e.preventDefault(); n++; box.classList.add('hot'); });
+    zone.addEventListener('dragover', (e) => { if (!hasFiles(e)) return; e.preventDefault(); box.classList.add('hot'); });
+    zone.addEventListener('dragleave', () => { n = Math.max(0, n - 1); if (!n) box.classList.remove('hot'); });
+    zone.addEventListener('drop', (e) => { if (!hasFiles(e)) return; e.preventDefault(); n = 0; box.classList.remove('hot'); onDrop(e.dataTransfer.files); });
+  }
+  /* "opened for file choice": the box stays grown while the system's file window is up, until a choice, a cancel or the window coming back */
+  function whileChoosing(box, inp) {
+    const done = () => box.classList.remove('open');
+    inp.addEventListener('change', done); inp.addEventListener('cancel', done);
+    return () => { box.classList.add('open'); window.addEventListener('focus', () => setTimeout(done, 400), { once: true }); };
+  }
   function bindHeroDrop() {
-    const d = document.getElementById('hdrop'), inp = document.getElementById('hadd');
+    const d = document.getElementById('hdrop'), inp = document.getElementById('hadd'), wrap = document.getElementById('hdwrap');
     if (!d || !inp) return;
-    ['dragenter', 'dragover'].forEach((t) => d.addEventListener(t, (e) => { e.preventDefault(); d.classList.add('hot'); }));
-    ['dragleave', 'drop'].forEach((t) => d.addEventListener(t, (e) => { e.preventDefault(); d.classList.remove('hot'); }));
-    d.addEventListener('drop', (e) => heroFiles(e.dataTransfer.files));
-    d.addEventListener('keydown', (e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); inp.click(); } });
+    const opened = whileChoosing(d, inp);
+    /* the whole top of the page takes a drop, not only the box */
+    dragZone(document.querySelector('.lhero') || d, d, heroFiles);
+    d.addEventListener('keydown', (e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); inp.click(); opened(); } });
+    d.addEventListener('click', () => { if (!(!DEMO && S.job)) opened(); });
     inp.addEventListener('click', (e) => e.stopPropagation());
     inp.addEventListener('change', (e) => { const f = [...e.target.files]; e.target.value = ''; heroFiles(f); });
+    /* reserve the resting height, so the box can grow over what is below it without pushing it */
+    if (!wrap) return;
+    const fit = () => {
+      if (d.matches(':active, :focus-visible, .hot, .open')) return;
+      wrap.classList.remove('on'); wrap.style.setProperty('--hd0', d.offsetHeight + 'px'); wrap.classList.add('on');
+    };
+    fit();
+    if (document.fonts && document.fonts.ready) document.fonts.ready.then(fit);
+    let rt = null;
+    window.addEventListener('resize', () => { clearTimeout(rt); rt = setTimeout(fit, 150); });
   }
   /* "Not one slide. The whole deck." (owner, 5 Nov 2026, after MagicSlides): every slide of the sample deck as cards
      to swipe or arrow through. Each slide draws only when it nears the screen. */
@@ -1519,7 +1572,7 @@
       '<p class="lede">All ' + sl.length + ' slides, from the same six files as the board.</p>' +
       '<div class="flip"><button class="farr" data-act="flip" data-v="prev" aria-label="Previous slide" disabled>←</button>' +
       '<div class="ftrack" id="ftrack" tabindex="0" role="region" aria-label="Sample deck, ' + sl.length + ' slides">' +
-      sl.map((x, i) => '<div class="fcard" data-i="' + i + '" aria-label="Slide ' + (i + 1) + ' of ' + sl.length + '"><div class="sth" data-lmini="slide:' + x.n + '" data-m="h" data-w="620" data-fit="1"></div></div>').join('') +
+      sl.map((x, i) => '<div class="fcard" data-i="' + i + '" aria-label="Slide ' + (i + 1) + ' of ' + sl.length + '"><div class="sth" data-lmini="slide:' + x.n + '" data-m="h" data-w="620" data-fit="1"></div>' + LDOV('m') + '</div>').join('') +
       '</div><button class="farr" data-act="flip" data-v="next" aria-label="Next slide">→</button></div>' +
       '<p class="fcount" aria-live="polite"><b id="fnum">1</b> / ' + sl.length + ' · <span id="ftitle">' + esc(slideTitle(sl[0])) + '</span></p></section>';
   };
@@ -1527,7 +1580,7 @@
     const tr = document.getElementById('ftrack');
     if (!tr) return;
     const cards = [...tr.querySelectorAll('.fcard')], sl = F.visibleSlides(HP);
-    const draw = (c) => { const el = c.querySelector('[data-lmini]'); if (!el) return; el.dataset.mini = el.dataset.lmini; el.removeAttribute('data-lmini'); fillMinis(c); };
+    const draw = (c) => { const el = c.querySelector('[data-lmini]'); if (!el) return; el.dataset.mini = el.dataset.lmini; el.removeAttribute('data-lmini'); ric(() => { fillMinis(c); const o = c.querySelector(':scope > .ldov'); if (o) o.remove(); }); };
     if ('IntersectionObserver' in window) {
       const io = new IntersectionObserver((es) => es.forEach((e) => { if (e.isIntersecting) { draw(e.target); io.unobserve(e.target); } }), { root: tr, rootMargin: '0px 120% 0px 120%' });
       const outer = new IntersectionObserver((es) => { if (es.some((e) => e.isIntersecting)) { cards.forEach((c) => io.observe(c)); outer.disconnect(); } }, { rootMargin: '300px 0px' });
@@ -1564,9 +1617,9 @@
     [0, 0, 'A quick check of your building', ''],
     [70.5, 9, 'Change anything before you pay', 'Move, swap, reorder or remove.']];
   const previewShow = () => '<section class="wrap" id="preview"><h2 class="kicker">Your free preview</h2><p class="big hd">What your free preview looks like</p>' +
-    '<div class="pvshow"><figure class="pvshot">' +
-    '<img src="preview-shot.webp" width="1400" height="986" loading="lazy" alt="The free preview: an A1 board laid out with the student\'s drawings, striped boxes for new AI images, and the order card">' +
-    PVCALL.map(([x, y], i) => x ? '<span class="pvpin" style="left:' + x + '%;top:' + y + '%" aria-hidden="true">' + (i + 1) + '</span>' : '').join('') + '</figure>' +
+    '<div class="pvshow"><figure class="pvshot ldwrap">' +
+    '<img src="preview-shot.webp" width="1400" height="986" loading="lazy" decoding="async" alt="The free preview: an A1 board laid out with the student\'s drawings, striped boxes for new AI images, and the order card">' +
+    PVCALL.map(([x, y], i) => x ? '<span class="pvpin" style="left:' + x + '%;top:' + y + '%" aria-hidden="true">' + (i + 1) + '</span>' : '').join('') + LDOV('l') + '</figure>' +
     '<ol class="pvlist">' + PVCALL.map(([, , t, d], i) => '<li><span class="pvpin" aria-hidden="true">' + (i + 1) + '</span><div><b>' + t + '</b>' +
       (i === 2 ? '<span>One tap to confirm what Studio read.</span><div class="bcheck pvbc" aria-hidden="true"><p class="bq"><span><b>We read:</b> 1 block · tensile roof. <b>Right?</b></span></p><div class="bopts"><span class="bopt yes">Yes</span><span class="bopt">Fix it</span></div></div>' : '<span>' + d + '</span>') +
       '</div></li>').join('') + '</ol></div></section>';
@@ -1606,7 +1659,7 @@
   const gallery = () => '<section class="wrap" id="boards"><h2 class="kicker">Examples</h2><p class="big hd">Boards made with Studio FGA</p>' +
     '<p class="lede">One student project and four tests on famous buildings.</p><div class="ggrid">' +
     GAL.map(([k, stu, t, n, extra, w, h, alt]) => '<button class="gcard" data-act="gopen" data-k="' + k + '" aria-haspopup="dialog">' +
-      '<span class="gimg"><img src="' + GBASE + k + '-thumb.webp" width="' + w + '" height="' + h + '" loading="lazy" decoding="async" alt="A1 board: ' + esc(alt) + '"></span>' +
+      '<span class="gimg ldwrap"><img src="' + GBASE + k + '-thumb.webp" width="' + w + '" height="' + h + '" loading="lazy" decoding="async" alt="A1 board: ' + esc(alt) + '">' + LDOV('s') + '</span>' +
       '<span class="gtxt">' + galTag(stu) + '<b>' + esc(t) + '</b><span class="gmeta">From ' + n + ' files' + (extra ? ' · ' + esc(extra) : '') + '</span></span></button>').join('') + '</div>' +
     '<details class="gcredw"><summary>Photo credits</summary><div class="gcred" id="gcred">' + galCreditLine() + '</div></details></section>';
   function bindGallery() {
@@ -1625,15 +1678,16 @@
     d.className = 'glight'; d.setAttribute('aria-label', (stu ? 'Student project: ' : 'Test project: ') + t);
     d.innerHTML = '<div class="glbar">' + galTag(stu) + '<b>' + esc(t) + '</b><span class="gmeta">From ' + n + ' files</span><span class="spacer"></span>' +
       '<a class="link" href="' + GBASE + k + '-large.webp" target="_blank" rel="noopener">Full size ↗</a><button class="gx" aria-label="Close" autofocus>×</button></div>' +
-      '<div class="glimg"><img src="' + GBASE + k + '-large.webp" width="1600" height="' + Math.round(h * 1600 / w) + '" alt="A1 board: ' + esc(alt) + '"></div>' +
+      '<div class="glimg"><div class="glbox ldwrap" style="--ar:' + w + ' / ' + h + ';--arn:' + (w / h).toFixed(4) + '"><img src="' + GBASE + k + '-large.webp" width="1600" height="' + Math.round(h * 1600 / w) + '" decoding="async" alt="A1 board: ' + esc(alt) + '">' + LDOV('l') + '</div></div>' +
       '<p class="glcred"><b>Photo credits:</b> ' + galCredit(k) + '</p>';
     document.body.appendChild(d);
     d.addEventListener('close', () => { d.remove(); if (back && back.focus) back.focus({ preventScroll: true }); });
     d.addEventListener('click', (e) => {
       if (e.target === d || e.target.classList.contains('glimg') || e.target.closest('.gx')) d.close();
-      else if (e.target.tagName === 'IMG') e.target.parentElement.classList.toggle('zoom'); /* tap the board to read it at full width */
+      else if (e.target.tagName === 'IMG') e.target.closest('.glimg').classList.toggle('zoom'); /* tap the board to read it at full width */
     });
     d.showModal();
+    watchLoad(d);
   }
   /* a saved job is offered on the landing, never opened by itself (owner's live test, 28 Oct) */
   const newJobLink = () => '<button class="link" data-act="newJob">' + (S.newArm ? 'Click again: this clears your saved project from this browser' : 'Start a new project') + '</button>';
@@ -1686,7 +1740,8 @@
     if ((sc === 'edit' && !P) || (sc === 'plan' && !Q())) { S.screen = sc = (sc === 'edit' ? 'result' : 'upload'); }
     app.innerHTML = (VIEW ? viewBanner() : '') + (sc === 'edit' ? '' : (STEP[sc] === -1) ? lnav() : top()) + V[sc]();
     if (STEXT) { if (sc === 'home') { const f = app.querySelector('.land > .band.dark') || app.querySelector('.land > .lfoot'); if (f) f.before(STEXT); else app.appendChild(STEXT); } else STEXT.remove(); }
-    fillMinis(app);
+    fillMinis(app, sc === 'home');
+    watchLoad(app);
     if (sc === 'edit') startEditor();
     if (sc === 'making' && DEMO) runMaking();
     if (sc === 'result' && !P && !DEMO) fillResultArt();
@@ -1709,17 +1764,53 @@
     app.innerHTML = viewBanner() + '<main class="wrap narrow"><p class="kicker">Owner view</p><h1 class="mid">' + esc(msg) + '</h1>' +
       '<p class="lede">Open a new link with “View their preview” on the admin page. Nothing here changes the student’s job.</p></main>';
   }
-  function fillMinis(root) {
-    root.querySelectorAll('[data-mini]').forEach((el) => {
-      const M = modelOf(el.dataset.m);
-      if (!M) return;
-      const [kind, n] = el.dataset.mini.split(':');
-      const page = kind === 'board' ? M.board : M.slides.find((s) => s.n === +n);
-      if (!page) return;
-      el.innerHTML = '';
-      const w = el.dataset.fit ? Math.max(+(el.dataset.min || 110), Math.min(+el.dataset.w, (el.parentElement.clientWidth || +el.dataset.w) - 6)) : +el.dataset.w;
-      el.appendChild(F.miniSheet(M, page, w));
-    });
+  /* Thumbnails (data-mini) are drawn where they are, but the ones far down the landing page wait until they are near the screen
+     and are drawn in idle time, so the first paint isn't spent building twenty sheets. Until then a box of the right size holds
+     the place (no jump) with the shuffle in it; once drawn, the shuffle stays until the pictures arrive. */
+  const ric = window.requestIdleCallback ? (f) => window.requestIdleCallback(f, { timeout: 400 }) : (f) => setTimeout(f, 16);
+  const miniPage = (el) => { const M = modelOf(el.dataset.m); if (!M) return null; const [kind, n] = el.dataset.mini.split(':'); const pg = kind === 'board' ? M.board : M.slides.find((s) => s.n === +n); return pg ? [M, pg] : null; };
+  const miniW = (el) => el.dataset.fit ? Math.max(+(el.dataset.min || 110), Math.min(+el.dataset.w, (el.parentElement.clientWidth || +el.dataset.w) - 6)) : +el.dataset.w;
+  const shufSize = (w) => w < 120 ? 'xs' : w < 260 ? 's' : 'm';
+  function drawMini(el, w) {
+    const mp = miniPage(el);
+    if (!mp) return;
+    if (w === undefined) w = miniW(el);
+    el.innerHTML = ''; el.style.width = el.style.height = '';
+    el.appendChild(F.miniSheet(mp[0], mp[1], w, !!el.closest('.lhero')));   // the hero's own board loads at once, everything else lazily
+    el.classList.add('ldwrap'); el.classList.remove('ready'); el._ld = 0;
+    el.insertAdjacentHTML('beforeend', LDOV(shufSize(w)));
+    watchLoad(el);
+  }
+  /* an empty box of the sheet's final size (w, plus the box's own border bx, by), the shuffle in it */
+  function reserveMini(el, w, bx, by) {
+    const mp = miniPage(el);
+    if (!mp) return;
+    el.innerHTML = '';
+    el.style.width = (w + bx) + 'px';
+    el.style.height = (mp[1].h / mp[1].w * w + by) + 'px';
+    el.classList.add('ldwrap'); el.classList.remove('ready');
+    el.insertAdjacentHTML('beforeend', LDOV(shufSize(w)));
+  }
+  let miniIO = null;
+  function fillMinis(root, lazy, resizing) {
+    let els = [...root.querySelectorAll('[data-mini]')];
+    /* on a resize, a sheet that is already drawn at the right width is left alone (no flash of the shuffle) */
+    if (resizing) els = els.filter((el) => { const m = el.querySelector(':scope > .mini'); return !(m && parseFloat(m.style.width) === miniW(el)); });
+    if (miniIO && (lazy || root === app)) { miniIO.disconnect(); miniIO = null; }
+    if (!lazy || !('IntersectionObserver' in window)) { els.forEach((el) => drawMini(el)); return; }
+    /* all the measuring first, then all the writing: one layout, not one per thumbnail */
+    const vh = window.innerHeight;
+    const info = els.map((el) => { const r = el.getBoundingClientRect(), cs = getComputedStyle(el);
+      return { el, w: miniW(el), near: r.top < vh * 1.15 && r.bottom > 0, bx: parseFloat(cs.borderLeftWidth) + parseFloat(cs.borderRightWidth), by: parseFloat(cs.borderTopWidth) + parseFloat(cs.borderBottomWidth) }; });
+    const later = [];
+    info.forEach((o) => { if (o.near) drawMini(o.el, o.w); else { reserveMini(o.el, o.w, o.bx, o.by); later.push(o.el); } });
+    if (!later.length) return;
+    miniIO = new IntersectionObserver((es) => es.forEach((e) => {
+      if (!e.isIntersecting) return;
+      miniIO.unobserve(e.target);
+      ric(() => { if (e.target.isConnected) drawMini(e.target); });
+    }), { rootMargin: '700px 0px' });
+    later.forEach((el) => miniIO.observe(el));
   }
 
   /* ---------- making */
@@ -1730,17 +1821,26 @@
     mkT = setTimeout(() => {
       if (S.screen !== 'making') return;
       S.mk += 1; saveS();
-      if (S.mk >= MAKE().length) { S.mk = 0; go('result'); } else render();
+      if (S.mk >= MAKE().length) { S.mk = 0; go('result'); return; }
+      /* tick the step in place, so the shuffling sheets above it keep moving instead of restarting */
+      const mk = document.getElementById('mk'), st = document.getElementById('mkstep');
+      if (mk && st) { mk.innerHTML = demoSteps(); st.textContent = 'STEP ' + (S.mk + 1) + ' OF ' + MAKE().length; runMaking(); } else render();
     }, 1100);
   }
 
   /* ---------- upload */
   function bindDrop() {
-    const d = document.getElementById('drop');
-    ['dragenter', 'dragover'].forEach((t) => d.addEventListener(t, (e) => { e.preventDefault(); d.classList.add('hot'); }));
-    ['dragleave', 'drop'].forEach((t) => d.addEventListener(t, (e) => { e.preventDefault(); d.classList.remove('hot'); }));
-    d.addEventListener('drop', (e) => { asBrief = false; addFiles(e.dataTransfer.files); });
-    document.getElementById('add').addEventListener('change', (e) => { addFiles(e.target.files); e.target.value = ''; });
+    const d = document.getElementById('drop'), main = d.closest('main') || d, add = document.getElementById('add');
+    /* the whole screen takes a drop and the whole files panel lights up (not only the dashed edge) */
+    dragZone(main, d, (files) => { asBrief = false; addFiles(files); });
+    add.addEventListener('change', (e) => { addFiles(e.target.files); e.target.value = ''; });
+    const opened = whileChoosing(d, add);
+    const bare = (t) => t === d || (t.closest && t.closest('.dzmsg')) || (t.matches && t.matches('.files, .row, .status') && t.closest('#drop') === d && !t.closest('button, a, .file'));
+    d.addEventListener('pointerdown', (e) => { if (bare(e.target)) d.classList.add('press'); });
+    ['pointerup', 'pointercancel', 'pointerleave'].forEach((t) => d.addEventListener(t, () => d.classList.remove('press')));
+    /* the empty parts of the panel are a button too: a click anywhere on it that is not a file or a button chooses files */
+    d.addEventListener('click', (e) => { if (bare(e.target) && !e.target.closest('input')) { asBrief = false; add.click(); opened(); } });
+    d.querySelector('[data-act="add"]').addEventListener('click', opened);
   }
   let asBrief = false;
   /* live: check each file here first (type and size, as server/core/uploads.py does), then send them one by one */
@@ -1821,6 +1921,9 @@
     ed.view = S.edView === 'deck' ? 'deck' : 'board';
     ed.slideN = S.edSlide || 1;
     ed.render();
+    /* the board's pictures are big: the sheets shuffle over the canvas until they have arrived */
+    const vp = document.getElementById('vp');
+    if (vp && !vp.querySelector(':scope > .ldov')) { vp.classList.add('ldwrap'); vp.insertAdjacentHTML('beforeend', LDOV('l')); watchLoad(vp); }
     rail(); panel(); bar();
   }
   function rail() {
@@ -2200,7 +2303,7 @@
     else if (e.key === 'Escape' && ed && !ed.editing) ed.select(null);
   });
   let rsT = null;
-  window.addEventListener('resize', () => { clearTimeout(rsT); rsT = setTimeout(() => { if (ed) { ed.render(); rail(); } else if (S.screen === 'home' || S.screen === 'plan') fillMinis(app); }, 150); });
+  window.addEventListener('resize', () => { clearTimeout(rsT); rsT = setTimeout(() => { if (ed) { ed.render(); rail(); } else if (S.screen === 'home' || S.screen === 'plan') fillMinis(app, S.screen === 'home', true); }, 150); });
 
   /* Rating pop-up right after the first download (owner, 28 Oct). A native <dialog>: focus stays inside, Esc closes,
      the page behind is inert. The stars are real radio buttons, so arrow keys and screen readers work. */
@@ -2399,7 +2502,8 @@
   /* where a job belongs, from its status (a reload, the receipt link on another device, or the return from Dodo) */
   async function refresh(fromReceipt) {
     if (DEMO || !S.job) { render(); return; }
-    if (!app.innerHTML) app.innerHTML = '<main class="wrap narrow"><p class="kicker">Studio FGA</p><h1 class="mid">Opening your project…</h1></main>';
+    const boot = app.querySelector('.boot span:last-child');   // the shuffling sheets from index.html stay up while the project opens
+    if (boot) boot.textContent = 'Opening your project…'; else if (!app.innerHTML) app.innerHTML = '<main class="wrap narrow"><p class="kicker">Studio FGA</p><h1 class="mid">Opening your project…</h1></main>';
     const r = await API.status(S.job);
     if (!r.ok) {
       if (VIEW) { viewLost(r.status === 0 ? offline : r.status === 404 ? 'This student’s job is no longer there.' : (r.data.error ? r.data.error.charAt(0).toUpperCase() + r.data.error.slice(1) + '.' : 'This owner link is not valid.')); return; }
@@ -2443,27 +2547,30 @@
     if (API.ready) refresh(true); else viewLost('Studio can’t be reached from this page.');
     return;
   }
-  const h = (location.hash || '').replace(/^#/, '');
-  if (LEGAL.includes(h)) { location.replace(h + '/'); return; }
-  /* the receipt link: #job=<id>&t=<token>. Dodo may add ?payment_id=…&status=… after it: ignored. */
-  const mj = /(?:^|[#&?])job=([A-Za-z0-9_-]+)/.exec(location.hash), mt = /(?:^|[#&?])t=([A-Za-z0-9_-]+)/.exec(location.hash);
-  const fromReceipt = !DEMO && !!(mj && mt);
-  if (fromReceipt) {
-    if (!S.job || S.job.id !== mj[1]) S = freshS();   // a new device: the status decides the screen
-    else if (!['plan', 'price', 'making'].includes(S.screen)) S.screen = 'home';
-    S.job = { id: mj[1], t: mt[1] }; saveS();
-  } else if (SCREENS.includes(h)) S.screen = h;
-  else if (!h && !DEMO) S.screen = 'home';   // a plain /studio/ opens on the landing; a saved job is offered with a pill
-  if (S.screen === 'q' && !(S.q >= 1 && S.q <= path().length)) S.q = 1;
-  if (DEMO) {
-    if (restored && hist.length === 1 && S.screen === 'edit') setTimeout(() => toast('Your edits from last time are back.'), 600);
-    render();
-  } else if (S.job && API.ready) {
-    if (S.screen === 'home' && !fromReceipt) render();   // the landing page needs nothing from the API
-    else refresh(fromReceipt);
-  } else {
-    if (!['home'].includes(S.screen) && !API.ready) S.screen = 'home';
-    if (!S.job && !['home', 'upload'].includes(S.screen)) S.screen = 'home';
-    render();
-  }
+  const start = () => {
+    const h = (location.hash || '').replace(/^#/, '');
+    if (LEGAL.includes(h)) { location.replace(h + '/'); return; }
+    /* the receipt link: #job=<id>&t=<token>. Dodo may add ?payment_id=…&status=… after it: ignored. */
+    const mj = /(?:^|[#&?])job=([A-Za-z0-9_-]+)/.exec(location.hash), mt = /(?:^|[#&?])t=([A-Za-z0-9_-]+)/.exec(location.hash);
+    const fromReceipt = !DEMO && !!(mj && mt);
+    if (fromReceipt) {
+      if (!S.job || S.job.id !== mj[1]) S = freshS();   // a new device: the status decides the screen
+      else if (!['plan', 'price', 'making'].includes(S.screen)) S.screen = 'home';
+      S.job = { id: mj[1], t: mt[1] }; saveS();
+    } else if (SCREENS.includes(h)) S.screen = h;
+    else if (!h && !DEMO) S.screen = 'home';   // a plain /studio/ opens on the landing; a saved job is offered with a pill
+    if (S.screen === 'q' && !(S.q >= 1 && S.q <= path().length)) S.q = 1;
+    if (DEMO) {
+      if (restored && hist.length === 1 && S.screen === 'edit') setTimeout(() => toast('Your edits from last time are back.'), 600);
+      render();
+    } else if (S.job && API.ready) {
+      if (S.screen === 'home' && !fromReceipt) render();   // the landing page needs nothing from the API
+      else refresh(fromReceipt);
+    } else {
+      if (!['home'].includes(S.screen) && !API.ready) S.screen = 'home';
+      if (!S.job && !['home', 'upload'].includes(S.screen)) S.screen = 'home';
+      render();
+    }
+  };
+  start();
 })();
