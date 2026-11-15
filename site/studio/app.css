@@ -921,6 +921,12 @@ body[data-screen="upload"] .btn.primary::after, body[data-screen="q"] .btn.prima
 .ldov { position: absolute; inset: 0; z-index: 5; display: grid; place-items: center; background: var(--desk); border-radius: inherit; pointer-events: none; transition: opacity .25s ease, visibility 0s; }
 .ldwrap.ready > .ldov { opacity: 0; visibility: hidden; transition: opacity .25s ease, visibility 0s .25s; }
 .ldov .shuf { margin: 0; }
+/* last resort, no script needed: whatever happened, a shuffle never covers a preview for more than 40 s */
+.ldov { animation: ldfree .25s ease 40s forwards; }
+@keyframes ldfree { to { opacity: 0; visibility: hidden; } }
+/* a picture that would not load (a 404): a plain neutral box with its title, never an endless shuffle */
+.ldfail { position: absolute; inset: 0; z-index: 6; display: grid; place-items: center; padding: 8px; text-align: center; background: var(--desk); border-radius: inherit; color: var(--muted); font: 600 13px/1.3 var(--mono); pointer-events: none; overflow: hidden; }
+.ldfail b { font-weight: inherit; max-width: 100%; overflow-wrap: anywhere; display: -webkit-box; -webkit-line-clamp: 4; -webkit-box-orient: vertical; overflow: hidden; }
 .fcard > .ldov { z-index: 1; }
 .fcard { position: relative; }
 .glimg .glbox { aspect-ratio: var(--ar); width: min(100%, calc((100dvh - 210px) * var(--arn))); max-width: 100%; background: #fff; }
