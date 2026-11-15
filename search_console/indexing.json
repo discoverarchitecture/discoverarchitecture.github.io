@@ -1,14 +1,14 @@
 {
- "updated_at": "2026-11-14T11:51:12+00:00",
+ "updated_at": "2026-11-15T12:20:13+00:00",
  "site": "sc-domain:findgreatarchitecture.com",
  "summary": {
   "sitemap_pages": 2763,
   "checked": 2763,
-  "indexed": 616,
-  "indexed_share": 0.223,
+  "indexed": 341,
+  "indexed_share": 0.123,
   "by_state": {
-   "Crawled - currently not indexed": 2025,
-   "Submitted and indexed": 616,
+   "Crawled - currently not indexed": 2300,
+   "Submitted and indexed": 341,
    "URL is unknown to Google": 101,
    "Excluded by \u2018noindex\u2019 tag": 21
   }
@@ -1884,16 +1884,16 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/22-parkside/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-15",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/23-de-enero-superblocks/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-14",
    "google_canonical": null
   },
@@ -1926,9 +1926,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/4x4-house/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-21",
    "google_canonical": null
   },
@@ -2024,10 +2024,10 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/academy-of-arts-hanseatenweg/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
-   "last_crawl": "2026-10-13",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
+   "last_crawl": "2026-10-14",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/academy-of-arts-pariser-platz/": {
@@ -2059,9 +2059,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/acropolis-and-philopappou-hill-paths/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-14",
    "google_canonical": null
   },
@@ -2129,9 +2129,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/aero-habitat/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-21",
    "google_canonical": null
   },
@@ -2143,9 +2143,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/agios-dimitrios-circular-school/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-16",
    "google_canonical": null
   },
@@ -2283,9 +2283,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/alisher-navoi-opera-and-ballet-theatre/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -2395,9 +2395,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/amorepacific-headquarters/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-22",
    "google_canonical": null
   },
@@ -2416,7 +2416,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/anacleto-angelini-innovation-center/": {
-   "checked": "2026-10-24",
+   "checked": "2026-11-15",
    "verdict": "PASS",
    "state": "Submitted and indexed",
    "last_crawl": "2026-10-13",
@@ -2430,9 +2430,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/ananda-temple/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -2451,9 +2451,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/ankara-railway-station/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-14",
    "google_canonical": null
   },
@@ -2479,9 +2479,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/antigone-montpellier/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-14",
    "google_canonical": null
   },
@@ -2563,16 +2563,16 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/arcades-du-lac/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/archaeological-museum-of-ioannina/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-14",
    "google_canonical": null
   },
@@ -2682,9 +2682,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/asian-games-village/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -2745,23 +2745,23 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/ataturk-library/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-21",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/atelier-bardill/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/athens-conservatoire/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -2871,9 +2871,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/autrique-house/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -2927,9 +2927,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/bacardi-bottling-plant/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -2976,9 +2976,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/baitul-mukarram/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-16",
    "google_canonical": null
   },
@@ -3039,9 +3039,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/bangkok-art-and-culture-centre/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-14",
    "google_canonical": null
   },
@@ -3137,9 +3137,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/basilica-of-our-lady-of-peace-of-yamoussoukro/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -3200,9 +3200,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/bavinger-house/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-21",
    "google_canonical": null
   },
@@ -3361,9 +3361,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/berkeley-art-museum-original-building/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -3508,7 +3508,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/bitexco-financial-tower/": {
-   "checked": "2026-10-24",
+   "checked": "2026-11-15",
    "verdict": "PASS",
    "state": "Submitted and indexed",
    "last_crawl": "2026-10-17",
@@ -3571,9 +3571,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/blue-building-athens/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-14",
    "google_canonical": null
   },
@@ -3613,9 +3613,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/bodegas-guell/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-14",
    "google_canonical": null
   },
@@ -3634,7 +3634,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/bolgatanga-library/": {
-   "checked": "2026-10-25",
+   "checked": "2026-11-15",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
@@ -3662,9 +3662,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/borujerdi-house/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-14",
    "google_canonical": null
   },
@@ -3690,9 +3690,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/boston-public-library-mckim-building/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -3760,9 +3760,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/breuer-house-ii-new-canaan/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -3921,9 +3921,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/buseoksa-muryangsujeon/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-14",
    "google_canonical": null
   },
@@ -3970,9 +3970,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/cafe-de-unie/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-14",
    "google_canonical": null
   },
@@ -4054,9 +4054,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/caltrans-district-7-headquarters/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-14",
    "google_canonical": null
   },
@@ -4075,9 +4075,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/camino-real-hotel-mexico-city/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -4131,9 +4131,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/cap-ferret-house/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-23",
    "google_canonical": null
   },
@@ -4152,9 +4152,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/capilla-del-retiro/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-14",
    "google_canonical": null
   },
@@ -4180,9 +4180,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/capitaspring/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-14",
    "google_canonical": null
   },
@@ -4194,9 +4194,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/capitol-records-building/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-14",
    "google_canonical": null
   },
@@ -4222,9 +4222,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/carre-d-art/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-14",
    "google_canonical": null
   },
@@ -4236,9 +4236,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/casa-alle-zattere/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-14",
    "google_canonical": null
   },
@@ -4257,16 +4257,16 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/casa-bloc/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-15",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/casa-butanta/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -4306,9 +4306,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/casa-de-blas/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-14",
    "google_canonical": null
   },
@@ -4341,16 +4341,16 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/casa-gaspar/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/casa-gilardi/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-14",
    "google_canonical": null
   },
@@ -4390,9 +4390,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/casa-papanice/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-14",
    "google_canonical": null
   },
@@ -4411,9 +4411,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/casa-rotonda-stabio/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -4425,9 +4425,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/casa-rustici/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-14",
    "google_canonical": null
   },
@@ -4439,9 +4439,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/casa-ugalde/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-14",
    "google_canonical": null
   },
@@ -4537,9 +4537,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/cathedral-of-learning/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -4719,9 +4719,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/century-plaza-towers/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-14",
    "google_canonical": null
   },
@@ -4768,9 +4768,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/chasse-theater/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -4782,9 +4782,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/chemosphere/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-21",
    "google_canonical": null
   },
@@ -4796,9 +4796,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/chhatrapati-shivaji-maharaj-international-airport-terminal-2/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-14",
    "google_canonical": null
   },
@@ -4845,16 +4845,16 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/chiesa-di-longarone/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/chiesa-madre-di-gibellina/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-14",
    "google_canonical": null
   },
@@ -4866,9 +4866,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/children-s-memorial-yad-vashem/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-14",
    "google_canonical": null
   },
@@ -4901,9 +4901,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/choux-de-creteil/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-21",
    "google_canonical": null
   },
@@ -4936,7 +4936,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/chulalongkorn-university-centenary-park/": {
-   "checked": "2026-10-24",
+   "checked": "2026-11-15",
    "verdict": "PASS",
    "state": "Submitted and indexed",
    "last_crawl": "2026-10-13",
@@ -4950,16 +4950,16 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/church-of-la-medalla-milagrosa/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/church-of-saint-anthony-of-polana/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -4978,9 +4978,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/church-of-saint-peter-durazno/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-14",
    "google_canonical": null
   },
@@ -5167,9 +5167,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/civic-center-of-lima/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-14",
    "google_canonical": null
   },
@@ -5300,9 +5300,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/concord-pavilion/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -5440,9 +5440,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/curtain-wall-house/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-14",
    "google_canonical": null
   },
@@ -5461,9 +5461,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/cuvillies-theatre/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -5517,16 +5517,16 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/darat-al-funun/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/das-gelbe-haus-flims/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-16",
    "google_canonical": null
   },
@@ -5615,9 +5615,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/delta-shelter/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-21",
    "google_canonical": null
   },
@@ -5734,16 +5734,16 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/diamond-ranch-high-school/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-15",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/diar-es-saada/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-14",
    "google_canonical": null
   },
@@ -5755,9 +5755,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/diego-rivera-and-frida-kahlo-house-studio/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-16",
    "google_canonical": null
   },
@@ -5832,9 +5832,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/dominican-chapel-ibadan/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-21",
    "google_canonical": null
   },
@@ -5902,9 +5902,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/dudhsagar-dairy/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -5993,9 +5993,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/eclac-building/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-14",
    "google_canonical": null
   },
@@ -6133,9 +6133,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/el-colegio-de-mexico/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -6189,9 +6189,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/entebbe-children-s-surgical-hospital/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-14",
    "google_canonical": null
   },
@@ -6287,9 +6287,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/estadio-serra-dourada/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-14",
    "google_canonical": null
   },
@@ -6343,9 +6343,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/everson-museum-of-art/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-14",
    "google_canonical": null
   },
@@ -6371,9 +6371,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/faculty-of-architecture-university-of-porto/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-14",
    "google_canonical": null
   },
@@ -6448,9 +6448,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/final-wooden-house/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-21",
    "google_canonical": null
   },
@@ -6567,16 +6567,16 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/flower-kiosk-malmo-eastern-cemetery/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-16",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/flower-tower/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -6630,9 +6630,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/fondazione-feltrinelli/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-14",
    "google_canonical": null
   },
@@ -6798,16 +6798,16 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/future-university-hakodate/": {
-   "checked": "2026-10-24",
+   "checked": "2026-11-15",
    "verdict": "PASS",
    "state": "Submitted and indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/gabriel-garcia-marquez-cultural-center/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-21",
    "google_canonical": null
   },
@@ -6826,9 +6826,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/galleria-department-store-seoul/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -6868,14 +6868,14 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/garage-with-chauffeur-s-flat/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-14",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/garden-and-house/": {
-   "checked": "2026-10-25",
+   "checked": "2026-11-15",
    "verdict": "PASS",
    "state": "Submitted and indexed",
    "last_crawl": "2026-10-13",
@@ -6994,16 +6994,16 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/geschwister-scholl-schule/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/gifu-kitagata-apartment/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -7015,9 +7015,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/glasgow-school-of-art/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -7043,9 +7043,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/glass-house-jeju/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -7106,9 +7106,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/gosstrakh-apartments/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-14",
    "google_canonical": null
   },
@@ -7120,9 +7120,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/government-complex-sejong/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -7155,9 +7155,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/graduate-house-university-of-toronto/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -7197,16 +7197,16 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/grand-national-assembly-of-turkey/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-15",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/grand-parc-bordeaux-transformation/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-15",
    "google_canonical": null
   },
@@ -7484,9 +7484,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/hallfield-primary-school/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -7526,9 +7526,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/hanoi-museum/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-14",
    "google_canonical": null
   },
@@ -7617,9 +7617,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/haus-gugalun/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-14",
    "google_canonical": null
   },
@@ -7862,9 +7862,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/ho-chi-minh-mausoleum/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -7883,16 +7883,16 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/hoenheim-nord-terminus/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-14",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/hohenhof/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-14",
    "google_canonical": null
   },
@@ -7974,14 +7974,14 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/hooper-house-ii/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-15",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/hopkins-house/": {
-   "checked": "2026-10-25",
+   "checked": "2026-11-15",
    "verdict": "PASS",
    "state": "Submitted and indexed",
    "last_crawl": "2026-10-20",
@@ -8009,16 +8009,16 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/hospicio-cabanas/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/hospital-naval-buenos-aires/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-15",
    "google_canonical": null
   },
@@ -8072,7 +8072,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/hotel-humboldt/": {
-   "checked": "2026-10-24",
+   "checked": "2026-11-15",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-17",
@@ -8135,16 +8135,16 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/house-in-white/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-14",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/house-n/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-14",
    "google_canonical": null
   },
@@ -8163,9 +8163,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/house-of-music-hungary/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -8212,9 +8212,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/hu-huishan-memorial/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -8331,9 +8331,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/ibm-la-gaude/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-17",
    "google_canonical": null
   },
@@ -8415,16 +8415,16 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/independence-memorial-hall/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/independence-monument-cambodia/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -8478,9 +8478,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/institute-of-contemporary-art-boston/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -8492,9 +8492,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/institute-of-foreign-languages/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-14",
    "google_canonical": null
   },
@@ -8702,9 +8702,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/james-a-farley-building-moynihan-train-hall/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-22",
    "google_canonical": null
   },
@@ -8737,9 +8737,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/jardinette-apartments/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-21",
    "google_canonical": null
   },
@@ -8751,9 +8751,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/jeevan-bharati-building/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -8786,9 +8786,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/jetwing-lighthouse/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-15",
    "google_canonical": null
   },
@@ -8814,9 +8814,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/jim-thompson-house/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-20",
    "google_canonical": null
   },
@@ -8863,9 +8863,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/joieria-roca/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -8905,7 +8905,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/juscelino-kubitschek-bridge/": {
-   "checked": "2026-10-25",
+   "checked": "2026-11-15",
    "verdict": "PASS",
    "state": "Submitted and indexed",
    "last_crawl": "2026-10-13",
@@ -8947,9 +8947,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/kafd-metro-station/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-15",
    "google_canonical": null
   },
@@ -8975,9 +8975,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/kala-academy/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -9122,9 +9122,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/kaze-no-oka-crematorium/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-15",
    "google_canonical": null
   },
@@ -9143,9 +9143,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/kempegowda-international-airport-terminal-2/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-14",
    "google_canonical": null
   },
@@ -9178,7 +9178,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/kigali-convention-centre/": {
-   "checked": "2026-10-25",
+   "checked": "2026-11-15",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
@@ -9206,9 +9206,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/king-fahd-national-library/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -9360,9 +9360,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/kollhoff-tower/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-14",
    "google_canonical": null
   },
@@ -9388,9 +9388,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/konstantinidis-weekend-house-anavyssos/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -9486,16 +9486,16 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/kulturpalast-dresden/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-15",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/kumano-kodo-nakahechi-museum-of-art/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -9626,9 +9626,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/l-arbre-blanc/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -9640,16 +9640,16 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/la-collina-omihachiman/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-14",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/la-congiunta/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-15",
    "google_canonical": null
   },
@@ -9661,9 +9661,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/la-lira-theatre-public-space/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-14",
    "google_canonical": null
   },
@@ -9689,9 +9689,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/la-tallera/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-14",
    "google_canonical": null
   },
@@ -9710,14 +9710,14 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/lamune-onsen/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-14",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/lanaras-weekend-house/": {
-   "checked": "2026-10-25",
+   "checked": "2026-11-15",
    "verdict": "PASS",
    "state": "Submitted and indexed",
    "last_crawl": "2026-10-14",
@@ -9731,7 +9731,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/langer-eugen/": {
-   "checked": "2026-10-24",
+   "checked": "2026-11-15",
    "verdict": "PASS",
    "state": "Submitted and indexed",
    "last_crawl": "2026-10-13",
@@ -9759,9 +9759,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/lappia-hall/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-19",
    "google_canonical": null
   },
@@ -9794,16 +9794,16 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/le-fresnoy/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-16",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/le-volcan-le-havre/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -9836,9 +9836,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/leicester-university-engineering-building/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -9969,9 +9969,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/lisbon-port-control-tower/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -10011,9 +10011,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/loja-forma/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -10067,9 +10067,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/los-manantiales-restaurant/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-14",
    "google_canonical": null
   },
@@ -10116,9 +10116,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/luma-arles-tower/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-21",
    "google_canonical": null
   },
@@ -10137,9 +10137,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/lycee-schorge/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -10193,9 +10193,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/magney-house/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -10207,7 +10207,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/maison-a-bordeaux/": {
-   "checked": "2026-10-25",
+   "checked": "2026-11-15",
    "verdict": "PASS",
    "state": "Submitted and indexed",
    "last_crawl": "2026-10-13",
@@ -10298,16 +10298,16 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/malaysian-houses-of-parliament/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/malba/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-21",
    "google_canonical": null
   },
@@ -10389,9 +10389,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/mapungubwe-interpretation-centre/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -10431,7 +10431,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/margaret-esherick-house/": {
-   "checked": "2026-10-25",
+   "checked": "2026-11-15",
    "verdict": "PASS",
    "state": "Submitted and indexed",
    "last_crawl": "2026-10-13",
@@ -10445,9 +10445,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/marie-short-house/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -10487,9 +10487,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/markisches-museum/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -10578,9 +10578,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/mausoleo-delle-fosse-ardeatine/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-21",
    "google_canonical": null
   },
@@ -10613,9 +10613,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/mcgregor-memorial-conference-center/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -10683,9 +10683,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/memorial-to-the-deportees-yad-vashem/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -10711,16 +10711,16 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/menara-tabung-haji/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-14",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/menara-umno/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -10739,9 +10739,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/mesa-laboratory-ncar/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-14",
    "google_canonical": null
   },
@@ -10767,9 +10767,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/mestizo-restaurant/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-21",
    "google_canonical": null
   },
@@ -10809,7 +10809,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/metu-faculty-of-architecture/": {
-   "checked": "2026-10-25",
+   "checked": "2026-11-15",
    "verdict": "PASS",
    "state": "Submitted and indexed",
    "last_crawl": "2026-10-14",
@@ -10921,9 +10921,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/minna-no-mori-gifu-media-cosmos/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-14",
    "google_canonical": null
   },
@@ -10977,9 +10977,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/mmca-seoul/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-14",
    "google_canonical": null
   },
@@ -11061,9 +11061,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/monterrey-housing/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -11180,9 +11180,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/multihalle-mannheim/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-16",
    "google_canonical": null
   },
@@ -11264,16 +11264,16 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/musee-jean-cocteau-menton/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-14",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/musee-yves-saint-laurent-marrakech/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-14",
    "google_canonical": null
   },
@@ -11306,16 +11306,16 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/museo-experimental-el-eco/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-14",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/museo-jumex/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-14",
    "google_canonical": null
   },
@@ -11348,9 +11348,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/museo-universitario-arte-contemporaneo/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-21",
    "google_canonical": null
   },
@@ -11425,9 +11425,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/museum-of-byzantine-culture/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -11446,9 +11446,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/museum-of-military-history-arsenal/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-14",
    "google_canonical": null
   },
@@ -11600,16 +11600,16 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/nantes-school-of-architecture/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-15",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/naoshima-ferry-terminal/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -11670,7 +11670,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/national-art-schools-havana/": {
-   "checked": "2026-10-25",
+   "checked": "2026-11-15",
    "verdict": "PASS",
    "state": "Submitted and indexed",
    "last_crawl": "2026-10-13",
@@ -11719,9 +11719,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/national-crafts-museum/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -11775,9 +11775,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/national-library-building/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-14",
    "google_canonical": null
   },
@@ -11824,16 +11824,16 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/national-monument-indonesia/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/national-museum-architecture/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -11943,16 +11943,16 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/national-space-centre/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/national-stadium-singapore/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -11971,9 +11971,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/national-theatre-lagos/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -12020,9 +12020,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/negev-brigade-monument/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -12111,7 +12111,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/neviges-pilgrimage-church/": {
-   "checked": "2026-10-25",
+   "checked": "2026-11-15",
    "verdict": "PASS",
    "state": "Submitted and indexed",
    "last_crawl": "2026-10-14",
@@ -12174,7 +12174,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/new-town-hall-hanover/": {
-   "checked": "2026-10-24",
+   "checked": "2026-11-15",
    "verdict": "PASS",
    "state": "Submitted and indexed",
    "last_crawl": "2026-10-16",
@@ -12265,9 +12265,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/nira-house/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-14",
    "google_canonical": null
   },
@@ -12349,16 +12349,16 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/norwegian-glacier-museum/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-14",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/norwegian-wild-reindeer-pavilion/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-22",
    "google_canonical": null
   },
@@ -12377,9 +12377,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/notre-dame-du-raincy/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -12412,9 +12412,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/nur-alem/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-16",
    "google_canonical": null
   },
@@ -12461,9 +12461,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/oberrealta-chapel/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -12482,9 +12482,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/odunpazar-modern-museum/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -12496,14 +12496,14 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/oita-prefectural-library-art-plaza/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-15",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/okanoyama-museum-of-art/": {
-   "checked": "2026-10-24",
+   "checked": "2026-11-15",
    "verdict": "PASS",
    "state": "Submitted and indexed",
    "last_crawl": "2026-10-13",
@@ -12671,9 +12671,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/open-hand-monument/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -12685,16 +12685,16 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/opus-hong-kong/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/orange-cube/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -12825,16 +12825,16 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/pakistan-monument/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-14",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/paks-catholic-church/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-14",
    "google_canonical": null
   },
@@ -12860,9 +12860,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/palace-of-justice-punjab-and-haryana-high-court/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-16",
    "google_canonical": null
   },
@@ -12916,7 +12916,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/palacio-barolo/": {
-   "checked": "2026-10-24",
+   "checked": "2026-11-15",
    "verdict": "PASS",
    "state": "Submitted and indexed",
    "last_crawl": "2026-10-13",
@@ -13056,9 +13056,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/palazzo-dell-arte-triennale-di-milano/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-14",
    "google_canonical": null
   },
@@ -13098,9 +13098,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/palazzo-piccolomini/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-14",
    "google_canonical": null
   },
@@ -13140,9 +13140,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/palmach-museum/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -13161,9 +13161,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/pampulha-art-museum-former-casino/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-15",
    "google_canonical": null
   },
@@ -13175,9 +13175,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/paper-house/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-14",
    "google_canonical": null
   },
@@ -13322,9 +13322,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/pavillon-noir/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -13413,9 +13413,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/people-s-park-complex/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -13434,9 +13434,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/perot-museum-of-nature-and-science/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -13567,9 +13567,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/place-bonaventure/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -13581,9 +13581,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/planetario-galileo-galilei/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-14",
    "google_canonical": null
   },
@@ -13623,16 +13623,16 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/ponte-genova-san-giorgio/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-16",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/ponte-musmeci/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-15",
    "google_canonical": null
   },
@@ -13672,16 +13672,16 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/potato-head-beach-club/": {
-   "checked": "2026-10-25",
+   "checked": "2026-11-15",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/pousada-de-santa-marinha/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-14",
    "google_canonical": null
   },
@@ -13707,16 +13707,16 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/ppg-place/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/praca-das-artes/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-18",
    "google_canonical": null
   },
@@ -13840,9 +13840,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/qatar-national-convention-centre/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -13959,9 +13959,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/ramses-wissa-wassef-art-centre/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -14274,16 +14274,16 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/rockefeller-museum/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/rodoviaria-de-jau/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-14",
    "google_canonical": null
   },
@@ -14316,9 +14316,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/rokko-housing/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-21",
    "google_canonical": null
   },
@@ -14337,9 +14337,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/roof-house/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-17",
    "google_canonical": null
   },
@@ -14505,9 +14505,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/rue-des-suisses-housing/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-18",
    "google_canonical": null
   },
@@ -14673,16 +14673,16 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/san-cataldo-cemetery/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/san-francisco-federal-building/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -14694,7 +14694,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/san-miguel-corporation-building/": {
-   "checked": "2026-10-25",
+   "checked": "2026-11-15",
    "verdict": "PASS",
    "state": "Submitted and indexed",
    "last_crawl": "2026-10-13",
@@ -14771,16 +14771,16 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/santa-maria-da-feira-municipal-market/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/santo-andre-civic-centre/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -14820,9 +14820,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/sardar-vallabhbhai-patel-stadium/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -14925,9 +14925,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/schocken-library/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-21",
    "google_canonical": null
   },
@@ -14939,9 +14939,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/school-of-the-arts-singapore/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-15",
    "google_canonical": null
   },
@@ -15051,9 +15051,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/seonyudo-park/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -15065,14 +15065,14 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/seoul-city-hall/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-14",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/seoul-olympic-stadium/": {
-   "checked": "2026-10-25",
+   "checked": "2026-11-15",
    "verdict": "PASS",
    "state": "Submitted and indexed",
    "last_crawl": "2026-10-15",
@@ -15128,9 +15128,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/shaheed-minar-dhaka/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -15338,9 +15338,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/silver-hut/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -15359,9 +15359,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/singapore-conference-hall/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-19",
    "google_canonical": null
   },
@@ -15436,9 +15436,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/skopje-telecommunications-centre/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-20",
    "google_canonical": null
   },
@@ -15450,9 +15450,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/sky-house/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -15485,16 +15485,16 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/snu-museum-of-art/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/social-security-complex-zeyrek/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-21",
    "google_canonical": null
   },
@@ -15520,9 +15520,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/solar-do-unhao/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -15534,9 +15534,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/somisa-building/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -15555,9 +15555,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/soulages-museum/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -15583,9 +15583,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/space-group-building/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-21",
    "google_canonical": null
   },
@@ -15639,9 +15639,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/st-anna-duren/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-15",
    "google_canonical": null
   },
@@ -15681,9 +15681,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/st-johann-von-capistran/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-14",
    "google_canonical": null
   },
@@ -15695,9 +15695,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/st-louis-lambert-international-airport-terminal-1/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -15800,9 +15800,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/stadsschouwburg-utrecht/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-14",
    "google_canonical": null
   },
@@ -15968,9 +15968,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/stone-museum/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -16087,9 +16087,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/sunnyhills-minami-aoyama/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -16122,9 +16122,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/supreme-federal-court/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -16136,9 +16136,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/surgical-clinic-and-health-centre/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -16185,7 +16185,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/swiss-national-park-visitor-centre/": {
-   "checked": "2026-10-25",
+   "checked": "2026-11-15",
    "verdict": "PASS",
    "state": "Submitted and indexed",
    "last_crawl": "2026-10-13",
@@ -16248,7 +16248,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/tagblatt-turm/": {
-   "checked": "2026-10-24",
+   "checked": "2026-11-15",
    "verdict": "PASS",
    "state": "Submitted and indexed",
    "last_crawl": "2026-10-13",
@@ -16297,9 +16297,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/takasugi-an/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -16472,9 +16472,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/teatro-oficina/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -16486,9 +16486,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/teatro-regional-del-biobio/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -16542,9 +16542,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/teleton-children-s-rehabilitation-centre/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-15",
    "google_canonical": null
   },
@@ -16584,16 +16584,16 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/teresa-carreno-cultural-complex/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-14",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/termas-geometricas/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -16654,16 +16654,16 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/the-hive-nanyang-technological-university/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/the-index/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-14",
    "google_canonical": null
   },
@@ -16682,9 +16682,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/the-lowry/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-22",
    "google_canonical": null
   },
@@ -16696,9 +16696,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/the-museum-hotel-antakya/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-15",
    "google_canonical": null
   },
@@ -16857,9 +16857,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/tokyo-metropolitan-teien-art-museum/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -16892,9 +16892,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/tomb-of-nader-shah/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -17025,9 +17025,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/torre-reforma/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-14",
    "google_canonical": null
   },
@@ -17060,9 +17060,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/tossols-basil-athletics-track/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-14",
    "google_canonical": null
   },
@@ -17081,9 +17081,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/tour-de-lille/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -17193,9 +17193,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/tulou-collective-housing/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -17277,16 +17277,16 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/umbrella-house-kasa-no-ie/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/unidad-vecinal-portales/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -17431,16 +17431,16 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/unknown-soldier-memorial-cairo/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-14",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/upper-lawn-pavilion/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-14",
    "google_canonical": null
   },
@@ -17480,9 +17480,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/utec-university-campus/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -17578,9 +17578,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/vertical-courtyard-apartments/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-17",
    "google_canonical": null
   },
@@ -17606,9 +17606,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/vidhan-bhavan/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -17634,9 +17634,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/vietnam-national-convention-center/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-15",
    "google_canonical": null
   },
@@ -17683,9 +17683,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/villa-busk/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -17704,9 +17704,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/villa-dall-ava/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-15",
    "google_canonical": null
   },
@@ -17788,9 +17788,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/villa-mediterranee/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-15",
    "google_canonical": null
   },
@@ -17844,9 +17844,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/villa-schreiner/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-14",
    "google_canonical": null
   },
@@ -17886,9 +17886,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/villa-verde-housing/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -17928,9 +17928,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/voortrekker-monument/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-13",
    "google_canonical": null
   },
@@ -18236,16 +18236,16 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/wnw-bar/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-17",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/wohl-centre/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-18",
    "google_canonical": null
   },
@@ -18278,9 +18278,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/woodland-cemetery/": {
-   "checked": "2026-10-25",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-14",
    "google_canonical": null
   },
@@ -18362,9 +18362,9 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/yad-kennedy/": {
-   "checked": "2026-10-24",
-   "verdict": "PASS",
-   "state": "Submitted and indexed",
+   "checked": "2026-11-15",
+   "verdict": "NEUTRAL",
+   "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-14",
    "google_canonical": null
   },
