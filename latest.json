@@ -1,13 +1,13 @@
 {
- "fetched_at": "2026-11-16T06:06:42+00:00",
+ "fetched_at": "2026-11-16T15:35:04+00:00",
  "site": "akshatpagaria.goatcounter.com",
  "window_days": 30,
- "visits_30d": 3290,
+ "visits_30d": 3376,
  "sections": {
   "pages": {
    "hits": [
     {
-     "count": 524,
+     "count": 525,
      "path_id": 112020267,
      "path": "/",
      "event": false,
@@ -15,7 +15,7 @@
      "max": 36
     },
     {
-     "count": 144,
+     "count": 152,
      "path_id": 113691164,
      "path": "/studio",
      "event": false,
@@ -23,7 +23,7 @@
      "max": 6
     },
     {
-     "count": 102,
+     "count": 110,
      "path_id": 116720890,
      "path": "studio/screen/home",
      "event": true,
@@ -31,7 +31,7 @@
      "max": 3
     },
     {
-     "count": 94,
+     "count": 95,
      "path_id": 113298212,
      "path": "map/open",
      "event": true,
@@ -47,11 +47,27 @@
      "max": 9
     },
     {
-     "count": 37,
+     "count": 42,
      "path_id": 116802573,
      "path": "studio/scroll/25",
      "event": true,
      "title": "Studio \u00b7 scroll \u00b7 25",
+     "max": 2
+    },
+    {
+     "count": 40,
+     "path_id": 120621079,
+     "path": "studio/flow/paywall",
+     "event": true,
+     "title": "Studio: flow paywall",
+     "max": 3
+    },
+    {
+     "count": 35,
+     "path_id": 116837291,
+     "path": "studio/scroll/50",
+     "event": true,
+     "title": "Studio \u00b7 scroll \u00b7 50",
      "max": 2
     },
     {
@@ -64,22 +80,6 @@
     },
     {
      "count": 32,
-     "path_id": 120621079,
-     "path": "studio/flow/paywall",
-     "event": true,
-     "title": "Studio: flow paywall",
-     "max": 3
-    },
-    {
-     "count": 31,
-     "path_id": 116837291,
-     "path": "studio/scroll/50",
-     "event": true,
-     "title": "Studio \u00b7 scroll \u00b7 50",
-     "max": 2
-    },
-    {
-     "count": 31,
      "path_id": 116802640,
      "path": "studio/screen/upload",
      "event": true,
@@ -87,7 +87,7 @@
      "max": 2
     },
     {
-     "count": 27,
+     "count": 30,
      "path_id": 116837478,
      "path": "studio/scroll/75",
      "event": true,
@@ -95,7 +95,7 @@
      "max": 2
     },
     {
-     "count": 27,
+     "count": 28,
      "path_id": 116802650,
      "path": "studio/click/upload/toQ",
      "event": true,
@@ -103,7 +103,7 @@
      "max": 3
     },
     {
-     "count": 24,
+     "count": 25,
      "path_id": 117976633,
      "path": "studio/screen/q",
      "event": true,
@@ -111,23 +111,7 @@
      "max": 3
     },
     {
-     "count": 22,
-     "path_id": 117976689,
-     "path": "studio/click/q/qnext",
-     "event": true,
-     "title": "Studio \u00b7 click \u00b7 q \u00b7 qnext",
-     "max": 3
-    },
-    {
-     "count": 22,
-     "path_id": 117976651,
-     "path": "studio/click/q/pick",
-     "event": true,
-     "title": "Studio \u00b7 click \u00b7 q \u00b7 pick",
-     "max": 3
-    },
-    {
-     "count": 22,
+     "count": 24,
      "path_id": 116838001,
      "path": "studio/scroll/100",
      "event": true,
@@ -135,7 +119,23 @@
      "max": 2
     },
     {
-     "count": 19,
+     "count": 23,
+     "path_id": 117976689,
+     "path": "studio/click/q/qnext",
+     "event": true,
+     "title": "Studio \u00b7 click \u00b7 q \u00b7 qnext",
+     "max": 3
+    },
+    {
+     "count": 23,
+     "path_id": 117976651,
+     "path": "studio/click/q/pick",
+     "event": true,
+     "title": "Studio \u00b7 click \u00b7 q \u00b7 pick",
+     "max": 3
+    },
+    {
+     "count": 20,
      "path_id": 117976646,
      "path": "studio/typed/q",
      "event": true,
@@ -151,7 +151,7 @@
      "max": 1
     },
     {
-     "count": 14,
+     "count": 15,
      "path_id": 119289179,
      "path": "studio/click/home/hpick",
      "event": true,
@@ -159,7 +159,7 @@
      "max": 2
     },
     {
-     "count": 13,
+     "count": 14,
      "path_id": 119289191,
      "path": "studio/files/home",
      "event": true,
@@ -167,7 +167,7 @@
      "max": 2
     },
     {
-     "count": 13,
+     "count": 14,
      "path_id": 118826722,
      "path": "studio/screen/price",
      "event": true,
@@ -181,6 +181,22 @@
      "event": true,
      "title": "Studio \u00b7 files \u00b7 upload",
      "max": 2
+    },
+    {
+     "count": 12,
+     "path_id": 118234266,
+     "path": "/guides/a1-presentation-board",
+     "event": false,
+     "title": "How to Make an A1 Architecture Presentation Board (Guide)",
+     "max": 2
+    },
+    {
+     "count": 11,
+     "path_id": 117212605,
+     "path": "studio/click/home/sec",
+     "event": true,
+     "title": "Studio \u00b7 click \u00b7 home \u00b7 sec",
+     "max": 1
     },
     {
      "count": 11,
@@ -208,14 +224,6 @@
     },
     {
      "count": 10,
-     "path_id": 118234266,
-     "path": "/guides/a1-presentation-board",
-     "event": false,
-     "title": "How to Make an A1 Architecture Presentation Board (Guide)",
-     "max": 2
-    },
-    {
-     "count": 10,
      "path_id": 117976564,
      "path": "studio/click/upload/add",
      "event": true,
@@ -229,14 +237,6 @@
      "event": false,
      "title": "National Stadium, Singapore by Arup Associates",
      "max": 2
-    },
-    {
-     "count": 10,
-     "path_id": 117212605,
-     "path": "studio/click/home/sec",
-     "event": true,
-     "title": "Studio \u00b7 click \u00b7 home \u00b7 sec",
-     "max": 1
     },
     {
      "count": 10,
@@ -400,6 +400,22 @@
     },
     {
      "count": 5,
+     "path_id": 121730660,
+     "path": "studio/click/q/chip",
+     "event": true,
+     "title": "Studio \u00b7 click \u00b7 q \u00b7 chip",
+     "max": 1
+    },
+    {
+     "count": 5,
+     "path_id": 121730585,
+     "path": "studio/readcard/questions",
+     "event": true,
+     "title": "Studio: title block asked",
+     "max": 1
+    },
+    {
+     "count": 5,
      "path_id": 121452455,
      "path": "studio/making/jury",
      "event": true,
@@ -412,6 +428,14 @@
      "path": "/studio/guides/architecture-concept-diagram-ideas",
      "event": false,
      "title": "Architecture Concept Diagram Ideas: 10 That Work",
+     "max": 1
+    },
+    {
+     "count": 5,
+     "path_id": 119572539,
+     "path": "studio/video/play",
+     "event": true,
+     "title": "Studio \u00b7 video \u00b7 play",
      "max": 1
     },
     {
@@ -452,22 +476,6 @@
      "path": "/buildings/aalto-house-riihitie",
      "event": false,
      "title": "Aalto House (Riihitie) by Alvar Aalto: photos & key features",
-     "max": 1
-    },
-    {
-     "count": 4,
-     "path_id": 121730660,
-     "path": "studio/click/q/chip",
-     "event": true,
-     "title": "Studio \u00b7 click \u00b7 q \u00b7 chip",
-     "max": 1
-    },
-    {
-     "count": 4,
-     "path_id": 121730585,
-     "path": "studio/readcard/questions",
-     "event": true,
-     "title": "Studio: title block asked",
      "max": 1
     },
     {
@@ -624,6 +632,14 @@
     },
     {
      "count": 3,
+     "path_id": 121593407,
+     "path": "studio/making/review",
+     "event": true,
+     "title": "Studio: making review",
+     "max": 1
+    },
+    {
+     "count": 3,
      "path_id": 121452711,
      "path": "studio/checkout",
      "event": true,
@@ -661,14 +677,6 @@
      "event": true,
      "title": "Studio \u00b7 click \u00b7 planning \u00b7 preview",
      "max": 2
-    },
-    {
-     "count": 3,
-     "path_id": 119572539,
-     "path": "studio/video/play",
-     "event": true,
-     "title": "Studio \u00b7 video \u00b7 play",
-     "max": 1
     },
     {
      "count": 3,
@@ -712,10 +720,34 @@
     },
     {
      "count": 3,
+     "path_id": 115569751,
+     "path": "/buildings/teatro-degli-arcimboldi",
+     "event": false,
+     "title": "Teatro degli Arcimboldi by Vittorio Gregotti: photos",
+     "max": 1
+    },
+    {
+     "count": 3,
      "path_id": 115466105,
      "path": "/buildings/guggenheim-bilbao",
      "event": false,
      "title": "Guggenheim Bilbao by Frank Gehry: photos & plans",
+     "max": 1
+    },
+    {
+     "count": 3,
+     "path_id": 114692644,
+     "path": "/buildings/kuala-lumpur-railway-station",
+     "event": false,
+     "title": "Kuala Lumpur Railway Station by Arthur Benison Hubback",
+     "max": 1
+    },
+    {
+     "count": 3,
+     "path_id": 114386767,
+     "path": "/styles/modernism",
+     "event": false,
+     "title": "Modernist architecture: 934 buildings with photos & plans",
      "max": 1
     },
     {
@@ -732,6 +764,14 @@
      "path": "/buildings/tanzbrunnen-cologne",
      "event": false,
      "title": "Tanzbrunnen (Star Wave Tent) by Frei Otto: photos",
+     "max": 1
+    },
+    {
+     "count": 3,
+     "path_id": 114289437,
+     "path": "/buildings/piazza-d-italia",
+     "event": false,
+     "title": "Piazza d'Italia by Charles Moore with Perez Architects",
      "max": 1
     },
     {
@@ -765,68 +805,28 @@
      "event": false,
      "title": "Museum architecture: 685 buildings with photos & plans",
      "max": 1
-    },
-    {
-     "count": 3,
-     "path_id": 114025180,
-     "path": "/buildings/new-gourna-village",
-     "event": false,
-     "title": "New Gourna Village by Hassan Fathy: photos & key features",
-     "max": 1
-    },
-    {
-     "count": 3,
-     "path_id": 113995400,
-     "path": "building/kanchanjunga-apartments",
-     "event": true,
-     "title": "Kanchanjunga Apartments",
-     "max": 1
-    },
-    {
-     "count": 3,
-     "path_id": 113993864,
-     "path": "building/jehangir-art-gallery",
-     "event": true,
-     "title": "Jehangir Art Gallery",
-     "max": 1
-    },
-    {
-     "count": 3,
-     "path_id": 113988009,
-     "path": "building/sdu-campus-kolding",
-     "event": true,
-     "title": "SDU Campus Kolding",
-     "max": 2
-    },
-    {
-     "count": 3,
-     "path_id": 113987998,
-     "path": "building/quay-quarter-tower",
-     "event": true,
-     "title": "Quay Quarter Tower",
-     "max": 1
     }
    ],
-   "total": 1752,
+   "total": 1808,
    "more": true
   },
   "referrers": {
    "stats": [
     {
      "name": "",
-     "count": 1717,
+     "count": 1780,
      "ref_scheme": "o"
     },
     {
      "id": "Google",
      "name": "Google",
-     "count": 330,
+     "count": 339,
      "ref_scheme": "g"
     },
     {
      "id": "chatgpt.com",
      "name": "chatgpt.com",
-     "count": 210,
+     "count": 220,
      "ref_scheme": "c"
     },
     {
@@ -844,7 +844,7 @@
     {
      "id": "www.bing.com",
      "name": "www.bing.com",
-     "count": 29,
+     "count": 32,
      "ref_scheme": "h"
     },
     {
@@ -974,6 +974,12 @@
      "ref_scheme": "h"
     },
     {
+     "id": "perplexity",
+     "name": "perplexity",
+     "count": 1,
+     "ref_scheme": "c"
+    },
+    {
      "id": "notebook.google.com",
      "name": "notebook.google.com",
      "count": 1,
@@ -1053,17 +1059,17 @@
     {
      "id": "Chrome",
      "name": "Chrome",
-     "count": 2105
+     "count": 2185
     },
     {
      "id": "Safari",
      "name": "Safari",
-     "count": 928
+     "count": 930
     },
     {
      "id": "Firefox",
      "name": "Firefox",
-     "count": 58
+     "count": 62
     },
     {
      "name": "",
@@ -1077,27 +1083,27 @@
     {
      "id": "Windows",
      "name": "Windows",
-     "count": 1207
+     "count": 1257
     },
     {
      "id": "iOS",
      "name": "iOS",
-     "count": 771
+     "count": 772
     },
     {
      "id": "Android",
      "name": "Android",
-     "count": 642
+     "count": 661
     },
     {
      "id": "macOS",
      "name": "macOS",
-     "count": 327
+     "count": 334
     },
     {
      "id": "Linux",
      "name": "Linux",
-     "count": 143
+     "count": 152
     },
     {
      "id": "Chrome OS",
@@ -1116,12 +1122,12 @@
     {
      "id": "IN",
      "name": "India",
-     "count": 1339
+     "count": 1359
     },
     {
      "id": "US",
      "name": "United States",
-     "count": 461
+     "count": 468
     },
     {
      "id": "DE",
@@ -1136,12 +1142,17 @@
     {
      "id": "AR",
      "name": "Argentina",
-     "count": 69
+     "count": 84
     },
     {
      "id": "GB",
      "name": "United Kingdom",
      "count": 62
+    },
+    {
+     "id": "EG",
+     "name": "Egypt",
+     "count": 58
     },
     {
      "id": "PK",
@@ -1156,11 +1167,11 @@
     {
      "id": "JP",
      "name": "Japan",
-     "count": 44
+     "count": 45
     },
     {
-     "id": "EG",
-     "name": "Egypt",
+     "id": "SG",
+     "name": "Singapore",
      "count": 43
     },
     {
@@ -1169,14 +1180,9 @@
      "count": 41
     },
     {
-     "id": "SG",
-     "name": "Singapore",
-     "count": 40
-    },
-    {
      "id": "KR",
      "name": "South Korea",
-     "count": 38
+     "count": 39
     },
     {
      "id": "BR",
@@ -1186,7 +1192,7 @@
     {
      "id": "FR",
      "name": "France",
-     "count": 35
+     "count": 36
     },
     {
      "id": "CA",
@@ -1229,9 +1235,19 @@
      "count": 20
     },
     {
+     "id": "EC",
+     "name": "Ecuador",
+     "count": 18
+    },
+    {
      "id": "NZ",
      "name": "New Zealand",
      "count": 18
+    },
+    {
+     "id": "AE",
+     "name": "United Arab Emirates",
+     "count": 17
     },
     {
      "id": "ES",
@@ -1239,19 +1255,24 @@
      "count": 17
     },
     {
-     "id": "AE",
-     "name": "United Arab Emirates",
+     "id": "ID",
+     "name": "Indonesia",
      "count": 16
     },
     {
-     "id": "ID",
-     "name": "Indonesia",
+     "id": "PH",
+     "name": "Philippines",
      "count": 16
     },
     {
      "id": "SC",
      "name": "Seychelles",
      "count": 15
+    },
+    {
+     "id": "MX",
+     "name": "Mexico",
+     "count": 14
     },
     {
      "id": "OM",
@@ -1264,11 +1285,6 @@
      "count": 12
     },
     {
-     "id": "MX",
-     "name": "Mexico",
-     "count": 12
-    },
-    {
      "id": "PT",
      "name": "Portugal",
      "count": 12
@@ -1276,11 +1292,6 @@
     {
      "id": "HK",
      "name": "Hong Kong",
-     "count": 11
-    },
-    {
-     "id": "PH",
-     "name": "Philippines",
      "count": 11
     },
     {
@@ -1309,11 +1320,6 @@
      "count": 9
     },
     {
-     "id": "EC",
-     "name": "Ecuador",
-     "count": 8
-    },
-    {
      "id": "GR",
      "name": "Greece",
      "count": 8
@@ -1334,9 +1340,19 @@
      "count": 7
     },
     {
+     "id": "TH",
+     "name": "Thailand",
+     "count": 7
+    },
+    {
      "id": "TW",
      "name": "Taiwan",
      "count": 7
+    },
+    {
+     "id": "BD",
+     "name": "Bangladesh",
+     "count": 6
     },
     {
      "id": "CL",
@@ -1346,6 +1362,11 @@
     {
      "id": "FI",
      "name": "Finland",
+     "count": 6
+    },
+    {
+     "id": "MY",
+     "name": "Malaysia",
      "count": 6
     },
     {
@@ -1359,18 +1380,8 @@
      "count": 6
     },
     {
-     "id": "TH",
-     "name": "Thailand",
-     "count": 6
-    },
-    {
      "id": "AT",
      "name": "Austria",
-     "count": 5
-    },
-    {
-     "id": "BD",
-     "name": "Bangladesh",
      "count": 5
     },
     {
@@ -1399,14 +1410,14 @@
      "count": 5
     },
     {
-     "id": "MY",
-     "name": "Malaysia",
-     "count": 5
-    },
-    {
      "id": "SE",
      "name": "Sweden",
      "count": 5
+    },
+    {
+     "id": "DK",
+     "name": "Denmark",
+     "count": 4
     },
     {
      "id": "IL",
@@ -1431,11 +1442,6 @@
     {
      "id": "AO",
      "name": "Angola",
-     "count": 3
-    },
-    {
-     "id": "DK",
-     "name": "Denmark",
      "count": 3
     },
     {
@@ -1481,6 +1487,11 @@
     {
      "id": "HR",
      "name": "Croatia",
+     "count": 2
+    },
+    {
+     "id": "KG",
+     "name": "Kyrgyzstan",
      "count": 2
     },
     {
@@ -1559,11 +1570,6 @@
      "count": 1
     },
     {
-     "id": "KG",
-     "name": "Kyrgyzstan",
-     "count": 1
-    },
-    {
      "id": "MN",
      "name": "Mongolia",
      "count": 1
@@ -1591,22 +1597,22 @@
     {
      "id": "phone",
      "name": "",
-     "count": 1358
+     "count": 1378
     },
     {
      "id": "tablet",
      "name": "",
-     "count": 153
+     "count": 155
     },
     {
      "id": "desktop",
      "name": "",
-     "count": 1458
+     "count": 1520
     },
     {
      "id": "desktophd",
      "name": "",
-     "count": 124
+     "count": 126
     },
     {
      "id": "unknown",
@@ -1621,7 +1627,7 @@
     {
      "id": "(unknown)",
      "name": "(unknown)",
-     "count": 3093
+     "count": 3179
     }
    ],
    "more": false
