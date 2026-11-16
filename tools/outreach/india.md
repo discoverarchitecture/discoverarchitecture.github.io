@@ -7,8 +7,8 @@ uses it straight away. Spread across states and kinds of college. Mark each row 
 
 | College | City | Contact to look for | Sent |
 |---|---|---|---|
-| School of Planning and Architecture, Delhi | New Delhi | library, or Department of Architecture | |
-| School of Planning and Architecture, Bhopal | Bhopal | library | |
+| School of Planning and Architecture, Delhi | New Delhi | library, or Department of Architecture | 2026-11-16 (head of department) |
+| School of Planning and Architecture, Bhopal | Bhopal | library | 2026-11-16 (library) |
 | School of Planning and Architecture, Vijayawada | Vijayawada | library | |
 | Sir J.J. College of Architecture | Mumbai | library | |
 | Faculty of Architecture, Manipal (MSAP) | Manipal | library | |

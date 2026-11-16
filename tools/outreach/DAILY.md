@@ -134,6 +134,11 @@ problem. Otherwise one line: "Outreach: N sent, N follow-ups, no new replies."
 
 ## Limits
 
-- Weekdays only. At most 5 new emails and 15 follow-ups or reminders per run, so the account isn't flagged.
+- Weekdays only. At most 5 new emails a **day** (count the rows in `sent.md` already dated today; a run on demand may
+  have sent some) and 15 follow-ups or reminders per run, so the account isn't flagged.
+- Never guess an address (first.last@…): use only one the guide, the college site or a staff directory shows. With
+  none, note `no contact` and take the next school.
+- Push the contacts request and the listing check in **separate** commits a few minutes apart: two workflows saving
+  to the branch at once collide, and the second one's result is lost.
 - One follow-up per school, one reminder per yes. Never a third email to anyone.
 - Stop everything and tell the owner at the first complaint or request not to be contacted.

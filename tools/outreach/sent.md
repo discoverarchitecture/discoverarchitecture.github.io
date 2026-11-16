@@ -8,11 +8,11 @@ addresses here (the repository is public). Send about five a day; one short foll
 
 | # | School | Guide section the email names | Drafted | Sent | Reply |
 |---|---|---|---|---|---|
-| 1 | Clemson University | Find Images · Open-Access Image Collections | 2026-10-29 | 2026-10-29 | none by 6 Nov |
-| 2 | Kean University | Architecture Thesis Support · Image Resources Available on the Web | 2026-10-29 | 2026-10-29 | none by 6 Nov |
-| 3 | Barnard College | Architecture: Images · Image Databases in Architecture | 2026-10-29 | 2026-10-29 | none by 6 Nov |
-| 4 | University of Edinburgh | Architecture and Landscape Architecture · Internet resources for Architecture | 2026-10-29 | 2026-10-29 | none by 6 Nov |
-| 5 | Carnegie Mellon University | Architecture: Images & Media · Image Collections on the Free Web | 2026-10-29 | 2026-10-29 | none by 6 Nov |
+| 1 | Clemson University | Find Images · Open-Access Image Collections | 2026-10-29 | 2026-10-29 | none by 6 Nov; followed up 2026-11-16 |
+| 2 | Kean University | Architecture Thesis Support · Image Resources Available on the Web | 2026-10-29 | 2026-10-29 | none by 6 Nov; followed up 2026-11-16 |
+| 3 | Barnard College | Architecture: Images · Image Databases in Architecture | 2026-10-29 | 2026-10-29 | none by 6 Nov; followed up 2026-11-16 |
+| 4 | University of Edinburgh | Architecture and Landscape Architecture · Internet resources for Architecture | 2026-10-29 | 2026-10-29 | none by 6 Nov; followed up 2026-11-16 |
+| 5 | Carnegie Mellon University | Architecture: Images & Media · Image Collections on the Free Web | 2026-10-29 | 2026-10-29 | none by 6 Nov; followed up 2026-11-16 |
 | 6 | Auburn University | Environmental Design: Images · Images Resources Links | 2026-11-06 | 2026-11-06 | |
 | 7 | Fordham University | Architecture: Internet Resources · Modern Architectural Design Images | 2026-11-06 | 2026-11-06 | |
 | 8 | University of Oregon | Architecture & Building: Finding Images · Websites for Architecture Images | 2026-11-06 | 2026-11-06 | |
@@ -54,8 +54,12 @@ addresses here (the repository is public). Send about five a day; one short foll
 | 44 | University of Tennessee, Knoxville | Landscape Architecture guide | 2026-11-07 | 2026-11-09 |  |
 | 45 | Thomas Jefferson University | Landscape Architecture guide | 2026-11-07 | 2026-11-09 |  |
 | 46 | Oklahoma State University | Finding Images guide | 2026-11-07 | 2026-11-09 |  |
+| 47 | School of Planning and Architecture, Delhi (India) | Department of Architecture (head of department) | 2026-11-16 | 2026-11-16 | |
+| 48 | School of Planning and Architecture, Bhopal (India) | Library | 2026-11-16 | 2026-11-16 | |
+| 49 | University of California, Berkeley | American Architecture guide · Images (general library address) | 2026-11-16 | 2026-11-16 | |
+| 50 | Washington University in St. Louis | Guide to Architecture Resources · Images for Architecture | 2026-11-16 | 2026-11-16 | |
 
-Follow-ups for 1–5 are due from 12 Nov (one short note, never a third).
+Follow-ups for 1–5 sent 16 Nov (no more emails to them). Skipped on 16 Nov: UCLA (only the guide software's admin address; no architecture librarian found), MIT (no address found; the architecture librarian has a profile but no public email). Queue positions 0–3 are done.
 
 Left from round 1 (generic or no address, or not an images page): City Tech CUNY, Tulane, Huddersfield, NMSU DACC,
 Illinois, Brown, Ferris State, Detroit Mercy, Birmingham City, Leeds Beckett, Calgary, UBC, Bond, Deakin, Melbourne
