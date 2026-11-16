@@ -20,10 +20,10 @@ addresses here (the repository is public). Send about five a day; one short foll
 | 10 | University of Texas at Austin | Architecture: Materials + Visual Resources · Visual Media Databases | 2026-11-06 | 2026-11-06 | |
 | 11 | University of Notre Dame | Architecture Thesis Research (GRAD) · Image Collections | | 2026-11-06 | |
 | 12 | California College of the Arts | Architecture research guide | | 2026-11-06 | |
-| 13 | University of Manitoba | Architecture LibGuide | | 2026-11-06 | yes: will list the site (Liv Valmestad); asked us to credit the Winnipeg Building Index |
+| 13 | University of Manitoba | Architecture LibGuide | | 2026-11-06 | yes: will list the site (Liv Valmestad); asked us to credit the Winnipeg Building Index; checked 16 Nov: guide intro page has no link yet, no visits from it; reminded 2026-11-16 (mentioned the 10 Winnipeg buildings now on the wall) |
 | 14 | University of Strathclyde | Architecture LibGuide | | 2026-11-06 | |
 | 15 | Arts University Bournemouth | Architecture library guide | | 2026-11-06 | |
-| 16 | Victoria University of Wellington | Architecture guide | | 2026-11-06 | yes: "I will add a link to it on our guide" (8 Nov); thanked 9 Nov |
+| 16 | Victoria University of Wellington | Architecture guide | | 2026-11-06 | yes: "I will add a link to it on our guide" (8 Nov); thanked 9 Nov; checked 16 Nov: research-writing page has no link yet, no visits from it; reminded 2026-11-16 |
 | 17 | RMIT University | Architecture, Building Design and Urban Design · Images | | 2026-11-06 | |
 | 18 | Texas Tech University | Architecture · Images | | 2026-11-06 | |
 | 19 | Prince Mohammad Bin Fahd University | Architecture LibGuide | | 2026-11-06 | |
