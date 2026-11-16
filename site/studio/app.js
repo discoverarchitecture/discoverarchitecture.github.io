@@ -60,17 +60,46 @@
      the sheets shuffling over it, until the picture is there. */
   const SHUF = (cls) => '<span class="shuf' + (cls ? ' ' + cls : '') + '" aria-hidden="true"><i></i><i></i><i></i><i></i></span>';
   const LDOV = (cls) => '<span class="ldov" aria-hidden="true">' + SHUF(cls) + '</span>';
-  /* a `.ldwrap` is ready (the shuffle fades) once half of its pictures have loaded, or failed, or 8 s have passed */
+  /* a `.ldwrap` is ready (the shuffle fades) once half of its pictures have loaded, or failed, or 6 s have passed (a picture that is
+     still pending then is told to load now, lazy or not). Three rules that keep a preview from ever sitting blank (owner, 15 Nov
+     2026: "where are the pages???"):
+       - the wrapper itself counts, not only the wrappers inside `root` (a thumbnail drawn later is its own `.ldwrap`);
+       - a box that is only reserved (data-rsv: no sheet drawn yet) is NOT ready, it keeps its shuffle until drawMini draws it;
+       - a picture that fails to load (404) is replaced by a plain neutral box with its title, never an endless shuffle. */
+  const LDWAIT = 6000;
   function watchLoad(root) {
-    (root || document).querySelectorAll('.ldwrap:not(.ready)').forEach((w) => {
-      if (w._ld) return;
+    const r = root || document, ws = [...r.querySelectorAll('.ldwrap:not(.ready)')];
+    if (r.matches && r.matches('.ldwrap:not(.ready)')) ws.unshift(r);
+    ws.forEach((w) => {
+      if (w._ld || w.hasAttribute('data-rsv')) return;
       w._ld = 1;
       const imgs = [...w.querySelectorAll('img')], need = Math.max(1, Math.ceil(imgs.length / 2));
-      let have = 0, off = null;
-      const ok = () => { if (++have >= need) { clearTimeout(off); w.classList.add('ready'); } };
-      if (!imgs.length) { w.classList.add('ready'); return; }
-      imgs.forEach((im) => { if (im.complete && im.naturalWidth) ok(); else { im.addEventListener('load', ok, { once: true }); im.addEventListener('error', ok, { once: true }); } });
-      if (!w.classList.contains('ready')) off = setTimeout(() => w.classList.add('ready'), 8000);
+      let have = 0, bad = 0, off = null;
+      const ready = () => { clearTimeout(off); w.classList.add('ready'); };
+      const ok = () => { if (++have >= need) ready(); };
+      const failed = () => {
+        if (++bad === imgs.length && !w.querySelector(':scope > .ldfail')) {
+          const t = w.dataset.ttl || (imgs[0] && imgs[0].alt) || 'Preview';
+          w.insertAdjacentHTML('beforeend', '<span class="ldfail" role="img" aria-label="' + esc(t) + '"><b>' + esc(t) + '</b></span>');
+        }
+        ok();
+      };
+      if (!imgs.length) { ready(); return; }
+      imgs.forEach((im) => {
+        if (im.complete && im.naturalWidth) ok();
+        else if (im.complete && im.currentSrc) failed();   // finished without a picture: a 404
+        else { im.addEventListener('load', ok, { once: true }); im.addEventListener('error', failed, { once: true }); }
+      });
+      /* after 6 s: show what there is, and tell pictures still pending to load now. A box far below the screen waits (its lazy pictures
+         load when it nears the screen), so it does not drop its shuffle for a white sheet nobody is looking at yet. */
+      let far = 0;
+      const give = () => {
+        const r = w.getBoundingClientRect(), vh = window.innerHeight;
+        if ((r.bottom < -vh * 2 || r.top > vh * 3) && ++far < 40) { off = setTimeout(give, 1500); return; }
+        imgs.forEach((im) => { if (!im.complete) im.loading = 'eager'; });
+        ready();
+      };
+      if (!w.classList.contains('ready')) off = setTimeout(give, LDWAIT);
     });
   }
 
@@ -1572,7 +1601,7 @@
       '<p class="lede">All ' + sl.length + ' slides, from the same six files as the board.</p>' +
       '<div class="flip"><button class="farr" data-act="flip" data-v="prev" aria-label="Previous slide" disabled>←</button>' +
       '<div class="ftrack" id="ftrack" tabindex="0" role="region" aria-label="Sample deck, ' + sl.length + ' slides">' +
-      sl.map((x, i) => '<div class="fcard" data-i="' + i + '" aria-label="Slide ' + (i + 1) + ' of ' + sl.length + '"><div class="sth" data-lmini="slide:' + x.n + '" data-m="h" data-w="620" data-fit="1"></div>' + LDOV('m') + '</div>').join('') +
+      sl.map((x, i) => '<div class="fcard" data-i="' + i + '" aria-label="Slide ' + (i + 1) + ' of ' + sl.length + '"><div class="sth" data-lmini="slide:' + x.n + '" data-m="h" data-w="620" data-fit="1" data-ttl="' + esc(slideTitle(x)) + '"></div>' + LDOV('m') + '</div>').join('') +
       '</div><button class="farr" data-act="flip" data-v="next" aria-label="Next slide">→</button></div>' +
       '<p class="fcount" aria-live="polite"><b id="fnum">1</b> / ' + sl.length + ' · <span id="ftitle">' + esc(slideTitle(sl[0])) + '</span></p></section>';
   };
@@ -1580,7 +1609,8 @@
     const tr = document.getElementById('ftrack');
     if (!tr) return;
     const cards = [...tr.querySelectorAll('.fcard')], sl = F.visibleSlides(HP);
-    const draw = (c) => { const el = c.querySelector('[data-lmini]'); if (!el) return; el.dataset.mini = el.dataset.lmini; el.removeAttribute('data-lmini'); ric(() => { fillMinis(c); const o = c.querySelector(':scope > .ldov'); if (o) o.remove(); }); };
+    const draw = (c) => idle(() => drawCard(c));
+    armSweep();   // whatever the observers do, every card is drawn soon after the page has loaded
     if ('IntersectionObserver' in window) {
       const io = new IntersectionObserver((es) => es.forEach((e) => { if (e.isIntersecting) { draw(e.target); io.unobserve(e.target); } }), { root: tr, rootMargin: '0px 120% 0px 120%' });
       const outer = new IntersectionObserver((es) => { if (es.some((e) => e.isIntersecting)) { cards.forEach((c) => io.observe(c)); outer.disconnect(); } }, { rootMargin: '300px 0px' });
@@ -1764,33 +1794,84 @@
     app.innerHTML = viewBanner() + '<main class="wrap narrow"><p class="kicker">Owner view</p><h1 class="mid">' + esc(msg) + '</h1>' +
       '<p class="lede">Open a new link with “View their preview” on the admin page. Nothing here changes the student’s job.</p></main>';
   }
-  /* Thumbnails (data-mini) are drawn where they are, but the ones far down the landing page wait until they are near the screen
-     and are drawn in idle time, so the first paint isn't spent building twenty sheets. Until then a box of the right size holds
-     the place (no jump) with the shuffle in it; once drawn, the shuffle stays until the pictures arrive. */
+  /* Thumbnails (data-mini) are drawn where they are, but the ones far down the landing page are only RESERVED at first (an empty box
+     of the final size with the shuffle, marked data-rsv) so the first paint isn't spent building twenty sheets. Drawing them
+     later is an optimisation, never a dependency (owner, 15 Nov 2026: the whole "what you get" section sat empty): they are drawn
+     (1) when they near the screen (IntersectionObserver), AND, whether or not that ever fires, (2) by a sweep that draws what is
+     left a few at a time once the page has loaded, nearest first, (3) on any scroll or resize, and (4) all at once at the latest
+     4 s after load. Timers carry all of it, because idle callbacks are throttled in background tabs and not there in Safari. */
   const ric = window.requestIdleCallback ? (f) => window.requestIdleCallback(f, { timeout: 400 }) : (f) => setTimeout(f, 16);
+  /* run f once, in idle time, but never later than 300 ms (a throttled idle callback must not hold a picture back) */
+  function idle(f) { let done = 0; const run = () => { if (!done) { done = 1; f(); } }; ric(run); setTimeout(run, 300); }
   const miniPage = (el) => { const M = modelOf(el.dataset.m); if (!M) return null; const [kind, n] = el.dataset.mini.split(':'); const pg = kind === 'board' ? M.board : M.slides.find((s) => s.n === +n); return pg ? [M, pg] : null; };
   const miniW = (el) => el.dataset.fit ? Math.max(+(el.dataset.min || 110), Math.min(+el.dataset.w, (el.parentElement.clientWidth || +el.dataset.w) - 6)) : +el.dataset.w;
   const shufSize = (w) => w < 120 ? 'xs' : w < 260 ? 's' : 'm';
   function drawMini(el, w) {
     const mp = miniPage(el);
-    if (!mp) return;
+    if (!mp) { el.removeAttribute('data-rsv'); const o = el.querySelector(':scope > .ldov'); if (o) o.remove(); return; }
     if (w === undefined) w = miniW(el);
+    el.removeAttribute('data-rsv');
+    if (!el.dataset.ttl) el.dataset.ttl = mp[1].kind === 'board' || el.dataset.mini === 'board' ? 'A1 board' : slideTitle(mp[1]);
     el.innerHTML = ''; el.style.width = el.style.height = '';
     el.appendChild(F.miniSheet(mp[0], mp[1], w, !!el.closest('.lhero')));   // the hero's own board loads at once, everything else lazily
     el.classList.add('ldwrap'); el.classList.remove('ready'); el._ld = 0;
     el.insertAdjacentHTML('beforeend', LDOV(shufSize(w)));
     watchLoad(el);
   }
-  /* an empty box of the sheet's final size (w, plus the box's own border bx, by), the shuffle in it */
+  /* a card of "The whole deck" (its sheet waits in data-lmini until drawn) */
+  function drawCard(c) {
+    const el = c && c.querySelector('[data-lmini]');
+    if (!el) return;
+    el.dataset.mini = el.dataset.lmini; el.removeAttribute('data-lmini');
+    drawMini(el);
+    const o = c.querySelector(':scope > .ldov'); if (o) o.remove();
+  }
+  /* an empty box of the sheet's final size (w, plus the box's own border bx, by), the shuffle in it. Marked data-rsv: watchLoad leaves it
+     alone (it is not "ready", it is not drawn) until drawMini draws it */
   function reserveMini(el, w, bx, by) {
     const mp = miniPage(el);
     if (!mp) return;
     el.innerHTML = '';
+    el.dataset.rsv = '1';
     el.style.width = (w + bx) + 'px';
     el.style.height = (mp[1].h / mp[1].w * w + by) + 'px';
-    el.classList.add('ldwrap'); el.classList.remove('ready');
+    el.classList.add('ldwrap'); el.classList.remove('ready'); el._ld = 0;
     el.insertAdjacentHTML('beforeend', LDOV(shufSize(w)));
   }
+  /* the safety sweep: draws whatever is still reserved, nearest to the screen first, 4 at a time, on timers */
+  let sweepT = 0, capT = 0, sweepArmed = 0;
+  const lateLeft = () => [...document.querySelectorAll('[data-rsv], [data-lmini]')];
+  function drawLate(el) { if (el.hasAttribute('data-lmini')) drawCard(el.closest('.fcard')); else if (el.hasAttribute('data-rsv')) drawMini(el); }
+  function sweep(mode) {   // mode: 'all' (the 4 s cap), 'near' (a scroll or resize: only what is near the screen), else everything, nearest first
+    sweepT = 0;
+    const left = lateLeft();
+    if (!left.length) return;
+    const vh = window.innerHeight;
+    let take = left;
+    if (mode !== 'all') {
+      const ds = left.map((el) => { const r = el.getBoundingClientRect(); return [r.bottom < 0 ? -r.bottom : r.top > vh ? r.top - vh : 0, el]; }).sort((a, b) => a[0] - b[0]);
+      take = (mode === 'near' ? ds.filter((x) => x[0] < vh * 1.5) : ds).slice(0, 4).map((x) => x[1]);
+    }
+    take.forEach(drawLate);
+    if (take.length && take.length < left.length) sweepT = setTimeout(() => sweep(mode), 60);
+  }
+  /* called whenever thumbnails have been reserved: start sweeping 1.5 s after the page has loaded, finish by 4 s after it */
+  function armSweep() {
+    if (sweepArmed) return;
+    sweepArmed = 1;
+    let t0 = 0;
+    const go = () => {
+      if (t0) return;
+      t0 = 1; sweepArmed = 0;
+      clearTimeout(sweepT); sweepT = setTimeout(() => sweep(), 1500);
+      if (!capT) capT = setTimeout(() => { capT = 0; sweep('all'); }, 4000);
+    };
+    if (document.readyState === 'complete') go();
+    else { window.addEventListener('load', go, { once: true }); setTimeout(go, 3000); }   // a page whose load event is held up by something else still sweeps
+  }
+  const kick = () => { if (!sweepT && document.querySelector('[data-rsv], [data-lmini]')) sweepT = setTimeout(() => sweep('near'), 100); };
+  window.addEventListener('scroll', kick, { passive: true });
+  window.addEventListener('resize', kick);
   let miniIO = null;
   function fillMinis(root, lazy, resizing) {
     let els = [...root.querySelectorAll('[data-mini]')];
@@ -1805,10 +1886,11 @@
     const later = [];
     info.forEach((o) => { if (o.near) drawMini(o.el, o.w); else { reserveMini(o.el, o.w, o.bx, o.by); later.push(o.el); } });
     if (!later.length) return;
+    armSweep();
     miniIO = new IntersectionObserver((es) => es.forEach((e) => {
       if (!e.isIntersecting) return;
       miniIO.unobserve(e.target);
-      ric(() => { if (e.target.isConnected) drawMini(e.target); });
+      idle(() => { if (e.target.isConnected && e.target.hasAttribute('data-rsv')) drawMini(e.target); });
     }), { rootMargin: '700px 0px' });
     later.forEach((el) => miniIO.observe(el));
   }
