@@ -5,7 +5,7 @@ seo_title: Architecture Portfolio vs Jury Board: What Goes Where
 description: A jury board and a portfolio page show the same project to different readers. What belongs on each, and how to turn boards into portfolio pages properly.
 kicker: Portfolios
 published: 2026-11-05
-related: how-to-lay-out-an-a1-architecture-board, a1-sheet-layout-ideas, how-to-present-architectural-plans-and-sections
+related: how-to-lay-out-an-a1-architecture-board, a1-sheet-layout-ideas, how-to-present-architectural-plans-and-sections, how-to-make-an-architecture-portfolio
 ---
 A jury board and a portfolio page can show the same project, but they are made for different readers in different situations. The board is read on a wall, at a distance, while you explain it. The portfolio is read alone, close up, on a screen or a small printed page, often in a hurry. That difference decides what goes on each, and it is why shrinking your boards into a PDF rarely makes a good portfolio.
 
