@@ -674,8 +674,56 @@
     return fixed ? '<span class="fx">' + FX.fmt(fixed) + ' in ' + (FX.cur === 'INR' ? 'India' : 'your country') + '</span>' : '<span class="fx">about ' + FX.about(usd) + '</span>';
   };
   const taxNote = () => FX && LOCALTAX[FX.cur] && LOCALP[FX.cur] ? LOCALTAX[FX.cur].label + ' is included in the price shown.' : 'Local tax is added at checkout where it applies.';
-  const TIERS = { nice: ['Polish', PRICE.nice, ['Your drawings cleaned up and lined up', 'Up to 10 new images', 'Captions, labels, scale bars and north', 'Board + deck: PDF, PowerPoint, InDesign']],
-    great: ['Transform', PRICE.great, ['Everything in the Polish option (' + usd(PRICE.nice) + ')', 'Up to 15 new images', 'Hero view, plans and sections redrawn', 'New diagrams in the same family']] };
+  const TIERS = { nice: ['Polish', PRICE.nice], great: ['Transform', PRICE.great] };
+
+  /* ---------- the pricing card (owner, 17 Nov 2026: detail that shows what the money pays for). One design for the landing's
+     Pricing and the pay screen. HONESTY: every line is what the studio pipeline does today (studio repo, read 17 Nov 2026):
+     the AI image counts (config.TIER_NEW_IMAGES), the models (config.FAL_ENDPOINTS, IMAGE_JOBS, HAIKU / SONNET), the ladder
+     (basics.treatment: Polish never re-renders plans or sections), upscaling (build.gate_upscale, SeedVR2), the deck length
+     (config.DECK_SLIDES; making.py portfolio 5-8), 6 images at once (config.FAL_PARALLEL), best of up to 3 (config.BEST_OF,
+     degraded by spend.py when an order runs short, hence "up to"), the art director (config.ART_DIRECTOR_ROUNDS), 5-7 minutes
+     (DECISIONS D108), the guarantee (legal/refund.md). Change a line only when the pipeline changes. No costs, caps or
+     margins here, no "most popular" (there are no sales to rank), no testimonials. */
+  const LADDER = [['Clean up', 'lime'], ['Re-render views', 'sun'], ['Re-render plans & sections', 'coral']];
+  const TCARD = {
+    nice: { promise: 'Your own drawings, cleaned up and finished.', amt: 'Up to 10 new AI images', reach: 2,
+      amtSub: 'Missing drawings, new views and your renders, polished',
+      rows: [['A1 board, print-ready', '594 × 841 mm'], ['Jury deck, 10–15 slides', '5–8 for a portfolio page'],
+        ['Missing plan or section drawn from your files', 'Building projects; not for a site analysis or precedent study', 'hl'], ['Story, captions, labels, scale bars and north'],
+        ['Small pictures upscaled for print', 'SeedVR2, 2–4×'], ['Board in English, Spanish, Portuguese, Turkish or French'],
+        ['Edit in your browser', 'PDF and PowerPoint, plus an InDesign file']],
+      speed: [['Ready in about 5–7 minutes'], ['Up to 6 images made at once'], ['Hero and key views: best of up to 3 tries'],
+        ['An AI art director checks the board and deck']] },
+    great: { tag: 'Most new images', promise: 'Your drawings re-rendered, plus more new ones.', amt: 'Up to 15 new AI images', reach: 3,
+      amtSub: '5 more than Polish, for re-renders, new views and diagrams',
+      note: 'Plans and sections are re-rendered when you answer “Transform them” or “Surprise me” (not for a site analysis or precedent study).',
+      plus: 'Only in Transform:',
+      incl: ['A1 board', 'Jury deck', 'Missing plan or section drawn', 'Story, captions and labels', 'Upscaled for print', '5 board languages', 'Editor, PDF, PowerPoint', 'Ready in 5–7 min'],
+      rows: [['Your hero, plans, sections and model photos re-rendered', '', 'hl'], ['New diagrams in the same family'],
+        ['More analysis diagrams for a precedent study']] }
+  };
+  const tcRow = ([b, s, hl]) => '<li' + (hl ? ' class="tc-hl"' : '') + '>' + TICK + '<span><b>' + b + '</b>' + (s ? '<small>' + s + '</small>' : '') + '</span></li>';
+  /* mode 'land': a Start button that pre-picks the tier; 'pay': the card picks the tier (data-act="tier") */
+  function tierCard(k, mode, sel) {
+    const c = TCARD[k], [name, price] = TIERS[k], other = TIERS.nice[0];
+    const ladder = '<div class="tc-blk"><p class="tc-lab">How far it goes</p><div class="tc-chips">' + LADDER.map(([t, col], i) => '<span class="lchip ' + (i < c.reach ? col : 'off') + '">' + t + (i < c.reach ? '' : '<span class="sr"> (not in ' + name + ')</span>') + '</span>').join('') + '</div>' +
+      (c.note ? '<p class="tc-note">' + c.note + '</p>' : '') + '</div>';
+    const models = '<div class="tc-blk"><p class="tc-lab">Image models</p><div class="tc-chips"><span class="mchip sun">Nano Banana 2</span><span class="mchip lilac">Seedream 4.5</span><span class="mchip lime">Qwen Image Edit</span></div>' +
+      '<p class="tc-lab">Reads your sheets and writes</p><div class="tc-chips"><span class="mchip coral">Claude Sonnet 5.5</span><span class="mchip coral">Claude Haiku 5.5</span></div></div>';
+    const btn = mode === 'pay' ? '<button class="btn tc-btn' + (sel ? ' on' : '') + '" data-act="tier" data-t="' + k + '" aria-pressed="' + !!sel + '">' + (sel ? TICK + name + ' picked' : 'Pick ' + name) + '</button>'
+      : '<button class="btn tc-btn" data-act="start" data-t="' + k + '">Start with ' + name + '</button>';
+    return '<div class="tc' + (sel ? ' sel' : '') + (mode === 'land' && c.tag ? ' feat' : '') + '"' + (mode === 'pay' ? ' data-act="tier" data-t="' + k + '"' : '') + '>' + (c.tag ? '<span class="tc-tag">' + c.tag + '</span>' : '') +
+      '<div class="tc-head"><span class="kicker">' + name + '</span><span class="price">' + usd(price) + '</span>' + aboutLocal(price) +
+      '<p class="tc-promise">' + c.promise + '</p></div>' +
+      '<div class="tc-body">' +
+      /* owner, 17 Nov 2026: make it obvious that Transform's price includes all of Polish */
+      (c.incl ? '<div class="tc-incl"><p class="tc-incl-h">' + TICK + 'Everything in ' + other + ', included</p><p class="tc-incl-s">' + c.incl.join(' · ') + '</p></div>' : '') +
+      '<div class="tc-amt"><b>' + SPARK + c.amt + '</b><small>' + c.amtSub + '</small></div>' + models + ladder +
+      (c.plus ? '<p class="tc-plus">' + c.plus + '</p>' : '') +
+      '<ul class="tc-rows">' + c.rows.map(tcRow).join('') + '</ul>' +
+      (c.speed ? '<p class="tc-lab">How it’s made</p><ul class="tc-rows">' + c.speed.map(tcRow).join('') + '</ul>' : '') +
+      '<div class="tc-foot"><p class="tc-guar">' + dic('redo') + 'One free redo, or money back within 7 days</p>' + btn + '</div></div></div>';
+  }
 
   /* ---------- composition preview (rule 26, D85; owner picked option 2 on 28 Oct, prototype b6c744c..d9a1f66).
      The final layout: slots from the student's drawings are shown faded with a bold label and an AI mark, slots
@@ -1211,14 +1259,13 @@
      before/after instead of a blurred board; a clear "Write your email" label; the Pay button floats at the bottom. */
   V.price = () => {
     const t = S.tier || 'great';
-    const card = (id, name, price, items) => '<button class="tier' + (t === id ? ' sel' : '') + '" data-act="tier" data-t="' + id + '" aria-pressed="' + (t === id) + '"><span class="kicker">' + name + '</span><span class="price">' + usd(price) + '</span>' + aboutLocal(price) + '<ul>' + items.map((x) => '<li>' + x + '</li>').join('') + '</ul></button>';
     const note = S.payNote === 'cancelled' ? '<div class="card"><p class="kicker">Payment cancelled</p><p class="lede">Nothing was charged. Pick your finish and try again when you are ready.</p></div>'
       : S.payNote === 'unconfirmed' ? '<div class="card"><p class="kicker">Payment not confirmed yet</p><p class="lede">If you paid, it can take a minute: we email your receipt as soon as it is confirmed. If you cancelled, nothing was charged.</p><div class="row"><button class="btn small" data-act="recheck">Check again</button></div></div>' : '';
     const back = PAYWALL ? backbar([['← Change your answers', 'q'], ['Add or remove drawings', 'upload']])
       : backbar([['← Back to your preview', 'plan'], ['Change your answers', 'q'], ['Add or remove drawings', 'upload']]);
     return '<main class="wrap narrow paywrap">' + back + note + '<p class="kicker">' + (PAYWALL ? 'Step 3' : 'Step 4') + '</p><h1 class="big">Pick your finish</h1><p class="lede">Both give you the A1 board and the jury deck, as PDF and PowerPoint, with an editor to fix anything. Pay once. No subscription.' +
       (PAYWALL ? ' Ready in about 5–7 minutes after you pay.' : '') + '</p>' +
-      '<div class="tiers">' + card('nice', ...TIERS.nice) + card('great', ...TIERS.great) + '</div>' +
+      '<div class="tiers">' + tierCard('nice', 'pay', t === 'nice') + tierCard('great', 'pay', t === 'great') + '</div>' +
       '<section class="paywow"><p class="kicker">What AI Studio does</p>' + heroArt() + '</section>' + studentProof('payment') +
       '<div class="field"><label for="email" class="biglabel">Write your email</label><p class="hint" style="margin:0 0 6px">For your receipt and a link back to your files.</p><input id="email" class="input" type="email" autocomplete="email" placeholder="you@school.edu" value="' + esc(S.email) + '"></div><p class="err" id="emailErr" role="alert"></p>' +
       payTrust(t) +
@@ -1826,8 +1873,8 @@
       deckFlip() + gallery() +
       '<section class="wrap" id="examples"><h2 class="kicker">Before and after</h2><p class="big hd">From your sheets to a jury board</p>' + didCards() + '</section>' +
       '<section class="wrap" id="pricing"><h2 class="kicker">Pricing</h2><p class="big hd">Pay once per project. No subscription.</p><div class="tiers">' +
-      ['nice', 'great'].map((k) => '<div class="tier ltier' + (k === 'great' ? ' sel' : '') + '"><span class="kicker">' + TIERS[k][0] + (k === 'great' ? ' · the full treatment' : '') + '</span><span class="price">' + usd(TIERS[k][1]) + '</span>' + aboutLocal(TIERS[k][1]) + '<p class="per">A1 board + jury deck</p><ul>' + TIERS[k][2].map((x) => '<li>' + x + '</li>').join('') + '</ul></div>').join('') +
-      '</div><p class="lede">Both include the editor. ' + GUARANTEE + ' Charged in your currency.</p>' + (PAYWALL ? shiny('start', PAY_CTA[0], PAY_CTA[1]) : shiny('start', 'Start free', 'Preview free before you pay')) + '</section>' +
+      tierCard('nice', 'land') + tierCard('great', 'land') +
+      '</div><p class="lede">Both make an A1 board and a jury deck. ' + GUARANTEE + ' Charged in your currency.</p>' + (PAYWALL ? '' : shiny('start', 'Start free', 'Preview free before you pay')) + '</section>' +
       '<section class="band dark"><div class="wrap bandin"><p class="big hd">Your jury is closer than you think.</p>' + (PAYWALL ? shiny('start', PAY_CTA[0], PAY_CTA[1]) : shiny('start', 'Start free', 'No login · preview free')) + '</div></section>' +
       lfoot() + '</main>';
   };
@@ -2179,7 +2226,8 @@
   let picking = false;   // one tap moves on: a second tap in the short pause does nothing
   const A = {
     home: (el, e) => { e.preventDefault(); go('home'); },
-    start: () => {
+    start: (el) => {
+      if (el && (el.dataset.t === 'nice' || el.dataset.t === 'great')) { S.tier = el.dataset.t; saveS(); }   // a pricing card's Start: that tier is picked on the pay screen
       if (!DEMO && !API.ready) { location.href = location.pathname + '?demo=1#upload'; return; }
       if (!DEMO && S.job) { S.screen = 'home'; refresh(); return; }   // the job's status picks the screen
       go('upload');
