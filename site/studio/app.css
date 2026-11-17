@@ -927,6 +927,30 @@ body[data-screen="upload"] .btn.primary::after, body[data-screen="q"] .btn.prima
 .chipbtn.sel { background: #CFF25A; color: #1B1A17; box-shadow: 3px 3px 0 var(--shadow); transform: translate(-1px, -1px); }
 .chipbtn:disabled { opacity: .45; cursor: default; }
 .chipbtn:focus-visible { outline: 3px solid var(--sun); outline-offset: 2px; }
+/* D122: two labelled groups (up to 5 taps in all, a live "3 of 5"), then three ways to answer */
+.chipbar { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; margin-top: -8px; }
+.chipbar .lede { margin: 0; }
+.chipcount { font: 600 13px/1 var(--mono); letter-spacing: .04em; padding: 8px 12px; border: 2px solid var(--line); border-radius: 999px; background: var(--card); white-space: nowrap; }
+.chipcount.full { background: #CFF25A; color: #1B1A17; }
+.chipgrp { display: flex; flex-direction: column; gap: 10px; min-width: 0; }
+.chiphead { margin: 0; font: 600 12px/1.2 var(--mono); letter-spacing: .06em; text-transform: uppercase; color: var(--muted); }
+.chipgrp .chipbtn { max-width: 100%; line-height: 1.15; padding-block: 6px; text-align: center; }
+.ways { display: flex; flex-direction: column; gap: 10px; }
+.way { display: flex; flex-direction: column; background: var(--card); border: 2px solid var(--line); border-radius: var(--r); }
+.way.sel { box-shadow: var(--sh); }
+.waybtn { display: flex; align-items: flex-start; gap: 12px; width: 100%; min-height: 56px; padding: 12px 14px; background: none; border: 0; border-radius: inherit; color: var(--ink); text-align: left; font: inherit; cursor: pointer; }
+.waybtn:focus-visible { outline: 3px solid var(--sun); outline-offset: 2px; }
+.waydot { flex: none; width: 22px; height: 22px; margin-top: 1px; border: 2px solid var(--line); border-radius: 50%; background: var(--paper); }
+.way.sel .waydot { background: #CFF25A; box-shadow: inset 0 0 0 4px var(--card); }
+.wayt { display: flex; flex-direction: column; gap: 3px; min-width: 0; }
+.wayt b { font-size: 16px; }
+.wayt small { font-size: 14px; line-height: 1.35; color: var(--muted); }
+.ownbox { position: relative; padding: 0 14px 14px 48px; }
+.ownbox[hidden], .waynote[hidden] { display: none; }
+.ownbox textarea.input { min-height: 84px; padding: 10px 14px 28px; resize: vertical; font: 16px/1.4 var(--body); color: var(--ink); }
+.owncount { position: absolute; right: 26px; bottom: 24px; font: 600 11px/1 var(--mono); color: var(--muted); }
+.waynote { margin: 0; padding: 0 14px 14px 48px; }
+@media (max-width: 600px) { .ownbox, .waynote { padding-left: 14px; } }
 
 /* ---------- share button and social row (owner, 13 Nov 2026; share.css has the rest) in Studio's own outlined look */
 .top .fga-share { border: 2px solid var(--line); background: var(--card); box-shadow: 3px 3px 0 var(--shadow); font-family: var(--body); }
