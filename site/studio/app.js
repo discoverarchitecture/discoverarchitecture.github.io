@@ -990,7 +990,7 @@
         (isPro() ? 'Leave our name off the sheets (unbranded)' : 'Leave my name off the board (anonymous)') + '</span></label>' : '';
       return head + '<p class="kicker">Title block' + (f === 'name' && !S.cardMode ? '' : ' · ' + idx + ' of ' + tb.length) + '</p><h1 class="mid">' + esc(q()) + '</h1><p class="lede" id="cardNote">' + note + '</p>' +
         '<div class="field"><input id="cardin" data-card="' + f + '" class="input" type="text" required maxlength="' + (f === 'prog' ? 200 : 120) + '" aria-label="' + esc(q()) + '" value="' + esc(v) + '" placeholder="' + esc(ph()) + '">' + onSheet(f, v) + '</div>' + tick + '<p class="err" id="cardErr"></p>' +
-        next(last ? LASTLABEL() : 'Continue', !!v.trim());
+        next(last ? LASTLABEL() : 'Continue', !!v.trim()).replace('</main>', '') + studentProof('question') + '</main>';
     }
     if (k === 'ccard') {   // D116 / D121: what the read found on the sheets, to accept or drop; nothing is typed here
       const R = S.read || {}, rows = [['Title', R.title], ['Location', R.loc]].filter(([, v]) => v);
@@ -1002,7 +1002,7 @@
       return head + '<p class="kicker">From your sheets</p><h1 class="mid">We read this from your sheets. Right?</h1>' +
         '<p class="lede">' + (tb.length ? 'You can add ' + tb.join(' and ') + ' and your name in the editor after payment.' : 'You add your name in the editor after payment.') + '</p>' +
         '<div class="card readcard">' + line + '</div>' + fresh +
-        '<div class="row"><button class="btn' + (S.cardOk !== false ? ' primary' : '') + '" data-act="rcYes">Yes, that’s right</button><button class="btn' + (S.cardOk === false ? ' primary' : '') + '" data-act="rcNo">Not quite</button>' + helper + '</div></main>';
+        '<div class="row"><button class="btn' + (S.cardOk !== false ? ' primary' : '') + '" data-act="rcYes">Yes, that’s right</button><button class="btn' + (S.cardOk === false ? ' primary' : '') + '" data-act="rcNo">Not quite</button>' + helper + '</div>' + studentProof('question') + '</main>';
     }
     if (k === 'email') {
       const v = S.email || '';
@@ -1012,7 +1012,7 @@
         '<label class="tick"><input type="checkbox" id="optin"' + (S.optin ? ' checked' : '') + '><span>Tell me about price drops and offers for my board</span></label>' +
         '<p class="hint" style="margin:0">One short follow-up at most. Unsubscribe any time. <a class="link" href="privacy/" target="_blank" rel="noopener">Privacy</a></p>' +
         fresh + '<p class="err" id="qErr" role="alert"></p><div class="row"><button class="btn' + (v.trim() ? ' primary' : '') + '" data-act="qnext">' + (S.fromHeard ? back2 : 'Continue') + '</button>' +
-        '<button class="link" data-act="qskip">Skip</button>' + helper + '</div></main>';
+        '<button class="link" data-act="qskip">Skip</button>' + helper + '</div>' + studentProof('question') + '</main>';
     }
     if (k === 'concept') {   // D120: tap up to two ideas, or none; hints for AI Studio, never your words on the board
       const b = briefs(), on = S.chips || [];
@@ -1020,7 +1020,7 @@
         return '<button class="chipbtn' + (sel ? ' sel' : '') + '" data-act="chip" data-c="' + esc(c) + '" aria-pressed="' + sel + '"' + (!sel && on.length >= 2 ? ' disabled' : '') + '>' + esc(c) + '</button>'; }).join('') + '</div>';
       return head + '<p class="kicker">Optional</p><h1 class="mid">What is your project about?</h1><p class="lede">Tap up to two ideas, or none. AI Studio leans the story that way only where your drawings show it.</p>' +
         chips + '<p class="hint" style="margin:0">' + (b.length ? 'Brief attached: ' + esc(b.join(', ')) + '. AI Studio reads it for text.' : 'Have a brief or a concept note? Add it to your files. <button class="link" data-act="go" data-s="upload">Go to your files</button>') + '</p>' +
-        langPick() + next(conceptLabel(), true);
+        langPick() + next(conceptLabel(), true).replace('</main>', '') + studentProof('question') + '</main>';
     }
     const q = qd(k), a = ans(k), sel = a;
     const opts = q.thumbs
@@ -1031,7 +1031,7 @@
       /* owner, 12 Nov 2026: no typed "Other" box on a tap step; the email is the only typed box before payment */
       /* one tap picks and moves on (owner, 6 Nov 2026); the button shows only for a typed "Other" answer, or when
          changing an answer from the preview */
-      '<div id="qgo"' + (S.fromHeard || a === 'other' ? '' : ' hidden') + '>' + next(last ? LASTLABEL() : 'Continue', true).replace('</main>', '') + '</div>' + (S.fromHeard || a === 'other' ? '' : helper ? '<div class="row">' + helper + '</div>' : '') + '</main>';
+      '<div id="qgo"' + (S.fromHeard || a === 'other' ? '' : ' hidden') + '>' + next(last ? LASTLABEL() : 'Continue', true).replace('</main>', '') + '</div>' + (S.fromHeard || a === 'other' ? '' : helper ? '<div class="row">' + helper + '</div>' : '') + studentProof('question') + '</main>';
   };
 
 
@@ -1219,7 +1219,7 @@
     return '<main class="wrap narrow paywrap">' + back + note + '<p class="kicker">' + (PAYWALL ? 'Step 3' : 'Step 4') + '</p><h1 class="big">Pick your finish</h1><p class="lede">Both give you the A1 board and the jury deck, as PDF and PowerPoint, with an editor to fix anything. Pay once. No subscription.' +
       (PAYWALL ? ' Ready in about 5–7 minutes after you pay.' : '') + '</p>' +
       '<div class="tiers">' + card('nice', ...TIERS.nice) + card('great', ...TIERS.great) + '</div>' +
-      '<section class="paywow"><p class="kicker">What AI Studio does</p>' + heroArt() + '</section>' +
+      '<section class="paywow"><p class="kicker">What AI Studio does</p>' + heroArt() + '</section>' + studentProof('payment') +
       '<div class="field"><label for="email" class="biglabel">Write your email</label><p class="hint" style="margin:0 0 6px">For your receipt and a link back to your files.</p><input id="email" class="input" type="email" autocomplete="email" placeholder="you@school.edu" value="' + esc(S.email) + '"></div><p class="err" id="emailErr" role="alert"></p>' +
       payTrust(t) +
       '<div class="ctabar paybar"><div><b>' + TIERS[t][0] + '\u00a0·\u00a0' + usd(TIERS[t][1]) + aboutLocalInline(TIERS[t][1]) + '</b><span>A1 board + jury deck · free redo or money back in 7 days</span>' +
@@ -1503,6 +1503,72 @@
     '<span class="spacer"></span><span class="saved hide-phone" id="saved">Saved on this device</span><button class="btn small dlall" data-act="dlAll" id="dlall"><span>Download all</span><small>Board PDF + JPG · Deck PDF + PowerPoint</small></button></div>' +
     '<div class="edbody ' + (S.edView === 'deck' ? 'deck' : 'board') + '"><nav class="rail" id="rail" aria-label="Slides"></nav><div class="viewport" id="vp"></div><aside class="panel" id="panel" aria-label="Edit panel"></aside></div></div>';
 
+  /* Student-approved Studio FGA stories: each exact quote stays paired with its original board ID.
+     Locations reflect the owner's recollection and remain anonymous until student names are restored. */
+  const STUDENT_STORIES = [["P-038", "P-038_deck_038.webp", "I had two submissions due and rough drawings everywhere. I wasn’t sure AI would understand what I meant, but it helped me turn them into a board that felt calm and clear.", "New York, United States", "🇺🇸"], ["P-089", "P-089_deck_089.webp", "I was worried AI would make my work look generic. It kept my idea at the centre and gave the drawings a clear order.", "Boston, United States", "🇺🇸"], ["P-014", "P-014_deck_014.webp", "I already had the renders and plans; I just couldn’t make them sit together. This gave me a cleaner layout without another night moving things around.", "Chicago, United States", "🇺🇸"], ["P-034", "P-034_deck_034.webp", "I kept adding diagrams because I was afraid the jury wouldn’t get it. The board was crowded. This helped me say more with less.", "Mumbai, India", "🇮🇳"], ["P-039", "P-039_deck_039.webp", "My plans were messy, and I wasn’t sure the tool could read them. It gave me a clean starting point while keeping the project colours consistent.", "Delhi, India", "🇮🇳"], ["A-028", "A-028_deck_028.webp", "With several submissions due, I didn’t have time to try a dozen layouts. I found a clear focal point and moved on.", "London, United Kingdom", "🇬🇧"], ["A-099", "A-099_deck_099.webp", "I thought the result would look like generic AI. The drawings still felt like my project, just clearer and more put together.", "Paris, France", "🇫🇷"], ["P-042", "P-042_deck_042.webp", "I had lots to explain and didn’t know what to show first. This helped me put the site and section in an order that made sense.", "Berlin, Germany", "🇩🇪"], ["P-091", "P-091_deck_091.webp", "I wanted it to look professional without losing my design. The restrained colour and layout made it feel polished and still mine.", "Amsterdam, Netherlands", "🇳🇱"], ["A-033", "A-033_deck_033.webp", "I had too many environmental diagrams and not much time. This helped group them into one clear story rather than a crowded sheet.", "Almaty, Kazakhstan", "🇰🇿"]];
+  function studentProof(kind) {
+    const full = kind === 'landing';
+    if (!full) return '<section class="student-proof student-proof-optional" aria-label="Optional boards from previous customers"><div class="student-proof-head"><h2 class="student-proof-title">From previous Studio FGA customers</h2><div class="student-proof-controls" aria-label="Board controls"><button type="button" data-story-dir="prev" aria-label="Previous boards">←</button><button type="button" data-story-dir="next" aria-label="Next boards">→</button></div></div>' +
+      '<div class="student-proof-rail" data-story-rail tabindex="0" role="region" aria-label="Swipe through student boards">' + STUDENT_STORIES.map((s, i) => '<article class="student-story" data-story-card>' +
+        '<img src="student-boards/' + s[1] + '" alt="Board by a previous Studio FGA customer" ' + (i === 0 ? 'loading="eager"' : 'loading="lazy"') + ' decoding="async"></article>').join('') + '</div></section>';
+    return '<section class="student-proof student-proof-full" aria-label="Boards and testimonials from previous customers">' +
+      '<div class="student-proof-head"><h2 class="student-proof-title">From our previous customers</h2>' +
+      '<div class="student-proof-controls" aria-label="Testimonial controls"><button type="button" data-story-dir="prev" aria-label="Previous testimonial">←</button><button type="button" data-story-dir="next" aria-label="Next testimonial">→</button></div></div>' +
+      '<div class="student-proof-rail" data-story-rail tabindex="0" role="region" aria-label="Student boards and testimonials">' + STUDENT_STORIES.map((s, i) => '<article class="student-story" data-story-card>' +
+        '<img src="student-boards/' + s[1] + '" alt="Architecture student work" ' + (i === 0 ? 'fetchpriority="high" loading="eager"' : 'loading="lazy"') + ' decoding="async">' +
+        '<div class="student-story-copy"><blockquote>“' + esc(s[2]) + '”</blockquote><p class="student-story-location"><span aria-hidden="true">' + s[4] + '</span> ' + esc(s[3]) + '</p></div></article>').join('') + '</div>' +
+      '<p class="student-proof-invite">Made your board with Studio FGA? <a href="mailto:hello@findgreatarchitecture.com?subject=I%20would%20like%20my%20Studio%20FGA%20board%20featured">Let us know if you’d like to be featured</a>. We’ll always ask before sharing.</p></section>';
+  }
+  function bindStudentProof() {
+    app.querySelectorAll('.student-proof').forEach((section) => {
+      const rail = section.querySelector('[data-story-rail]');
+      if (!rail) return;
+      const cards = [...rail.querySelectorAll('[data-story-card]')];
+      let paused = false, frame = 0, lastFrame = 0, visible = true;
+      const reduced = matchMedia('(prefers-reduced-motion: reduce)').matches;
+      const current = () => {
+        const mid = rail.scrollLeft + rail.clientWidth / 2;
+        let idx = 0, best = Infinity;
+        cards.forEach((card, i) => { const d = Math.abs(card.offsetLeft + card.offsetWidth / 2 - mid); if (d < best) { idx = i; best = d; } });
+        return idx;
+      };
+      const move = (dir) => {
+        const i = current(), next = (i + dir + cards.length) % cards.length;
+        rail.scrollTo({ left: cards[next].offsetLeft, behavior: reduced ? 'auto' : 'smooth' });
+      };
+      section.querySelectorAll('[data-story-dir]').forEach((button) => button.addEventListener('click', () => move(button.dataset.storyDir === 'next' ? 1 : -1)));
+      section.addEventListener('mouseenter', () => { paused = true; });
+      section.addEventListener('mouseleave', () => { paused = false; });
+      section.addEventListener('focusin', () => { paused = true; });
+      section.addEventListener('focusout', (e) => { if (!section.contains(e.relatedTarget)) paused = false; });
+      rail.addEventListener('touchstart', () => { paused = true; }, { passive: true });
+      rail.addEventListener('touchend', () => { paused = false; }, { passive: true });
+      if (section.classList.contains('student-proof-full') && matchMedia('(min-width: 761px)').matches && !reduced) {
+        cards.forEach((card) => {
+          const clone = card.cloneNode(true);
+          clone.removeAttribute('data-story-card');
+          clone.setAttribute('aria-hidden', 'true');
+          const img = clone.querySelector('img'); if (img) img.alt = '';
+          rail.appendChild(clone);
+        });
+        const loopAt = cards[cards.length - 1].offsetLeft + cards[cards.length - 1].offsetWidth + (parseFloat(getComputedStyle(rail).columnGap) || 0);
+        const tick = (now) => {
+          if (!section.isConnected) { cancelAnimationFrame(frame); return; }
+          if (!lastFrame) lastFrame = now;
+          const elapsed = Math.min(now - lastFrame, 48); lastFrame = now;
+          if (!paused && visible && !document.hidden) {
+            rail.scrollLeft += elapsed * 0.024;
+            if (rail.scrollLeft >= loopAt) rail.scrollLeft -= loopAt;
+          }
+          frame = requestAnimationFrame(tick);
+        };
+        const observer = new IntersectionObserver(([entry]) => { visible = entry.isIntersecting; });
+        observer.observe(section);
+        frame = requestAnimationFrame(tick);
+      }
+    });
+  }
+
   /* ---------------------------------------------------------- landing page: findgreatarchitecture.com/studio */
   function lnav() {
     return '<header class="top lnav"><a class="logo" href="#home" data-act="home"><i aria-hidden="true">✦</i>Studio FGA</a><nav class="llinks hide-phone" aria-label="Page">' +
@@ -1673,6 +1739,17 @@
     ['k3', 0, 'Based on the Sydney Opera House · Jørn Utzon', 7, '', 600, 424, 'Harbour Arts Centre, a cluster of shell roofs on a stepped platform by the water'],
     ['k4', 0, 'Based on the Farnsworth House · Mies van der Rohe', 10, 'Drawing Sheet text style', 600, 849, 'River Pavilion again, from more files, in the Drawing Sheet text style']];
   const GBASE = 'sample/gallery/';
+  function studentBoardOpen(i) {
+    const s = STUDENT_STORIES[Number(i)];
+    if (!s || !window.HTMLDialogElement) return;
+    const back = document.activeElement, d = document.createElement('dialog');
+    d.className = 'glight student-board-lightbox'; d.setAttribute('aria-label', 'Student board example');
+    d.innerHTML = '<div class="glbar"><b>Student board example</b><span class="spacer"></span><a class="link" href="student-boards/' + encodeURIComponent(s[1]) + '" target="_blank" rel="noopener">Full size ↗</a><button class="gx" aria-label="Close" autofocus>×</button></div><div class="glimg"><img src="student-boards/' + encodeURIComponent(s[1]) + '" decoding="async" alt="Architecture student board example"></div>';
+    document.body.appendChild(d);
+    d.addEventListener('close', () => { d.remove(); if (back && back.focus) back.focus({ preventScroll: true }); });
+    d.addEventListener('click', (e) => { if (e.target === d || e.target.classList.contains('glimg') || e.target.closest('.gx')) d.close(); else if (e.target.tagName === 'IMG') e.target.closest('.glimg').classList.toggle('zoom'); });
+    d.showModal();
+  }
   let galCredits = null;
   const galTag = (stu) => '<span class="chip' + (stu ? ' lime' : '') + '">' + (stu ? 'Student project' : 'Test project') + '</span>';
   /* licence names in a credit become links; "CC BY-SA 3.0 AT" (the Austrian port) and CC0 stay plain text */
@@ -1691,6 +1768,7 @@
     GAL.map(([k, stu, t, n, extra, w, h, alt]) => '<button class="gcard" data-act="gopen" data-k="' + k + '" aria-haspopup="dialog">' +
       '<span class="gimg ldwrap"><img src="' + GBASE + k + '-thumb.webp" width="' + w + '" height="' + h + '" loading="lazy" decoding="async" alt="A1 board: ' + esc(alt) + '">' + LDOV('s') + '</span>' +
       '<span class="gtxt">' + galTag(stu) + '<b>' + esc(t) + '</b><span class="gmeta">From ' + n + ' files' + (extra ? ' · ' + esc(extra) : '') + '</span></span></button>').join('') + '</div>' +
+    '<div class="student-gallery"><h3 class="kicker">Student board examples</h3><div class="student-gallery-grid">' + STUDENT_STORIES.map((s, i) => '<button class="student-gallery-card" data-act="studentBoard" data-i="' + i + '" aria-haspopup="dialog" aria-label="Open student board example ' + (i + 1) + '"><img src="student-boards/' + s[1] + '" loading="lazy" decoding="async" alt="Architecture student board example"></button>').join('') + '</div></div>' +
     '<details class="gcredw"><summary>Photo credits</summary><div class="gcred" id="gcred">' + galCreditLine() + '</div></details></section>';
   function bindGallery() {
     if (galCredits || !document.getElementById('gcred')) return;
@@ -1738,7 +1816,7 @@
       '<h1 class="lh1"><span class="kicker">AI architecture presentation generator · for students and studios<span class="sr">: </span></span><span class="huge">Messy drawings. <span class="hl">Jury-ready board.</span></span></h1>' +
       '<p class="lede">Upload your plans, sections and sketches. Get an A1 board and a matching jury deck, written and laid out, still editable.</p>' +
       heroDrop() + savedJobRow() + '</div>' +
-      heroArt() + '</section>' + outsStrip() +
+      heroArt() + '</section>' + studentProof('landing') + outsStrip() +
       '<section class="wrap" id="how"><h2 class="kicker">How it works</h2><p class="big hd">' + (PAYWALL ? 'Four steps. Pay once, from ' + FROM + '.' : 'Four steps. The first three are free.') + '</p><div class="lsteps">' +
       steps.map((t, i) => '<div class="lstep card"><span class="lnum">' + (i + 1) + '</span><svg viewBox="0 0 24 24" aria-hidden="true">' + sico[t[2]] + '</svg><h3 class="h3">' + t[0] + '</h3><p>' + t[1] + '</p></div>').join('') + '</div></section>' +
       watch() + (PAYWALL ? seeFirst() : previewShow()) +
@@ -1771,6 +1849,7 @@
     app.innerHTML = (VIEW ? viewBanner() : '') + (sc === 'edit' ? '' : (STEP[sc] === -1) ? lnav() : top()) + V[sc]();
     if (STEXT) { if (sc === 'home') { const f = app.querySelector('.land > .band.dark') || app.querySelector('.land > .lfoot'); if (f) f.before(STEXT); else app.appendChild(STEXT); } else STEXT.remove(); }
     fillMinis(app, sc === 'home');
+    bindStudentProof();
     watchLoad(app);
     if (sc === 'edit') startEditor();
     if (sc === 'making' && DEMO) runMaking();
@@ -2115,6 +2194,7 @@
     hpick: () => { if (!DEMO && S.job) { A.start(); return; } document.getElementById('hadd').click(); },
     flip: (el) => flipBy(el.dataset.v === 'prev' ? -1 : 1),
     gopen: (el) => galOpen(el.dataset.k),
+    studentBoard: (el) => studentBoardOpen(el.dataset.i),
     toHero: () => { const d = document.getElementById('hdrop'); if (!d) return; d.scrollIntoView({ behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth', block: 'center' }); d.focus({ preventScroll: true }); },
     add: () => { asBrief = false; document.getElementById('add').click(); },
     addBrief: () => { asBrief = true; document.getElementById('add').click(); },
