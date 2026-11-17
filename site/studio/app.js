@@ -697,7 +697,8 @@
     great: { tag: 'Most new images', promise: 'Your drawings re-rendered, plus more new ones.', amt: 'Up to 15 new AI images', reach: 3,
       amtSub: '5 more than Polish, for re-renders, new views and diagrams',
       note: 'Plans and sections are re-rendered when you answer “Transform them” or “Surprise me” (not for a site analysis or precedent study).',
-      plus: 'All Polish features, plus:',
+      plus: 'Only in Transform:',
+      incl: ['A1 board', 'Jury deck', 'Missing plan or section drawn', 'Story, captions and labels', 'Upscaled for print', '5 board languages', 'Editor, PDF, PowerPoint', 'Ready in 5–7 min'],
       rows: [['Your hero, plans, sections and model photos re-rendered', '', 'hl'], ['New diagrams in the same family'],
         ['More analysis diagrams for a precedent study']] }
   };
@@ -714,11 +715,14 @@
     return '<div class="tc' + (sel ? ' sel' : '') + (mode === 'land' && c.tag ? ' feat' : '') + '"' + (mode === 'pay' ? ' data-act="tier" data-t="' + k + '"' : '') + '>' + (c.tag ? '<span class="tc-tag">' + c.tag + '</span>' : '') +
       '<div class="tc-head"><span class="kicker">' + name + '</span><span class="price">' + usd(price) + '</span>' + aboutLocal(price) +
       '<p class="tc-promise">' + c.promise + '</p></div>' +
-      '<div class="tc-body"><div class="tc-amt"><b>' + SPARK + c.amt + '</b><small>' + c.amtSub + '</small></div>' + models + ladder +
-      (c.plus ? '<p class="tc-plus"><span aria-hidden="true">←</span> ' + c.plus.replace('Polish', other) + '</p>' : '') +
+      '<div class="tc-body">' +
+      /* owner, 17 Nov 2026: make it obvious that Transform's price includes all of Polish */
+      (c.incl ? '<div class="tc-incl"><p class="tc-incl-h">' + TICK + 'Everything in ' + other + ', included</p><p class="tc-incl-s">' + c.incl.join(' · ') + '</p></div>' : '') +
+      '<div class="tc-amt"><b>' + SPARK + c.amt + '</b><small>' + c.amtSub + '</small></div>' + models + ladder +
+      (c.plus ? '<p class="tc-plus">' + c.plus + '</p>' : '') +
       '<ul class="tc-rows">' + c.rows.map(tcRow).join('') + '</ul>' +
       (c.speed ? '<p class="tc-lab">How it’s made</p><ul class="tc-rows">' + c.speed.map(tcRow).join('') + '</ul>' : '') +
-      '<p class="tc-guar">' + dic('redo') + 'One free redo, or money back within 7 days</p>' + btn + '</div></div>';
+      '<div class="tc-foot"><p class="tc-guar">' + dic('redo') + 'One free redo, or money back within 7 days</p>' + btn + '</div></div></div>';
   }
 
   /* ---------- composition preview (rule 26, D85; owner picked option 2 on 28 Oct, prototype b6c744c..d9a1f66).

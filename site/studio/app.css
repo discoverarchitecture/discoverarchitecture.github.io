@@ -143,7 +143,13 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
 .opt.sel, .thumb.sel span { color: var(--on-accent); }
 /* the pricing card (landing Pricing and the pay screen; app.js tierCard): price head, AI amount, model chips, the
    "how far it goes" ladder, plain check rows (key ones highlighted), the guarantee and a full-width coral button */
-.tiers { align-items: start; }
+.tiers { align-items: stretch; }   /* both cards the same height, buttons on one line (owner, 17 Nov) */
+.tc-body { flex: 1; }
+.tc-foot { margin-top: auto; display: flex; flex-direction: column; gap: 14px; padding-top: 4px; }
+.tc-incl { padding: 14px 16px; background: var(--sun); color: #1B1A17; border: 2px solid var(--line); border-radius: 14px; box-shadow: 3px 3px 0 var(--shadow); }
+.tc-incl-h { display: flex; align-items: center; gap: 8px; font: 800 22px/1.15 var(--display); letter-spacing: -0.01em; }
+.tc-incl-h svg { width: 22px; height: 22px; flex: none; fill: none; stroke: currentColor; stroke-width: 3; stroke-linecap: round; stroke-linejoin: round; }
+.tc-incl-s { margin-top: 6px; font-size: 14px; line-height: 1.45; color: #3D3A33; }
 .tc { position: relative; display: flex; flex-direction: column; min-width: 0; text-align: left; background: var(--card); border: 2px solid var(--line); border-radius: 20px; box-shadow: var(--sh); }
 .tc[data-act] { cursor: pointer; }
 .tc.sel { box-shadow: var(--sh-big); outline: 3px solid var(--coral); outline-offset: 3px; }
