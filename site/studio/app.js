@@ -388,7 +388,21 @@
   /* the last question's button: on to the preview, or (paywall) on to pick a finish and pay */
   const LASTLABEL = () => PAYWALL ? 'Pick my finish' : 'See my preview';
   const conceptLabel = () => S.fromHeard ? (paid() ? 'Save my answers' : PAYWALL ? 'Back to pay' : 'Back to preview') : PAYWALL ? 'Pick my finish' : 'See my preview';
-  const CHIPS = ['Light', 'Landscape', 'Gathering', 'Heritage', 'Structure / material', 'Climate', 'Movement'];   // D120 (language.CHIPS)
+  /* D122 (owner, 17 Nov 2026): the last question has two groups of taps, up to five in all: themes (language.CHIPS, hints for
+     the writer) and how to present it (making.FOCUS, each a real lever on the plan, the budgets, the board and the deck); then
+     one of three ways to answer: AI decides (the default), your own words (printed as typed), or the brief / concept note */
+  const CHIPS = ['Light', 'Landscape', 'Gathering', 'Heritage', 'Structure / material', 'Climate', 'Movement',
+    'Community', 'Sustainability', 'Water', 'Craft', 'Context / site', 'Threshold', 'Memory'];   // D120, D122 (language.CHIPS)
+  const OLD_CHIPS = CHIPS.slice(0, 7);   // what a server from before D122 takes (at most two)
+  const FOCUS = [['diagrams', 'Focus on diagrams'], ['captions', 'Focus on captions'], ['text_heavy', 'Text-heavy'],
+    ['image_led', 'Image-led, few words'], ['technical', 'Technical detail']];   // D122 (making.FOCUS)
+  const IDEAS_MAX = 5, OWN_MAX = 200;
+  const focusList = () => FOCUS.filter(([k]) => !(k === 'text_heavy' && making() === 'portfolio'));   // a portfolio page is few words
+  const focusOn = () => (S.focus || []).filter((k) => focusList().some(([f]) => f === k));
+  const themesOn = () => (S.chips || []).filter((c) => CHIPS.includes(c));
+  const ideasN = () => themesOn().length + focusOn().length;
+  const cmode = () => S.cmode || 'ai';   // nothing picked: AI decides
+  const ownWords = () => String(S.own || '').replace(/\s+/g, ' ').trim();
   const norm = (s) => String(s).toLowerCase().replace(/[“”"’']/g, '').trim();
   /* older answers (the sample's, a saved intake) use older labels: D84 renamed "Re-render to Great", D102 "Keep mine / ours, clean up" */
   const RENAMED = { 're-render to great': 'transform them', 'keep mine, clean up': 'keep my design, polish it', 'keep ours, clean up': 'keep our design, polish it' };
@@ -435,7 +449,11 @@
     if (S.cardOk === true && S.read) { if (S.read.title) card.project_title = S.read.title; if (S.read.loc) card.project_location = S.read.loc; }
     const body = { path: pro ? 'professional' : 'student', answers, card };
     if (making()) body.making = making();   // question 1 (D109): the server checks it against the path
-    body.concept_chips = (S.chips || []).slice(0, 2);
+    const th = themesOn().slice(0, IDEAS_MAX);   // D122: up to five taps in all, themes and focus together
+    body.concept_chips = th;
+    body.focus_chips = focusOn().slice(0, IDEAS_MAX - th.length);
+    body.concept_mode = cmode();
+    if (cmode() === 'own') body.concept_text = ownWords().slice(0, OWN_MAX);   // printed as typed; never an instruction
     if (EMAIL_RE.test(qEmail())) { body.email = qEmail(); body.email_optin = !!S.optin; body.email_terms = EMAIL_TERMS; }
     body.card_read = S.cardMode === 'card' ? 'card' : 'questions';   // D116: which the page showed; the server records what came from the read
     body.language = boardLang();   // D117: the board's language (the site and the emails stay in English)
@@ -486,7 +504,9 @@
     S.card = { name: c.name || '', title: c.project_title || '', loc: c.project_location || '', prog: c.program || '' };
     const pj = QB.prog.o.findIndex((o) => o[3] === c.program);
     if (pj >= 0) S.ans.prog = pj; else if (c.program) { const g = progFromText(c.program); S.ans.prog = g >= 0 ? g : QB.prog.o.length - 1; }
-    S.chips = (it.concept_chips || []).slice(0, 2);
+    S.chips = (it.concept_chips || []).filter((c) => CHIPS.includes(c)).slice(0, IDEAS_MAX);
+    S.focus = (it.focus_chips || []).filter((k) => FOCUS.some(([f]) => f === k));   // D122
+    S.cmode = it.concept_mode || (it.concept_text ? 'own' : null); S.own = it.concept_text || '';
     if (c.project_title) { S.read = { title: c.project_title, loc: c.project_location || '', prog: '' }; S.cardOk = true; }
     if (typeof it.no_name === 'boolean') S.noName = it.no_name;
     if (it.language) S.lang = it.language;   // D117
@@ -1021,6 +1041,22 @@
   /* shows the corrected text under the box when it differs from what was typed */
   const nameNote = () => unbranded() ? (isPro() ? 'Kept off the sheets: this entry is unbranded.' : 'Kept off the board and deck. We use it only for your receipt.') : 'Goes on the sheet exactly as you type it.';
   const onSheet = (f, v) => '<p class="hint fixed" id="fixed" style="margin:0">' + (tidy(f, v) && tidy(f, v) !== String(v || '').trim() ? 'On the sheet: <b>' + esc(tidy(f, v)) + '</b>' : '') + '</p>';
+  /* D122: the brief line under "It's in my concept note", and the last question's taps repainted in place (no re-render: the
+     page keeps its scroll and the text box its focus) */
+  const briefNote = () => { const b = briefs();
+    return b.length ? 'Reading: ' + esc(b.join(', ')) + '.' : 'No concept note in your files yet. <button class="link" data-act="toBrief">Add it to your files</button>'; };
+  function paintIdeas() {
+    const full = ideasN() >= IDEAS_MAX, th = themesOn(), fo = focusOn();
+    document.querySelectorAll('.chipbtn').forEach((b) => {
+      const sel = b.dataset.act === 'focus' ? fo.includes(b.dataset.c) : th.includes(b.dataset.c);
+      b.classList.toggle('sel', sel); b.setAttribute('aria-pressed', String(sel)); b.disabled = !sel && full;
+    });
+    const n = document.getElementById('chipcount'); if (n) { n.textContent = ideasN() + ' of ' + IDEAS_MAX; n.classList.toggle('full', full); }
+    document.querySelectorAll('.way').forEach((w) => { const on = w.dataset.m === cmode(); w.classList.toggle('sel', on);
+      const b = w.querySelector('.waybtn'); if (b) b.setAttribute('aria-checked', String(on)); });
+    const ob = document.querySelector('.ownbox'); if (ob) ob.hidden = cmode() !== 'own';
+    const bn = document.getElementById('briefnote'); if (bn) bn.hidden = cmode() !== 'brief';
+  }
   V.q = () => {
     QB.proud.o = proudOpts();
     const pth = path(), n = pth.length, k = curKey(), last = S.q === n;
@@ -1062,12 +1098,21 @@
         fresh + '<p class="err" id="qErr" role="alert"></p><div class="row"><button class="btn' + (v.trim() ? ' primary' : '') + '" data-act="qnext">' + (S.fromHeard ? back2 : 'Continue') + '</button>' +
         '<button class="link" data-act="qskip">Skip</button>' + helper + '</div>' + studentProof('question') + '</main>';
     }
-    if (k === 'concept') {   // D120: tap up to two ideas, or none; hints for AI Studio, never your words on the board
-      const b = briefs(), on = S.chips || [];
-      const chips = '<div class="chips" role="group" aria-label="Ideas">' + CHIPS.map((c) => { const sel = on.includes(c);
-        return '<button class="chipbtn' + (sel ? ' sel' : '') + '" data-act="chip" data-c="' + esc(c) + '" aria-pressed="' + sel + '"' + (!sel && on.length >= 2 ? ' disabled' : '') + '>' + esc(c) + '</button>'; }).join('') + '</div>';
-      return head + '<p class="kicker">Optional</p><h1 class="mid">What is your project about?</h1><p class="lede">Tap up to two ideas, or none. AI Studio leans the story that way only where your drawings show it.</p>' +
-        chips + '<p class="hint" style="margin:0">' + (b.length ? 'Brief attached: ' + esc(b.join(', ')) + '. AI Studio reads it for text.' : 'Have a brief or a concept note? Add it to your files. <button class="link" data-act="go" data-s="upload">Go to your files</button>') + '</p>' +
+    if (k === 'concept') {   // D120, D122: up to five taps in two groups, then one of three ways to answer
+      const full = ideasN() >= IDEAS_MAX;
+      const chip = (act, val, label, sel) => '<button class="chipbtn' + (sel ? ' sel' : '') + '" data-act="' + act + '" data-c="' + esc(val) + '" aria-pressed="' + sel + '"' + (!sel && full ? ' disabled' : '') + '>' + esc(label) + '</button>';
+      const group = (id, title, html) => '<section class="chipgrp" aria-labelledby="' + id + '"><h2 class="chiphead" id="' + id + '">' + title + '</h2><div class="chips" role="group" aria-labelledby="' + id + '">' + html + '</div></section>';
+      const way = (m, title, sub, extra) => '<div class="way' + (cmode() === m ? ' sel' : '') + '" data-m="' + m + '"><button class="waybtn" role="radio" aria-checked="' + (cmode() === m) + '" data-act="cmode" data-m="' + m + '"><span class="waydot" aria-hidden="true"></span><span class="wayt"><b>' + title + '</b><small>' + sub + '</small></span></button>' + (extra || '') + '</div>';
+      const own = '<div class="ownbox"' + (cmode() === 'own' ? '' : ' hidden') + '><label class="sr" for="ownwords">Your concept, in a few words</label><textarea id="ownwords" class="input" rows="3" maxlength="' + OWN_MAX + '" placeholder="A market that becomes a garden at night">' + esc(S.own || '') + '</textarea><span class="owncount" id="owncount">' + String(S.own || '').length + ' / ' + OWN_MAX + '</span></div>';
+      return head + '<p class="kicker">Optional</p><h1 class="mid">What is your project about?</h1>' +
+        '<div class="chipbar"><p class="lede">Tap up to 5, or none.</p><span class="chipcount" id="chipcount" aria-live="polite">' + ideasN() + ' of ' + IDEAS_MAX + '</span></div>' +
+        group('grp-about', 'What it’s about', CHIPS.map((c) => chip('chip', c, c, themesOn().includes(c))).join('')) +
+        group('grp-how', 'How to present it', focusList().map(([f, l]) => chip('focus', f, l, focusOn().includes(f))).join('')) +
+        '<section class="chipgrp" aria-labelledby="grp-way"><h2 class="chiphead" id="grp-way">Your concept</h2><div class="ways" role="radiogroup" aria-labelledby="grp-way">' +
+        way('ai', 'Let AI decide', 'AI decides from the work you’ve uploaded.') +
+        way('own', 'Write it yourself', 'A line or two in your words. We print it as you write it.', own) +
+        way('brief', 'It’s in my concept note', 'We’ll read the brief or concept note in your files.', '<p class="hint waynote" id="briefnote"' + (cmode() === 'brief' ? '' : ' hidden') + '>' + briefNote() + '</p>') +
+        '</div></section>' +
         langPick() + next(conceptLabel(), true).replace('</main>', '') + studentProof('question') + '</main>';
     }
     const q = qd(k), a = ans(k), sel = a;
@@ -2252,7 +2297,12 @@
         if (why) { upErr = why; const e = document.getElementById('upErr'); if (e) e.textContent = why; return; }
         upErr = '';
       }
-      S.q = 1; S.fromHeard = false; startRead(); go('q');
+      const back = S.qReturn, cm = S.cardMode;
+      S.q = 1; S.qReturn = false; S.fromHeard = false; startRead();
+      /* D122: back from "Add it to your files" to the last question; a brief is never read for the title block, so the
+         answered card stands */
+      if (back && cm) { S.cardMode = cm; S.q = path().length; }
+      go('q');
     },
     /* one tap picks and moves on; tapping the picked option again moves on too (changing an answer from the
        preview still waits for "Back to preview") */
@@ -2275,6 +2325,12 @@
         return;
       }
       if (k === 'email' && !qEmail()) S.optin = false;
+      if (k === 'concept' && cmode() === 'own' && !ownWords()) {   // D122: the box was opened: it needs a few words
+        const er = document.getElementById('qErr'), t = document.getElementById('ownwords');
+        if (er) er.textContent = 'Write a few words, or pick another way.';
+        if (t) t.focus();
+        return;
+      }
       if (!S.fromHeard && k === 'making' && readDone()) settleCard();   // the read is back: the counter knows the length now
       if (!S.fromHeard && k === 'email' && !S.cardMode) { decideCard(() => { S.q += 1; saveS(); render(); }); return; }
       if (S.fromHeard || S.q === path().length) { if (DEMO) { S.fromHeard = false; applyIntake(); go(PAYWALL ? 'price' : 'plan'); } else finishQuestions(); } else { S.q += 1; saveS(); render(); }
@@ -2299,8 +2355,16 @@
     },
     rcYes: () => { S.cardOk = true; saveS(); A.qnext(); },
     rcNo: () => { S.cardOk = false; saveS(); A.qnext(); },   // D121: the guess is dropped: a working title and an editable location
-    chip: (el) => { const c = el.dataset.c, on = S.chips || [];
-      S.chips = on.includes(c) ? on.filter((x) => x !== c) : on.length < 2 ? on.concat(c) : on; saveS(); render(); },
+    chip: (el) => { const c = el.dataset.c, on = themesOn();
+      S.chips = on.includes(c) ? on.filter((x) => x !== c) : ideasN() < IDEAS_MAX ? on.concat(c) : on; saveS(); paintIdeas(); },
+    focus: (el) => { const f = el.dataset.c, on = focusOn();   // D122: Text-heavy and Image-led swap for each other
+      const X = { text_heavy: 'image_led', image_led: 'text_heavy' }, other = on.filter((x) => x !== X[f]);
+      S.focus = on.includes(f) ? on.filter((x) => x !== f) : ideasN() - (on.length - other.length) < IDEAS_MAX ? other.concat(f) : on;
+      saveS(); paintIdeas(); },
+    cmode: (el) => { S.cmode = el.dataset.m; saveS(); paintIdeas();
+      const er = document.getElementById('qErr'); if (er) er.textContent = '';
+      if (S.cmode === 'own') { const t = document.getElementById('ownwords'); if (t) t.focus(); } },
+    toBrief: () => { S.qReturn = true; saveS(); go('upload'); },   // back to this question after adding the note
     qskip: () => { S.email = ''; S.optin = false; saveS(); A.qnext(); },
     qback: () => { if (S.fromHeard) { S.fromHeard = false; go(paid() ? 'result' : PAYWALL ? 'price' : 'plan'); } else if (S.q > 1) { S.q -= 1; saveS(); render(); } else go('upload'); },
     student: () => { studentAnswers(); S.fromHeard = false; S.q = path().length; saveS(); go('q'); toast('Filled in the student’s real answers.'); },
@@ -2491,6 +2555,7 @@
     if (e.target.id === 'concept') { S.concept = e.target.value; saveS(); if (!S.lang) { const sel = document.getElementById('lang'); if (sel) sel.value = guessLang(); } const nb = document.querySelector('[data-act="qnext"]'); if (nb) { nb.textContent = conceptLabel(); nb.classList.toggle('primary', !!concept()); } }
     if (e.target.dataset && e.target.dataset.card) { S.card[e.target.dataset.card] = e.target.value; saveS(); const on = !!e.target.value.trim(), er = document.getElementById('cardErr'); if (er && on) er.textContent = ''; const nb = document.querySelector('[data-act="qnext"]'); if (nb) nb.classList.toggle('primary', on); }
     if (e.target.id === 'wfnote') { S.waitNote = e.target.value; saveS(); }
+    if (e.target.id === 'ownwords') { S.own = e.target.value.slice(0, OWN_MAX); saveS(); const c = document.getElementById('owncount'); if (c) c.textContent = S.own.length + ' / ' + OWN_MAX; const er = document.getElementById('qErr'); if (er) er.textContent = ''; }
     if (e.target.id === 'qemail') { S.email = e.target.value; saveS(); const er = document.getElementById('qErr'); if (er) er.textContent = ''; const nb = document.querySelector('[data-act="qnext"]'); if (nb) nb.classList.toggle('primary', !!e.target.value.trim()); }
     if (e.target.id === 'other') { const g = document.getElementById('qgo'); if (g && !S.fromHeard) g.hidden = S.ans[curKey()] !== 'other'; }
     if (e.target.id === 'email') { S.email = e.target.value; saveS(); e.target.classList.remove('needs'); const er = document.getElementById('emailErr'); if (er) er.textContent = ''; }
@@ -2574,6 +2639,10 @@
     let r = await API.intake(S.job, body);
     if (r.status === 422 && body.no_name && /no_name/.test(r.data.error || '')) { delete body.no_name; r = await API.intake(S.job, body); }   // a server from before C8
     if (r.status === 422 && body.email && /email/.test(r.data.error || '') && /extra|permitted/i.test(r.data.error || '')) { delete body.email; delete body.email_optin; r = await API.intake(S.job, body); }   // a server from before the email step
+    if (r.status === 422 && (/focus_chips|concept_mode/.test(r.data.error || '') && /extra|permitted/i.test(r.data.error || '') || /concept_chips: at most 2/.test(r.data.error || ''))) {   // a server from before D122
+      delete body.focus_chips; delete body.concept_mode; body.concept_chips = body.concept_chips.filter((c) => OLD_CHIPS.includes(c)).slice(0, 2);
+      r = await API.intake(S.job, body);
+    }
     if (r.status === 422 && /language|card_read|concept_chips/.test(r.data.error || '') && /extra|permitted/i.test(r.data.error || '')) { delete body.language; delete body.card_read; delete body.concept_chips; r = await API.intake(S.job, body); }   // a server from before D116-D117
     if (!r.ok) {
       if (btn) { btn.disabled = false; btn.textContent = 'Try again'; }
