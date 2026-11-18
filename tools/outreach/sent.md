@@ -40,7 +40,7 @@ addresses here (the repository is public). Send about five a day; one short foll
 | 30 | Emory University | Architect and the City guide | 2026-11-07 | 2026-11-09 |  |
 | 31 | New Jersey Institute of Technology | Finding Images in Architecture guide | 2026-11-07 | 2026-11-09 |  |
 | 32 | University of Melbourne | Architectural History guide | 2026-11-07 | 2026-11-09 |  |
-| 33 | University College London | Architecture library guide | 2026-11-07 | 2026-11-09 | yes: will add it to the architecture guide's list of databases, with our name (Bartlett Library, 10 Nov); thanked 10 Nov |
+| 33 | University College London | Architecture library guide | 2026-11-07 | 2026-11-09 | yes: will add it to the architecture guide's list of databases, with our name (Bartlett Library, 10 Nov); thanked 10 Nov; checked 18 Nov: guide's welcome page has no link yet (the databases list may be another page); sent one note with a one-line description 2026-11-18 |
 | 34 | Falmouth University and University of Exeter (FX Plus) | Architecture and Interiors guide | 2026-11-07 | 2026-11-09 |  |
 | 35 | California State University, San Bernardino | Image Resources guide | 2026-11-07 | 2026-11-09 |  |
 | 36 | Iowa State University | Architecture research guide | 2026-11-07 | 2026-11-09 |  |
@@ -58,8 +58,13 @@ addresses here (the repository is public). Send about five a day; one short foll
 | 48 | School of Planning and Architecture, Bhopal (India) | Library | 2026-11-16 | 2026-11-16 | |
 | 49 | University of California, Berkeley | American Architecture guide · Images (general library address) | 2026-11-16 | 2026-11-16 | |
 | 50 | Washington University in St. Louis | Guide to Architecture Resources · Images for Architecture | 2026-11-16 | 2026-11-16 | |
+| 51 | School of Planning and Architecture, Vijayawada (India) | Central Library | 2026-11-18 | 2026-11-18 | |
+| 52 | Manipal School of Architecture and Planning (India) | School office (to pass on to faculty and library) | 2026-11-18 | 2026-11-18 | |
+| 53 | New York Institute of Technology | Architecture & Design guide · Architectural History (general library address) | 2026-11-18 | 2026-11-18 | |
+| 54 | Ringling College of Art and Design | Architecture guide · Finding Reference Images (general library address) | 2026-11-18 | 2026-11-18 | |
+| 55 | West Virginia University | Landscape Architecture guide (named librarian) | 2026-11-18 | 2026-11-18 | |
 
-Follow-ups for 1–5 sent 16 Nov (no more emails to them). Skipped on 16 Nov: UCLA (only the guide software's admin address; no architecture librarian found), MIT (no address found; the architecture librarian has a profile but no public email). Queue positions 0–3 are done.
+Follow-ups for 1–5 sent 16 Nov (no more emails to them). Skipped on 16 Nov: UCLA (only the guide software's admin address; no architecture librarian found), MIT (no address found; the architecture librarian has a profile but no public email). Queue positions 0–3 are done. 18 Nov: positions 4–9 read; Boston Architectural College and SCI-Arc have no address (skipped), Academy of Art University (general address) left for a later day; positions 0–9 done except Academy of Art (7). Tue 17 Nov's run arrived a day late and was skipped. Manitoba: out of office 9–16 Nov (auto-reply to the 16 Nov reminder).
 
 Left from round 1 (generic or no address, or not an images page): City Tech CUNY, Tulane, Huddersfield, NMSU DACC,
 Illinois, Brown, Ferris State, Detroit Mercy, Birmingham City, Leeds Beckett, Calgary, UBC, Bond, Deakin, Melbourne

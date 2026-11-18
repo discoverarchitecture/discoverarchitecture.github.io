@@ -9,9 +9,9 @@ uses it straight away. Spread across states and kinds of college. Mark each row 
 |---|---|---|---|
 | School of Planning and Architecture, Delhi | New Delhi | library, or Department of Architecture | 2026-11-16 (head of department) |
 | School of Planning and Architecture, Bhopal | Bhopal | library | 2026-11-16 (library) |
-| School of Planning and Architecture, Vijayawada | Vijayawada | library | |
+| School of Planning and Architecture, Vijayawada | Vijayawada | library | 2026-11-18 (library) |
 | Sir J.J. College of Architecture | Mumbai | library | |
-| Faculty of Architecture, Manipal (MSAP) | Manipal | library | |
+| Faculty of Architecture, Manipal (MSAP) | Manipal | library | 2026-11-18 (school office) |
 | IIT Kharagpur, Department of Architecture and Regional Planning | Kharagpur | department or central library | |
 | IIT Roorkee, Department of Architecture and Planning | Roorkee | department or central library | |
 | NIT Calicut, Department of Architecture | Kozhikode | department or library | |
