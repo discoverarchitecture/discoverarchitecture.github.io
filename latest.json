@@ -1,13 +1,13 @@
 {
- "fetched_at": "2026-11-18T00:53:44+00:00",
+ "fetched_at": "2026-11-18T15:30:30+00:00",
  "site": "akshatpagaria.goatcounter.com",
  "window_days": 30,
- "visits_30d": 3523,
+ "visits_30d": 3562,
  "sections": {
   "pages": {
    "hits": [
     {
-     "count": 507,
+     "count": 518,
      "path_id": 112020267,
      "path": "/",
      "event": false,
@@ -15,7 +15,7 @@
      "max": 36
     },
     {
-     "count": 160,
+     "count": 161,
      "path_id": 113691164,
      "path": "/studio",
      "event": false,
@@ -23,7 +23,7 @@
      "max": 6
     },
     {
-     "count": 119,
+     "count": 121,
      "path_id": 116720890,
      "path": "studio/screen/home",
      "event": true,
@@ -39,7 +39,7 @@
      "max": 12
     },
     {
-     "count": 79,
+     "count": 80,
      "path_id": 112020274,
      "path": "/play",
      "event": false,
@@ -71,7 +71,7 @@
      "max": 2
     },
     {
-     "count": 36,
+     "count": 37,
      "path_id": 116802640,
      "path": "studio/screen/upload",
      "event": true,
@@ -143,11 +143,19 @@
      "max": 3
     },
     {
-     "count": 18,
+     "count": 19,
      "path_id": 119289179,
      "path": "studio/click/home/hpick",
      "event": true,
      "title": "Studio \u00b7 click \u00b7 home \u00b7 hpick",
+     "max": 2
+    },
+    {
+     "count": 18,
+     "path_id": 119289191,
+     "path": "studio/files/home",
+     "event": true,
+     "title": "Studio \u00b7 files \u00b7 home",
      "max": 2
     },
     {
@@ -157,14 +165,6 @@
      "event": true,
      "title": "Studio \u00b7 click \u00b7 home \u00b7 start",
      "max": 1
-    },
-    {
-     "count": 17,
-     "path_id": 119289191,
-     "path": "studio/files/home",
-     "event": true,
-     "title": "Studio \u00b7 files \u00b7 home",
-     "max": 2
     },
     {
      "count": 17,
@@ -199,6 +199,14 @@
      "max": 1
     },
     {
+     "count": 12,
+     "path_id": 113976891,
+     "path": "play/endless/over",
+     "event": true,
+     "title": "Endless run over",
+     "max": 2
+    },
+    {
      "count": 11,
      "path_id": 117212605,
      "path": "studio/click/home/sec",
@@ -208,11 +216,11 @@
     },
     {
      "count": 11,
-     "path_id": 113976891,
-     "path": "play/endless/over",
-     "event": true,
-     "title": "Endless run over",
-     "max": 2
+     "path_id": 113703681,
+     "path": "/styles/brutalism",
+     "event": false,
+     "title": "Brutalist architecture: 249 buildings with photos & plans",
+     "max": 1
     },
     {
      "count": 11,
@@ -256,14 +264,6 @@
     },
     {
      "count": 10,
-     "path_id": 113703681,
-     "path": "/styles/brutalism",
-     "event": false,
-     "title": "Brutalist architecture: 249 buildings with photos & plans",
-     "max": 1
-    },
-    {
-     "count": 10,
      "path_id": 113671658,
      "path": "play/daily/3-of-5",
      "event": true,
@@ -303,11 +303,35 @@
      "max": 1
     },
     {
+     "count": 8,
+     "path_id": 116902096,
+     "path": "/buildings/baron-empain-palace",
+     "event": false,
+     "title": "Baron Empain Palace by Alexandre Marcel: photos",
+     "max": 1
+    },
+    {
      "count": 7,
      "path_id": 121452455,
      "path": "studio/making/jury",
      "event": true,
      "title": "Studio: making jury",
+     "max": 1
+    },
+    {
+     "count": 7,
+     "path_id": 121016913,
+     "path": "/studio/guides/how-to-present-site-analysis",
+     "event": false,
+     "title": "How to Do and Present an Architecture Site Analysis",
+     "max": 1
+    },
+    {
+     "count": 7,
+     "path_id": 120824340,
+     "path": "/studio/guides/architecture-presentation-board-templates",
+     "event": false,
+     "title": "Architecture Presentation Board Templates, Explained",
      "max": 1
     },
     {
@@ -332,14 +356,6 @@
      "path": "studio/click/upload/addBrief",
      "event": true,
      "title": "Studio \u00b7 click \u00b7 upload \u00b7 addBrief",
-     "max": 1
-    },
-    {
-     "count": 7,
-     "path_id": 116902096,
-     "path": "/buildings/baron-empain-palace",
-     "event": false,
-     "title": "Baron Empain Palace by Alexandre Marcel: photos",
      "max": 1
     },
     {
@@ -388,14 +404,6 @@
      "path": "/studio/guides/architecture-concept-diagram-ideas",
      "event": false,
      "title": "Architecture Concept Diagram Ideas: 10 That Work",
-     "max": 1
-    },
-    {
-     "count": 6,
-     "path_id": 120824340,
-     "path": "/studio/guides/architecture-presentation-board-templates",
-     "event": false,
-     "title": "Architecture Presentation Board Templates, Explained",
      "max": 1
     },
     {
@@ -480,19 +488,19 @@
     },
     {
      "count": 5,
-     "path_id": 121016913,
-     "path": "/studio/guides/how-to-present-site-analysis",
-     "event": false,
-     "title": "How to Do and Present an Architecture Site Analysis",
-     "max": 1
-    },
-    {
-     "count": 5,
      "path_id": 115682236,
      "path": "/buildings/the-egg-beirut",
      "event": false,
      "title": "The Egg (Beirut City Center) by Joseph Philippe Karam",
      "max": 4
+    },
+    {
+     "count": 5,
+     "path_id": 113963357,
+     "path": "/types/housing",
+     "event": false,
+     "title": "Housing architecture: 248 buildings with photos & plans",
+     "max": 1
     },
     {
      "count": 5,
@@ -512,10 +520,26 @@
     },
     {
      "count": 4,
+     "path_id": 122267896,
+     "path": "building/versohnungskirche-ulm",
+     "event": true,
+     "title": "Vers\u00f6hnungskirche (Ulm)",
+     "max": 1
+    },
+    {
+     "count": 4,
      "path_id": 121021779,
      "path": "/studio/guides/how-to-lay-out-an-a1-architecture-board",
      "event": false,
      "title": "How to Lay Out an A1 Architecture Presentation Board",
+     "max": 1
+    },
+    {
+     "count": 4,
+     "path_id": 120832161,
+     "path": "/studio/guides",
+     "event": false,
+     "title": "Guides for Architecture Students \u00b7 Studio FGA",
      "max": 1
     },
     {
@@ -560,14 +584,6 @@
     },
     {
      "count": 4,
-     "path_id": 113963357,
-     "path": "/types/housing",
-     "event": false,
-     "title": "Housing architecture: 248 buildings with photos & plans",
-     "max": 1
-    },
-    {
-     "count": 4,
      "path_id": 113942033,
      "path": "/pricing",
      "event": false,
@@ -600,6 +616,14 @@
     },
     {
      "count": 4,
+     "path_id": 113367616,
+     "path": "/buildings/burj-al-arab",
+     "event": false,
+     "title": "Burj Al Arab by Tom Wright: photos, plans & key features",
+     "max": 1
+    },
+    {
+     "count": 4,
      "path_id": 113362426,
      "path": "/buildings/castello-di-rivoli",
      "event": false,
@@ -621,14 +645,6 @@
      "event": false,
      "title": "Ningbo History Museum \u2014 Wang Shu, 2008: photos",
      "max": 2
-    },
-    {
-     "count": 3,
-     "path_id": 122267896,
-     "path": "building/versohnungskirche-ulm",
-     "event": true,
-     "title": "Vers\u00f6hnungskirche (Ulm)",
-     "max": 1
     },
     {
      "count": 3,
@@ -669,14 +685,6 @@
      "event": false,
      "title": "CCTV Headquarters by OMA, 2012: photos, plans & key features",
      "max": 2
-    },
-    {
-     "count": 3,
-     "path_id": 120832161,
-     "path": "/studio/guides",
-     "event": false,
-     "title": "Guides for Architecture Students \u00b7 Studio FGA",
-     "max": 1
     },
     {
      "count": 3,
@@ -797,36 +805,28 @@
      "event": false,
      "title": "Spa Green Estate by Berthold Lubetkin: photos & key features",
      "max": 2
-    },
-    {
-     "count": 3,
-     "path_id": 114359515,
-     "path": "/buildings/tanzbrunnen-cologne",
-     "event": false,
-     "title": "Tanzbrunnen (Star Wave Tent) by Frei Otto: photos",
-     "max": 1
     }
    ],
-   "total": 1884,
+   "total": 1912,
    "more": true
   },
   "referrers": {
    "stats": [
     {
      "name": "",
-     "count": 1865,
+     "count": 1874,
      "ref_scheme": "o"
     },
     {
      "id": "Google",
      "name": "Google",
-     "count": 277,
+     "count": 282,
      "ref_scheme": "g"
     },
     {
      "id": "chatgpt.com",
      "name": "chatgpt.com",
-     "count": 234,
+     "count": 241,
      "ref_scheme": "c"
     },
     {
@@ -838,7 +838,7 @@
     {
      "id": "www.bing.com",
      "name": "www.bing.com",
-     "count": 40,
+     "count": 42,
      "ref_scheme": "h"
     },
     {
@@ -851,6 +851,12 @@
      "id": "wall",
      "name": "wall",
      "count": 23,
+     "ref_scheme": "c"
+    },
+    {
+     "id": "libguide",
+     "name": "libguide",
+     "count": 10,
      "ref_scheme": "c"
     },
     {
@@ -868,12 +874,18 @@
     {
      "id": "bing.com",
      "name": "bing.com",
-     "count": 6,
+     "count": 7,
      "ref_scheme": "h"
     },
     {
      "id": "l.instagram.com",
      "name": "l.instagram.com",
+     "count": 6,
+     "ref_scheme": "h"
+    },
+    {
+     "id": "www.facebook.com",
+     "name": "www.facebook.com",
      "count": 6,
      "ref_scheme": "h"
     },
@@ -888,12 +900,6 @@
      "name": "reddit",
      "count": 5,
      "ref_scheme": "c"
-    },
-    {
-     "id": "www.facebook.com",
-     "name": "www.facebook.com",
-     "count": 5,
-     "ref_scheme": "h"
     },
     {
      "id": "duckduckgo.com",
@@ -1053,12 +1059,12 @@
     {
      "id": "Chrome",
      "name": "Chrome",
-     "count": 2245
+     "count": 2281
     },
     {
      "id": "Safari",
      "name": "Safari",
-     "count": 912
+     "count": 915
     },
     {
      "id": "Firefox",
@@ -1077,17 +1083,17 @@
     {
      "id": "Windows",
      "name": "Windows",
-     "count": 1301
+     "count": 1321
     },
     {
      "id": "iOS",
      "name": "iOS",
-     "count": 769
+     "count": 772
     },
     {
      "id": "Android",
      "name": "Android",
-     "count": 661
+     "count": 676
     },
     {
      "id": "macOS",
@@ -1097,7 +1103,7 @@
     {
      "id": "Linux",
      "name": "Linux",
-     "count": 147
+     "count": 148
     },
     {
      "name": "",
@@ -1116,12 +1122,12 @@
     {
      "id": "IN",
      "name": "India",
-     "count": 1381
+     "count": 1400
     },
     {
      "id": "US",
      "name": "United States",
-     "count": 467
+     "count": 474
     },
     {
      "id": "AR",
@@ -1131,7 +1137,7 @@
     {
      "id": "DE",
      "name": "Germany",
-     "count": 87
+     "count": 92
     },
     {
      "id": "TR",
@@ -1149,6 +1155,11 @@
      "count": 56
     },
     {
+     "id": "SG",
+     "name": "Singapore",
+     "count": 50
+    },
+    {
      "id": "CH",
      "name": "Switzerland",
      "count": 49
@@ -1159,14 +1170,9 @@
      "count": 48
     },
     {
-     "id": "SG",
-     "name": "Singapore",
-     "count": 47
-    },
-    {
      "id": "JP",
      "name": "Japan",
-     "count": 44
+     "count": 45
     },
     {
      "id": "FR",
@@ -1186,12 +1192,17 @@
     {
      "id": "BR",
      "name": "Brazil",
-     "count": 37
+     "count": 38
     },
     {
      "id": "KZ",
      "name": "Kazakhstan",
      "count": 35
+    },
+    {
+     "id": "JO",
+     "name": "Hashemite Kingdom of Jordan",
+     "count": 31
     },
     {
      "id": "NL",
@@ -1201,11 +1212,6 @@
     {
      "id": "IR",
      "name": "Iran",
-     "count": 30
-    },
-    {
-     "id": "JO",
-     "name": "Hashemite Kingdom of Jordan",
      "count": 30
     },
     {
@@ -1236,7 +1242,7 @@
     {
      "id": "EC",
      "name": "Ecuador",
-     "count": 18
+     "count": 19
     },
     {
      "id": "NZ",
@@ -1364,6 +1370,11 @@
      "count": 6
     },
     {
+     "id": "AT",
+     "name": "Austria",
+     "count": 5
+    },
+    {
      "id": "CL",
      "name": "Chile",
      "count": 5
@@ -1392,11 +1403,6 @@
      "id": "IE",
      "name": "Ireland",
      "count": 5
-    },
-    {
-     "id": "AT",
-     "name": "Austria",
-     "count": 4
     },
     {
      "id": "DK",
@@ -1581,17 +1587,17 @@
     {
      "id": "phone",
      "name": "",
-     "count": 1375
+     "count": 1393
     },
     {
      "id": "tablet",
      "name": "",
-     "count": 152
+     "count": 153
     },
     {
      "id": "desktop",
      "name": "",
-     "count": 1562
+     "count": 1582
     },
     {
      "id": "desktophd",
@@ -1611,7 +1617,7 @@
     {
      "id": "(unknown)",
      "name": "(unknown)",
-     "count": 3213
+     "count": 3252
     }
    ],
    "more": false
