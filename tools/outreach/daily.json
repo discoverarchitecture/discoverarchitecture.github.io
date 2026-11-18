@@ -1,45 +1,21 @@
 [
  {
-  "school": "University of Manitoba",
-  "country": "CA",
-  "guide": "Architecture LibGuide",
-  "url": "https://libguides.lib.umanitoba.ca/UMarchitecture",
-  "why": "said yes on 6 Nov: check the listing",
-  "checked": "2026-11-16",
-  "page_title": "Intro: Start Here - Architecture - LibGuides at University of Manitoba",
+  "school": "University College London",
+  "country": "UK",
+  "guide": "Architecture library guide",
+  "url": "https://library-guides.ucl.ac.uk/architecture",
+  "why": "said yes on 10 Nov: check the listing",
+  "checked": "2026-11-18",
+  "page_title": "Welcome - Architecture - Library guides and databases at University College London, Global",
   "about_architecture": true,
   "outside_sites": [
-   "architecture.arthistoryresearch.net",
-   "arthistoryarchive.com",
-   "degruyter.com",
-   "dhjhkxawhe8q4.cloudfront.net",
-   "direct.mit.edu",
-   "discovery.ucl.ac.uk",
-   "merlot.org",
-   "mitpress-mit-edu.uml.idm.oclc.org",
-   "open.umn.edu",
-   "oxfordartonline.com.uml.idm.oclc.org",
-   "publishing.vt.edu"
+   "aata.getty.edu",
+   "architecture.com",
+   "bookings.cloud.microsoft",
+   "content.lib.washington.edu",
+   "riba.sirsidynix.net.uk"
   ],
-  "n_outside": 11,
-  "links_to_us": false,
-  "profile_found": ""
- },
- {
-  "school": "Victoria University of Wellington",
-  "country": "NZ",
-  "guide": "Architecture guide",
-  "url": "https://libguides.victoria.ac.nz/architecture/research-writing",
-  "why": "said yes on 8 Nov: check the listing",
-  "checked": "2026-11-16",
-  "page_title": "Research and writing - Architecture - Guides at Victoria University of Wellington",
-  "about_architecture": true,
-  "outside_sites": [
-   "libapps-au.s3-ap-southeast-2.amazonaws.com",
-   "outlook.office365.com",
-   "wgtn.ac.nz"
-  ],
-  "n_outside": 3,
+  "n_outside": 5,
   "links_to_us": false,
   "profile_found": ""
  }

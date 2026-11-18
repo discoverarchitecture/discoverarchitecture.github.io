@@ -1,6 +1,6 @@
-# Guide check for daily, 2026-11-16
+# Guide check for daily, 2026-11-18
 
-2 guides loaded, 2 look strong, 0 failed.
+1 guides loaded, 1 look strong, 0 failed.
 
 ## Failed or weak (replace these)
 
