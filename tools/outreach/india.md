@@ -12,9 +12,9 @@ uses it straight away. Spread across states and kinds of college. Mark each row 
 | School of Planning and Architecture, Vijayawada | Vijayawada | library | 2026-11-18 (library) |
 | Sir J.J. College of Architecture | Mumbai | library | |
 | Faculty of Architecture, Manipal (MSAP) | Manipal | library | 2026-11-18 (school office) |
-| IIT Kharagpur, Department of Architecture and Regional Planning | Kharagpur | department or central library | |
-| IIT Roorkee, Department of Architecture and Planning | Roorkee | department or central library | |
-| NIT Calicut, Department of Architecture | Kozhikode | department or library | |
+| IIT Kharagpur, Department of Architecture and Regional Planning | Kharagpur | department or central library | 2026-11-19 (head of department) |
+| IIT Roorkee, Department of Architecture and Planning | Roorkee | department or central library | no verified address found 2026-11-19; try again later |
+| NIT Calicut, Department of Architecture | Kozhikode | department or library | 2026-11-19 (head of department) |
 | NIT Tiruchirappalli, Department of Architecture | Tiruchirappalli | department or library | |
 | Chandigarh College of Architecture | Chandigarh | library | |
 | Faculty of Architecture, Dr. A.P.J. Abdul Kalam Technical University | Lucknow | library | |

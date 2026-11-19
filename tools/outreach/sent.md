@@ -63,8 +63,13 @@ addresses here (the repository is public). Send about five a day; one short foll
 | 53 | New York Institute of Technology | Architecture & Design guide · Architectural History (general library address) | 2026-11-18 | 2026-11-18 | |
 | 54 | Ringling College of Art and Design | Architecture guide · Finding Reference Images (general library address) | 2026-11-18 | 2026-11-18 | |
 | 55 | West Virginia University | Landscape Architecture guide (named librarian) | 2026-11-18 | 2026-11-18 | |
+| 56 | IIT Kharagpur (India) | Department of Architecture and Regional Planning (head of department) | 2026-11-19 | 2026-11-19 | |
+| 57 | NIT Calicut (India) | Department of Architecture and Planning (head of department) | 2026-11-19 | 2026-11-19 | |
+| 58 | Michigan State University | Landscape Architecture Research guide (named librarian) | 2026-11-19 | 2026-11-19 | |
+| 59 | Savannah College of Art and Design | Architectural History guide (general library address) | 2026-11-19 | 2026-11-19 | |
+| 60 | Academy of Art University | Landscape Architecture guide · Web Resources (general library address) | 2026-11-19 | 2026-11-19 | |
 
-Follow-ups for 1–5 sent 16 Nov (no more emails to them). Skipped on 16 Nov: UCLA (only the guide software's admin address; no architecture librarian found), MIT (no address found; the architecture librarian has a profile but no public email). Queue positions 0–3 are done. 18 Nov: positions 4–9 read; Boston Architectural College and SCI-Arc have no address (skipped), Academy of Art University (general address) left for a later day; positions 0–9 done except Academy of Art (7). Tue 17 Nov's run arrived a day late and was skipped. Manitoba: out of office 9–16 Nov (auto-reply to the 16 Nov reminder).
+Follow-ups for 1–5 sent 16 Nov (no more emails to them). Skipped on 16 Nov: UCLA (only the guide software's admin address; no architecture librarian found), MIT (no address found; the architecture librarian has a profile but no public email). Queue positions 0–3 are done. 18 Nov: positions 4–9 read; Boston Architectural College and SCI-Arc have no address (skipped), Academy of Art University (general address) left for a later day; positions 0–9 done. 19 Nov: positions 10–15 read; Cincinnati, Roger Williams, Miami and College of DuPage have no address (skipped); queue positions 0–15 done. Tue 17 Nov's run arrived a day late and was skipped. Manitoba: out of office 9–16 Nov (auto-reply to the 16 Nov reminder).
 
 Left from round 1 (generic or no address, or not an images page): City Tech CUNY, Tulane, Huddersfield, NMSU DACC,
 Illinois, Brown, Ferris State, Detroit Mercy, Birmingham City, Leeds Beckett, Calgary, UBC, Bond, Deakin, Melbourne
