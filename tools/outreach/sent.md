@@ -78,3 +78,5 @@ librarian or a guide-specific address, drafted 7 Nov in Gmail, all sent Mon 9 No
 had only a general library address or none: left for now.
 
 Follow-ups: 6-20 from 20 Nov, 21-46 from 23 Nov (one short note, never a third). How to check a promised listing: tools/outreach/REPLIES.md, "Checking a listing".
+
+Test run of the fresh-session routine, 19 Nov 2026: repository, Gmail and push OK.
