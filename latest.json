@@ -1,13 +1,13 @@
 {
- "fetched_at": "2026-11-19T00:12:10+00:00",
+ "fetched_at": "2026-11-19T15:38:33+00:00",
  "site": "akshatpagaria.goatcounter.com",
  "window_days": 30,
- "visits_30d": 3611,
+ "visits_30d": 3656,
  "sections": {
   "pages": {
    "hits": [
     {
-     "count": 508,
+     "count": 513,
      "path_id": 112020267,
      "path": "/",
      "event": false,
@@ -15,7 +15,7 @@
      "max": 36
     },
     {
-     "count": 165,
+     "count": 167,
      "path_id": 113691164,
      "path": "/studio",
      "event": false,
@@ -23,7 +23,7 @@
      "max": 6
     },
     {
-     "count": 124,
+     "count": 127,
      "path_id": 116720890,
      "path": "studio/screen/home",
      "event": true,
@@ -47,7 +47,7 @@
      "max": 9
     },
     {
-     "count": 52,
+     "count": 54,
      "path_id": 120621079,
      "path": "studio/flow/paywall",
      "event": true,
@@ -55,7 +55,7 @@
      "max": 3
     },
     {
-     "count": 48,
+     "count": 49,
      "path_id": 116802573,
      "path": "studio/scroll/25",
      "event": true,
@@ -63,7 +63,7 @@
      "max": 2
     },
     {
-     "count": 40,
+     "count": 41,
      "path_id": 116837291,
      "path": "studio/scroll/50",
      "event": true,
@@ -79,7 +79,7 @@
      "max": 2
     },
     {
-     "count": 37,
+     "count": 38,
      "path_id": 113702981,
      "path": "studio/ai-button",
      "event": true,
@@ -304,10 +304,26 @@
     },
     {
      "count": 8,
+     "path_id": 121016913,
+     "path": "/studio/guides/how-to-present-site-analysis",
+     "event": false,
+     "title": "How to Do and Present an Architecture Site Analysis",
+     "max": 1
+    },
+    {
+     "count": 8,
      "path_id": 117976867,
      "path": "studio/click/upload/rmFile",
      "event": true,
      "title": "Studio \u00b7 click \u00b7 upload \u00b7 rmFile",
+     "max": 1
+    },
+    {
+     "count": 8,
+     "path_id": 117583511,
+     "path": "/styles/high-tech",
+     "event": false,
+     "title": "High-tech architecture: 96 buildings with photos & plans",
      "max": 1
     },
     {
@@ -319,12 +335,12 @@
      "max": 1
     },
     {
-     "count": 7,
-     "path_id": 121016913,
-     "path": "/studio/guides/how-to-present-site-analysis",
+     "count": 8,
+     "path_id": 113751701,
+     "path": "/styles/postmodernism",
      "event": false,
-     "title": "How to Do and Present an Architecture Site Analysis",
-     "max": 1
+     "title": "Postmodern architecture: 150 buildings with photos & plans",
+     "max": 2
     },
     {
      "count": 7,
@@ -368,10 +384,10 @@
     },
     {
      "count": 7,
-     "path_id": 117583511,
-     "path": "/styles/high-tech",
+     "path_id": 117204370,
+     "path": "/buildings/copan-building",
      "event": false,
-     "title": "High-tech architecture: 96 buildings with photos & plans",
+     "title": "Copan Building by Oscar Niemeyer: photos & plans",
      "max": 1
     },
     {
@@ -397,14 +413,6 @@
      "event": true,
      "title": "Daily five finished: 1 of 5 right",
      "max": 3
-    },
-    {
-     "count": 7,
-     "path_id": 113751701,
-     "path": "/styles/postmodernism",
-     "event": false,
-     "title": "Postmodern architecture: 150 buildings with photos & plans",
-     "max": 2
     },
     {
      "count": 7,
@@ -448,14 +456,6 @@
     },
     {
      "count": 6,
-     "path_id": 117204370,
-     "path": "/buildings/copan-building",
-     "event": false,
-     "title": "Copan Building by Oscar Niemeyer: photos & plans",
-     "max": 1
-    },
-    {
-     "count": 6,
      "path_id": 115515870,
      "path": "/styles/parametric",
      "event": false,
@@ -488,6 +488,14 @@
     },
     {
      "count": 5,
+     "path_id": 121384932,
+     "path": "/buildings/cctv-headquarters",
+     "event": false,
+     "title": "CCTV Headquarters by OMA, 2012: photos, plans & key features",
+     "max": 2
+    },
+    {
+     "count": 5,
      "path_id": 115682236,
      "path": "/buildings/the-egg-beirut",
      "event": false,
@@ -508,6 +516,14 @@
      "path": "play/daily/4-of-5",
      "event": true,
      "title": "Daily five finished: 4 of 5 right",
+     "max": 2
+    },
+    {
+     "count": 4,
+     "path_id": 124036941,
+     "path": "/buildings/heritance-kandalama",
+     "event": false,
+     "title": "Heritance Kandalama by Geoffrey Bawa: photos & key features",
      "max": 2
     },
     {
@@ -536,6 +552,14 @@
     },
     {
      "count": 4,
+     "path_id": 120361551,
+     "path": "/buildings/fondation-louis-vuitton",
+     "event": false,
+     "title": "Fondation Louis Vuitton by Frank Gehry: photos & plans",
+     "max": 2
+    },
+    {
+     "count": 4,
      "path_id": 120261319,
      "path": "studio/typed/home",
      "event": true,
@@ -556,6 +580,14 @@
      "path": "studio/click/plan/toPrice",
      "event": true,
      "title": "Studio \u00b7 click \u00b7 plan \u00b7 toPrice",
+     "max": 1
+    },
+    {
+     "count": 4,
+     "path_id": 117421152,
+     "path": "/ideas/courtyard",
+     "event": false,
+     "title": "Courtyard architecture examples: 325 buildings & photos",
      "max": 1
     },
     {
@@ -664,14 +696,6 @@
     },
     {
      "count": 3,
-     "path_id": 121384932,
-     "path": "/buildings/cctv-headquarters",
-     "event": false,
-     "title": "CCTV Headquarters by OMA, 2012: photos, plans & key features",
-     "max": 2
-    },
-    {
-     "count": 3,
      "path_id": 120562507,
      "path": "studio/click/upload/home",
      "event": true,
@@ -709,14 +733,6 @@
      "event": false,
      "title": "Barcelona Pavilion by Mies van der Rohe: photos & plans",
      "max": 2
-    },
-    {
-     "count": 3,
-     "path_id": 117421152,
-     "path": "/ideas/courtyard",
-     "event": false,
-     "title": "Courtyard architecture examples: 325 buildings & photos",
-     "max": 1
     },
     {
      "count": 3,
@@ -776,57 +792,41 @@
     },
     {
      "count": 3,
+     "path_id": 114582294,
+     "path": "/buildings/humble-administrator-s-garden",
+     "event": false,
+     "title": "Humble Administrator's Garden by Wang Xianchen: photos",
+     "max": 2
+    },
+    {
+     "count": 3,
      "path_id": 114386767,
      "path": "/styles/modernism",
      "event": false,
      "title": "Modernist architecture: 934 buildings with photos & plans",
      "max": 1
-    },
-    {
-     "count": 3,
-     "path_id": 114378456,
-     "path": "/buildings/spa-green-estate",
-     "event": false,
-     "title": "Spa Green Estate by Berthold Lubetkin: photos & key features",
-     "max": 2
-    },
-    {
-     "count": 3,
-     "path_id": 114359515,
-     "path": "/buildings/tanzbrunnen-cologne",
-     "event": false,
-     "title": "Tanzbrunnen (Star Wave Tent) by Frei Otto: photos",
-     "max": 1
-    },
-    {
-     "count": 3,
-     "path_id": 114289437,
-     "path": "/buildings/piazza-d-italia",
-     "event": false,
-     "title": "Piazza d'Italia by Charles Moore with Perez Architects",
-     "max": 1
     }
    ],
-   "total": 1938,
+   "total": 1962,
    "more": true
   },
   "referrers": {
    "stats": [
     {
      "name": "",
-     "count": 1878,
+     "count": 1898,
      "ref_scheme": "o"
     },
     {
      "id": "Google",
      "name": "Google",
-     "count": 245,
+     "count": 247,
      "ref_scheme": "g"
     },
     {
      "id": "chatgpt.com",
      "name": "chatgpt.com",
-     "count": 243,
+     "count": 247,
      "ref_scheme": "c"
     },
     {
@@ -838,7 +838,7 @@
     {
      "id": "www.bing.com",
      "name": "www.bing.com",
-     "count": 47,
+     "count": 51,
      "ref_scheme": "h"
     },
     {
@@ -856,7 +856,7 @@
     {
      "id": "libguide",
      "name": "libguide",
-     "count": 11,
+     "count": 13,
      "ref_scheme": "c"
     },
     {
@@ -920,6 +920,12 @@
      "ref_scheme": "c"
     },
     {
+     "id": "site",
+     "name": "site",
+     "count": 3,
+     "ref_scheme": "c"
+    },
+    {
      "id": "www.ecosia.org",
      "name": "www.ecosia.org",
      "count": 3,
@@ -932,20 +938,26 @@
      "ref_scheme": "h"
     },
     {
+     "id": "wall-bar",
+     "name": "wall-bar",
+     "count": 3,
+     "ref_scheme": "c"
+    },
+    {
      "id": "YouTube",
      "name": "YouTube",
      "count": 2,
      "ref_scheme": "c"
     },
     {
-     "id": "site",
-     "name": "site",
-     "count": 2,
-     "ref_scheme": "c"
-    },
-    {
      "id": "t.co",
      "name": "t.co",
+     "count": 2,
+     "ref_scheme": "h"
+    },
+    {
+     "id": "www.perplexity.ai",
+     "name": "www.perplexity.ai",
      "count": 2,
      "ref_scheme": "h"
     },
@@ -958,12 +970,6 @@
     {
      "id": "perplexity",
      "name": "perplexity",
-     "count": 2,
-     "ref_scheme": "c"
-    },
-    {
-     "id": "wall-bar",
-     "name": "wall-bar",
      "count": 2,
      "ref_scheme": "c"
     },
@@ -984,12 +990,6 @@
      "name": "footer",
      "count": 1,
      "ref_scheme": "c"
-    },
-    {
-     "id": "www.perplexity.ai",
-     "name": "www.perplexity.ai",
-     "count": 1,
-     "ref_scheme": "h"
     },
     {
      "id": "www.qwant.com",
@@ -1065,12 +1065,12 @@
     {
      "id": "Chrome",
      "name": "Chrome",
-     "count": 2272
+     "count": 2313
     },
     {
      "id": "Safari",
      "name": "Safari",
-     "count": 901
+     "count": 904
     },
     {
      "id": "Firefox",
@@ -1089,7 +1089,7 @@
     {
      "id": "Windows",
      "name": "Windows",
-     "count": 1321
+     "count": 1359
     },
     {
      "id": "iOS",
@@ -1099,17 +1099,17 @@
     {
      "id": "Android",
      "name": "Android",
-     "count": 682
+     "count": 684
     },
     {
      "id": "macOS",
      "name": "macOS",
-     "count": 326
+     "count": 329
     },
     {
      "id": "Linux",
      "name": "Linux",
-     "count": 136
+     "count": 137
     },
     {
      "name": "",
@@ -1128,12 +1128,12 @@
     {
      "id": "IN",
      "name": "India",
-     "count": 1399
+     "count": 1414
     },
     {
      "id": "US",
      "name": "United States",
-     "count": 466
+     "count": 468
     },
     {
      "id": "AR",
@@ -1151,6 +1151,11 @@
      "count": 81
     },
     {
+     "id": "SG",
+     "name": "Singapore",
+     "count": 62
+    },
+    {
      "id": "EG",
      "name": "Egypt",
      "count": 58
@@ -1159,11 +1164,6 @@
      "id": "GB",
      "name": "United Kingdom",
      "count": 53
-    },
-    {
-     "id": "SG",
-     "name": "Singapore",
-     "count": 50
     },
     {
      "id": "PK",
@@ -1181,14 +1181,19 @@
      "count": 44
     },
     {
+     "id": "KR",
+     "name": "South Korea",
+     "count": 39
+    },
+    {
      "id": "FR",
      "name": "France",
      "count": 38
     },
     {
-     "id": "KR",
-     "name": "South Korea",
-     "count": 38
+     "id": "IT",
+     "name": "Italy",
+     "count": 37
     },
     {
      "id": "BR",
@@ -1201,9 +1206,9 @@
      "count": 35
     },
     {
-     "id": "IT",
-     "name": "Italy",
-     "count": 34
+     "id": "IR",
+     "name": "Iran",
+     "count": 32
     },
     {
      "id": "JO",
@@ -1221,29 +1226,24 @@
      "count": 31
     },
     {
-     "id": "IR",
-     "name": "Iran",
-     "count": 30
-    },
-    {
      "id": "MA",
      "name": "Morocco",
      "count": 26
     },
     {
-     "id": "DZ",
-     "name": "Algeria",
-     "count": 25
-    },
-    {
      "id": "AU",
      "name": "Australia",
-     "count": 24
+     "count": 25
     },
     {
      "id": "CA",
      "name": "Canada",
-     "count": 24
+     "count": 25
+    },
+    {
+     "id": "DZ",
+     "name": "Algeria",
+     "count": 25
     },
     {
      "id": "BE",
@@ -1258,7 +1258,7 @@
     {
      "id": "NZ",
      "name": "New Zealand",
-     "count": 18
+     "count": 19
     },
     {
      "id": "AE",
@@ -1268,12 +1268,12 @@
     {
      "id": "PH",
      "name": "Philippines",
-     "count": 16
+     "count": 17
     },
     {
      "id": "MX",
      "name": "Mexico",
-     "count": 15
+     "count": 16
     },
     {
      "id": "SC",
@@ -1296,14 +1296,14 @@
      "count": 12
     },
     {
-     "id": "HK",
-     "name": "Hong Kong",
+     "id": "CO",
+     "name": "Colombia",
      "count": 10
     },
     {
-     "id": "CO",
-     "name": "Colombia",
-     "count": 9
+     "id": "HK",
+     "name": "Hong Kong",
+     "count": 10
     },
     {
      "id": "LB",
@@ -1316,8 +1316,18 @@
      "count": 9
     },
     {
+     "id": "IQ",
+     "name": "Iraq",
+     "count": 8
+    },
+    {
      "id": "RU",
      "name": "Russia",
+     "count": 8
+    },
+    {
+     "id": "TH",
+     "name": "Thailand",
      "count": 8
     },
     {
@@ -1326,18 +1336,8 @@
      "count": 7
     },
     {
-     "id": "IQ",
-     "name": "Iraq",
-     "count": 7
-    },
-    {
      "id": "PL",
      "name": "Poland",
-     "count": 7
-    },
-    {
-     "id": "TH",
-     "name": "Thailand",
      "count": 7
     },
     {
@@ -1401,6 +1401,11 @@
      "count": 5
     },
     {
+     "id": "IL",
+     "name": "Israel",
+     "count": 5
+    },
+    {
      "id": "PT",
      "name": "Portugal",
      "count": 5
@@ -1413,11 +1418,6 @@
     {
      "id": "FI",
      "name": "Finland",
-     "count": 4
-    },
-    {
-     "id": "IL",
-     "name": "Israel",
      "count": 4
     },
     {
@@ -1593,17 +1593,17 @@
     {
      "id": "phone",
      "name": "",
-     "count": 1388
+     "count": 1390
     },
     {
      "id": "tablet",
      "name": "",
-     "count": 154
+     "count": 157
     },
     {
      "id": "desktop",
      "name": "",
-     "count": 1575
+     "count": 1614
     },
     {
      "id": "desktophd",
@@ -1623,7 +1623,7 @@
     {
      "id": "(unknown)",
      "name": "(unknown)",
-     "count": 3227
+     "count": 3271
     }
    ],
    "more": false
