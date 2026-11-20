@@ -482,7 +482,7 @@ day,path,count
 2026-11-19,studio/scroll/50,2
 2026-11-19,studio/scroll/75,1
 2026-11-20,/play,1
-2026-11-20,/studio,6
+2026-11-20,/studio,8
 2026-11-20,/studio/guides,1
 2026-11-20,/studio/guides/architecture-jury-presentation-slides,1
 2026-11-20,/studio/guides/how-to-present-site-analysis,1
@@ -499,10 +499,10 @@ day,path,count
 2026-11-20,studio/click/q/qnext,1
 2026-11-20,studio/files/home,1
 2026-11-20,studio/files/upload,1
-2026-11-20,studio/flow/paywall,5
+2026-11-20,studio/flow/paywall,6
 2026-11-20,studio/making/jury,2
 2026-11-20,studio/readcard/questions,1
-2026-11-20,studio/screen/home,6
+2026-11-20,studio/screen/home,8
 2026-11-20,studio/screen/price,1
 2026-11-20,studio/screen/q,2
 2026-11-20,studio/screen/upload,2
@@ -511,3 +511,4 @@ day,path,count
 2026-11-20,studio/scroll/50,4
 2026-11-20,studio/scroll/75,2
 2026-11-20,studio/typed/q,1
+2026-11-21,/play,1
