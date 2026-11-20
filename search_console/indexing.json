@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-19T13:55:43+00:00",
+ "updated_at": "2026-11-20T13:40:22+00:00",
  "site": "sc-domain:findgreatarchitecture.com",
  "summary": {
   "sitemap_pages": 2765,
@@ -15,28 +15,28 @@
  },
  "pages": {
   "https://findgreatarchitecture.com/": {
-   "checked": "2026-11-11",
+   "checked": "2026-11-20",
    "verdict": "PASS",
    "state": "Submitted and indexed",
-   "last_crawl": "2026-11-02",
+   "last_crawl": "2026-11-17",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/architects/": {
-   "checked": "2026-11-11",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-21",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/architects/3xn/": {
-   "checked": "2026-11-11",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-21",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/architects/achyut-kanvinde/": {
-   "checked": "2026-11-11",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-20",
@@ -57,7 +57,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/architects/alberto-campo-baeza/": {
-   "checked": "2026-11-11",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-21",
@@ -78,7 +78,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/architects/alejandro-aravena/": {
-   "checked": "2026-11-11",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-21",
@@ -92,14 +92,14 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/architects/alvar-aalto/": {
-   "checked": "2026-11-11",
+   "checked": "2026-11-20",
    "verdict": "PASS",
    "state": "Submitted and indexed",
    "last_crawl": "2026-10-20",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/architects/alvaro-siza/": {
-   "checked": "2026-11-11",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "URL is unknown to Google",
    "last_crawl": "",
@@ -113,14 +113,14 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/architects/antoni-gaudi/": {
-   "checked": "2026-11-11",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-21",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/architects/arata-isozaki/": {
-   "checked": "2026-11-11",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-21",
@@ -134,7 +134,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/architects/architectus/": {
-   "checked": "2026-11-11",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-21",
@@ -148,21 +148,21 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/architects/arne-jacobsen/": {
-   "checked": "2026-11-11",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-21",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/architects/arthur-erickson/": {
-   "checked": "2026-11-11",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-21",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/architects/artur-tarkhanyan/": {
-   "checked": "2026-11-11",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-21",
@@ -176,21 +176,21 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/architects/ashton-raggatt-mcdougall/": {
-   "checked": "2026-11-11",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-21",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/architects/auguste-perret/": {
-   "checked": "2026-11-11",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-20",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/architects/balkrishna-doshi/": {
-   "checked": "2026-11-11",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-21",
@@ -204,14 +204,14 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/architects/behnisch-and-partner/": {
-   "checked": "2026-11-11",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-21",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/architects/behnisch-architekten/": {
-   "checked": "2026-11-11",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-21",
@@ -232,21 +232,21 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/architects/berthold-lubetkin-and-tecton/": {
-   "checked": "2026-11-11",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-21",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/architects/berthold-lubetkin/": {
-   "checked": "2026-11-11",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-21",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/architects/big/": {
-   "checked": "2026-11-11",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-21",
@@ -260,21 +260,21 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/architects/bruno-taut/": {
-   "checked": "2026-11-11",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-21",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/architects/carlo-scarpa/": {
-   "checked": "2026-11-11",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-21",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/architects/carlos-raul-villanueva/": {
-   "checked": "2026-11-11",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-21",
@@ -288,28 +288,28 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/architects/charles-correa/": {
-   "checked": "2026-11-11",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-21",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/architects/charles-girault/": {
-   "checked": "2026-11-11",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "URL is unknown to Google",
    "last_crawl": "",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/architects/charles-rennie-mackintosh/": {
-   "checked": "2026-11-11",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-23",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/architects/christian-de-portzamparc/": {
-   "checked": "2026-11-11",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-20",
@@ -323,56 +323,56 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/architects/clorindo-testa/": {
-   "checked": "2026-11-11",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-21",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/architects/coop-himmelblau/": {
-   "checked": "2026-11-11",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-21",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/architects/daniel-libeskind/": {
-   "checked": "2026-11-11",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-21",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/architects/david-adjaye/": {
-   "checked": "2026-11-11",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-21",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/architects/david-chipperfield/": {
-   "checked": "2026-11-11",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-21",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/architects/denton-corker-marshall/": {
-   "checked": "2026-11-11",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-20",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/architects/denys-lasdun/": {
-   "checked": "2026-11-11",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-21",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/architects/diebedo-francis-kere/": {
-   "checked": "2026-11-11",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "URL is unknown to Google",
    "last_crawl": "",
@@ -393,21 +393,21 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/architects/e-stewart-williams/": {
-   "checked": "2026-11-11",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-21",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/architects/eduardo-souto-de-moura/": {
-   "checked": "2026-11-11",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "URL is unknown to Google",
    "last_crawl": "",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/architects/edward-durell-stone/": {
-   "checked": "2026-11-11",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-21",
@@ -421,7 +421,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/architects/eero-saarinen/": {
-   "checked": "2026-11-11",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-21",
@@ -435,42 +435,42 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/architects/eliel-saarinen/": {
-   "checked": "2026-11-11",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "URL is unknown to Google",
    "last_crawl": "",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/architects/emre-arolat/": {
-   "checked": "2026-11-11",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "URL is unknown to Google",
    "last_crawl": "",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/architects/enric-miralles/": {
-   "checked": "2026-11-11",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-21",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/architects/erich-mendelsohn/": {
-   "checked": "2026-11-11",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-21",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/architects/erno-goldfinger/": {
-   "checked": "2026-11-11",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-21",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/architects/felix-candela/": {
-   "checked": "2026-11-11",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-21",
@@ -484,21 +484,21 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/architects/frank-gehry/": {
-   "checked": "2026-11-11",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-18",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/architects/frank-lloyd-wright/": {
-   "checked": "2026-11-11",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-21",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/architects/frei-otto/": {
-   "checked": "2026-11-11",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-21",
@@ -512,7 +512,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/architects/fumihiko-maki/": {
-   "checked": "2026-11-11",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-22",
@@ -526,14 +526,14 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/architects/geoffrey-bawa/": {
-   "checked": "2026-11-11",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-21",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/architects/gerrit-rietveld/": {
-   "checked": "2026-11-11",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-21",
@@ -554,7 +554,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/architects/gio-ponti/": {
-   "checked": "2026-11-11",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-21",
@@ -568,49 +568,49 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/architects/giuseppe-terragni/": {
-   "checked": "2026-11-11",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-22",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/architects/glenn-murcutt/": {
-   "checked": "2026-11-11",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-18",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/architects/gmp-architekten/": {
-   "checked": "2026-11-11",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-21",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/architects/gordon-bunshaft/": {
-   "checked": "2026-11-11",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-20",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/architects/gottfried-bohm/": {
-   "checked": "2026-11-11",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-21",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/architects/grafton-architects/": {
-   "checked": "2026-11-11",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-21",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/architects/gunnar-asplund/": {
-   "checked": "2026-11-11",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-21",
@@ -624,7 +624,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/architects/hans-hollein/": {
-   "checked": "2026-11-11",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "URL is unknown to Google",
    "last_crawl": "",
@@ -638,14 +638,14 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/architects/hans-scharoun/": {
-   "checked": "2026-11-11",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-21",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/architects/harry-seidler/": {
-   "checked": "2026-11-11",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-21",
@@ -680,28 +680,28 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/architects/henning-larsen/": {
-   "checked": "2026-11-11",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-21",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/architects/henry-hobson-richardson/": {
-   "checked": "2026-11-11",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-21",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/architects/henry-n-cobb/": {
-   "checked": "2026-11-11",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-24",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/architects/henry-van-de-velde/": {
-   "checked": "2026-11-11",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "URL is unknown to Google",
    "last_crawl": "",
@@ -715,7 +715,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/architects/herman-hertzberger/": {
-   "checked": "2026-11-11",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-21",
@@ -729,14 +729,14 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/architects/herzog-and-de-meuron/": {
-   "checked": "2026-11-11",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-18",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/architects/hiroshi-hara/": {
-   "checked": "2026-11-11",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-21",
@@ -757,35 +757,35 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/architects/i-m-pei/": {
-   "checked": "2026-11-11",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-21",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/architects/j-j-p-oud/": {
-   "checked": "2026-11-11",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "URL is unknown to Google",
    "last_crawl": "",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/architects/j-mayer-h/": {
-   "checked": "2026-11-11",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-21",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/architects/james-stirling/": {
-   "checked": "2026-11-11",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-21",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/architects/jean-nouvel/": {
-   "checked": "2026-11-11",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-20",
@@ -806,7 +806,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/architects/john-burgee/": {
-   "checked": "2026-11-11",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-21",
@@ -820,7 +820,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/architects/jorn-utzon/": {
-   "checked": "2026-11-11",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "URL is unknown to Google",
    "last_crawl": "",
@@ -834,7 +834,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/architects/josep-lluis-sert/": {
-   "checked": "2026-11-11",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-21",
@@ -848,28 +848,28 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/architects/juan-o-gorman/": {
-   "checked": "2026-11-11",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-21",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/architects/junzo-sakakura/": {
-   "checked": "2026-11-11",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-21",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/architects/kashef-mahboob-chowdhury/": {
-   "checked": "2026-11-11",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-21",
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/architects/kazuo-shinohara/": {
-   "checked": "2026-11-11",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-21",
@@ -883,7 +883,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/architects/kengo-kuma/": {
-   "checked": "2026-11-11",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-21",
@@ -1800,7 +1800,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/": {
-   "checked": "2026-11-11",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "URL is unknown to Google",
    "last_crawl": "",
@@ -1814,7 +1814,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/100-eleventh-avenue/": {
-   "checked": "2026-11-10",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-23",
@@ -1919,7 +1919,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/425-park-avenue/": {
-   "checked": "2026-11-10",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-23",
@@ -2038,7 +2038,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/academy-of-fine-arts-vienna/": {
-   "checked": "2026-11-10",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-23",
@@ -2087,7 +2087,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/adam-mickiewicz-theatre-cieszyn/": {
-   "checked": "2026-11-10",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-23",
@@ -2304,7 +2304,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/allen-memorial-art-museum/": {
-   "checked": "2026-11-10",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-23",
@@ -2346,7 +2346,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/altes-stadthaus-berlin/": {
-   "checked": "2026-11-10",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-23",
@@ -2465,7 +2465,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/annunciation-greek-orthodox-church/": {
-   "checked": "2026-11-10",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-21",
@@ -2633,7 +2633,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/artigas-gardens/": {
-   "checked": "2026-11-10",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-23",
@@ -2668,7 +2668,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/aschanska-villa/": {
-   "checked": "2026-11-10",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-23",
@@ -3074,7 +3074,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/banovina-palace-novi-sad/": {
-   "checked": "2026-11-10",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-23",
@@ -3872,7 +3872,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/building-of-the-yugoslavian-legation-in-berlin/": {
-   "checked": "2026-11-10",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-23",
@@ -3928,7 +3928,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/bush-house/": {
-   "checked": "2026-11-10",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-23",
@@ -4033,7 +4033,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/cajasol-tower/": {
-   "checked": "2026-11-10",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-23",
@@ -4096,7 +4096,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/campus-palmas-altas-sevilla/": {
-   "checked": "2026-11-10",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-23",
@@ -4418,7 +4418,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/casa-rozes/": {
-   "checked": "2026-11-10",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-23",
@@ -4593,7 +4593,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/cecil-h-green-library/": {
-   "checked": "2026-11-10",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-23",
@@ -5328,7 +5328,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/copenhagen-city-hall/": {
-   "checked": "2026-11-10",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-23",
@@ -5552,7 +5552,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/de-doelen/": {
-   "checked": "2026-11-10",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-23",
@@ -5748,7 +5748,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/didrichsen-art-museum/": {
-   "checked": "2026-11-10",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-23",
@@ -6182,7 +6182,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/ennis-house/": {
-   "checked": "2026-11-10",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-23",
@@ -6679,7 +6679,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/forum-groningen/": {
-   "checked": "2026-11-10",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-22",
@@ -6707,7 +6707,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/frank-lloyd-wright-home-and-studio/": {
-   "checked": "2026-11-10",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-23",
@@ -6756,7 +6756,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/fresno-city-hall/": {
-   "checked": "2026-11-10",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-23",
@@ -6770,7 +6770,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/frist-campus-center/": {
-   "checked": "2026-11-10",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-23",
@@ -6791,7 +6791,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/fukuoka-camera-museum/": {
-   "checked": "2026-11-10",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-23",
@@ -7428,7 +7428,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/hagi-uragami-museum/": {
-   "checked": "2026-11-10",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-22",
@@ -7547,7 +7547,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/hansahochhaus/": {
-   "checked": "2026-11-10",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-23",
@@ -7652,7 +7652,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/he-art-museum/": {
-   "checked": "2026-11-10",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-23",
@@ -7757,7 +7757,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/heureka/": {
-   "checked": "2026-11-10",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-23",
@@ -7848,7 +7848,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/historical-museum-of-the-palatinate/": {
-   "checked": "2026-11-10",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-23",
@@ -8114,7 +8114,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/hotel-solvay/": {
-   "checked": "2026-11-10",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-23",
@@ -8807,7 +8807,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/jewish-museum-munich/": {
-   "checked": "2026-11-10",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-23",
@@ -9248,7 +9248,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/kino-babylon/": {
-   "checked": "2026-11-10",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-22",
@@ -9465,7 +9465,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/kudrinskaya-square-building/": {
-   "checked": "2026-11-10",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-23",
@@ -9843,7 +9843,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/leighton-house/": {
-   "checked": "2026-11-10",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-23",
@@ -10123,7 +10123,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/lumbracle/": {
-   "checked": "2026-11-10",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-23",
@@ -10312,7 +10312,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/malmo-opera/": {
-   "checked": "2026-11-10",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-23",
@@ -10928,7 +10928,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/minnaert-building/": {
-   "checked": "2026-11-10",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-23",
@@ -11040,7 +11040,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/monona-terrace/": {
-   "checked": "2026-11-10",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-23",
@@ -11418,7 +11418,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/museum-of-art-architecture-and-technology/": {
-   "checked": "2026-11-10",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-23",
@@ -11509,7 +11509,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/museum-yamato-bunkakan/": {
-   "checked": "2026-11-10",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-23",
@@ -12398,7 +12398,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/nuevos-ministerios/": {
-   "checked": "2026-11-10",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-23",
@@ -12440,7 +12440,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/oakland-city-hall/": {
-   "checked": "2026-11-10",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-23",
@@ -12538,7 +12538,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/old-faithful-inn/": {
-   "checked": "2026-11-10",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-23",
@@ -12727,7 +12727,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/osaka-maritime-museum/": {
-   "checked": "2026-11-10",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-23",
@@ -12776,7 +12776,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/otaniemi-water-tower/": {
-   "checked": "2026-11-10",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-22",
@@ -13077,7 +13077,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/palazzo-dello-strozzino/": {
-   "checked": "2026-11-10",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-23",
@@ -13182,7 +13182,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/paraninfo-de-la-universidad-del-pais-vasco/": {
-   "checked": "2026-11-10",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-23",
@@ -13420,7 +13420,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/perelman-performing-arts-center/": {
-   "checked": "2026-11-10",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-23",
@@ -13777,7 +13777,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/przedszkole-bundestagu/": {
-   "checked": "2026-11-10",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-23",
@@ -14358,7 +14358,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/rosenbad/": {
-   "checked": "2026-11-10",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-23",
@@ -14400,7 +14400,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/royal-armouries-museum/": {
-   "checked": "2026-11-10",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-23",
@@ -14841,7 +14841,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/saskatchewan-legislative-building/": {
-   "checked": "2026-11-10",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-23",
@@ -15324,7 +15324,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/siida-museum/": {
-   "checked": "2026-11-10",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-11-09",
@@ -15345,7 +15345,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/sinan-pasha-mosque-istanbul/": {
-   "checked": "2026-11-10",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-23",
@@ -15919,7 +15919,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/steiner-house/": {
-   "checked": "2026-11-10",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-23",
@@ -16024,7 +16024,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/suleymaniye-hamam/": {
-   "checked": "2026-11-10",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-23",
@@ -16521,7 +16521,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/tel-aviv-performing-arts-center/": {
-   "checked": "2026-11-10",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-22",
@@ -16626,7 +16626,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/the-cenotaph/": {
-   "checked": "2026-11-10",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-23",
@@ -17116,7 +17116,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/tournay-abbey/": {
-   "checked": "2026-11-10",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-23",
@@ -17410,7 +17410,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/university-of-science-and-technology-houari-boumediene/": {
-   "checked": "2026-11-10",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-23",
@@ -17557,7 +17557,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/vatroslav-lisinski-concert-hall/": {
-   "checked": "2026-11-10",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-23",
@@ -17984,7 +17984,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/waldspirale/": {
-   "checked": "2026-11-10",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-23",
@@ -18103,7 +18103,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/wells-fargo-center/": {
-   "checked": "2026-11-10",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-23",
@@ -18516,7 +18516,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/buildings/zenith-de-lille/": {
-   "checked": "2026-11-10",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-23",
@@ -19055,7 +19055,7 @@
    "google_canonical": null
   },
   "https://findgreatarchitecture.com/play/": {
-   "checked": "2026-11-11",
+   "checked": "2026-11-20",
    "verdict": "NEUTRAL",
    "state": "Crawled - currently not indexed",
    "last_crawl": "2026-10-27",
