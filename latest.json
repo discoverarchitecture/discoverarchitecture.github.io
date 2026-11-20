@@ -1,13 +1,13 @@
 {
- "fetched_at": "2026-11-20T14:19:10+00:00",
+ "fetched_at": "2026-11-20T15:18:16+00:00",
  "site": "akshatpagaria.goatcounter.com",
  "window_days": 30,
- "visits_30d": 3906,
+ "visits_30d": 3937,
  "sections": {
   "pages": {
    "hits": [
     {
-     "count": 535,
+     "count": 553,
      "path_id": 112020267,
      "path": "/",
      "event": false,
@@ -15,7 +15,7 @@
      "max": 36
     },
     {
-     "count": 168,
+     "count": 169,
      "path_id": 113691164,
      "path": "/studio",
      "event": false,
@@ -23,7 +23,7 @@
      "max": 6
     },
     {
-     "count": 133,
+     "count": 134,
      "path_id": 116720890,
      "path": "studio/screen/home",
      "event": true,
@@ -39,7 +39,7 @@
      "max": 9
     },
     {
-     "count": 58,
+     "count": 59,
      "path_id": 120621079,
      "path": "studio/flow/paywall",
      "event": true,
@@ -55,7 +55,7 @@
      "max": 7
     },
     {
-     "count": 53,
+     "count": 54,
      "path_id": 116802573,
      "path": "studio/scroll/25",
      "event": true,
@@ -327,6 +327,14 @@
      "max": 1
     },
     {
+     "count": 8,
+     "path_id": 113751701,
+     "path": "/styles/postmodernism",
+     "event": false,
+     "title": "Postmodern architecture: 150 buildings with photos & plans",
+     "max": 2
+    },
+    {
      "count": 7,
      "path_id": 121730660,
      "path": "studio/click/q/chip",
@@ -389,14 +397,6 @@
      "event": true,
      "title": "Indian Coffee House",
      "max": 3
-    },
-    {
-     "count": 7,
-     "path_id": 113751701,
-     "path": "/styles/postmodernism",
-     "event": false,
-     "title": "Postmodern architecture: 150 buildings with photos & plans",
-     "max": 2
     },
     {
      "count": 7,
@@ -485,6 +485,14 @@
      "event": false,
      "title": "Guides for Architecture Students \u00b7 Studio FGA",
      "max": 1
+    },
+    {
+     "count": 5,
+     "path_id": 118194828,
+     "path": "/buildings/barcelona-pavilion",
+     "event": false,
+     "title": "Barcelona Pavilion by Mies van der Rohe: photos & plans",
+     "max": 2
     },
     {
      "count": 5,
@@ -688,14 +696,6 @@
     },
     {
      "count": 3,
-     "path_id": 118194828,
-     "path": "/buildings/barcelona-pavilion",
-     "event": false,
-     "title": "Barcelona Pavilion by Mies van der Rohe: photos & plans",
-     "max": 2
-    },
-    {
-     "count": 3,
      "path_id": 116823479,
      "path": "/styles/art-deco",
      "event": false,
@@ -807,14 +807,14 @@
      "max": 1
     }
    ],
-   "total": 1955,
+   "total": 1980,
    "more": true
   },
   "referrers": {
    "stats": [
     {
      "name": "",
-     "count": 1817,
+     "count": 1845,
      "ref_scheme": "o"
     },
     {
@@ -920,6 +920,12 @@
      "ref_scheme": "h"
     },
     {
+     "id": "www.perplexity.ai",
+     "name": "www.perplexity.ai",
+     "count": 4,
+     "ref_scheme": "h"
+    },
+    {
      "id": "gads",
      "name": "gads",
      "count": 3,
@@ -932,16 +938,16 @@
      "ref_scheme": "c"
     },
     {
-     "id": "www.perplexity.ai",
-     "name": "www.perplexity.ai",
-     "count": 3,
-     "ref_scheme": "h"
-    },
-    {
      "id": "sentinal.dodopayments.com",
      "name": "sentinal.dodopayments.com",
      "count": 3,
      "ref_scheme": "h"
+    },
+    {
+     "id": "guides-top",
+     "name": "guides-top",
+     "count": 3,
+     "ref_scheme": "c"
     },
     {
      "id": "wall-bar",
@@ -970,12 +976,6 @@
     {
      "id": "perplexity",
      "name": "perplexity",
-     "count": 2,
-     "ref_scheme": "c"
-    },
-    {
-     "id": "guides-top",
-     "name": "guides-top",
      "count": 2,
      "ref_scheme": "c"
     },
@@ -1071,7 +1071,7 @@
     {
      "id": "Chrome",
      "name": "Chrome",
-     "count": 2334
+     "count": 2364
     },
     {
      "id": "Safari",
@@ -1095,7 +1095,7 @@
     {
      "id": "Windows",
      "name": "Windows",
-     "count": 1491
+     "count": 1521
     },
     {
      "id": "iOS",
@@ -1139,12 +1139,12 @@
     {
      "id": "US",
      "name": "United States",
-     "count": 507
+     "count": 518
     },
     {
      "id": "AR",
      "name": "Argentina",
-     "count": 116
+     "count": 119
     },
     {
      "id": "TR",
@@ -1159,7 +1159,7 @@
     {
      "id": "SG",
      "name": "Singapore",
-     "count": 73
+     "count": 75
     },
     {
      "id": "EG",
@@ -1172,19 +1172,19 @@
      "count": 53
     },
     {
+     "id": "BR",
+     "name": "Brazil",
+     "count": 51
+    },
+    {
      "id": "PK",
      "name": "Pakistan",
      "count": 49
     },
     {
-     "id": "BR",
-     "name": "Brazil",
-     "count": 48
-    },
-    {
      "id": "GB",
      "name": "United Kingdom",
-     "count": 42
+     "count": 43
     },
     {
      "id": "CH",
@@ -1222,13 +1222,13 @@
      "count": 31
     },
     {
-     "id": "EC",
-     "name": "Ecuador",
-     "count": 27
-    },
-    {
      "id": "NL",
      "name": "Netherlands",
+     "count": 28
+    },
+    {
+     "id": "EC",
+     "name": "Ecuador",
      "count": 27
     },
     {
@@ -1242,6 +1242,11 @@
      "count": 25
     },
     {
+     "id": "PH",
+     "name": "Philippines",
+     "count": 25
+    },
+    {
      "id": "CA",
      "name": "Canada",
      "count": 24
@@ -1252,14 +1257,9 @@
      "count": 23
     },
     {
-     "id": "PH",
-     "name": "Philippines",
-     "count": 23
-    },
-    {
      "id": "CO",
      "name": "Colombia",
-     "count": 21
+     "count": 22
     },
     {
      "id": "BE",
@@ -1282,19 +1282,19 @@
      "count": 17
     },
     {
+     "id": "VN",
+     "name": "Vietnam",
+     "count": 17
+    },
+    {
      "id": "AU",
      "name": "Australia",
      "count": 16
     },
     {
-     "id": "VN",
-     "name": "Vietnam",
-     "count": 16
-    },
-    {
      "id": "ID",
      "name": "Indonesia",
-     "count": 15
+     "count": 16
     },
     {
      "id": "SC",
@@ -1322,9 +1322,19 @@
      "count": 10
     },
     {
+     "id": "TH",
+     "name": "Thailand",
+     "count": 10
+    },
+    {
      "id": "UA",
      "name": "Ukraine",
      "count": 10
+    },
+    {
+     "id": "BD",
+     "name": "Bangladesh",
+     "count": 9
     },
     {
      "id": "HK",
@@ -1337,11 +1347,6 @@
      "count": 9
     },
     {
-     "id": "TH",
-     "name": "Thailand",
-     "count": 9
-    },
-    {
      "id": "RU",
      "name": "Russia",
      "count": 8
@@ -1350,11 +1355,6 @@
      "id": "VE",
      "name": "Venezuela",
      "count": 8
-    },
-    {
-     "id": "BD",
-     "name": "Bangladesh",
-     "count": 7
     },
     {
      "id": "DO",
@@ -1482,6 +1482,11 @@
      "count": 2
     },
     {
+     "id": "AL",
+     "name": "Albania",
+     "count": 2
+    },
+    {
      "id": "BO",
      "name": "Bolivia",
      "count": 2
@@ -1525,11 +1530,6 @@
      "id": "ZM",
      "name": "Zambia",
      "count": 2
-    },
-    {
-     "id": "AL",
-     "name": "Albania",
-     "count": 1
     },
     {
      "id": "AM",
@@ -1604,7 +1604,7 @@
     {
      "id": "desktop",
      "name": "",
-     "count": 1742
+     "count": 1772
     },
     {
      "id": "desktophd",
@@ -1624,7 +1624,7 @@
     {
      "id": "(unknown)",
      "name": "(unknown)",
-     "count": 3150
+     "count": 3180
     }
    ],
    "more": false
