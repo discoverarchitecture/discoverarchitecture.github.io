@@ -13,21 +13,21 @@ addresses here (the repository is public). Send about five a day; one short foll
 | 3 | Barnard College | Architecture: Images · Image Databases in Architecture | 2026-10-29 | 2026-10-29 | none by 6 Nov; followed up 2026-11-16 |
 | 4 | University of Edinburgh | Architecture and Landscape Architecture · Internet resources for Architecture | 2026-10-29 | 2026-10-29 | none by 6 Nov; followed up 2026-11-16 |
 | 5 | Carnegie Mellon University | Architecture: Images & Media · Image Collections on the Free Web | 2026-10-29 | 2026-10-29 | none by 6 Nov; followed up 2026-11-16 |
-| 6 | Auburn University | Environmental Design: Images · Images Resources Links | 2026-11-06 | 2026-11-06 | |
-| 7 | Fordham University | Architecture: Internet Resources · Modern Architectural Design Images | 2026-11-06 | 2026-11-06 | |
-| 8 | University of Oregon | Architecture & Building: Finding Images · Websites for Architecture Images | 2026-11-06 | 2026-11-06 | |
-| 9 | University of Michigan | Architecture Images · Free Access Databases | 2026-11-06 | 2026-11-06 | |
-| 10 | University of Texas at Austin | Architecture: Materials + Visual Resources · Visual Media Databases | 2026-11-06 | 2026-11-06 | |
-| 11 | University of Notre Dame | Architecture Thesis Research (GRAD) · Image Collections | | 2026-11-06 | |
-| 12 | California College of the Arts | Architecture research guide | | 2026-11-06 | |
+| 6 | Auburn University | Environmental Design: Images · Images Resources Links | 2026-11-06 | 2026-11-06 | none by 20 Nov; followed up 2026-11-20 |
+| 7 | Fordham University | Architecture: Internet Resources · Modern Architectural Design Images | 2026-11-06 | 2026-11-06 | none by 20 Nov; followed up 2026-11-20 |
+| 8 | University of Oregon | Architecture & Building: Finding Images · Websites for Architecture Images | 2026-11-06 | 2026-11-06 | none by 20 Nov; followed up 2026-11-20 |
+| 9 | University of Michigan | Architecture Images · Free Access Databases | 2026-11-06 | 2026-11-06 | none by 20 Nov; followed up 2026-11-20 |
+| 10 | University of Texas at Austin | Architecture: Materials + Visual Resources · Visual Media Databases | 2026-11-06 | 2026-11-06 | none by 20 Nov; followed up 2026-11-20 |
+| 11 | University of Notre Dame | Architecture Thesis Research (GRAD) · Image Collections | | 2026-11-06 | none by 20 Nov; followed up 2026-11-20 |
+| 12 | California College of the Arts | Architecture research guide | | 2026-11-06 | none by 20 Nov; followed up 2026-11-20 |
 | 13 | University of Manitoba | Architecture LibGuide | | 2026-11-06 | yes: will list the site (Liv Valmestad); asked us to credit the Winnipeg Building Index; checked 16 Nov: guide intro page has no link yet, no visits from it; reminded 2026-11-16 (mentioned the 10 Winnipeg buildings now on the wall) |
-| 14 | University of Strathclyde | Architecture LibGuide | | 2026-11-06 | |
-| 15 | Arts University Bournemouth | Architecture library guide | | 2026-11-06 | |
+| 14 | University of Strathclyde | Architecture LibGuide | | 2026-11-06 | none by 20 Nov; followed up 2026-11-20 |
+| 15 | Arts University Bournemouth | Architecture library guide | | 2026-11-06 | none by 20 Nov; followed up 2026-11-20 |
 | 16 | Victoria University of Wellington | Architecture guide | | 2026-11-06 | yes: "I will add a link to it on our guide" (8 Nov); thanked 9 Nov; checked 16 Nov: research-writing page has no link yet, no visits from it; reminded 2026-11-16 |
-| 17 | RMIT University | Architecture, Building Design and Urban Design · Images | | 2026-11-06 | |
-| 18 | Texas Tech University | Architecture · Images | | 2026-11-06 | |
-| 19 | Prince Mohammad Bin Fahd University | Architecture LibGuide | | 2026-11-06 | |
-| 20 | Delgado Community College | Architecture guide | | 2026-11-06 | |
+| 17 | RMIT University | Architecture, Building Design and Urban Design · Images | | 2026-11-06 | none by 20 Nov; followed up 2026-11-20 |
+| 18 | Texas Tech University | Architecture · Images | | 2026-11-06 | none by 20 Nov; followed up 2026-11-20 |
+| 19 | Prince Mohammad Bin Fahd University | Architecture LibGuide | | 2026-11-06 | none by 20 Nov; followed up 2026-11-20 |
+| 20 | Delgado Community College | Architecture guide | | 2026-11-06 | none by 20 Nov; followed up 2026-11-20 |
 | 21 | University of Arizona | Architecture images guide | 2026-11-07 | 2026-11-09 |  |
 | 22 | Northeastern University | Architecture images guide | 2026-11-07 | 2026-11-09 |  |
 | 23 | Hollins University | Architecture images guide | 2026-11-07 | 2026-11-09 |  |
@@ -68,6 +68,11 @@ addresses here (the repository is public). Send about five a day; one short foll
 | 58 | Michigan State University | Landscape Architecture Research guide (named librarian) | 2026-11-19 | 2026-11-19 | |
 | 59 | Savannah College of Art and Design | Architectural History guide (general library address) | 2026-11-19 | 2026-11-19 | |
 | 60 | Academy of Art University | Landscape Architecture guide · Web Resources (general library address) | 2026-11-19 | 2026-11-19 | |
+| 61 | Princeton University | Architecture Research Fundamentals guide (named librarian) | 2026-11-20 | 2026-11-20 | |
+| 62 | Yale University | ARCH 3302 Tall Tales Library and Archive Research Guide (named librarian) | 2026-11-20 | 2026-11-20 | |
+| 63 | Marymount University | Interior Architecture & Design guide · Precedent studies (general library address) | 2026-11-20 | 2026-11-20 | |
+| 64 | NIT Tiruchirappalli (India) | Department of Architecture (head of department) | 2026-11-20 | 2026-11-20 | |
+| 65 | Kamla Raheja Vidyanidhi Institute for Architecture (India) | Institute office (to pass on to faculty and library) | 2026-11-20 | 2026-11-20 | |
 
 Follow-ups for 1–5 sent 16 Nov (no more emails to them). Skipped on 16 Nov: UCLA (only the guide software's admin address; no architecture librarian found), MIT (no address found; the architecture librarian has a profile but no public email). Queue positions 0–3 are done. 18 Nov: positions 4–9 read; Boston Architectural College and SCI-Arc have no address (skipped), Academy of Art University (general address) left for a later day; positions 0–9 done. 19 Nov: positions 10–15 read; Cincinnati, Roger Williams, Miami and College of DuPage have no address (skipped); queue positions 0–15 done. Tue 17 Nov's run arrived a day late and was skipped. Manitoba: out of office 9–16 Nov (auto-reply to the 16 Nov reminder).
 
@@ -77,6 +82,8 @@ Polytechnic, Auckland, AUT, Unitec, UCD, HKU, Utah Valley, Dalhousie. Round 2: 1
 librarian or a guide-specific address, drafted 7 Nov in Gmail, all sent Mon 9 Nov. The other 50
 had only a general library address or none: left for now.
 
-Follow-ups: 6-20 from 20 Nov, 21-46 from 23 Nov (one short note, never a third). How to check a promised listing: tools/outreach/REPLIES.md, "Checking a listing".
+20 Nov: queue positions 16-23 read; Nebraska Omaha, South Florida and Florida have no address (skipped); queue positions 0-21 done (Toronto Metropolitan, 22-23 read but not yet sent). Follow-ups for 6-20 (except 13 and 16, who replied) sent 20 Nov; no inbox replies, bounces or auto-replies since 19 Nov.
+
+Follow-ups: 6-20 done 20 Nov, 21-46 from 23 Nov (one short note, never a third). How to check a promised listing: tools/outreach/REPLIES.md, "Checking a listing".
 
 Test run of the fresh-session routine, 19 Nov 2026: repository, Gmail and push OK.
