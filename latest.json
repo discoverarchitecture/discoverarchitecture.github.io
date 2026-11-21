@@ -1,26 +1,26 @@
 {
- "fetched_at": "2026-11-20T23:55:33+00:00",
+ "fetched_at": "2026-11-21T06:52:51+00:00",
  "site": "akshatpagaria.goatcounter.com",
  "window_days": 30,
- "visits_30d": 4233,
+ "visits_30d": 4450,
  "sections": {
   "pages": {
    "hits": [
     {
-     "count": 759,
+     "count": 741,
      "path_id": 112020267,
      "path": "/",
      "event": false,
      "title": "Find Great Architecture: buildings for architects & students",
-     "max": 36
+     "max": 29
     },
     {
-     "count": 171,
+     "count": 162,
      "path_id": 113691164,
      "path": "/studio",
      "event": false,
      "title": "FGA Studio: AI jury board & presentation generator",
-     "max": 6
+     "max": 3
     },
     {
      "count": 136,
@@ -31,28 +31,12 @@
      "max": 3
     },
     {
-     "count": 65,
-     "path_id": 113298212,
-     "path": "map/open",
-     "event": true,
-     "title": "Map opened",
-     "max": 9
-    },
-    {
      "count": 60,
      "path_id": 120621079,
      "path": "studio/flow/paywall",
      "event": true,
      "title": "Studio: flow paywall",
      "max": 3
-    },
-    {
-     "count": 57,
-     "path_id": 112020274,
-     "path": "/play",
-     "event": false,
-     "title": "Daily five \u00b7 Guess the building? \u00b7 Find Great Architecture",
-     "max": 7
     },
     {
      "count": 54,
@@ -103,14 +87,6 @@
      "max": 3
     },
     {
-     "count": 32,
-     "path_id": 113702981,
-     "path": "studio/ai-button",
-     "event": true,
-     "title": "AI jury presentation generator",
-     "max": 3
-    },
-    {
      "count": 30,
      "path_id": 117976651,
      "path": "studio/click/q/pick",
@@ -135,6 +111,22 @@
      "max": 3
     },
     {
+     "count": 27,
+     "path_id": 112020274,
+     "path": "/play",
+     "event": false,
+     "title": "Daily five \u00b7 Guess the building? \u00b7 Find Great Architecture",
+     "max": 2
+    },
+    {
+     "count": 26,
+     "path_id": 113298212,
+     "path": "map/open",
+     "event": true,
+     "title": "Map opened",
+     "max": 2
+    },
+    {
      "count": 25,
      "path_id": 117976646,
      "path": "studio/typed/q",
@@ -148,6 +140,14 @@
      "path": "studio/click/home/hpick",
      "event": true,
      "title": "Studio \u00b7 click \u00b7 home \u00b7 hpick",
+     "max": 2
+    },
+    {
+     "count": 23,
+     "path_id": 113702981,
+     "path": "studio/ai-button",
+     "event": true,
+     "title": "AI jury presentation generator",
      "max": 2
     },
     {
@@ -175,7 +175,7 @@
      "max": 1
     },
     {
-     "count": 16,
+     "count": 17,
      "path_id": 118234266,
      "path": "/guides/a1-presentation-board",
      "event": false,
@@ -205,14 +205,6 @@
      "event": true,
      "title": "Studio \u00b7 click \u00b7 home \u00b7 sec",
      "max": 1
-    },
-    {
-     "count": 12,
-     "path_id": 113976891,
-     "path": "play/endless/over",
-     "event": true,
-     "title": "Endless run over",
-     "max": 2
     },
     {
      "count": 11,
@@ -264,14 +256,6 @@
     },
     {
      "count": 10,
-     "path_id": 113996447,
-     "path": "studio/signup",
-     "event": true,
-     "title": "FGA Studio waitlist sign-up",
-     "max": 1
-    },
-    {
-     "count": 10,
      "path_id": 113703681,
      "path": "/styles/brutalism",
      "event": false,
@@ -308,6 +292,14 @@
      "path": "/ideas/adaptive-reuse",
      "event": false,
      "title": "Adaptive reuse architecture examples: 194 buildings & photos",
+     "max": 1
+    },
+    {
+     "count": 9,
+     "path_id": 113996447,
+     "path": "studio/signup",
+     "event": true,
+     "title": "FGA Studio waitlist sign-up",
      "max": 1
     },
     {
@@ -384,30 +376,6 @@
     },
     {
      "count": 7,
-     "path_id": 113996457,
-     "path": "studio/details",
-     "event": true,
-     "title": "FGA Studio waitlist: optional answers",
-     "max": 1
-    },
-    {
-     "count": 7,
-     "path_id": 113987976,
-     "path": "building/indian-coffee-house",
-     "event": true,
-     "title": "Indian Coffee House",
-     "max": 3
-    },
-    {
-     "count": 7,
-     "path_id": 113671658,
-     "path": "play/daily/3-of-5",
-     "event": true,
-     "title": "Daily five finished: 3 of 5 right",
-     "max": 1
-    },
-    {
-     "count": 7,
      "path_id": 112160373,
      "path": "/buildings",
      "event": false,
@@ -440,27 +408,11 @@
     },
     {
      "count": 6,
-     "path_id": 113855266,
-     "path": "building/telangana-secretariat",
+     "path_id": 113996457,
+     "path": "studio/details",
      "event": true,
-     "title": "Dr. B.R. Ambedkar Telangana State Secretariat",
-     "max": 3
-    },
-    {
-     "count": 6,
-     "path_id": 113838041,
-     "path": "play/daily/1-of-5",
-     "event": true,
-     "title": "Daily five finished: 1 of 5 right",
-     "max": 3
-    },
-    {
-     "count": 6,
-     "path_id": 113672778,
-     "path": "play/daily/2-of-5",
-     "event": true,
-     "title": "Daily five finished: 2 of 5 right",
-     "max": 2
+     "title": "FGA Studio waitlist: optional answers",
+     "max": 1
     },
     {
      "count": 5,
@@ -520,18 +472,10 @@
     },
     {
      "count": 5,
-     "path_id": 113963357,
-     "path": "/types/housing",
-     "event": false,
-     "title": "Housing architecture: 248 buildings with photos & plans",
-     "max": 1
-    },
-    {
-     "count": 5,
-     "path_id": 113701806,
-     "path": "book/experiencing-architecture",
+     "path_id": 113976891,
+     "path": "play/endless/over",
      "event": true,
-     "title": "Experiencing Architecture",
+     "title": "Endless run over",
      "max": 2
     },
     {
@@ -600,27 +544,11 @@
     },
     {
      "count": 4,
-     "path_id": 114089631,
-     "path": "/buildings/bolgatanga-library",
+     "path_id": 113963357,
+     "path": "/types/housing",
      "event": false,
-     "title": "Bolgatanga Library by J. Max Bond Jr.: photos & key features",
+     "title": "Housing architecture: 248 buildings with photos & plans",
      "max": 1
-    },
-    {
-     "count": 4,
-     "path_id": 114083299,
-     "path": "/types/museums",
-     "event": false,
-     "title": "Museum architecture: 685 buildings with photos & plans",
-     "max": 1
-    },
-    {
-     "count": 4,
-     "path_id": 113684801,
-     "path": "building/mill-owners-association-building",
-     "event": true,
-     "title": "Mill Owners' Association Building",
-     "max": 2
     },
     {
      "count": 4,
@@ -805,28 +733,100 @@
      "event": true,
      "title": "Kaleva Church",
      "max": 2
+    },
+    {
+     "count": 3,
+     "path_id": 114198395,
+     "path": "/buildings/foguang-temple-east-hall",
+     "event": false,
+     "title": "East Hall of Foguang Temple by Tang dynasty builders: photos",
+     "max": 1
+    },
+    {
+     "count": 3,
+     "path_id": 114089631,
+     "path": "/buildings/bolgatanga-library",
+     "event": false,
+     "title": "Bolgatanga Library by J. Max Bond Jr.: photos & key features",
+     "max": 1
+    },
+    {
+     "count": 3,
+     "path_id": 114083299,
+     "path": "/types/museums",
+     "event": false,
+     "title": "Museum architecture: 685 buildings with photos & plans",
+     "max": 1
+    },
+    {
+     "count": 3,
+     "path_id": 113671658,
+     "path": "play/daily/3-of-5",
+     "event": true,
+     "title": "Daily five finished: 3 of 5 right",
+     "max": 1
+    },
+    {
+     "count": 3,
+     "path_id": 113367616,
+     "path": "/buildings/burj-al-arab",
+     "event": false,
+     "title": "Burj Al Arab by Tom Wright: photos, plans & key features",
+     "max": 1
+    },
+    {
+     "count": 3,
+     "path_id": 113362426,
+     "path": "/buildings/castello-di-rivoli",
+     "event": false,
+     "title": "Castello di Rivoli by Andrea Bruno: photos & key features",
+     "max": 1
+    },
+    {
+     "count": 3,
+     "path_id": 112197919,
+     "path": "/buildings/reichstag",
+     "event": false,
+     "title": "Reichstag \u2014 Norman Foster, 1999: photos, plans & sections for a case study \u00b7 Find Great Architecture",
+     "max": 2
+    },
+    {
+     "count": 2,
+     "path_id": 124510330,
+     "path": "/buildings/church-of-the-light",
+     "event": false,
+     "title": "Church of the Light by Tadao Ando: photos & plans",
+     "max": 2
+    },
+    {
+     "count": 2,
+     "path_id": 124359017,
+     "path": "/buildings/yokosuka-museum-of-art",
+     "event": false,
+     "title": "Yokosuka Museum of Art by Riken Yamamoto: photos & plans",
+     "max": 1
     }
    ],
-   "total": 2195,
+   "total": 2057,
    "more": true
   },
   "referrers": {
    "stats": [
     {
      "name": "",
-     "count": 2112,
+     "count": 1875,
      "ref_scheme": "o"
     },
     {
      "id": "chatgpt.com",
      "name": "chatgpt.com",
-     "count": 258,
+     "count": 255,
      "ref_scheme": "c"
     },
     {
      "id": "Google",
      "name": "Google",
-     "count": 230,
+     "count": 178,
      "ref_scheme": "g"
     },
     {
@@ -848,15 +848,15 @@
      "ref_scheme": "o"
     },
     {
-     "id": "wall",
-     "name": "wall",
-     "count": 20,
-     "ref_scheme": "c"
-    },
-    {
      "id": "libguide",
      "name": "libguide",
      "count": 16,
+     "ref_scheme": "c"
+    },
+    {
+     "id": "wall",
+     "name": "wall",
+     "count": 15,
      "ref_scheme": "c"
     },
     {
@@ -878,10 +878,10 @@
      "ref_scheme": "c"
     },
     {
-     "id": "gemini.google.com",
-     "name": "gemini.google.com",
-     "count": 7,
-     "ref_scheme": "h"
+     "id": "Yahoo",
+     "name": "Yahoo",
+     "count": 6,
+     "ref_scheme": "g"
     },
     {
      "id": "duckduckgo.com",
@@ -896,10 +896,10 @@
      "ref_scheme": "h"
     },
     {
-     "id": "Yahoo",
-     "name": "Yahoo",
-     "count": 5,
-     "ref_scheme": "g"
+     "id": "gemini.google.com",
+     "name": "gemini.google.com",
+     "count": 6,
+     "ref_scheme": "h"
     },
     {
      "id": "site",
@@ -938,18 +938,6 @@
      "ref_scheme": "c"
     },
     {
-     "id": "reddit",
-     "name": "reddit",
-     "count": 3,
-     "ref_scheme": "c"
-    },
-    {
-     "id": "sentinal.dodopayments.com",
-     "name": "sentinal.dodopayments.com",
-     "count": 3,
-     "ref_scheme": "h"
-    },
-    {
      "id": "wall-bar",
      "name": "wall-bar",
      "count": 3,
@@ -958,6 +946,12 @@
     {
      "id": "YouTube",
      "name": "YouTube",
+     "count": 2,
+     "ref_scheme": "c"
+    },
+    {
+     "id": "reddit",
+     "name": "reddit",
      "count": 2,
      "ref_scheme": "c"
     },
@@ -986,12 +980,6 @@
      "ref_scheme": "c"
     },
     {
-     "id": "betalist",
-     "name": "betalist",
-     "count": 1,
-     "ref_scheme": "c"
-    },
-    {
      "id": "claude.ai",
      "name": "claude.ai",
      "count": 1,
@@ -1002,12 +990,6 @@
      "name": "cn.bing.com",
      "count": 1,
      "ref_scheme": "h"
-    },
-    {
-     "id": "footer",
-     "name": "footer",
-     "count": 1,
-     "ref_scheme": "c"
     },
     {
      "id": "notebook.google.com",
@@ -1071,17 +1053,17 @@
     {
      "id": "Chrome",
      "name": "Chrome",
-     "count": 2651
+     "count": 2438
     },
     {
      "id": "Safari",
      "name": "Safari",
-     "count": 775
+     "count": 581
     },
     {
      "id": "Firefox",
      "name": "Firefox",
-     "count": 47
+     "count": 48
     },
     {
      "name": "",
@@ -1095,27 +1077,27 @@
     {
      "id": "Windows",
      "name": "Windows",
-     "count": 1807
+     "count": 1819
     },
     {
      "id": "iOS",
      "name": "iOS",
-     "count": 618
+     "count": 432
     },
     {
      "id": "Android",
      "name": "Android",
-     "count": 589
+     "count": 399
     },
     {
      "id": "macOS",
      "name": "macOS",
-     "count": 333
+     "count": 305
     },
     {
      "id": "Linux",
      "name": "Linux",
-     "count": 125
+     "count": 111
     },
     {
      "id": "Chrome OS",
@@ -1134,37 +1116,37 @@
     {
      "id": "IN",
      "name": "India",
-     "count": 1195
+     "count": 720
     },
     {
      "id": "US",
      "name": "United States",
-     "count": 649
+     "count": 691
     },
     {
      "id": "AR",
      "name": "Argentina",
-     "count": 120
+     "count": 125
     },
     {
      "id": "TR",
      "name": "Turkey",
-     "count": 107
-    },
-    {
-     "id": "DE",
-     "name": "Germany",
-     "count": 90
+     "count": 108
     },
     {
      "id": "BR",
      "name": "Brazil",
-     "count": 84
+     "count": 100
+    },
+    {
+     "id": "DE",
+     "name": "Germany",
+     "count": 80
     },
     {
      "id": "SG",
      "name": "Singapore",
-     "count": 78
+     "count": 79
     },
     {
      "id": "EG",
@@ -1174,6 +1156,11 @@
     {
      "id": "PK",
      "name": "Pakistan",
+     "count": 54
+    },
+    {
+     "id": "CO",
+     "name": "Colombia",
      "count": 53
     },
     {
@@ -1184,47 +1171,37 @@
     {
      "id": "GB",
      "name": "United Kingdom",
-     "count": 46
-    },
-    {
-     "id": "FR",
-     "name": "France",
-     "count": 42
-    },
-    {
-     "id": "KR",
-     "name": "South Korea",
-     "count": 41
-    },
-    {
-     "id": "CH",
-     "name": "Switzerland",
-     "count": 40
-    },
-    {
-     "id": "IT",
-     "name": "Italy",
-     "count": 38
-    },
-    {
-     "id": "CO",
-     "name": "Colombia",
-     "count": 37
+     "count": 50
     },
     {
      "id": "VN",
      "name": "Vietnam",
-     "count": 36
+     "count": 46
+    },
+    {
+     "id": "CH",
+     "name": "Switzerland",
+     "count": 41
+    },
+    {
+     "id": "FR",
+     "name": "France",
+     "count": 41
     },
     {
      "id": "EC",
      "name": "Ecuador",
-     "count": 35
+     "count": 39
     },
     {
-     "id": "KZ",
-     "name": "Kazakhstan",
-     "count": 35
+     "id": "KR",
+     "name": "South Korea",
+     "count": 39
+    },
+    {
+     "id": "IT",
+     "name": "Italy",
+     "count": 37
     },
     {
      "id": "IR",
@@ -1232,14 +1209,24 @@
      "count": 33
     },
     {
-     "id": "JO",
-     "name": "Hashemite Kingdom of Jordan",
+     "id": "KZ",
+     "name": "Kazakhstan",
      "count": 33
     },
     {
-     "id": "NL",
-     "name": "Netherlands",
-     "count": 29
+     "id": "JO",
+     "name": "Hashemite Kingdom of Jordan",
+     "count": 31
+    },
+    {
+     "id": "ID",
+     "name": "Indonesia",
+     "count": 28
+    },
+    {
+     "id": "PH",
+     "name": "Philippines",
+     "count": 27
     },
     {
      "id": "CA",
@@ -1254,12 +1241,7 @@
     {
      "id": "DZ",
      "name": "Algeria",
-     "count": 25
-    },
-    {
-     "id": "PH",
-     "name": "Philippines",
-     "count": 25
+     "count": 24
     },
     {
      "id": "MX",
@@ -1272,34 +1254,34 @@
      "count": 23
     },
     {
-     "id": "ID",
-     "name": "Indonesia",
+     "id": "VE",
+     "name": "Venezuela",
      "count": 21
     },
     {
-     "id": "AE",
-     "name": "United Arab Emirates",
+     "id": "NL",
+     "name": "Netherlands",
      "count": 19
     },
     {
      "id": "BE",
      "name": "Belgium",
-     "count": 19
+     "count": 16
     },
     {
-     "id": "NZ",
-     "name": "New Zealand",
-     "count": 19
+     "id": "MY",
+     "name": "Malaysia",
+     "count": 16
+    },
+    {
+     "id": "BD",
+     "name": "Bangladesh",
+     "count": 15
     },
     {
      "id": "ES",
      "name": "Spain",
-     "count": 17
-    },
-    {
-     "id": "AU",
-     "name": "Australia",
-     "count": 16
+     "count": 15
     },
     {
      "id": "SC",
@@ -1307,9 +1289,9 @@
      "count": 15
     },
     {
-     "id": "VE",
-     "name": "Venezuela",
-     "count": 15
+     "id": "IQ",
+     "name": "Iraq",
+     "count": 14
     },
     {
      "id": "OM",
@@ -1317,29 +1299,29 @@
      "count": 14
     },
     {
-     "id": "IQ",
-     "name": "Iraq",
-     "count": 12
-    },
-    {
-     "id": "MY",
-     "name": "Malaysia",
-     "count": 12
-    },
-    {
      "id": "TH",
      "name": "Thailand",
      "count": 12
     },
     {
-     "id": "BD",
-     "name": "Bangladesh",
+     "id": "AE",
+     "name": "United Arab Emirates",
+     "count": 11
+    },
+    {
+     "id": "NZ",
+     "name": "New Zealand",
      "count": 11
     },
     {
      "id": "UA",
      "name": "Ukraine",
      "count": 10
+    },
+    {
+     "id": "AU",
+     "name": "Australia",
+     "count": 9
     },
     {
      "id": "HK",
@@ -1357,11 +1339,6 @@
      "count": 9
     },
     {
-     "id": "RU",
-     "name": "Russia",
-     "count": 8
-    },
-    {
      "id": "DO",
      "name": "Dominican Republic",
      "count": 7
@@ -1372,14 +1349,9 @@
      "count": 7
     },
     {
-     "id": "TW",
-     "name": "Taiwan",
+     "id": "RU",
+     "name": "Russia",
      "count": 7
-    },
-    {
-     "id": "CL",
-     "name": "Chile",
-     "count": 6
     },
     {
      "id": "IL",
@@ -1392,9 +1364,19 @@
      "count": 6
     },
     {
-     "id": "RO",
-     "name": "Romania",
+     "id": "SA",
+     "name": "Saudi Arabia",
      "count": 6
+    },
+    {
+     "id": "TW",
+     "name": "Taiwan",
+     "count": 6
+    },
+    {
+     "id": "CL",
+     "name": "Chile",
+     "count": 5
     },
     {
      "id": "CY",
@@ -1402,8 +1384,13 @@
      "count": 5
     },
     {
-     "id": "IE",
-     "name": "Ireland",
+     "id": "KG",
+     "name": "Kyrgyzstan",
+     "count": 5
+    },
+    {
+     "id": "KH",
+     "name": "Cambodia",
      "count": 5
     },
     {
@@ -1427,13 +1414,8 @@
      "count": 4
     },
     {
-     "id": "KG",
-     "name": "Kyrgyzstan",
-     "count": 4
-    },
-    {
-     "id": "KH",
-     "name": "Cambodia",
+     "id": "IE",
+     "name": "Ireland",
      "count": 4
     },
     {
@@ -1442,13 +1424,8 @@
      "count": 4
     },
     {
-     "id": "PT",
-     "name": "Portugal",
-     "count": 4
-    },
-    {
-     "id": "SA",
-     "name": "Saudi Arabia",
+     "id": "RO",
+     "name": "Romania",
      "count": 4
     },
     {
@@ -1462,33 +1439,43 @@
      "count": 4
     },
     {
+     "id": "AD",
+     "name": "Andorra",
+     "count": 3
+    },
+    {
+     "id": "AL",
+     "name": "Albania",
+     "count": 3
+    },
+    {
      "id": "AO",
      "name": "Angola",
      "count": 3
     },
     {
-     "id": "AT",
-     "name": "Austria",
+     "id": "CR",
+     "name": "Costa Rica",
      "count": 3
     },
     {
-     "id": "FI",
-     "name": "Finland",
+     "id": "NI",
+     "name": "Nicaragua",
      "count": 3
     },
     {
-     "id": "NO",
-     "name": "Norway",
+     "id": "PT",
+     "name": "Portugal",
      "count": 3
     },
     {
-     "id": "AD",
-     "name": "Andorra",
+     "id": "AM",
+     "name": "Armenia",
      "count": 2
     },
     {
-     "id": "AL",
-     "name": "Albania",
+     "id": "AT",
+     "name": "Austria",
      "count": 2
     },
     {
@@ -1497,13 +1484,18 @@
      "count": 2
     },
     {
-     "id": "CR",
-     "name": "Costa Rica",
+     "id": "FI",
+     "name": "Finland",
      "count": 2
     },
     {
-     "id": "ET",
-     "name": "Ethiopia",
+     "id": "KE",
+     "name": "Kenya",
+     "count": 2
+    },
+    {
+     "id": "LT",
+     "name": "Republic of Lithuania",
      "count": 2
     },
     {
@@ -1517,8 +1509,8 @@
      "count": 2
     },
     {
-     "id": "NI",
-     "name": "Nicaragua",
+     "id": "MM",
+     "name": "Myanmar",
      "count": 2
     },
     {
@@ -1537,11 +1529,6 @@
      "count": 2
     },
     {
-     "id": "AM",
-     "name": "Armenia",
-     "count": 1
-    },
-    {
      "id": "AZ",
      "name": "Azerbaijan",
      "count": 1
@@ -1552,8 +1539,18 @@
      "count": 1
     },
     {
+     "id": "BH",
+     "name": "Bahrain",
+     "count": 1
+    },
+    {
      "id": "BY",
      "name": "Belarus",
+     "count": 1
+    },
+    {
+     "id": "ET",
+     "name": "Ethiopia",
      "count": 1
     },
     {
@@ -1567,28 +1564,13 @@
      "count": 1
     },
     {
-     "id": "HR",
-     "name": "Croatia",
-     "count": 1
-    },
-    {
-     "id": "KE",
-     "name": "Kenya",
-     "count": 1
-    },
-    {
-     "id": "LT",
-     "name": "Republic of Lithuania",
-     "count": 1
-    },
-    {
-     "id": "MM",
-     "name": "Myanmar",
-     "count": 1
-    },
-    {
      "id": "MN",
      "name": "Mongolia",
+     "count": 1
+    },
+    {
+     "id": "NO",
+     "name": "Norway",
      "count": 1
     },
     {
@@ -1609,22 +1591,22 @@
     {
      "id": "phone",
      "name": "",
-     "count": 1156
+     "count": 780
     },
     {
      "id": "tablet",
      "name": "",
-     "count": 158
+     "count": 151
     },
     {
      "id": "desktop",
      "name": "",
-     "count": 2061
+     "count": 2049
     },
     {
      "id": "desktophd",
      "name": "",
-     "count": 100
+     "count": 89
     },
     {
      "id": "unknown",
@@ -1639,7 +1621,7 @@
     {
      "id": "(unknown)",
      "name": "(unknown)",
-     "count": 3475
+     "count": 3069
     }
    ],
    "more": false
