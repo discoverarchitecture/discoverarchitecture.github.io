@@ -1,13 +1,13 @@
 {
- "fetched_at": "2026-11-21T06:52:51+00:00",
+ "fetched_at": "2026-11-21T19:02:46+00:00",
  "site": "akshatpagaria.goatcounter.com",
  "window_days": 30,
- "visits_30d": 4450,
+ "visits_30d": 4681,
  "sections": {
   "pages": {
    "hits": [
     {
-     "count": 741,
+     "count": 894,
      "path_id": 112020267,
      "path": "/",
      "event": false,
@@ -207,6 +207,14 @@
      "max": 1
     },
     {
+     "count": 12,
+     "path_id": 121016913,
+     "path": "/studio/guides/how-to-present-site-analysis",
+     "event": false,
+     "title": "How to Do and Present an Architecture Site Analysis",
+     "max": 1
+    },
+    {
      "count": 11,
      "path_id": 117583511,
      "path": "/styles/high-tech",
@@ -264,14 +272,6 @@
     },
     {
      "count": 9,
-     "path_id": 121016913,
-     "path": "/studio/guides/how-to-present-site-analysis",
-     "event": false,
-     "title": "How to Do and Present an Architecture Site Analysis",
-     "max": 1
-    },
-    {
-     "count": 9,
      "path_id": 118824824,
      "path": "studio/preview",
      "event": true,
@@ -284,6 +284,14 @@
      "path": "/buildings/copan-building",
      "event": false,
      "title": "Copan Building by Oscar Niemeyer: photos & plans",
+     "max": 1
+    },
+    {
+     "count": 9,
+     "path_id": 116902096,
+     "path": "/buildings/baron-empain-palace",
+     "event": false,
+     "title": "Baron Empain Palace by Alexandre Marcel: photos",
      "max": 1
     },
     {
@@ -304,18 +312,18 @@
     },
     {
      "count": 8,
-     "path_id": 117976867,
-     "path": "studio/click/upload/rmFile",
-     "event": true,
-     "title": "Studio \u00b7 click \u00b7 upload \u00b7 rmFile",
+     "path_id": 120824340,
+     "path": "/studio/guides/architecture-presentation-board-templates",
+     "event": false,
+     "title": "Architecture Presentation Board Templates, Explained",
      "max": 1
     },
     {
      "count": 8,
-     "path_id": 116902096,
-     "path": "/buildings/baron-empain-palace",
-     "event": false,
-     "title": "Baron Empain Palace by Alexandre Marcel: photos",
+     "path_id": 117976867,
+     "path": "studio/click/upload/rmFile",
+     "event": true,
+     "title": "Studio \u00b7 click \u00b7 upload \u00b7 rmFile",
      "max": 1
     },
     {
@@ -332,14 +340,6 @@
      "path": "studio/click/q/chip",
      "event": true,
      "title": "Studio \u00b7 click \u00b7 q \u00b7 chip",
-     "max": 1
-    },
-    {
-     "count": 7,
-     "path_id": 120824340,
-     "path": "/studio/guides/architecture-presentation-board-templates",
-     "event": false,
-     "title": "Architecture Presentation Board Templates, Explained",
      "max": 1
     },
     {
@@ -600,6 +600,14 @@
     },
     {
      "count": 3,
+     "path_id": 120998608,
+     "path": "/studio/guides/how-to-present-architectural-plans-and-sections",
+     "event": false,
+     "title": "How to Present Architectural Plans and Sections \u00b7 Studio FGA",
+     "max": 1
+    },
+    {
+     "count": 3,
      "path_id": 120562507,
      "path": "studio/click/upload/home",
      "event": true,
@@ -792,41 +800,33 @@
     },
     {
      "count": 2,
-     "path_id": 124510330,
-     "path": "/buildings/church-of-the-light",
+     "path_id": 124803507,
+     "path": "/buildings/independence-palace",
      "event": false,
-     "title": "Church of the Light by Tadao Ando: photos & plans",
+     "title": "Independence Palace by Ngo Viet Thu: photos & key features",
      "max": 2
-    },
-    {
-     "count": 2,
-     "path_id": 124359017,
-     "path": "/buildings/yokosuka-museum-of-art",
-     "event": false,
-     "title": "Yokosuka Museum of Art by Riken Yamamoto: photos & plans",
-     "max": 1
     }
    ],
-   "total": 2057,
+   "total": 2216,
    "more": true
   },
   "referrers": {
    "stats": [
     {
      "name": "",
-     "count": 1875,
+     "count": 2094,
      "ref_scheme": "o"
     },
     {
      "id": "chatgpt.com",
      "name": "chatgpt.com",
-     "count": 255,
+     "count": 260,
      "ref_scheme": "c"
     },
     {
      "id": "Google",
      "name": "Google",
-     "count": 178,
+     "count": 182,
      "ref_scheme": "g"
     },
     {
@@ -838,7 +838,7 @@
     {
      "id": "www.bing.com",
      "name": "www.bing.com",
-     "count": 58,
+     "count": 61,
      "ref_scheme": "h"
     },
     {
@@ -1053,12 +1053,12 @@
     {
      "id": "Chrome",
      "name": "Chrome",
-     "count": 2438
+     "count": 2668
     },
     {
      "id": "Safari",
      "name": "Safari",
-     "count": 581
+     "count": 582
     },
     {
      "id": "Firefox",
@@ -1077,17 +1077,17 @@
     {
      "id": "Windows",
      "name": "Windows",
-     "count": 1819
+     "count": 2038
     },
     {
      "id": "iOS",
      "name": "iOS",
-     "count": 432
+     "count": 433
     },
     {
      "id": "Android",
      "name": "Android",
-     "count": 399
+     "count": 405
     },
     {
      "id": "macOS",
@@ -1097,7 +1097,7 @@
     {
      "id": "Linux",
      "name": "Linux",
-     "count": 111
+     "count": 116
     },
     {
      "id": "Chrome OS",
@@ -1114,19 +1114,24 @@
   "locations": {
    "stats": [
     {
-     "id": "IN",
-     "name": "India",
-     "count": 720
-    },
-    {
      "id": "US",
      "name": "United States",
-     "count": 691
+     "count": 788
+    },
+    {
+     "id": "IN",
+     "name": "India",
+     "count": 724
     },
     {
      "id": "AR",
      "name": "Argentina",
-     "count": 125
+     "count": 129
+    },
+    {
+     "id": "BR",
+     "name": "Brazil",
+     "count": 120
     },
     {
      "id": "TR",
@@ -1134,19 +1139,24 @@
      "count": 108
     },
     {
-     "id": "BR",
-     "name": "Brazil",
-     "count": 100
+     "id": "SG",
+     "name": "Singapore",
+     "count": 83
     },
     {
      "id": "DE",
      "name": "Germany",
-     "count": 80
+     "count": 82
     },
     {
-     "id": "SG",
-     "name": "Singapore",
-     "count": 79
+     "id": "CO",
+     "name": "Colombia",
+     "count": 66
+    },
+    {
+     "id": "VN",
+     "name": "Vietnam",
+     "count": 59
     },
     {
      "id": "EG",
@@ -1156,12 +1166,7 @@
     {
      "id": "PK",
      "name": "Pakistan",
-     "count": 54
-    },
-    {
-     "id": "CO",
-     "name": "Colombia",
-     "count": 53
+     "count": 55
     },
     {
      "id": "TN",
@@ -1171,27 +1176,22 @@
     {
      "id": "GB",
      "name": "United Kingdom",
-     "count": 50
+     "count": 52
     },
     {
-     "id": "VN",
-     "name": "Vietnam",
-     "count": 46
+     "id": "FR",
+     "name": "France",
+     "count": 47
+    },
+    {
+     "id": "EC",
+     "name": "Ecuador",
+     "count": 45
     },
     {
      "id": "CH",
      "name": "Switzerland",
      "count": 41
-    },
-    {
-     "id": "FR",
-     "name": "France",
-     "count": 41
-    },
-    {
-     "id": "EC",
-     "name": "Ecuador",
-     "count": 39
     },
     {
      "id": "KR",
@@ -1201,17 +1201,22 @@
     {
      "id": "IT",
      "name": "Italy",
-     "count": 37
+     "count": 38
     },
     {
-     "id": "IR",
-     "name": "Iran",
-     "count": 33
+     "id": "ID",
+     "name": "Indonesia",
+     "count": 36
     },
     {
      "id": "KZ",
      "name": "Kazakhstan",
-     "count": 33
+     "count": 35
+    },
+    {
+     "id": "IR",
+     "name": "Iran",
+     "count": 34
     },
     {
      "id": "JO",
@@ -1219,19 +1224,24 @@
      "count": 31
     },
     {
-     "id": "ID",
-     "name": "Indonesia",
+     "id": "PH",
+     "name": "Philippines",
+     "count": 29
+    },
+    {
+     "id": "MX",
+     "name": "Mexico",
      "count": 28
     },
     {
-     "id": "PH",
-     "name": "Philippines",
-     "count": 27
+     "id": "VE",
+     "name": "Venezuela",
+     "count": 28
     },
     {
      "id": "CA",
      "name": "Canada",
-     "count": 26
+     "count": 27
     },
     {
      "id": "MA",
@@ -1241,12 +1251,7 @@
     {
      "id": "DZ",
      "name": "Algeria",
-     "count": 24
-    },
-    {
-     "id": "MX",
-     "name": "Mexico",
-     "count": 24
+     "count": 25
     },
     {
      "id": "JP",
@@ -1254,9 +1259,14 @@
      "count": 23
     },
     {
-     "id": "VE",
-     "name": "Venezuela",
-     "count": 21
+     "id": "BD",
+     "name": "Bangladesh",
+     "count": 20
+    },
+    {
+     "id": "MY",
+     "name": "Malaysia",
+     "count": 19
     },
     {
      "id": "NL",
@@ -1266,22 +1276,12 @@
     {
      "id": "BE",
      "name": "Belgium",
-     "count": 16
-    },
-    {
-     "id": "MY",
-     "name": "Malaysia",
-     "count": 16
-    },
-    {
-     "id": "BD",
-     "name": "Bangladesh",
-     "count": 15
+     "count": 17
     },
     {
      "id": "ES",
      "name": "Spain",
-     "count": 15
+     "count": 16
     },
     {
      "id": "SC",
@@ -1301,7 +1301,7 @@
     {
      "id": "TH",
      "name": "Thailand",
-     "count": 12
+     "count": 13
     },
     {
      "id": "AE",
@@ -1314,6 +1314,11 @@
      "count": 11
     },
     {
+     "id": "HK",
+     "name": "Hong Kong",
+     "count": 10
+    },
+    {
      "id": "UA",
      "name": "Ukraine",
      "count": 10
@@ -1321,11 +1326,6 @@
     {
      "id": "AU",
      "name": "Australia",
-     "count": 9
-    },
-    {
-     "id": "HK",
-     "name": "Hong Kong",
      "count": 9
     },
     {
@@ -1341,6 +1341,11 @@
     {
      "id": "DO",
      "name": "Dominican Republic",
+     "count": 8
+    },
+    {
+     "id": "IL",
+     "name": "Israel",
      "count": 7
     },
     {
@@ -1354,11 +1359,6 @@
      "count": 7
     },
     {
-     "id": "IL",
-     "name": "Israel",
-     "count": 6
-    },
-    {
      "id": "PE",
      "name": "Peru",
      "count": 6
@@ -1369,13 +1369,28 @@
      "count": 6
     },
     {
+     "id": "SE",
+     "name": "Sweden",
+     "count": 6
+    },
+    {
      "id": "TW",
      "name": "Taiwan",
      "count": 6
     },
     {
+     "id": "AL",
+     "name": "Albania",
+     "count": 5
+    },
+    {
      "id": "CL",
      "name": "Chile",
+     "count": 5
+    },
+    {
+     "id": "CR",
+     "name": "Costa Rica",
      "count": 5
     },
     {
@@ -1394,8 +1409,8 @@
      "count": 5
     },
     {
-     "id": "SE",
-     "name": "Sweden",
+     "id": "ZA",
+     "name": "South Africa",
      "count": 5
     },
     {
@@ -1419,6 +1434,11 @@
      "count": 4
     },
     {
+     "id": "KE",
+     "name": "Kenya",
+     "count": 4
+    },
+    {
      "id": "NG",
      "name": "Nigeria",
      "count": 4
@@ -1434,28 +1454,13 @@
      "count": 4
     },
     {
-     "id": "ZA",
-     "name": "South Africa",
-     "count": 4
-    },
-    {
      "id": "AD",
      "name": "Andorra",
      "count": 3
     },
     {
-     "id": "AL",
-     "name": "Albania",
-     "count": 3
-    },
-    {
      "id": "AO",
      "name": "Angola",
-     "count": 3
-    },
-    {
-     "id": "CR",
-     "name": "Costa Rica",
      "count": 3
     },
     {
@@ -1479,6 +1484,11 @@
      "count": 2
     },
     {
+     "id": "BG",
+     "name": "Bulgaria",
+     "count": 2
+    },
+    {
      "id": "BO",
      "name": "Bolivia",
      "count": 2
@@ -1489,8 +1499,8 @@
      "count": 2
     },
     {
-     "id": "KE",
-     "name": "Kenya",
+     "id": "GT",
+     "name": "Guatemala",
      "count": 2
     },
     {
@@ -1514,6 +1524,11 @@
      "count": 2
     },
     {
+     "id": "NP",
+     "name": "Nepal",
+     "count": 2
+    },
+    {
      "id": "PS",
      "name": "Palestine",
      "count": 2
@@ -1534,11 +1549,6 @@
      "count": 1
     },
     {
-     "id": "BG",
-     "name": "Bulgaria",
-     "count": 1
-    },
-    {
      "id": "BH",
      "name": "Bahrain",
      "count": 1
@@ -1549,18 +1559,43 @@
      "count": 1
     },
     {
+     "id": "CI",
+     "name": "Ivory Coast",
+     "count": 1
+    },
+    {
      "id": "ET",
      "name": "Ethiopia",
      "count": 1
     },
     {
-     "id": "GT",
-     "name": "Guatemala",
+     "id": "GH",
+     "name": "Ghana",
      "count": 1
     },
     {
      "id": "GU",
      "name": "Guam",
+     "count": 1
+    },
+    {
+     "id": "JM",
+     "name": "Jamaica",
+     "count": 1
+    },
+    {
+     "id": "KW",
+     "name": "Kuwait",
+     "count": 1
+    },
+    {
+     "id": "LA",
+     "name": "Laos",
+     "count": 1
+    },
+    {
+     "id": "LU",
+     "name": "Luxembourg",
      "count": 1
     },
     {
@@ -1574,24 +1609,19 @@
      "count": 1
     },
     {
-     "id": "NP",
-     "name": "Nepal",
-     "count": 1
-    },
-    {
-     "id": "UY",
-     "name": "Uruguay",
+     "id": "SK",
+     "name": "Slovakia",
      "count": 1
     }
    ],
-   "more": false
+   "more": true
   },
   "sizes": {
    "stats": [
     {
      "id": "phone",
      "name": "",
-     "count": 780
+     "count": 787
     },
     {
      "id": "tablet",
@@ -1601,12 +1631,12 @@
     {
      "id": "desktop",
      "name": "",
-     "count": 2049
+     "count": 2272
     },
     {
      "id": "desktophd",
      "name": "",
-     "count": 89
+     "count": 90
     },
     {
      "id": "unknown",
@@ -1621,7 +1651,7 @@
     {
      "id": "(unknown)",
      "name": "(unknown)",
-     "count": 3069
+     "count": 3300
     }
    ],
    "more": false
