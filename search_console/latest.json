@@ -1,37 +1,23 @@
 {
- "fetched_at": "2026-11-21T12:56:28+00:00",
+ "fetched_at": "2026-11-22T12:49:01+00:00",
  "site": "sc-domain:findgreatarchitecture.com",
  "window_days": 28,
- "start": "2026-10-25",
- "end": "2026-11-21",
+ "start": "2026-10-26",
+ "end": "2026-11-22",
  "web": {
   "total": {
    "clicks": 7,
-   "impressions": 496,
-   "ctr": 0.0141,
-   "position": 45.4
+   "impressions": 309,
+   "ctr": 0.0227,
+   "position": 38.2
   },
   "queries": [
    {
-    "query": "adaptive reuse architecture examples",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 84
-   },
-   {
-    "query": "adaptive reuse buildings examples",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 90
-   },
-   {
     "query": "adaptive reuse examples",
     "clicks": 0,
-    "impressions": 2,
+    "impressions": 1,
     "ctr": 0,
-    "position": 94.5
+    "position": 96
    },
    {
     "query": "aldo rossi architect",
@@ -39,20 +25,6 @@
     "impressions": 1,
     "ctr": 0,
     "position": 55
-   },
-   {
-    "query": "aomori art museum",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 93
-   },
-   {
-    "query": "appleby blue",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 100
    },
    {
     "query": "architecture building website",
@@ -83,13 +55,6 @@
     "position": 77
    },
    {
-    "query": "architecture museum berlin",
-    "clicks": 0,
-    "impressions": 2,
-    "ctr": 0,
-    "position": 79.5
-   },
-   {
     "query": "architecture site",
     "clicks": 0,
     "impressions": 2,
@@ -97,53 +62,11 @@
     "position": 69.5
    },
    {
-    "query": "architekt olympiastadion berlin",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 74
-   },
-   {
-    "query": "archive galata",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 55
-   },
-   {
-    "query": "arulappa hall",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 54
-   },
-   {
-    "query": "avenue library manchester",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 96
-   },
-   {
-    "query": "barcelona pavilion",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 74
-   },
-   {
     "query": "beauvoisin place de clichy",
     "clicks": 0,
-    "impressions": 8,
+    "impressions": 6,
     "ctr": 0,
-    "position": 76
-   },
-   {
-    "query": "behnisch architects",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 73
+    "position": 78
    },
    {
     "query": "bengali gate design",
@@ -153,60 +76,11 @@
     "position": 74
    },
    {
-    "query": "beyeler foundation renzo piano",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 62
-   },
-   {
-    "query": "big architect",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 11
-   },
-   {
-    "query": "big architects",
-    "clicks": 0,
-    "impressions": 5,
-    "ctr": 0,
-    "position": 71.4
-   },
-   {
-    "query": "big architects 8 house",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 66
-   },
-   {
-    "query": "big architecture",
-    "clicks": 0,
-    "impressions": 2,
-    "ctr": 0,
-    "position": 60.5
-   },
-   {
     "query": "big bjarke ingels",
     "clicks": 0,
     "impressions": 1,
     "ctr": 0,
     "position": 72
-   },
-   {
-    "query": "bilek villa prague",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 94
-   },
-   {
-    "query": "billings memorial library designer",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 77
    },
    {
     "query": "bracken house photos",
@@ -216,67 +90,11 @@
     "position": 48
    },
    {
-    "query": "braga stadium",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 85
-   },
-   {
-    "query": "brion cemetery",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 88
-   },
-   {
-    "query": "broadway homes display",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 52
-   },
-   {
     "query": "bruno taut",
     "clicks": 0,
     "impressions": 1,
     "ctr": 0,
     "position": 85
-   },
-   {
-    "query": "busan cinema center structure pdf",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 47
-   },
-   {
-    "query": "can lis",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 98
-   },
-   {
-    "query": "carlo scarpa brion cemetery",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 83
-   },
-   {
-    "query": "carlo scarpa eserleri",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 57
-   },
-   {
-    "query": "casa barragan",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 84
    },
    {
     "query": "casa farnsworth",
@@ -288,7 +106,7 @@
    {
     "query": "casa gaspar alberto campo baeza",
     "clicks": 0,
-    "impressions": 4,
+    "impressions": 3,
     "ctr": 0,
     "position": 8
    },
@@ -298,13 +116,6 @@
     "impressions": 1,
     "ctr": 0,
     "position": 59
-   },
-   {
-    "query": "cemetery igualada",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 54
    },
    {
     "query": "cocoon building",
@@ -335,32 +146,11 @@
     "position": 99
    },
    {
-    "query": "conjunto nacional archdaily",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 39
-   },
-   {
     "query": "corbusier cabanon",
     "clicks": 0,
     "impressions": 1,
     "ctr": 0,
     "position": 90
-   },
-   {
-    "query": "corwin hall",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 82
-   },
-   {
-    "query": "courtauld house",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 99
    },
    {
     "query": "curtain wall house",
@@ -384,13 +174,6 @@
     "position": 69
    },
    {
-    "query": "eames house",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 81
-   },
-   {
     "query": "etablissements duval photos",
     "clicks": 0,
     "impressions": 1,
@@ -398,32 +181,11 @@
     "position": 69
    },
    {
-    "query": "felix candela",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 85
-   },
-   {
-    "query": "frank lloyd wright ennis house",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 92
-   },
-   {
-    "query": "frank lloyd wright greek orthodox church",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 67
-   },
-   {
     "query": "frank lloyd wright home and studio",
     "clicks": 0,
-    "impressions": 2,
+    "impressions": 1,
     "ctr": 0,
-    "position": 65
+    "position": 93
    },
    {
     "query": "gakuen cocoon tower",
@@ -440,25 +202,11 @@
     "position": 98
    },
    {
-    "query": "glenn murcutt kempsey house",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 84
-   },
-   {
     "query": "great building design",
     "clicks": 0,
-    "impressions": 2,
+    "impressions": 3,
     "ctr": 0,
-    "position": 78
-   },
-   {
-    "query": "hammer lassen architects",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 72
+    "position": 81
    },
    {
     "query": "heliotrop freiburg",
@@ -468,39 +216,11 @@
     "position": 68
    },
    {
-    "query": "helmut jahn",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 96
-   },
-   {
-    "query": "helmut jahn buildings",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 97
-   },
-   {
     "query": "herzog de meuron tate modern",
     "clicks": 0,
     "impressions": 1,
     "ctr": 0,
     "position": 77
-   },
-   {
-    "query": "house in white kazuo shinohara",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 10
-   },
-   {
-    "query": "house na by sou fujimoto",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 83
    },
    {
     "query": "house with chimaeras",
@@ -510,46 +230,11 @@
     "position": 67
    },
    {
-    "query": "i m pei dallas city hall",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 73
-   },
-   {
-    "query": "justice architects",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 82
-   },
-   {
     "query": "lars spuybroek",
     "clicks": 0,
     "impressions": 1,
     "ctr": 0,
     "position": 4
-   },
-   {
-    "query": "laurie short house",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 60
-   },
-   {
-    "query": "library potsdamer platz",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 89
-   },
-   {
-    "query": "lipstick building in nyc",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 80
    },
    {
     "query": "london aquatics centre zaha hadid",
@@ -573,13 +258,6 @@
     "position": 96
    },
    {
-    "query": "louis sullivan",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 75
-   },
-   {
     "query": "louver pyramid",
     "clicks": 0,
     "impressions": 3,
@@ -587,60 +265,11 @@
     "position": 85.7
    },
    {
-    "query": "lucio costa 3150",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 46
-   },
-   {
-    "query": "maison laroche",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 98
-   },
-   {
-    "query": "marina bay sands hotel floor plan",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 50
-   },
-   {
-    "query": "marina city",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 81
-   },
-   {
-    "query": "markterasse",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 55
-   },
-   {
     "query": "mecanoo",
     "clicks": 0,
     "impressions": 1,
     "ctr": 0,
     "position": 64
-   },
-   {
-    "query": "memorial luiz carlos prestes porto alegre",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 97
-   },
-   {
-    "query": "menara tabung haji",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 11
    },
    {
     "query": "menara umno",
@@ -652,16 +281,9 @@
    {
     "query": "mesa lab boulder",
     "clicks": 0,
-    "impressions": 4,
+    "impressions": 3,
     "ctr": 0,
-    "position": 84.5
-   },
-   {
-    "query": "mies van der rohe house plan",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 35
+    "position": 83.7
    },
    {
     "query": "mode gakuen cocoon tower",
@@ -669,13 +291,6 @@
     "impressions": 1,
     "ctr": 0,
     "position": 94
-   },
-   {
-    "query": "montparnasse tower",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 72
    },
    {
     "query": "moretti luigi",
@@ -692,18 +307,11 @@
     "position": 98
    },
    {
-    "query": "national museum of modern and contemporary art",
+    "query": "parametric architecture projects",
     "clicks": 0,
     "impressions": 1,
     "ctr": 0,
-    "position": 77
-   },
-   {
-    "query": "parametric architecture projects",
-    "clicks": 0,
-    "impressions": 2,
-    "ctr": 0,
-    "position": 88.5
+    "position": 90
    },
    {
     "query": "penguin pool london zoo",
@@ -715,37 +323,16 @@
    {
     "query": "perth arena retractable roof",
     "clicks": 0,
-    "impressions": 4,
+    "impressions": 2,
     "ctr": 0,
-    "position": 77.8
+    "position": 76
    },
    {
     "query": "peter eisenman",
     "clicks": 0,
-    "impressions": 2,
-    "ctr": 0,
-    "position": 79.5
-   },
-   {
-    "query": "peter eisenman architecture",
-    "clicks": 0,
-    "impressions": 4,
-    "ctr": 0,
-    "position": 61
-   },
-   {
-    "query": "peter eisenman young",
-    "clicks": 0,
     "impressions": 1,
     "ctr": 0,
-    "position": 57
-   },
-   {
-    "query": "philip johnson glass house",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 97
+    "position": 82
    },
    {
     "query": "philip johnson glass house new canaan",
@@ -753,20 +340,6 @@
     "impressions": 1,
     "ctr": 0,
     "position": 83
-   },
-   {
-    "query": "philip johnson manhattan",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 90
-   },
-   {
-    "query": "portland building portland",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 98
    },
    {
     "query": "queens elizabeth ii courts of law",
@@ -778,9 +351,9 @@
    {
     "query": "raj rewal - asian games village design",
     "clicks": 0,
-    "impressions": 3,
+    "impressions": 2,
     "ctr": 0,
-    "position": 53
+    "position": 53.5
    },
    {
     "query": "reima pietil\u00e4",
@@ -788,20 +361,6 @@
     "impressions": 1,
     "ctr": 0,
     "position": 109
-   },
-   {
-    "query": "renzo piano oslo",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 80
-   },
-   {
-    "query": "richard rogers architect",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 94
    },
    {
     "query": "rod robbie bridge toronto",
@@ -832,88 +391,11 @@
     "position": 97
    },
    {
-    "query": "sendai mediatheque japan",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 73
-   },
-   {
-    "query": "shigeru ban paper house",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 77
-   },
-   {
-    "query": "sigurd lewerentz",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 82
-   },
-   {
     "query": "site:instagram.com vessel structure",
     "clicks": 0,
     "impressions": 1,
     "ctr": 0,
     "position": 1
-   },
-   {
-    "query": "snohetta",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 61
-   },
-   {
-    "query": "sunny hills subdivision",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 39
-   },
-   {
-    "query": "sverre fehn",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 76
-   },
-   {
-    "query": "temple street parking garage",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 81
-   },
-   {
-    "query": "the barbican estate",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 96
-   },
-   {
-    "query": "the economist st james",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 80
-   },
-   {
-    "query": "the portland building",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 51
-   },
-   {
-    "query": "tomba brion",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 67
    },
    {
     "query": "tour maine montparnasse",
@@ -935,20 +417,6 @@
     "impressions": 2,
     "ctr": 0,
     "position": 6.5
-   },
-   {
-    "query": "villa la roche",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 90
-   },
-   {
-    "query": "villa mairea aalto",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 78
    },
    {
     "query": "villa stiassni brno",
@@ -986,18 +454,11 @@
     "position": 68
    },
    {
-    "query": "who built marina bay sands",
+    "query": "well known architecture",
     "clicks": 0,
     "impressions": 1,
     "ctr": 0,
-    "position": 93
-   },
-   {
-    "query": "woha singapore",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 80
+    "position": 55
    },
    {
     "query": "zaha hadid tower milan",
@@ -1011,9 +472,9 @@
    {
     "page": "https://findgreatarchitecture.com/",
     "clicks": 6,
-    "impressions": 39,
-    "ctr": 0.1538,
-    "position": 32.5
+    "impressions": 41,
+    "ctr": 0.1463,
+    "position": 34.4
    },
    {
     "page": "https://findgreatarchitecture.com/buildings/denver-art-museum-hamilton-building/",
@@ -1030,13 +491,6 @@
     "position": 1
    },
    {
-    "page": "https://findgreatarchitecture.com/architects/3xn/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 58
-   },
-   {
     "page": "https://findgreatarchitecture.com/architects/aldo-rossi/",
     "clicks": 0,
     "impressions": 1,
@@ -1051,13 +505,6 @@
     "position": 4
    },
    {
-    "page": "https://findgreatarchitecture.com/architects/architectus/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 10
-   },
-   {
     "page": "https://findgreatarchitecture.com/architects/ashton-raggatt-mcdougall/",
     "clicks": 0,
     "impressions": 4,
@@ -1065,18 +512,11 @@
     "position": 7
    },
    {
-    "page": "https://findgreatarchitecture.com/architects/behnisch-architekten/",
+    "page": "https://findgreatarchitecture.com/architects/big/",
     "clicks": 0,
     "impressions": 1,
     "ctr": 0,
-    "position": 73
-   },
-   {
-    "page": "https://findgreatarchitecture.com/architects/big/",
-    "clicks": 0,
-    "impressions": 9,
-    "ctr": 0,
-    "position": 62.3
+    "position": 72
    },
    {
     "page": "https://findgreatarchitecture.com/architects/bruno-taut/",
@@ -1086,18 +526,11 @@
     "position": 85
    },
    {
-    "page": "https://findgreatarchitecture.com/architects/carlo-scarpa/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 57
-   },
-   {
     "page": "https://findgreatarchitecture.com/architects/chamberlin-powell-and-bon/",
     "clicks": 0,
-    "impressions": 5,
+    "impressions": 4,
     "ctr": 0,
-    "position": 9.6
+    "position": 9.8
    },
    {
     "page": "https://findgreatarchitecture.com/architects/denton-corker-marshall/",
@@ -1105,13 +538,6 @@
     "impressions": 1,
     "ctr": 0,
     "position": 10
-   },
-   {
-    "page": "https://findgreatarchitecture.com/architects/felix-candela/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 85
    },
    {
     "page": "https://findgreatarchitecture.com/architects/fumihiko-maki/",
@@ -1142,28 +568,7 @@
     "position": 10
    },
    {
-    "page": "https://findgreatarchitecture.com/architects/gunnar-asplund/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 56
-   },
-   {
-    "page": "https://findgreatarchitecture.com/architects/helmut-jahn/",
-    "clicks": 0,
-    "impressions": 2,
-    "ctr": 0,
-    "position": 96.5
-   },
-   {
     "page": "https://findgreatarchitecture.com/architects/henry-hobson-richardson/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 9
-   },
-   {
-    "page": "https://findgreatarchitecture.com/architects/john-lautner/",
     "clicks": 0,
     "impressions": 1,
     "ctr": 0,
@@ -1172,9 +577,9 @@
    {
     "page": "https://findgreatarchitecture.com/architects/juan-o-gorman/",
     "clicks": 0,
-    "impressions": 4,
+    "impressions": 3,
     "ctr": 0,
-    "position": 33
+    "position": 27
    },
    {
     "page": "https://findgreatarchitecture.com/architects/kazuyo-sejima/",
@@ -1191,25 +596,11 @@
     "position": 4
    },
    {
-    "page": "https://findgreatarchitecture.com/architects/kiyonori-kikutake/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 48
-   },
-   {
     "page": "https://findgreatarchitecture.com/architects/kris-yao/",
     "clicks": 0,
     "impressions": 1,
     "ctr": 0,
     "position": 9
-   },
-   {
-    "page": "https://findgreatarchitecture.com/architects/kunio-maekawa/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 10
    },
    {
     "page": "https://findgreatarchitecture.com/architects/leslie-martin/",
@@ -1224,20 +615,6 @@
     "impressions": 1,
     "ctr": 0,
     "position": 96
-   },
-   {
-    "page": "https://findgreatarchitecture.com/architects/louis-sullivan/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 75
-   },
-   {
-    "page": "https://findgreatarchitecture.com/architects/lucio-costa/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 46
    },
    {
     "page": "https://findgreatarchitecture.com/architects/luigi-moretti/",
@@ -1268,39 +645,11 @@
     "position": 10
    },
    {
-    "page": "https://findgreatarchitecture.com/architects/nieto-sobejano-arquitectos/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 3
-   },
-   {
-    "page": "https://findgreatarchitecture.com/architects/oma/",
-    "clicks": 0,
-    "impressions": 3,
-    "ctr": 0,
-    "position": 10
-   },
-   {
-    "page": "https://findgreatarchitecture.com/architects/otto-wagner/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 8
-   },
-   {
-    "page": "https://findgreatarchitecture.com/architects/peter-celsing/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 8
-   },
-   {
     "page": "https://findgreatarchitecture.com/architects/peter-eisenman/",
     "clicks": 0,
-    "impressions": 7,
+    "impressions": 1,
     "ctr": 0,
-    "position": 65.7
+    "position": 82
    },
    {
     "page": "https://findgreatarchitecture.com/architects/peter-zumthor/",
@@ -1324,20 +673,6 @@
     "position": 29
    },
    {
-    "page": "https://findgreatarchitecture.com/architects/richard-rogers/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 94
-   },
-   {
-    "page": "https://findgreatarchitecture.com/architects/sanaa/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 6
-   },
-   {
     "page": "https://findgreatarchitecture.com/architects/sauerbruch-hutton/",
     "clicks": 0,
     "impressions": 8,
@@ -1345,60 +680,11 @@
     "position": 23.6
    },
    {
-    "page": "https://findgreatarchitecture.com/architects/schmidt-hammer-lassen/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 72
-   },
-   {
-    "page": "https://findgreatarchitecture.com/architects/sigurd-lewerentz/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 82
-   },
-   {
-    "page": "https://findgreatarchitecture.com/architects/smiljan-radic/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 81
-   },
-   {
-    "page": "https://findgreatarchitecture.com/architects/snohetta/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 61
-   },
-   {
     "page": "https://findgreatarchitecture.com/architects/som/",
     "clicks": 0,
     "impressions": 7,
     "ctr": 0,
     "position": 4
-   },
-   {
-    "page": "https://findgreatarchitecture.com/architects/sou-fujimoto/",
-    "clicks": 0,
-    "impressions": 2,
-    "ctr": 0,
-    "position": 30
-   },
-   {
-    "page": "https://findgreatarchitecture.com/architects/sverre-fehn/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 76
-   },
-   {
-    "page": "https://findgreatarchitecture.com/architects/tadao-ando/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 55
    },
    {
     "page": "https://findgreatarchitecture.com/architects/toyo-ito/",
@@ -1415,32 +701,11 @@
     "position": 8
    },
    {
-    "page": "https://findgreatarchitecture.com/architects/walter-gropius/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 48
-   },
-   {
-    "page": "https://findgreatarchitecture.com/architects/woha/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 80
-   },
-   {
-    "page": "https://findgreatarchitecture.com/buildings/2-columbus-circle/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 47
-   },
-   {
     "page": "https://findgreatarchitecture.com/buildings/425-park-avenue/",
     "clicks": 0,
-    "impressions": 2,
+    "impressions": 1,
     "ctr": 0,
-    "position": 79
+    "position": 100
    },
    {
     "page": "https://findgreatarchitecture.com/buildings/66-old-church-street-chelsea/",
@@ -1452,9 +717,9 @@
    {
     "page": "https://findgreatarchitecture.com/buildings/8-house/",
     "clicks": 0,
-    "impressions": 2,
+    "impressions": 1,
     "ctr": 0,
-    "position": 37.5
+    "position": 9
    },
    {
     "page": "https://findgreatarchitecture.com/buildings/academy-of-arts-pariser-platz/",
@@ -1476,13 +741,6 @@
     "impressions": 1,
     "ctr": 0,
     "position": 4
-   },
-   {
-    "page": "https://findgreatarchitecture.com/buildings/african-renaissance-monument-dakar/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 46
    },
    {
     "page": "https://findgreatarchitecture.com/buildings/agios-dimitrios-circular-school/",
@@ -1513,13 +771,6 @@
     "position": 3
    },
    {
-    "page": "https://findgreatarchitecture.com/buildings/alfa-palace/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 43
-   },
-   {
     "page": "https://findgreatarchitecture.com/buildings/ananta-samakhom-throne-hall/",
     "clicks": 0,
     "impressions": 1,
@@ -1527,46 +778,11 @@
     "position": 8
    },
    {
-    "page": "https://findgreatarchitecture.com/buildings/annunciation-greek-orthodox-church/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 67
-   },
-   {
-    "page": "https://findgreatarchitecture.com/buildings/antel-tower-montevideo/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 51
-   },
-   {
-    "page": "https://findgreatarchitecture.com/buildings/aomori-museum-of-art/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 93
-   },
-   {
-    "page": "https://findgreatarchitecture.com/buildings/appleby-blue-almshouse/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 100
-   },
-   {
     "page": "https://findgreatarchitecture.com/buildings/ardmore-residence/",
     "clicks": 0,
-    "impressions": 2,
-    "ctr": 0,
-    "position": 57
-   },
-   {
-    "page": "https://findgreatarchitecture.com/buildings/art-gallery-of-alberta/",
-    "clicks": 0,
     "impressions": 1,
     "ctr": 0,
-    "position": 45
+    "position": 56
    },
    {
     "page": "https://findgreatarchitecture.com/buildings/aschanska-villa/",
@@ -1578,16 +794,9 @@
    {
     "page": "https://findgreatarchitecture.com/buildings/asian-games-village/",
     "clicks": 0,
-    "impressions": 3,
+    "impressions": 2,
     "ctr": 0,
-    "position": 53
-   },
-   {
-    "page": "https://findgreatarchitecture.com/buildings/astrup-fearnley-museum/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 80
+    "position": 53.5
    },
    {
     "page": "https://findgreatarchitecture.com/buildings/atakule/",
@@ -1595,13 +804,6 @@
     "impressions": 1,
     "ctr": 0,
     "position": 9
-   },
-   {
-    "page": "https://findgreatarchitecture.com/buildings/australia-square/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 10
    },
    {
     "page": "https://findgreatarchitecture.com/buildings/australian-national-maritime-museum/",
@@ -1618,27 +820,6 @@
     "position": 49
    },
    {
-    "page": "https://findgreatarchitecture.com/buildings/barbican-estate/",
-    "clicks": 0,
-    "impressions": 2,
-    "ctr": 0,
-    "position": 78.5
-   },
-   {
-    "page": "https://findgreatarchitecture.com/buildings/barcelona-pavilion/",
-    "clicks": 0,
-    "impressions": 2,
-    "ctr": 0,
-    "position": 66
-   },
-   {
-    "page": "https://findgreatarchitecture.com/buildings/bauhaus-dessau/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 55
-   },
-   {
     "page": "https://findgreatarchitecture.com/buildings/beijing-railway-station/",
     "clicks": 0,
     "impressions": 1,
@@ -1653,25 +834,11 @@
     "position": 2
    },
    {
-    "page": "https://findgreatarchitecture.com/buildings/berlin-state-library-haus-potsdamer-strae/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 89
-   },
-   {
     "page": "https://findgreatarchitecture.com/buildings/bihar-museum/",
     "clicks": 0,
     "impressions": 1,
     "ctr": 0,
     "position": 5
-   },
-   {
-    "page": "https://findgreatarchitecture.com/buildings/billings-memorial-library/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 77
    },
    {
     "page": "https://findgreatarchitecture.com/buildings/biswa-bangla-gate/",
@@ -1695,25 +862,11 @@
     "position": 48
    },
    {
-    "page": "https://findgreatarchitecture.com/buildings/braga-municipal-stadium/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 85
-   },
-   {
     "page": "https://findgreatarchitecture.com/buildings/breuer-building/",
     "clicks": 0,
     "impressions": 1,
     "ctr": 0,
     "position": 10
-   },
-   {
-    "page": "https://findgreatarchitecture.com/buildings/brion-cemetery/",
-    "clicks": 0,
-    "impressions": 3,
-    "ctr": 0,
-    "position": 79.3
    },
    {
     "page": "https://findgreatarchitecture.com/buildings/british-library/",
@@ -1723,20 +876,6 @@
     "position": 4.7
    },
    {
-    "page": "https://findgreatarchitecture.com/buildings/broadway-mansions-shanghai/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 52
-   },
-   {
-    "page": "https://findgreatarchitecture.com/buildings/busan-cinema-center/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 47
-   },
-   {
     "page": "https://findgreatarchitecture.com/buildings/cabanon-de-le-corbusier/",
     "clicks": 0,
     "impressions": 1,
@@ -1744,25 +883,11 @@
     "position": 90
    },
    {
-    "page": "https://findgreatarchitecture.com/buildings/cal-passani/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 10
-   },
-   {
     "page": "https://findgreatarchitecture.com/buildings/cambridge-university-library/",
     "clicks": 0,
     "impressions": 1,
     "ctr": 0,
     "position": 40
-   },
-   {
-    "page": "https://findgreatarchitecture.com/buildings/can-lis/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 98
    },
    {
     "page": "https://findgreatarchitecture.com/buildings/cape-town-city-hall/",
@@ -1779,32 +904,11 @@
     "position": 10
    },
    {
-    "page": "https://findgreatarchitecture.com/buildings/casa-das-mudas/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 96
-   },
-   {
     "page": "https://findgreatarchitecture.com/buildings/casa-gaspar/",
     "clicks": 0,
-    "impressions": 4,
+    "impressions": 3,
     "ctr": 0,
     "position": 8
-   },
-   {
-    "page": "https://findgreatarchitecture.com/buildings/casa-luis-barragan/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 84
-   },
-   {
-    "page": "https://findgreatarchitecture.com/buildings/casa-ogorman-1929/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 69
    },
    {
     "page": "https://findgreatarchitecture.com/buildings/casa-papanice/",
@@ -1812,13 +916,6 @@
     "impressions": 1,
     "ctr": 0,
     "position": 55
-   },
-   {
-    "page": "https://findgreatarchitecture.com/buildings/casa-rotalinti/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 95
    },
    {
     "page": "https://findgreatarchitecture.com/buildings/casa-rozes/",
@@ -1833,13 +930,6 @@
     "impressions": 1,
     "ctr": 0,
     "position": 59
-   },
-   {
-    "page": "https://findgreatarchitecture.com/buildings/central-hall-university-of-york/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 82
    },
    {
     "page": "https://findgreatarchitecture.com/buildings/centro-de-exposicoes-centro-administrativo-da-bahia/",
@@ -1858,9 +948,9 @@
    {
     "page": "https://findgreatarchitecture.com/buildings/churchill-college-cambridge/",
     "clicks": 0,
-    "impressions": 2,
+    "impressions": 1,
     "ctr": 0,
-    "position": 37.5
+    "position": 32
    },
    {
     "page": "https://findgreatarchitecture.com/buildings/city-hochhaus-leipzig/",
@@ -1868,13 +958,6 @@
     "impressions": 2,
     "ctr": 0,
     "position": 54.5
-   },
-   {
-    "page": "https://findgreatarchitecture.com/buildings/city-of-justice-barcelona/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 82
    },
    {
     "page": "https://findgreatarchitecture.com/buildings/cleveland-clinic-lou-ruvo-center-for-brain-health/",
@@ -1889,20 +972,6 @@
     "impressions": 1,
     "ctr": 0,
     "position": 20
-   },
-   {
-    "page": "https://findgreatarchitecture.com/buildings/conjunto-nacional/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 39
-   },
-   {
-    "page": "https://findgreatarchitecture.com/buildings/coonley-house-riverside/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 45
    },
    {
     "page": "https://findgreatarchitecture.com/buildings/crow-island-school/",
@@ -1924,20 +993,6 @@
     "impressions": 1,
     "ctr": 0,
     "position": 61
-   },
-   {
-    "page": "https://findgreatarchitecture.com/buildings/cymbalista-synagogue/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 72
-   },
-   {
-    "page": "https://findgreatarchitecture.com/buildings/dallas-city-hall/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 73
    },
    {
     "page": "https://findgreatarchitecture.com/buildings/davenport-public-library/",
@@ -1975,39 +1030,11 @@
     "position": 9
    },
    {
-    "page": "https://findgreatarchitecture.com/buildings/dominion-tower/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 95
-   },
-   {
     "page": "https://findgreatarchitecture.com/buildings/dum-radost/",
     "clicks": 0,
     "impressions": 1,
     "ctr": 0,
     "position": 7
-   },
-   {
-    "page": "https://findgreatarchitecture.com/buildings/dutch-pavilion-venice-biennale/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 38
-   },
-   {
-    "page": "https://findgreatarchitecture.com/buildings/eames-house/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 81
-   },
-   {
-    "page": "https://findgreatarchitecture.com/buildings/economist-building/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 80
    },
    {
     "page": "https://findgreatarchitecture.com/buildings/edificio-panamericano/",
@@ -2024,25 +1051,11 @@
     "position": 11
    },
    {
-    "page": "https://findgreatarchitecture.com/buildings/eltham-palace-courtauld-house/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 99
-   },
-   {
     "page": "https://findgreatarchitecture.com/buildings/empire-state-building/",
     "clicks": 0,
     "impressions": 1,
     "ctr": 0,
     "position": 10
-   },
-   {
-    "page": "https://findgreatarchitecture.com/buildings/ennis-house/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 92
    },
    {
     "page": "https://findgreatarchitecture.com/buildings/estadio-do-morumbi/",
@@ -2061,9 +1074,9 @@
    {
     "page": "https://findgreatarchitecture.com/buildings/farnsworth-house/",
     "clicks": 0,
-    "impressions": 2,
+    "impressions": 1,
     "ctr": 0,
-    "position": 65
+    "position": 95
    },
    {
     "page": "https://findgreatarchitecture.com/buildings/fernsehturm-berlin/",
@@ -2073,18 +1086,11 @@
     "position": 4
    },
    {
-    "page": "https://findgreatarchitecture.com/buildings/fondation-beyeler/",
+    "page": "https://findgreatarchitecture.com/buildings/frank-lloyd-wright-home-and-studio/",
     "clicks": 0,
     "impressions": 1,
     "ctr": 0,
-    "position": 62
-   },
-   {
-    "page": "https://findgreatarchitecture.com/buildings/frank-lloyd-wright-home-and-studio/",
-    "clicks": 0,
-    "impressions": 2,
-    "ctr": 0,
-    "position": 65
+    "position": 93
    },
    {
     "page": "https://findgreatarchitecture.com/buildings/freeway-park/",
@@ -2110,9 +1116,9 @@
    {
     "page": "https://findgreatarchitecture.com/buildings/glass-house/",
     "clicks": 0,
-    "impressions": 4,
+    "impressions": 3,
     "ctr": 0,
-    "position": 77.8
+    "position": 71.3
    },
    {
     "page": "https://findgreatarchitecture.com/buildings/granville-d-jones-house/",
@@ -2120,27 +1126,6 @@
     "impressions": 2,
     "ctr": 0,
     "position": 7
-   },
-   {
-    "page": "https://findgreatarchitecture.com/buildings/green-square-library/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 35
-   },
-   {
-    "page": "https://findgreatarchitecture.com/buildings/groes-festspielhaus/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 95
-   },
-   {
-    "page": "https://findgreatarchitecture.com/buildings/gromarkthalle/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 55
    },
    {
     "page": "https://findgreatarchitecture.com/buildings/guggenheim-bilbao/",
@@ -2192,32 +1177,11 @@
     "position": 89
    },
    {
-    "page": "https://findgreatarchitecture.com/buildings/ho-chi-minh-mausoleum/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 7
-   },
-   {
-    "page": "https://findgreatarchitecture.com/buildings/hong-kong-design-institute/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 2
-   },
-   {
     "page": "https://findgreatarchitecture.com/buildings/hornbaekhus/",
     "clicks": 0,
     "impressions": 2,
     "ctr": 0,
     "position": 6.5
-   },
-   {
-    "page": "https://findgreatarchitecture.com/buildings/hotel-de-ville-boulogne-billancourt/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 37
    },
    {
     "page": "https://findgreatarchitecture.com/buildings/hotel-du-departement-bouches-du-rhone/",
@@ -2248,39 +1212,11 @@
     "position": 10
    },
    {
-    "page": "https://findgreatarchitecture.com/buildings/house-in-white/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 10
-   },
-   {
-    "page": "https://findgreatarchitecture.com/buildings/house-na/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 83
-   },
-   {
     "page": "https://findgreatarchitecture.com/buildings/house-with-chimaeras/",
     "clicks": 0,
     "impressions": 6,
     "ctr": 0,
     "position": 55.5
-   },
-   {
-    "page": "https://findgreatarchitecture.com/buildings/hsbc-building-shanghai/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 45
-   },
-   {
-    "page": "https://findgreatarchitecture.com/buildings/humble-administrator-s-garden/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 1
    },
    {
     "page": "https://findgreatarchitecture.com/buildings/hunt-library/",
@@ -2290,25 +1226,11 @@
     "position": 3
    },
    {
-    "page": "https://findgreatarchitecture.com/buildings/igualada-cemetery/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 54
-   },
-   {
     "page": "https://findgreatarchitecture.com/buildings/immeuble-clarte/",
     "clicks": 0,
     "impressions": 1,
     "ctr": 0,
     "position": 56
-   },
-   {
-    "page": "https://findgreatarchitecture.com/buildings/isabella-stewart-gardner-museum/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 10
    },
    {
     "page": "https://findgreatarchitecture.com/buildings/ismailiyya-palace/",
@@ -2332,13 +1254,6 @@
     "position": 90
    },
    {
-    "page": "https://findgreatarchitecture.com/buildings/jubilee-library-brighton/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 36
-   },
-   {
     "page": "https://findgreatarchitecture.com/buildings/kala-academy/",
     "clicks": 0,
     "impressions": 8,
@@ -2353,25 +1268,11 @@
     "position": 8
    },
    {
-    "page": "https://findgreatarchitecture.com/buildings/kauffman-center-performing-arts/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 56
-   },
-   {
     "page": "https://findgreatarchitecture.com/buildings/kaufhaus-tyrol/",
     "clicks": 0,
     "impressions": 1,
     "ctr": 0,
     "position": 36
-   },
-   {
-    "page": "https://findgreatarchitecture.com/buildings/kaufmann-desert-house/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 8
    },
    {
     "page": "https://findgreatarchitecture.com/buildings/kemper-arena/",
@@ -2381,20 +1282,6 @@
     "position": 54
    },
    {
-    "page": "https://findgreatarchitecture.com/buildings/kew-house-melbourne/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 98
-   },
-   {
-    "page": "https://findgreatarchitecture.com/buildings/king-fahd-national-library/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 65
-   },
-   {
     "page": "https://findgreatarchitecture.com/buildings/king-faisal-mosque-sharjah/",
     "clicks": 0,
     "impressions": 1,
@@ -2402,25 +1289,11 @@
     "position": 8
    },
    {
-    "page": "https://findgreatarchitecture.com/buildings/kips-bay-towers/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 7
-   },
-   {
     "page": "https://findgreatarchitecture.com/buildings/knights-of-columbus-building/",
     "clicks": 0,
     "impressions": 1,
     "ctr": 0,
     "position": 7
-   },
-   {
-    "page": "https://findgreatarchitecture.com/buildings/koumi-machi-kogen-museum-of-art/",
-    "clicks": 0,
-    "impressions": 2,
-    "ctr": 0,
-    "position": 5
    },
    {
     "page": "https://findgreatarchitecture.com/buildings/kth-school-of-architecture/",
@@ -2437,27 +1310,6 @@
     "position": 19
    },
    {
-    "page": "https://findgreatarchitecture.com/buildings/la-ricarda/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 52
-   },
-   {
-    "page": "https://findgreatarchitecture.com/buildings/lappia-hall/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 54
-   },
-   {
-    "page": "https://findgreatarchitecture.com/buildings/le-consortium/",
-    "clicks": 0,
-    "impressions": 2,
-    "ctr": 0,
-    "position": 4
-   },
-   {
     "page": "https://findgreatarchitecture.com/buildings/lego-house/",
     "clicks": 0,
     "impressions": 1,
@@ -2470,13 +1322,6 @@
     "impressions": 1,
     "ctr": 0,
     "position": 37
-   },
-   {
-    "page": "https://findgreatarchitecture.com/buildings/lipstick-building/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 80
    },
    {
     "page": "https://findgreatarchitecture.com/buildings/london-aquatics-centre/",
@@ -2493,18 +1338,11 @@
     "position": 5
    },
    {
-    "page": "https://findgreatarchitecture.com/buildings/louvre-lens/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 55
-   },
-   {
     "page": "https://findgreatarchitecture.com/buildings/louvre-pyramid/",
     "clicks": 0,
-    "impressions": 4,
+    "impressions": 3,
     "ctr": 0,
-    "position": 71.8
+    "position": 85.7
    },
    {
     "page": "https://findgreatarchitecture.com/buildings/lukaskirche-worms/",
@@ -2537,23 +1375,9 @@
    {
     "page": "https://findgreatarchitecture.com/buildings/maison-du-peuple-clichy/",
     "clicks": 0,
-    "impressions": 8,
+    "impressions": 6,
     "ctr": 0,
-    "position": 76
-   },
-   {
-    "page": "https://findgreatarchitecture.com/buildings/maison-la-roche/",
-    "clicks": 0,
-    "impressions": 2,
-    "ctr": 0,
-    "position": 94
-   },
-   {
-    "page": "https://findgreatarchitecture.com/buildings/manchester-central-library/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 96
+    "position": 78
    },
    {
     "page": "https://findgreatarchitecture.com/buildings/maraya/",
@@ -2561,34 +1385,6 @@
     "impressions": 5,
     "ctr": 0,
     "position": 3.4
-   },
-   {
-    "page": "https://findgreatarchitecture.com/buildings/marie-short-house/",
-    "clicks": 0,
-    "impressions": 2,
-    "ctr": 0,
-    "position": 72
-   },
-   {
-    "page": "https://findgreatarchitecture.com/buildings/marin-county-civic-center/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 47
-   },
-   {
-    "page": "https://findgreatarchitecture.com/buildings/marina-bay-sands/",
-    "clicks": 0,
-    "impressions": 2,
-    "ctr": 0,
-    "position": 71.5
-   },
-   {
-    "page": "https://findgreatarchitecture.com/buildings/marina-city/",
-    "clicks": 0,
-    "impressions": 2,
-    "ctr": 0,
-    "position": 68.5
    },
    {
     "page": "https://findgreatarchitecture.com/buildings/marta-herford/",
@@ -2612,20 +1408,6 @@
     "position": 6
    },
    {
-    "page": "https://findgreatarchitecture.com/buildings/memorial-luiz-carlos-prestes/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 97
-   },
-   {
-    "page": "https://findgreatarchitecture.com/buildings/menara-tabung-haji/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 11
-   },
-   {
     "page": "https://findgreatarchitecture.com/buildings/menara-umno/",
     "clicks": 0,
     "impressions": 1,
@@ -2635,16 +1417,9 @@
    {
     "page": "https://findgreatarchitecture.com/buildings/mesa-laboratory-ncar/",
     "clicks": 0,
-    "impressions": 4,
+    "impressions": 3,
     "ctr": 0,
-    "position": 84.5
-   },
-   {
-    "page": "https://findgreatarchitecture.com/buildings/mmca-seoul/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 77
+    "position": 83.7
    },
    {
     "page": "https://findgreatarchitecture.com/buildings/mode-gakuen-cocoon-tower/",
@@ -2682,27 +1457,6 @@
     "position": 5.5
    },
    {
-    "page": "https://findgreatarchitecture.com/buildings/murcia-town-hall-extension/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 100
-   },
-   {
-    "page": "https://findgreatarchitecture.com/buildings/museum-for-architectural-drawing/",
-    "clicks": 0,
-    "impressions": 2,
-    "ctr": 0,
-    "position": 79.5
-   },
-   {
-    "page": "https://findgreatarchitecture.com/buildings/museum-liner-appenzell/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 39
-   },
-   {
     "page": "https://findgreatarchitecture.com/buildings/museum-of-modern-art-rio-de-janeiro/",
     "clicks": 0,
     "impressions": 2,
@@ -2715,13 +1469,6 @@
     "impressions": 1,
     "ctr": 0,
     "position": 10
-   },
-   {
-    "page": "https://findgreatarchitecture.com/buildings/nadir-afonso-museum/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 61
    },
    {
     "page": "https://findgreatarchitecture.com/buildings/nebraska-state-capitol/",
@@ -2747,37 +1494,9 @@
    {
     "page": "https://findgreatarchitecture.com/buildings/oita-prefectural-library-art-plaza/",
     "clicks": 0,
-    "impressions": 3,
-    "ctr": 0,
-    "position": 23
-   },
-   {
-    "page": "https://findgreatarchitecture.com/buildings/olaf-gulbransson-museum-tegernsee/",
-    "clicks": 0,
     "impressions": 1,
     "ctr": 0,
-    "position": 9
-   },
-   {
-    "page": "https://findgreatarchitecture.com/buildings/olympiastadion-berlin/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 74
-   },
-   {
-    "page": "https://findgreatarchitecture.com/buildings/one-central-park/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 99
-   },
-   {
-    "page": "https://findgreatarchitecture.com/buildings/opus-hong-kong/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 2
+    "position": 10
    },
    {
     "page": "https://findgreatarchitecture.com/buildings/oregon-convention-center/",
@@ -2801,25 +1520,11 @@
     "position": 2
    },
    {
-    "page": "https://findgreatarchitecture.com/buildings/paper-house/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 77
-   },
-   {
     "page": "https://findgreatarchitecture.com/buildings/parliament-house/",
     "clicks": 0,
     "impressions": 1,
     "ctr": 0,
     "position": 18
-   },
-   {
-    "page": "https://findgreatarchitecture.com/buildings/pavillon-suisse/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 52
    },
    {
     "page": "https://findgreatarchitecture.com/buildings/peace-palace-the-hague/",
@@ -2845,9 +1550,9 @@
    {
     "page": "https://findgreatarchitecture.com/buildings/perth-arena/",
     "clicks": 0,
-    "impressions": 4,
+    "impressions": 2,
     "ctr": 0,
-    "position": 77.8
+    "position": 76
    },
    {
     "page": "https://findgreatarchitecture.com/buildings/phillips-exeter-academy-library/",
@@ -2864,25 +1569,11 @@
     "position": 51
    },
    {
-    "page": "https://findgreatarchitecture.com/buildings/portland-building/",
-    "clicks": 0,
-    "impressions": 2,
-    "ctr": 0,
-    "position": 74.5
-   },
-   {
     "page": "https://findgreatarchitecture.com/buildings/price-tower/",
     "clicks": 0,
     "impressions": 1,
     "ctr": 0,
     "position": 4
-   },
-   {
-    "page": "https://findgreatarchitecture.com/buildings/qatar-faculty-of-islamic-studies/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 52
    },
    {
     "page": "https://findgreatarchitecture.com/buildings/qeii-courts-of-law-brisbane/",
@@ -2892,13 +1583,6 @@
     "position": 72
    },
    {
-    "page": "https://findgreatarchitecture.com/buildings/quay-quarter-tower/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 55
-   },
-   {
     "page": "https://findgreatarchitecture.com/buildings/queen-elizabeth-hall/",
     "clicks": 0,
     "impressions": 2,
@@ -2906,25 +1590,11 @@
     "position": 9
    },
    {
-    "page": "https://findgreatarchitecture.com/buildings/queens-cross-church-glasgow/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 10
-   },
-   {
     "page": "https://findgreatarchitecture.com/buildings/quinta-monroy/",
     "clicks": 0,
     "impressions": 1,
     "ctr": 0,
     "position": 99
-   },
-   {
-    "page": "https://findgreatarchitecture.com/buildings/radcliffe-camera/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 58
    },
    {
     "page": "https://findgreatarchitecture.com/buildings/rialto-towers/",
@@ -2939,20 +1609,6 @@
     "impressions": 1,
     "ctr": 0,
     "position": 59
-   },
-   {
-    "page": "https://findgreatarchitecture.com/buildings/rockefeller-guest-house/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 90
-   },
-   {
-    "page": "https://findgreatarchitecture.com/buildings/rodoviaria-de-jau/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 37
    },
    {
     "page": "https://findgreatarchitecture.com/buildings/rodoviaria-do-plano-piloto/",
@@ -2978,16 +1634,9 @@
    {
     "page": "https://findgreatarchitecture.com/buildings/sainsbury-centre-for-visual-arts/",
     "clicks": 0,
-    "impressions": 2,
-    "ctr": 0,
-    "position": 46
-   },
-   {
-    "page": "https://findgreatarchitecture.com/buildings/sala-chalermkrung-royal-theatre/",
-    "clicks": 0,
     "impressions": 1,
     "ctr": 0,
-    "position": 50
+    "position": 10
    },
    {
     "page": "https://findgreatarchitecture.com/buildings/salerno-maritime-terminal/",
@@ -2995,13 +1644,6 @@
     "impressions": 1,
     "ctr": 0,
     "position": 10
-   },
-   {
-    "page": "https://findgreatarchitecture.com/buildings/salt-galata/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 55
    },
    {
     "page": "https://findgreatarchitecture.com/buildings/sappaya-sapasathan/",
@@ -3016,27 +1658,6 @@
     "impressions": 1,
     "ctr": 0,
     "position": 75
-   },
-   {
-    "page": "https://findgreatarchitecture.com/buildings/sdu-campus-kolding/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 9
-   },
-   {
-    "page": "https://findgreatarchitecture.com/buildings/senate-house-london/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 53
-   },
-   {
-    "page": "https://findgreatarchitecture.com/buildings/sendai-mediatheque/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 73
    },
    {
     "page": "https://findgreatarchitecture.com/buildings/shanghai-exhibition-centre/",
@@ -3074,13 +1695,6 @@
     "position": 49
    },
    {
-    "page": "https://findgreatarchitecture.com/buildings/sony-center/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 53
-   },
-   {
     "page": "https://findgreatarchitecture.com/buildings/st-fronleichnam/",
     "clicks": 0,
     "impressions": 1,
@@ -3095,13 +1709,6 @@
     "position": 10
    },
    {
-    "page": "https://findgreatarchitecture.com/buildings/st-pancras-railway-station/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 58
-   },
-   {
     "page": "https://findgreatarchitecture.com/buildings/stazione-di-venezia-santa-lucia/",
     "clicks": 0,
     "impressions": 1,
@@ -3114,20 +1721,6 @@
     "impressions": 1,
     "ctr": 0,
     "position": 73
-   },
-   {
-    "page": "https://findgreatarchitecture.com/buildings/sunila-pulp-mill/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 44
-   },
-   {
-    "page": "https://findgreatarchitecture.com/buildings/sunnyhills-minami-aoyama/",
-    "clicks": 0,
-    "impressions": 3,
-    "ctr": 0,
-    "position": 54.7
    },
    {
     "page": "https://findgreatarchitecture.com/buildings/supreme-federal-court/",
@@ -3149,20 +1742,6 @@
     "impressions": 1,
     "ctr": 0,
     "position": 77
-   },
-   {
-    "page": "https://findgreatarchitecture.com/buildings/tate-st-ives/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 95
-   },
-   {
-    "page": "https://findgreatarchitecture.com/buildings/temple-street-parking-garage/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 81
    },
    {
     "page": "https://findgreatarchitecture.com/buildings/the-pyramids-indianapolis/",
@@ -3188,9 +1767,9 @@
    {
     "page": "https://findgreatarchitecture.com/buildings/tour-montparnasse/",
     "clicks": 0,
-    "impressions": 2,
+    "impressions": 1,
     "ctr": 0,
-    "position": 60
+    "position": 48
    },
    {
     "page": "https://findgreatarchitecture.com/buildings/toyama-kirari/",
@@ -3235,39 +1814,11 @@
     "position": 65.5
    },
    {
-    "page": "https://findgreatarchitecture.com/buildings/vierzehnheiligen-basilica/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 46
-   },
-   {
     "page": "https://findgreatarchitecture.com/buildings/villa-allegonda/",
     "clicks": 0,
     "impressions": 2,
     "ctr": 0,
     "position": 6.5
-   },
-   {
-    "page": "https://findgreatarchitecture.com/buildings/villa-bilek-prague/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 94
-   },
-   {
-    "page": "https://findgreatarchitecture.com/buildings/villa-kenwin/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 53
-   },
-   {
-    "page": "https://findgreatarchitecture.com/buildings/villa-mairea/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 78
    },
    {
     "page": "https://findgreatarchitecture.com/buildings/villa-neumark/",
@@ -3333,13 +1884,6 @@
     "position": 1
    },
    {
-    "page": "https://findgreatarchitecture.com/buildings/wiener-stadthalle/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 10
-   },
-   {
     "page": "https://findgreatarchitecture.com/buildings/wollaton-hall/",
     "clicks": 0,
     "impressions": 1,
@@ -3352,13 +1896,6 @@
     "impressions": 1,
     "ctr": 0,
     "position": 62
-   },
-   {
-    "page": "https://findgreatarchitecture.com/buildings/yokohama-museum-of-art/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 50
    },
    {
     "page": "https://findgreatarchitecture.com/buildings/z33-hasselt/",
@@ -3384,16 +1921,16 @@
    {
     "page": "https://findgreatarchitecture.com/ideas/adaptive-reuse/",
     "clicks": 0,
-    "impressions": 4,
+    "impressions": 1,
     "ctr": 0,
-    "position": 90.8
+    "position": 96
    },
    {
     "page": "https://findgreatarchitecture.com/styles/parametric/",
     "clicks": 0,
-    "impressions": 4,
+    "impressions": 3,
     "ctr": 0,
-    "position": 50.2
+    "position": 38
    },
    {
     "page": "https://findgreatarchitecture.com/terms/",
@@ -3414,9 +1951,9 @@
    {
     "country": "ind",
     "clicks": 3,
-    "impressions": 23,
-    "ctr": 0.1304,
-    "position": 31.3
+    "impressions": 19,
+    "ctr": 0.1579,
+    "position": 25.4
    },
    {
     "country": "egy",
@@ -3428,23 +1965,23 @@
    {
     "country": "phl",
     "clicks": 1,
-    "impressions": 5,
-    "ctr": 0.2,
-    "position": 40
+    "impressions": 2,
+    "ctr": 0.5,
+    "position": 1
    },
    {
     "country": "tur",
     "clicks": 1,
-    "impressions": 12,
-    "ctr": 0.0833,
-    "position": 51.8
+    "impressions": 4,
+    "ctr": 0.25,
+    "position": 17.8
    },
    {
     "country": "usa",
     "clicks": 1,
-    "impressions": 160,
-    "ctr": 0.0063,
-    "position": 29.6
+    "impressions": 117,
+    "ctr": 0.0085,
+    "position": 23.5
    },
    {
     "country": "afg",
@@ -3463,37 +2000,30 @@
    {
     "country": "are",
     "clicks": 0,
-    "impressions": 4,
+    "impressions": 2,
     "ctr": 0,
-    "position": 83.5
+    "position": 85
    },
    {
     "country": "arg",
     "clicks": 0,
-    "impressions": 8,
+    "impressions": 2,
     "ctr": 0,
-    "position": 49.6
+    "position": 55
    },
    {
     "country": "aus",
     "clicks": 0,
     "impressions": 8,
     "ctr": 0,
-    "position": 58.2
-   },
-   {
-    "country": "aut",
-    "clicks": 0,
-    "impressions": 2,
-    "ctr": 0,
-    "position": 51.5
+    "position": 58.6
    },
    {
     "country": "bgd",
     "clicks": 0,
-    "impressions": 10,
+    "impressions": 7,
     "ctr": 0,
-    "position": 53.9
+    "position": 53.4
    },
    {
     "country": "blr",
@@ -3505,72 +2035,51 @@
    {
     "country": "bra",
     "clicks": 0,
-    "impressions": 59,
+    "impressions": 28,
     "ctr": 0,
-    "position": 55.2
+    "position": 50.6
    },
    {
     "country": "can",
     "clicks": 0,
-    "impressions": 9,
+    "impressions": 6,
     "ctr": 0,
-    "position": 51.3
-   },
-   {
-    "country": "che",
-    "clicks": 0,
-    "impressions": 3,
-    "ctr": 0,
-    "position": 75.3
+    "position": 69
    },
    {
     "country": "chl",
     "clicks": 0,
-    "impressions": 5,
+    "impressions": 3,
     "ctr": 0,
-    "position": 28.4
+    "position": 27
    },
    {
     "country": "col",
     "clicks": 0,
-    "impressions": 3,
-    "ctr": 0,
-    "position": 68.3
-   },
-   {
-    "country": "cze",
-    "clicks": 0,
     "impressions": 2,
     "ctr": 0,
-    "position": 83
+    "position": 73.5
    },
    {
     "country": "deu",
     "clicks": 0,
-    "impressions": 19,
+    "impressions": 14,
     "ctr": 0,
-    "position": 66.7
+    "position": 64.1
    },
    {
     "country": "dnk",
     "clicks": 0,
-    "impressions": 4,
-    "ctr": 0,
-    "position": 60.5
-   },
-   {
-    "country": "dom",
-    "clicks": 0,
     "impressions": 1,
     "ctr": 0,
-    "position": 10
+    "position": 6
    },
    {
     "country": "esp",
     "clicks": 0,
-    "impressions": 6,
+    "impressions": 3,
     "ctr": 0,
-    "position": 41
+    "position": 29.7
    },
    {
     "country": "fin",
@@ -3582,51 +2091,37 @@
    {
     "country": "fra",
     "clicks": 0,
-    "impressions": 11,
+    "impressions": 6,
     "ctr": 0,
-    "position": 68.3
+    "position": 67.3
    },
    {
     "country": "gbr",
     "clicks": 0,
-    "impressions": 24,
+    "impressions": 13,
     "ctr": 0,
-    "position": 71.5
+    "position": 71.2
    },
    {
     "country": "grc",
     "clicks": 0,
-    "impressions": 5,
+    "impressions": 4,
     "ctr": 0,
-    "position": 10.4
-   },
-   {
-    "country": "gtm",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 82
+    "position": 11
    },
    {
     "country": "hkg",
     "clicks": 0,
-    "impressions": 5,
+    "impressions": 4,
     "ctr": 0,
-    "position": 19.6
-   },
-   {
-    "country": "hun",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 50
+    "position": 13.8
    },
    {
     "country": "idn",
     "clicks": 0,
-    "impressions": 2,
+    "impressions": 1,
     "ctr": 0,
-    "position": 41
+    "position": 36
    },
    {
     "country": "irn",
@@ -3636,25 +2131,11 @@
     "position": 1
    },
    {
-    "country": "isr",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 66
-   },
-   {
     "country": "ita",
     "clicks": 0,
-    "impressions": 8,
+    "impressions": 3,
     "ctr": 0,
-    "position": 49.4
-   },
-   {
-    "country": "jpn",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 74
+    "position": 36.3
    },
    {
     "country": "ken",
@@ -3680,9 +2161,9 @@
    {
     "country": "lbn",
     "clicks": 0,
-    "impressions": 2,
+    "impressions": 1,
     "ctr": 0,
-    "position": 44
+    "position": 32
    },
    {
     "country": "lka",
@@ -3690,20 +2171,6 @@
     "impressions": 1,
     "ctr": 0,
     "position": 7
-   },
-   {
-    "country": "lux",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 10
-   },
-   {
-    "country": "mar",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 58
    },
    {
     "country": "mco",
@@ -3715,16 +2182,9 @@
    {
     "country": "mex",
     "clicks": 0,
-    "impressions": 7,
+    "impressions": 6,
     "ctr": 0,
-    "position": 46
-   },
-   {
-    "country": "mmr",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 11
+    "position": 44.8
    },
    {
     "country": "mus",
@@ -3741,53 +2201,32 @@
     "position": 43.5
    },
    {
-    "country": "nga",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 55
-   },
-   {
     "country": "nld",
     "clicks": 0,
-    "impressions": 5,
+    "impressions": 4,
     "ctr": 0,
-    "position": 45.6
+    "position": 41.8
    },
    {
     "country": "nor",
     "clicks": 0,
-    "impressions": 4,
-    "ctr": 0,
-    "position": 81
-   },
-   {
-    "country": "npl",
-    "clicks": 0,
     "impressions": 1,
     "ctr": 0,
-    "position": 56
+    "position": 90
    },
    {
     "country": "pak",
     "clicks": 0,
-    "impressions": 4,
-    "ctr": 0,
-    "position": 61.2
-   },
-   {
-    "country": "per",
-    "clicks": 0,
     "impressions": 3,
     "ctr": 0,
-    "position": 4
+    "position": 63.3
    },
    {
     "country": "pol",
     "clicks": 0,
-    "impressions": 2,
+    "impressions": 1,
     "ctr": 0,
-    "position": 50.5
+    "position": 11
    },
    {
     "country": "prt",
@@ -3806,23 +2245,16 @@
    {
     "country": "rou",
     "clicks": 0,
-    "impressions": 3,
+    "impressions": 1,
     "ctr": 0,
-    "position": 59.7
+    "position": 30
    },
    {
     "country": "rus",
     "clicks": 0,
-    "impressions": 17,
+    "impressions": 14,
     "ctr": 0,
-    "position": 55.4
-   },
-   {
-    "country": "sgp",
-    "clicks": 0,
-    "impressions": 4,
-    "ctr": 0,
-    "position": 75
+    "position": 57.1
    },
    {
     "country": "swe",
@@ -3830,20 +2262,6 @@
     "impressions": 1,
     "ctr": 0,
     "position": 67
-   },
-   {
-    "country": "tha",
-    "clicks": 0,
-    "impressions": 3,
-    "ctr": 0,
-    "position": 78.7
-   },
-   {
-    "country": "tto",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 55
    },
    {
     "country": "twn",
@@ -3855,16 +2273,16 @@
    {
     "country": "tza",
     "clicks": 0,
-    "impressions": 2,
+    "impressions": 1,
     "ctr": 0,
-    "position": 78.5
+    "position": 97
    },
    {
     "country": "uga",
     "clicks": 0,
-    "impressions": 3,
+    "impressions": 2,
     "ctr": 0,
-    "position": 44
+    "position": 18
    },
    {
     "country": "ukr",
@@ -3883,25 +2301,18 @@
    {
     "country": "vnm",
     "clicks": 0,
-    "impressions": 2,
+    "impressions": 1,
     "ctr": 0,
-    "position": 67.5
-   },
-   {
-    "country": "zaf",
-    "clicks": 0,
-    "impressions": 2,
-    "ctr": 0,
-    "position": 89.5
+    "position": 54
    }
   ],
   "devices": [
    {
     "device": "DESKTOP",
     "clicks": 6,
-    "impressions": 468,
-    "ctr": 0.0128,
-    "position": 46.1
+    "impressions": 289,
+    "ctr": 0.0208,
+    "position": 39.1
    },
    {
     "device": "TABLET",
@@ -3913,35 +2324,19 @@
    {
     "device": "MOBILE",
     "clicks": 0,
-    "impressions": 25,
+    "impressions": 17,
     "ctr": 0,
-    "position": 36.5
+    "position": 28.8
    }
   ],
   "query_pages": [
    {
-    "query": "adaptive reuse architecture examples",
-    "page": "https://findgreatarchitecture.com/ideas/adaptive-reuse/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 84
-   },
-   {
-    "query": "adaptive reuse buildings examples",
-    "page": "https://findgreatarchitecture.com/ideas/adaptive-reuse/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 90
-   },
-   {
     "query": "adaptive reuse examples",
     "page": "https://findgreatarchitecture.com/ideas/adaptive-reuse/",
     "clicks": 0,
-    "impressions": 2,
+    "impressions": 1,
     "ctr": 0,
-    "position": 94.5
+    "position": 96
    },
    {
     "query": "aldo rossi architect",
@@ -3950,22 +2345,6 @@
     "impressions": 1,
     "ctr": 0,
     "position": 55
-   },
-   {
-    "query": "aomori art museum",
-    "page": "https://findgreatarchitecture.com/buildings/aomori-museum-of-art/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 93
-   },
-   {
-    "query": "appleby blue",
-    "page": "https://findgreatarchitecture.com/buildings/appleby-blue-almshouse/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 100
    },
    {
     "query": "architecture building website",
@@ -4000,14 +2379,6 @@
     "position": 77
    },
    {
-    "query": "architecture museum berlin",
-    "page": "https://findgreatarchitecture.com/buildings/museum-for-architectural-drawing/",
-    "clicks": 0,
-    "impressions": 2,
-    "ctr": 0,
-    "position": 79.5
-   },
-   {
     "query": "architecture site",
     "page": "https://findgreatarchitecture.com/",
     "clicks": 0,
@@ -4016,60 +2387,12 @@
     "position": 69.5
    },
    {
-    "query": "architekt olympiastadion berlin",
-    "page": "https://findgreatarchitecture.com/buildings/olympiastadion-berlin/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 74
-   },
-   {
-    "query": "archive galata",
-    "page": "https://findgreatarchitecture.com/buildings/salt-galata/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 55
-   },
-   {
-    "query": "arulappa hall",
-    "page": "https://findgreatarchitecture.com/buildings/lappia-hall/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 54
-   },
-   {
-    "query": "avenue library manchester",
-    "page": "https://findgreatarchitecture.com/buildings/manchester-central-library/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 96
-   },
-   {
-    "query": "barcelona pavilion",
-    "page": "https://findgreatarchitecture.com/buildings/barcelona-pavilion/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 74
-   },
-   {
     "query": "beauvoisin place de clichy",
     "page": "https://findgreatarchitecture.com/buildings/maison-du-peuple-clichy/",
     "clicks": 0,
-    "impressions": 8,
+    "impressions": 6,
     "ctr": 0,
-    "position": 76
-   },
-   {
-    "query": "behnisch architects",
-    "page": "https://findgreatarchitecture.com/architects/behnisch-architekten/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 73
+    "position": 78
    },
    {
     "query": "bengali gate design",
@@ -4080,68 +2403,12 @@
     "position": 74
    },
    {
-    "query": "beyeler foundation renzo piano",
-    "page": "https://findgreatarchitecture.com/buildings/fondation-beyeler/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 62
-   },
-   {
-    "query": "big architect",
-    "page": "https://findgreatarchitecture.com/architects/big/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 11
-   },
-   {
-    "query": "big architects",
-    "page": "https://findgreatarchitecture.com/architects/big/",
-    "clicks": 0,
-    "impressions": 5,
-    "ctr": 0,
-    "position": 71.4
-   },
-   {
-    "query": "big architects 8 house",
-    "page": "https://findgreatarchitecture.com/buildings/8-house/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 66
-   },
-   {
-    "query": "big architecture",
-    "page": "https://findgreatarchitecture.com/architects/big/",
-    "clicks": 0,
-    "impressions": 2,
-    "ctr": 0,
-    "position": 60.5
-   },
-   {
     "query": "big bjarke ingels",
     "page": "https://findgreatarchitecture.com/architects/big/",
     "clicks": 0,
     "impressions": 1,
     "ctr": 0,
     "position": 72
-   },
-   {
-    "query": "bilek villa prague",
-    "page": "https://findgreatarchitecture.com/buildings/villa-bilek-prague/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 94
-   },
-   {
-    "query": "billings memorial library designer",
-    "page": "https://findgreatarchitecture.com/buildings/billings-memorial-library/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 77
    },
    {
     "query": "bracken house photos",
@@ -4152,76 +2419,12 @@
     "position": 48
    },
    {
-    "query": "braga stadium",
-    "page": "https://findgreatarchitecture.com/buildings/braga-municipal-stadium/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 85
-   },
-   {
-    "query": "brion cemetery",
-    "page": "https://findgreatarchitecture.com/buildings/brion-cemetery/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 88
-   },
-   {
-    "query": "broadway homes display",
-    "page": "https://findgreatarchitecture.com/buildings/broadway-mansions-shanghai/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 52
-   },
-   {
     "query": "bruno taut",
     "page": "https://findgreatarchitecture.com/architects/bruno-taut/",
     "clicks": 0,
     "impressions": 1,
     "ctr": 0,
     "position": 85
-   },
-   {
-    "query": "busan cinema center structure pdf",
-    "page": "https://findgreatarchitecture.com/buildings/busan-cinema-center/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 47
-   },
-   {
-    "query": "can lis",
-    "page": "https://findgreatarchitecture.com/buildings/can-lis/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 98
-   },
-   {
-    "query": "carlo scarpa brion cemetery",
-    "page": "https://findgreatarchitecture.com/buildings/brion-cemetery/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 83
-   },
-   {
-    "query": "carlo scarpa eserleri",
-    "page": "https://findgreatarchitecture.com/architects/carlo-scarpa/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 57
-   },
-   {
-    "query": "casa barragan",
-    "page": "https://findgreatarchitecture.com/buildings/casa-luis-barragan/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 84
    },
    {
     "query": "casa farnsworth",
@@ -4235,7 +2438,7 @@
     "query": "casa gaspar alberto campo baeza",
     "page": "https://findgreatarchitecture.com/buildings/casa-gaspar/",
     "clicks": 0,
-    "impressions": 4,
+    "impressions": 3,
     "ctr": 0,
     "position": 8
    },
@@ -4246,14 +2449,6 @@
     "impressions": 1,
     "ctr": 0,
     "position": 59
-   },
-   {
-    "query": "cemetery igualada",
-    "page": "https://findgreatarchitecture.com/buildings/igualada-cemetery/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 54
    },
    {
     "query": "cocoon building",
@@ -4288,36 +2483,12 @@
     "position": 99
    },
    {
-    "query": "conjunto nacional archdaily",
-    "page": "https://findgreatarchitecture.com/buildings/conjunto-nacional/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 39
-   },
-   {
     "query": "corbusier cabanon",
     "page": "https://findgreatarchitecture.com/buildings/cabanon-de-le-corbusier/",
     "clicks": 0,
     "impressions": 1,
     "ctr": 0,
     "position": 90
-   },
-   {
-    "query": "corwin hall",
-    "page": "https://findgreatarchitecture.com/buildings/central-hall-university-of-york/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 82
-   },
-   {
-    "query": "courtauld house",
-    "page": "https://findgreatarchitecture.com/buildings/eltham-palace-courtauld-house/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 99
    },
    {
     "query": "curtain wall house",
@@ -4344,14 +2515,6 @@
     "position": 69
    },
    {
-    "query": "eames house",
-    "page": "https://findgreatarchitecture.com/buildings/eames-house/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 81
-   },
-   {
     "query": "etablissements duval photos",
     "page": "https://findgreatarchitecture.com/buildings/usine-claude-et-duval/",
     "clicks": 0,
@@ -4360,36 +2523,12 @@
     "position": 69
    },
    {
-    "query": "felix candela",
-    "page": "https://findgreatarchitecture.com/architects/felix-candela/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 85
-   },
-   {
-    "query": "frank lloyd wright ennis house",
-    "page": "https://findgreatarchitecture.com/buildings/ennis-house/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 92
-   },
-   {
-    "query": "frank lloyd wright greek orthodox church",
-    "page": "https://findgreatarchitecture.com/buildings/annunciation-greek-orthodox-church/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 67
-   },
-   {
     "query": "frank lloyd wright home and studio",
     "page": "https://findgreatarchitecture.com/buildings/frank-lloyd-wright-home-and-studio/",
     "clicks": 0,
-    "impressions": 2,
+    "impressions": 1,
     "ctr": 0,
-    "position": 65
+    "position": 93
    },
    {
     "query": "gakuen cocoon tower",
@@ -4408,28 +2547,12 @@
     "position": 98
    },
    {
-    "query": "glenn murcutt kempsey house",
-    "page": "https://findgreatarchitecture.com/buildings/marie-short-house/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 84
-   },
-   {
     "query": "great building design",
     "page": "https://findgreatarchitecture.com/",
     "clicks": 0,
-    "impressions": 2,
+    "impressions": 3,
     "ctr": 0,
-    "position": 78
-   },
-   {
-    "query": "hammer lassen architects",
-    "page": "https://findgreatarchitecture.com/architects/schmidt-hammer-lassen/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 72
+    "position": 81
    },
    {
     "query": "heliotrop freiburg",
@@ -4440,44 +2563,12 @@
     "position": 68
    },
    {
-    "query": "helmut jahn",
-    "page": "https://findgreatarchitecture.com/architects/helmut-jahn/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 96
-   },
-   {
-    "query": "helmut jahn buildings",
-    "page": "https://findgreatarchitecture.com/architects/helmut-jahn/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 97
-   },
-   {
     "query": "herzog de meuron tate modern",
     "page": "https://findgreatarchitecture.com/buildings/tate-modern/",
     "clicks": 0,
     "impressions": 1,
     "ctr": 0,
     "position": 77
-   },
-   {
-    "query": "house in white kazuo shinohara",
-    "page": "https://findgreatarchitecture.com/buildings/house-in-white/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 10
-   },
-   {
-    "query": "house na by sou fujimoto",
-    "page": "https://findgreatarchitecture.com/buildings/house-na/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 83
    },
    {
     "query": "house with chimaeras",
@@ -4488,52 +2579,12 @@
     "position": 67
    },
    {
-    "query": "i m pei dallas city hall",
-    "page": "https://findgreatarchitecture.com/buildings/dallas-city-hall/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 73
-   },
-   {
-    "query": "justice architects",
-    "page": "https://findgreatarchitecture.com/buildings/city-of-justice-barcelona/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 82
-   },
-   {
     "query": "lars spuybroek",
     "page": "https://findgreatarchitecture.com/styles/parametric/",
     "clicks": 0,
     "impressions": 1,
     "ctr": 0,
     "position": 4
-   },
-   {
-    "query": "laurie short house",
-    "page": "https://findgreatarchitecture.com/buildings/marie-short-house/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 60
-   },
-   {
-    "query": "library potsdamer platz",
-    "page": "https://findgreatarchitecture.com/buildings/berlin-state-library-haus-potsdamer-strae/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 89
-   },
-   {
-    "query": "lipstick building in nyc",
-    "page": "https://findgreatarchitecture.com/buildings/lipstick-building/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 80
    },
    {
     "query": "london aquatics centre zaha hadid",
@@ -4560,14 +2611,6 @@
     "position": 96
    },
    {
-    "query": "louis sullivan",
-    "page": "https://findgreatarchitecture.com/architects/louis-sullivan/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 75
-   },
-   {
     "query": "louver pyramid",
     "page": "https://findgreatarchitecture.com/buildings/louvre-pyramid/",
     "clicks": 0,
@@ -4576,68 +2619,12 @@
     "position": 85.7
    },
    {
-    "query": "lucio costa 3150",
-    "page": "https://findgreatarchitecture.com/architects/lucio-costa/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 46
-   },
-   {
-    "query": "maison laroche",
-    "page": "https://findgreatarchitecture.com/buildings/maison-la-roche/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 98
-   },
-   {
-    "query": "marina bay sands hotel floor plan",
-    "page": "https://findgreatarchitecture.com/buildings/marina-bay-sands/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 50
-   },
-   {
-    "query": "marina city",
-    "page": "https://findgreatarchitecture.com/buildings/marina-city/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 81
-   },
-   {
-    "query": "markterasse",
-    "page": "https://findgreatarchitecture.com/buildings/gromarkthalle/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 55
-   },
-   {
     "query": "mecanoo",
     "page": "https://findgreatarchitecture.com/architects/mecanoo/",
     "clicks": 0,
     "impressions": 1,
     "ctr": 0,
     "position": 64
-   },
-   {
-    "query": "memorial luiz carlos prestes porto alegre",
-    "page": "https://findgreatarchitecture.com/buildings/memorial-luiz-carlos-prestes/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 97
-   },
-   {
-    "query": "menara tabung haji",
-    "page": "https://findgreatarchitecture.com/buildings/menara-tabung-haji/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 11
    },
    {
     "query": "menara umno",
@@ -4651,17 +2638,9 @@
     "query": "mesa lab boulder",
     "page": "https://findgreatarchitecture.com/buildings/mesa-laboratory-ncar/",
     "clicks": 0,
-    "impressions": 4,
+    "impressions": 3,
     "ctr": 0,
-    "position": 84.5
-   },
-   {
-    "query": "mies van der rohe house plan",
-    "page": "https://findgreatarchitecture.com/buildings/farnsworth-house/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 35
+    "position": 83.7
    },
    {
     "query": "mode gakuen cocoon tower",
@@ -4670,14 +2649,6 @@
     "impressions": 1,
     "ctr": 0,
     "position": 94
-   },
-   {
-    "query": "montparnasse tower",
-    "page": "https://findgreatarchitecture.com/buildings/tour-montparnasse/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 72
    },
    {
     "query": "moretti luigi",
@@ -4696,20 +2667,12 @@
     "position": 98
    },
    {
-    "query": "national museum of modern and contemporary art",
-    "page": "https://findgreatarchitecture.com/buildings/mmca-seoul/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 77
-   },
-   {
     "query": "parametric architecture projects",
     "page": "https://findgreatarchitecture.com/styles/parametric/",
     "clicks": 0,
-    "impressions": 2,
+    "impressions": 1,
     "ctr": 0,
-    "position": 88.5
+    "position": 90
    },
    {
     "query": "penguin pool london zoo",
@@ -4723,41 +2686,17 @@
     "query": "perth arena retractable roof",
     "page": "https://findgreatarchitecture.com/buildings/perth-arena/",
     "clicks": 0,
-    "impressions": 4,
+    "impressions": 2,
     "ctr": 0,
-    "position": 77.8
+    "position": 76
    },
    {
     "query": "peter eisenman",
     "page": "https://findgreatarchitecture.com/architects/peter-eisenman/",
     "clicks": 0,
-    "impressions": 2,
-    "ctr": 0,
-    "position": 79.5
-   },
-   {
-    "query": "peter eisenman architecture",
-    "page": "https://findgreatarchitecture.com/architects/peter-eisenman/",
-    "clicks": 0,
-    "impressions": 4,
-    "ctr": 0,
-    "position": 61
-   },
-   {
-    "query": "peter eisenman young",
-    "page": "https://findgreatarchitecture.com/architects/peter-eisenman/",
-    "clicks": 0,
     "impressions": 1,
     "ctr": 0,
-    "position": 57
-   },
-   {
-    "query": "philip johnson glass house",
-    "page": "https://findgreatarchitecture.com/buildings/glass-house/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 97
+    "position": 82
    },
    {
     "query": "philip johnson glass house new canaan",
@@ -4766,22 +2705,6 @@
     "impressions": 1,
     "ctr": 0,
     "position": 83
-   },
-   {
-    "query": "philip johnson manhattan",
-    "page": "https://findgreatarchitecture.com/buildings/rockefeller-guest-house/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 90
-   },
-   {
-    "query": "portland building portland",
-    "page": "https://findgreatarchitecture.com/buildings/portland-building/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 98
    },
    {
     "query": "queens elizabeth ii courts of law",
@@ -4795,9 +2718,9 @@
     "query": "raj rewal - asian games village design",
     "page": "https://findgreatarchitecture.com/buildings/asian-games-village/",
     "clicks": 0,
-    "impressions": 3,
+    "impressions": 2,
     "ctr": 0,
-    "position": 53
+    "position": 53.5
    },
    {
     "query": "reima pietil\u00e4",
@@ -4806,22 +2729,6 @@
     "impressions": 1,
     "ctr": 0,
     "position": 109
-   },
-   {
-    "query": "renzo piano oslo",
-    "page": "https://findgreatarchitecture.com/buildings/astrup-fearnley-museum/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 80
-   },
-   {
-    "query": "richard rogers architect",
-    "page": "https://findgreatarchitecture.com/architects/richard-rogers/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 94
    },
    {
     "query": "rod robbie bridge toronto",
@@ -4856,100 +2763,12 @@
     "position": 97
    },
    {
-    "query": "sendai mediatheque japan",
-    "page": "https://findgreatarchitecture.com/buildings/sendai-mediatheque/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 73
-   },
-   {
-    "query": "shigeru ban paper house",
-    "page": "https://findgreatarchitecture.com/buildings/paper-house/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 77
-   },
-   {
-    "query": "sigurd lewerentz",
-    "page": "https://findgreatarchitecture.com/architects/sigurd-lewerentz/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 82
-   },
-   {
     "query": "site:instagram.com vessel structure",
     "page": "https://findgreatarchitecture.com/buildings/vessel-structure/",
     "clicks": 0,
     "impressions": 1,
     "ctr": 0,
     "position": 1
-   },
-   {
-    "query": "snohetta",
-    "page": "https://findgreatarchitecture.com/architects/snohetta/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 61
-   },
-   {
-    "query": "sunny hills subdivision",
-    "page": "https://findgreatarchitecture.com/buildings/sunnyhills-minami-aoyama/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 39
-   },
-   {
-    "query": "sverre fehn",
-    "page": "https://findgreatarchitecture.com/architects/sverre-fehn/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 76
-   },
-   {
-    "query": "temple street parking garage",
-    "page": "https://findgreatarchitecture.com/buildings/temple-street-parking-garage/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 81
-   },
-   {
-    "query": "the barbican estate",
-    "page": "https://findgreatarchitecture.com/buildings/barbican-estate/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 96
-   },
-   {
-    "query": "the economist st james",
-    "page": "https://findgreatarchitecture.com/buildings/economist-building/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 80
-   },
-   {
-    "query": "the portland building",
-    "page": "https://findgreatarchitecture.com/buildings/portland-building/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 51
-   },
-   {
-    "query": "tomba brion",
-    "page": "https://findgreatarchitecture.com/buildings/brion-cemetery/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 67
    },
    {
     "query": "tour maine montparnasse",
@@ -4974,22 +2793,6 @@
     "impressions": 2,
     "ctr": 0,
     "position": 6.5
-   },
-   {
-    "query": "villa la roche",
-    "page": "https://findgreatarchitecture.com/buildings/maison-la-roche/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 90
-   },
-   {
-    "query": "villa mairea aalto",
-    "page": "https://findgreatarchitecture.com/buildings/villa-mairea/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 78
    },
    {
     "query": "villa stiassni brno",
@@ -5032,20 +2835,12 @@
     "position": 68
    },
    {
-    "query": "who built marina bay sands",
-    "page": "https://findgreatarchitecture.com/buildings/marina-bay-sands/",
+    "query": "well known architecture",
+    "page": "https://findgreatarchitecture.com/",
     "clicks": 0,
     "impressions": 1,
     "ctr": 0,
-    "position": 93
-   },
-   {
-    "query": "woha singapore",
-    "page": "https://findgreatarchitecture.com/architects/woha/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 80
+    "position": 55
    },
    {
     "query": "zaha hadid tower milan",
@@ -5060,9 +2855,9 @@
  "image": {
   "total": {
    "clicks": 0,
-   "impressions": 7,
+   "impressions": 6,
    "ctr": 0,
-   "position": 12.9
+   "position": 11.7
   },
   "queries": [
    {
@@ -5110,13 +2905,6 @@
     "position": 12
    },
    {
-    "page": "https://findgreatarchitecture.com/buildings/malba/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 20
-   },
-   {
     "page": "https://findgreatarchitecture.com/buildings/palau-guell/",
     "clicks": 0,
     "impressions": 1,
@@ -5147,13 +2935,6 @@
     "position": 16
    },
    {
-    "country": "esp",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 20
-   },
-   {
     "country": "gbr",
     "clicks": 0,
     "impressions": 2,
@@ -5179,9 +2960,9 @@
    {
     "device": "DESKTOP",
     "clicks": 0,
-    "impressions": 7,
+    "impressions": 6,
     "ctr": 0,
-    "position": 12.9
+    "position": 11.7
    }
   ],
   "query_pages": [
