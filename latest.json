@@ -1,13 +1,13 @@
 {
- "fetched_at": "2026-11-22T06:26:43+00:00",
+ "fetched_at": "2026-11-22T19:26:54+00:00",
  "site": "akshatpagaria.goatcounter.com",
  "window_days": 30,
- "visits_30d": 4806,
+ "visits_30d": 4871,
  "sections": {
   "pages": {
    "hits": [
     {
-     "count": 939,
+     "count": 973,
      "path_id": 112020267,
      "path": "/",
      "event": false,
@@ -168,18 +168,18 @@
     },
     {
      "count": 18,
-     "path_id": 112020274,
-     "path": "/play",
-     "event": false,
-     "title": "Daily five \u00b7 Guess the building? \u00b7 Find Great Architecture",
-     "max": 2
-    },
-    {
-     "count": 17,
      "path_id": 118234266,
      "path": "/guides/a1-presentation-board",
      "event": false,
      "title": "How to Make an A1 Architecture Presentation Board (Guide)",
+     "max": 2
+    },
+    {
+     "count": 18,
+     "path_id": 112020274,
+     "path": "/play",
+     "event": false,
+     "title": "Daily five \u00b7 Guess the building? \u00b7 Find Great Architecture",
      "max": 2
     },
     {
@@ -256,6 +256,14 @@
     },
     {
      "count": 10,
+     "path_id": 117204370,
+     "path": "/buildings/copan-building",
+     "event": false,
+     "title": "Copan Building by Oscar Niemeyer: photos & plans",
+     "max": 1
+    },
+    {
+     "count": 10,
      "path_id": 116837715,
      "path": "studio/click/home/open-details",
      "event": true,
@@ -272,19 +280,19 @@
     },
     {
      "count": 9,
+     "path_id": 120824340,
+     "path": "/studio/guides/architecture-presentation-board-templates",
+     "event": false,
+     "title": "Architecture Presentation Board Templates, Explained",
+     "max": 1
+    },
+    {
+     "count": 9,
      "path_id": 118824824,
      "path": "studio/preview",
      "event": true,
      "title": "Studio: free preview",
      "max": 2
-    },
-    {
-     "count": 9,
-     "path_id": 117204370,
-     "path": "/buildings/copan-building",
-     "event": false,
-     "title": "Copan Building by Oscar Niemeyer: photos & plans",
-     "max": 1
     },
     {
      "count": 9,
@@ -295,12 +303,12 @@
      "max": 1
     },
     {
-     "count": 8,
-     "path_id": 120824340,
-     "path": "/studio/guides/architecture-presentation-board-templates",
+     "count": 9,
+     "path_id": 113751701,
+     "path": "/styles/postmodernism",
      "event": false,
-     "title": "Architecture Presentation Board Templates, Explained",
-     "max": 1
+     "title": "Postmodern architecture: 150 buildings with photos & plans",
+     "max": 2
     },
     {
      "count": 8,
@@ -317,14 +325,6 @@
      "event": false,
      "title": "Adaptive reuse architecture examples: 194 buildings & photos",
      "max": 1
-    },
-    {
-     "count": 8,
-     "path_id": 113751701,
-     "path": "/styles/postmodernism",
-     "event": false,
-     "title": "Postmodern architecture: 150 buildings with photos & plans",
-     "max": 2
     },
     {
      "count": 7,
@@ -552,6 +552,14 @@
     },
     {
      "count": 3,
+     "path_id": 124510330,
+     "path": "/buildings/church-of-the-light",
+     "event": false,
+     "title": "Church of the Light by Tadao Ando: photos & plans",
+     "max": 2
+    },
+    {
+     "count": 3,
      "path_id": 124168970,
      "path": "/buildings/nelum-pokuna-mahinda-rajapaksa-theatre",
      "event": false,
@@ -628,6 +636,14 @@
      "path": "/buildings/djamaa-el-djazair",
      "event": false,
      "title": "Djamaa el Djaza\u00efr by KSP J\u00fcrgen Engel Architekten: photos",
+     "max": 1
+    },
+    {
+     "count": 3,
+     "path_id": 119119844,
+     "path": "/cities/paris",
+     "event": false,
+     "title": "Paris architecture: 60 buildings with photos & plans",
      "max": 1
     },
     {
@@ -728,6 +744,38 @@
     },
     {
      "count": 2,
+     "path_id": 125083246,
+     "path": "/buildings/mercedes-benz-arena-shanghai",
+     "event": false,
+     "title": "Mercedes-Benz Arena (Expo Culture Center) by ECADI: photos",
+     "max": 2
+    },
+    {
+     "count": 2,
+     "path_id": 124990110,
+     "path": "/buildings/blenheim-palace",
+     "event": false,
+     "title": "Blenheim Palace by John Vanbrugh: photos & key features",
+     "max": 2
+    },
+    {
+     "count": 2,
+     "path_id": 124989913,
+     "path": "/buildings/pantheon",
+     "event": false,
+     "title": "Pantheon by Hadrian, 125: photos, plans & key features",
+     "max": 2
+    },
+    {
+     "count": 2,
+     "path_id": 124989842,
+     "path": "/buildings/saint-benedict-chapel",
+     "event": false,
+     "title": "Saint Benedict Chapel by Peter Zumthor: photos & plans",
+     "max": 2
+    },
+    {
+     "count": 2,
      "path_id": 124912989,
      "path": "/buildings/shanghai-museum",
      "event": false,
@@ -757,70 +805,22 @@
      "event": false,
      "title": "Towada Art Center by Ryue Nishizawa: photos & key features",
      "max": 2
-    },
-    {
-     "count": 2,
-     "path_id": 124692297,
-     "path": "/buildings/ympyratalo",
-     "event": false,
-     "title": "Ympyr\u00e4talo by Heikki, 1968: photos & key features",
-     "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 124510330,
-     "path": "/buildings/church-of-the-light",
-     "event": false,
-     "title": "Church of the Light by Tadao Ando: photos & plans",
-     "max": 2
-    },
-    {
-     "count": 2,
-     "path_id": 124359017,
-     "path": "/buildings/yokosuka-museum-of-art",
-     "event": false,
-     "title": "Yokosuka Museum of Art by Riken Yamamoto: photos & plans",
-     "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 124357440,
-     "path": "/buildings/copenhill",
-     "event": false,
-     "title": "CopenHill by BIG, 2019: photos, plans & key features",
-     "max": 2
-    },
-    {
-     "count": 2,
-     "path_id": 124251271,
-     "path": "studio/click/home/studentBoard",
-     "event": true,
-     "title": "Studio \u00b7 click \u00b7 home \u00b7 studentBoard",
-     "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 124077367,
-     "path": "/buildings/india-habitat-centre",
-     "event": false,
-     "title": "India Habitat Centre by Joseph Allen Stein: photos",
-     "max": 1
     }
    ],
-   "total": 2227,
+   "total": 2267,
    "more": true
   },
   "referrers": {
    "stats": [
     {
      "name": "",
-     "count": 2126,
+     "count": 2185,
      "ref_scheme": "o"
     },
     {
      "id": "chatgpt.com",
      "name": "chatgpt.com",
-     "count": 251,
+     "count": 253,
      "ref_scheme": "c"
     },
     {
@@ -838,7 +838,7 @@
     {
      "id": "www.bing.com",
      "name": "www.bing.com",
-     "count": 62,
+     "count": 64,
      "ref_scheme": "h"
     },
     {
@@ -872,6 +872,12 @@
      "ref_scheme": "h"
     },
     {
+     "id": "duckduckgo.com",
+     "name": "duckduckgo.com",
+     "count": 7,
+     "ref_scheme": "h"
+    },
+    {
      "id": "ig",
      "name": "ig",
      "count": 7,
@@ -882,12 +888,6 @@
      "name": "Yahoo",
      "count": 6,
      "ref_scheme": "g"
-    },
-    {
-     "id": "duckduckgo.com",
-     "name": "duckduckgo.com",
-     "count": 6,
-     "ref_scheme": "h"
     },
     {
      "id": "l.instagram.com",
@@ -992,6 +992,12 @@
      "ref_scheme": "h"
     },
     {
+     "id": "Yandex",
+     "name": "Yandex",
+     "count": 1,
+     "ref_scheme": "g"
+    },
+    {
      "id": "notebook.google.com",
      "name": "notebook.google.com",
      "count": 1,
@@ -1053,12 +1059,12 @@
     {
      "id": "Chrome",
      "name": "Chrome",
-     "count": 2676
+     "count": 2738
     },
     {
      "id": "Safari",
      "name": "Safari",
-     "count": 515
+     "count": 517
     },
     {
      "id": "Firefox",
@@ -1067,7 +1073,7 @@
     },
     {
      "name": "",
-     "count": 1
+     "count": 2
     }
    ],
    "more": false
@@ -1077,7 +1083,7 @@
     {
      "id": "Windows",
      "name": "Windows",
-     "count": 2071
+     "count": 2133
     },
     {
      "id": "Android",
@@ -1087,7 +1093,7 @@
     {
      "id": "iOS",
      "name": "iOS",
-     "count": 382
+     "count": 384
     },
     {
      "id": "macOS",
@@ -1103,6 +1109,10 @@
      "id": "Chrome OS",
      "name": "Chrome OS",
      "count": 2
+    },
+    {
+     "name": "",
+     "count": 1
     }
    ],
    "more": false
@@ -1112,7 +1122,7 @@
     {
      "id": "US",
      "name": "United States",
-     "count": 828
+     "count": 850
     },
     {
      "id": "IN",
@@ -1122,22 +1132,27 @@
     {
      "id": "AR",
      "name": "Argentina",
-     "count": 131
+     "count": 132
     },
     {
      "id": "BR",
      "name": "Brazil",
-     "count": 123
+     "count": 125
     },
     {
      "id": "TR",
      "name": "Turkey",
-     "count": 107
+     "count": 110
     },
     {
      "id": "SG",
      "name": "Singapore",
-     "count": 87
+     "count": 94
+    },
+    {
+     "id": "CO",
+     "name": "Colombia",
+     "count": 81
     },
     {
      "id": "DE",
@@ -1145,14 +1160,9 @@
      "count": 80
     },
     {
-     "id": "CO",
-     "name": "Colombia",
-     "count": 77
-    },
-    {
      "id": "VN",
      "name": "Vietnam",
-     "count": 68
+     "count": 73
     },
     {
      "id": "EG",
@@ -1172,7 +1182,7 @@
     {
      "id": "EC",
      "name": "Ecuador",
-     "count": 50
+     "count": 51
     },
     {
      "id": "FR",
@@ -1182,17 +1192,17 @@
     {
      "id": "GB",
      "name": "United Kingdom",
-     "count": 40
+     "count": 42
     },
     {
      "id": "ID",
      "name": "Indonesia",
-     "count": 36
+     "count": 38
     },
     {
      "id": "KR",
      "name": "South Korea",
-     "count": 36
+     "count": 37
     },
     {
      "id": "KZ",
@@ -1205,6 +1215,11 @@
      "count": 33
     },
     {
+     "id": "VE",
+     "name": "Venezuela",
+     "count": 33
+    },
+    {
      "id": "CH",
      "name": "Switzerland",
      "count": 32
@@ -1212,16 +1227,11 @@
     {
      "id": "IT",
      "name": "Italy",
-     "count": 31
+     "count": 32
     },
     {
      "id": "PH",
      "name": "Philippines",
-     "count": 30
-    },
-    {
-     "id": "VE",
-     "name": "Venezuela",
      "count": 30
     },
     {
@@ -1247,17 +1257,22 @@
     {
      "id": "DZ",
      "name": "Algeria",
-     "count": 24
+     "count": 25
     },
     {
      "id": "BD",
      "name": "Bangladesh",
-     "count": 23
+     "count": 24
     },
     {
      "id": "MY",
      "name": "Malaysia",
      "count": 20
+    },
+    {
+     "id": "JP",
+     "name": "Japan",
+     "count": 18
     },
     {
      "id": "BE",
@@ -1270,8 +1285,8 @@
      "count": 16
     },
     {
-     "id": "JP",
-     "name": "Japan",
+     "id": "NL",
+     "name": "Netherlands",
      "count": 16
     },
     {
@@ -1282,11 +1297,6 @@
     {
      "id": "IQ",
      "name": "Iraq",
-     "count": 14
-    },
-    {
-     "id": "NL",
-     "name": "Netherlands",
      "count": 14
     },
     {
@@ -1310,14 +1320,14 @@
      "count": 10
     },
     {
-     "id": "HK",
-     "name": "Hong Kong",
+     "id": "DO",
+     "name": "Dominican Republic",
      "count": 10
     },
     {
-     "id": "DO",
-     "name": "Dominican Republic",
-     "count": 9
+     "id": "HK",
+     "name": "Hong Kong",
+     "count": 10
     },
     {
      "id": "LY",
@@ -1350,6 +1360,11 @@
      "count": 7
     },
     {
+     "id": "TW",
+     "name": "Taiwan",
+     "count": 7
+    },
+    {
      "id": "PE",
      "name": "Peru",
      "count": 6
@@ -1357,11 +1372,6 @@
     {
      "id": "SA",
      "name": "Saudi Arabia",
-     "count": 6
-    },
-    {
-     "id": "TW",
-     "name": "Taiwan",
      "count": 6
     },
     {
@@ -1445,8 +1455,18 @@
      "count": 3
     },
     {
+     "id": "MK",
+     "name": "North Macedonia",
+     "count": 3
+    },
+    {
      "id": "NI",
      "name": "Nicaragua",
+     "count": 3
+    },
+    {
+     "id": "RU",
+     "name": "Russia",
      "count": 3
     },
     {
@@ -1475,11 +1495,6 @@
      "count": 2
     },
     {
-     "id": "MK",
-     "name": "North Macedonia",
-     "count": 2
-    },
-    {
      "id": "ML",
      "name": "Mali",
      "count": 2
@@ -1502,11 +1517,6 @@
     {
      "id": "RS",
      "name": "Serbia",
-     "count": 2
-    },
-    {
-     "id": "RU",
-     "name": "Russia",
      "count": 2
     },
     {
@@ -1600,13 +1610,13 @@
      "count": 1
     },
     {
-     "id": "PT",
-     "name": "Portugal",
+     "id": "PA",
+     "name": "Panama",
      "count": 1
     },
     {
-     "id": "SK",
-     "name": "Slovakia",
+     "id": "PT",
+     "name": "Portugal",
      "count": 1
     }
    ],
@@ -1617,7 +1627,7 @@
     {
      "id": "phone",
      "name": "",
-     "count": 722
+     "count": 724
     },
     {
      "id": "tablet",
@@ -1627,12 +1637,12 @@
     {
      "id": "desktop",
      "name": "",
-     "count": 2301
+     "count": 2363
     },
     {
      "id": "desktophd",
      "name": "",
-     "count": 70
+     "count": 71
     },
     {
      "id": "unknown",
@@ -1647,7 +1657,7 @@
     {
      "id": "(unknown)",
      "name": "(unknown)",
-     "count": 3240
+     "count": 3305
     }
    ],
    "more": false
