@@ -1,13 +1,13 @@
 {
- "fetched_at": "2026-11-23T07:17:11+00:00",
+ "fetched_at": "2026-11-23T23:46:19+00:00",
  "site": "akshatpagaria.goatcounter.com",
  "window_days": 30,
- "visits_30d": 4962,
+ "visits_30d": 5040,
  "sections": {
   "pages": {
    "hits": [
     {
-     "count": 987,
+     "count": 1000,
      "path_id": 112020267,
      "path": "/",
      "event": false,
@@ -15,7 +15,7 @@
      "max": 29
     },
     {
-     "count": 155,
+     "count": 159,
      "path_id": 113691164,
      "path": "/studio",
      "event": false,
@@ -23,7 +23,7 @@
      "max": 3
     },
     {
-     "count": 137,
+     "count": 140,
      "path_id": 116720890,
      "path": "studio/screen/home",
      "event": true,
@@ -31,7 +31,7 @@
      "max": 3
     },
     {
-     "count": 61,
+     "count": 65,
      "path_id": 120621079,
      "path": "studio/flow/paywall",
      "event": true,
@@ -39,7 +39,7 @@
      "max": 3
     },
     {
-     "count": 54,
+     "count": 55,
      "path_id": 116802573,
      "path": "studio/scroll/25",
      "event": true,
@@ -47,7 +47,7 @@
      "max": 2
     },
     {
-     "count": 45,
+     "count": 46,
      "path_id": 116837291,
      "path": "studio/scroll/50",
      "event": true,
@@ -55,7 +55,7 @@
      "max": 2
     },
     {
-     "count": 42,
+     "count": 43,
      "path_id": 116802640,
      "path": "studio/screen/upload",
      "event": true,
@@ -71,7 +71,7 @@
      "max": 2
     },
     {
-     "count": 35,
+     "count": 36,
      "path_id": 116802650,
      "path": "studio/click/upload/toQ",
      "event": true,
@@ -79,7 +79,7 @@
      "max": 3
     },
     {
-     "count": 33,
+     "count": 34,
      "path_id": 117976633,
      "path": "studio/screen/q",
      "event": true,
@@ -87,7 +87,7 @@
      "max": 3
     },
     {
-     "count": 31,
+     "count": 32,
      "path_id": 117976651,
      "path": "studio/click/q/pick",
      "event": true,
@@ -95,7 +95,7 @@
      "max": 3
     },
     {
-     "count": 29,
+     "count": 30,
      "path_id": 117976689,
      "path": "studio/click/q/qnext",
      "event": true,
@@ -111,7 +111,7 @@
      "max": 2
     },
     {
-     "count": 26,
+     "count": 27,
      "path_id": 117976646,
      "path": "studio/typed/q",
      "event": true,
@@ -119,7 +119,7 @@
      "max": 3
     },
     {
-     "count": 24,
+     "count": 25,
      "path_id": 119289179,
      "path": "studio/click/home/hpick",
      "event": true,
@@ -135,7 +135,7 @@
      "max": 2
     },
     {
-     "count": 22,
+     "count": 23,
      "path_id": 119289191,
      "path": "studio/files/home",
      "event": true,
@@ -151,7 +151,7 @@
      "max": 2
     },
     {
-     "count": 20,
+     "count": 21,
      "path_id": 118826722,
      "path": "studio/screen/price",
      "event": true,
@@ -199,11 +199,19 @@
      "max": 1
     },
     {
-     "count": 13,
+     "count": 14,
      "path_id": 117212605,
      "path": "studio/click/home/sec",
      "event": true,
      "title": "Studio \u00b7 click \u00b7 home \u00b7 sec",
+     "max": 1
+    },
+    {
+     "count": 12,
+     "path_id": 121452455,
+     "path": "studio/making/jury",
+     "event": true,
+     "title": "Studio: making jury",
      "max": 1
     },
     {
@@ -215,15 +223,7 @@
      "max": 1
     },
     {
-     "count": 11,
-     "path_id": 121452455,
-     "path": "studio/making/jury",
-     "event": true,
-     "title": "Studio: making jury",
-     "max": 1
-    },
-    {
-     "count": 11,
+     "count": 12,
      "path_id": 117583511,
      "path": "/styles/high-tech",
      "event": false,
@@ -239,11 +239,27 @@
      "max": 1
     },
     {
+     "count": 11,
+     "path_id": 113703681,
+     "path": "/styles/brutalism",
+     "event": false,
+     "title": "Brutalist architecture: 249 buildings with photos & plans",
+     "max": 1
+    },
+    {
      "count": 10,
      "path_id": 121730585,
      "path": "studio/readcard/questions",
      "event": true,
      "title": "Studio: title block asked",
+     "max": 1
+    },
+    {
+     "count": 10,
+     "path_id": 120824340,
+     "path": "/studio/guides/architecture-presentation-board-templates",
+     "event": false,
+     "title": "Architecture Presentation Board Templates, Explained",
      "max": 1
     },
     {
@@ -268,22 +284,6 @@
      "path": "studio/click/home/open-details",
      "event": true,
      "title": "Studio \u00b7 click \u00b7 home \u00b7 open-details",
-     "max": 1
-    },
-    {
-     "count": 10,
-     "path_id": 113703681,
-     "path": "/styles/brutalism",
-     "event": false,
-     "title": "Brutalist architecture: 249 buildings with photos & plans",
-     "max": 1
-    },
-    {
-     "count": 9,
-     "path_id": 120824340,
-     "path": "/studio/guides/architecture-presentation-board-templates",
-     "event": false,
-     "title": "Architecture Presentation Board Templates, Explained",
      "max": 1
     },
     {
@@ -328,6 +328,14 @@
     },
     {
      "count": 8,
+     "path_id": 117976873,
+     "path": "studio/click/upload/addBrief",
+     "event": true,
+     "title": "Studio \u00b7 click \u00b7 upload \u00b7 addBrief",
+     "max": 1
+    },
+    {
+     "count": 8,
      "path_id": 114317607,
      "path": "/ideas/adaptive-reuse",
      "event": false,
@@ -360,11 +368,11 @@
     },
     {
      "count": 7,
-     "path_id": 117976873,
-     "path": "studio/click/upload/addBrief",
-     "event": true,
-     "title": "Studio \u00b7 click \u00b7 upload \u00b7 addBrief",
-     "max": 1
+     "path_id": 115515870,
+     "path": "/styles/parametric",
+     "event": false,
+     "title": "Parametric architecture: 52 buildings with photos & plans",
+     "max": 2
     },
     {
      "count": 6,
@@ -384,14 +392,6 @@
     },
     {
      "count": 6,
-     "path_id": 115515870,
-     "path": "/styles/parametric",
-     "event": false,
-     "title": "Parametric architecture: 52 buildings with photos & plans",
-     "max": 2
-    },
-    {
-     "count": 6,
      "path_id": 113996447,
      "path": "studio/signup",
      "event": true,
@@ -405,6 +405,14 @@
      "event": false,
      "title": "Heritance Kandalama by Geoffrey Bawa: photos & key features",
      "max": 2
+    },
+    {
+     "count": 5,
+     "path_id": 122267896,
+     "path": "building/versohnungskirche-ulm",
+     "event": true,
+     "title": "Vers\u00f6hnungskirche (Ulm)",
+     "max": 1
     },
     {
      "count": 5,
@@ -472,10 +480,18 @@
     },
     {
      "count": 4,
-     "path_id": 122267896,
-     "path": "building/versohnungskirche-ulm",
-     "event": true,
-     "title": "Vers\u00f6hnungskirche (Ulm)",
+     "path_id": 124896028,
+     "path": "/buildings/wukang-mansion",
+     "event": false,
+     "title": "Wukang Mansion by L\u00e1szl\u00f3 Hudec, 1924: photos & key features",
+     "max": 2
+    },
+    {
+     "count": 4,
+     "path_id": 124168970,
+     "path": "/buildings/nelum-pokuna-mahinda-rajapaksa-theatre",
+     "event": false,
+     "title": "Nelum Pokuna Mahinda Rajapaksa Theatre by Kahawita De Silva",
      "max": 1
     },
     {
@@ -500,6 +516,14 @@
      "path": "studio/click/price/pay",
      "event": true,
      "title": "Studio \u00b7 click \u00b7 price \u00b7 pay",
+     "max": 1
+    },
+    {
+     "count": 4,
+     "path_id": 121452674,
+     "path": "studio/click/price/tier",
+     "event": true,
+     "title": "Studio \u00b7 click \u00b7 price \u00b7 tier",
      "max": 1
     },
     {
@@ -584,14 +608,6 @@
     },
     {
      "count": 3,
-     "path_id": 124168970,
-     "path": "/buildings/nelum-pokuna-mahinda-rajapaksa-theatre",
-     "event": false,
-     "title": "Nelum Pokuna Mahinda Rajapaksa Theatre by Kahawita De Silva",
-     "max": 1
-    },
-    {
-     "count": 3,
      "path_id": 124077367,
      "path": "/buildings/india-habitat-centre",
      "event": false,
@@ -608,18 +624,26 @@
     },
     {
      "count": 3,
-     "path_id": 121593407,
-     "path": "studio/making/review",
+     "path_id": 121837949,
+     "path": "studio/click/q/rcYes",
      "event": true,
-     "title": "Studio: making review",
+     "title": "Studio \u00b7 click \u00b7 q \u00b7 rcYes",
      "max": 1
     },
     {
      "count": 3,
-     "path_id": 121452674,
-     "path": "studio/click/price/tier",
+     "path_id": 121837676,
+     "path": "studio/readcard/card",
      "event": true,
-     "title": "Studio \u00b7 click \u00b7 price \u00b7 tier",
+     "title": "Studio: title block read from the sheets",
+     "max": 1
+    },
+    {
+     "count": 3,
+     "path_id": 121593407,
+     "path": "studio/making/review",
+     "event": true,
+     "title": "Studio: making review",
      "max": 1
     },
     {
@@ -720,6 +744,14 @@
     },
     {
      "count": 3,
+     "path_id": 113942033,
+     "path": "/pricing",
+     "event": false,
+     "title": "FGA Studio pricing \u00b7 Find Great Architecture",
+     "max": 2
+    },
+    {
+     "count": 3,
      "path_id": 113362426,
      "path": "/buildings/castello-di-rivoli",
      "event": false,
@@ -732,6 +764,22 @@
      "path": "/buildings/reichstag",
      "event": false,
      "title": "Reichstag \u2014 Norman Foster, 1999: photos, plans & sections for a case study \u00b7 Find Great Architecture",
+     "max": 2
+    },
+    {
+     "count": 2,
+     "path_id": 125454543,
+     "path": "/buildings/pagoda-of-fogong-temple",
+     "event": false,
+     "title": "Pagoda of Fogong Temple (Yingxian Wooden Pagoda): photos",
+     "max": 2
+    },
+    {
+     "count": 2,
+     "path_id": 125408779,
+     "path": "/buildings/sydney-opera-house",
+     "event": false,
+     "title": "Sydney Opera House by J\u00f8rn Utzon: photos & plans",
      "max": 2
     },
     {
@@ -752,75 +800,27 @@
     },
     {
      "count": 2,
-     "path_id": 125083246,
-     "path": "/buildings/mercedes-benz-arena-shanghai",
-     "event": false,
-     "title": "Mercedes-Benz Arena (Expo Culture Center) by ECADI: photos",
-     "max": 2
-    },
-    {
-     "count": 2,
-     "path_id": 124990110,
-     "path": "/buildings/blenheim-palace",
-     "event": false,
-     "title": "Blenheim Palace by John Vanbrugh: photos & key features",
-     "max": 2
-    },
-    {
-     "count": 2,
-     "path_id": 124989913,
-     "path": "/buildings/pantheon",
-     "event": false,
-     "title": "Pantheon by Hadrian, 125: photos, plans & key features",
-     "max": 2
-    },
-    {
-     "count": 2,
-     "path_id": 124989842,
-     "path": "/buildings/saint-benedict-chapel",
-     "event": false,
-     "title": "Saint Benedict Chapel by Peter Zumthor: photos & plans",
-     "max": 2
-    },
-    {
-     "count": 2,
-     "path_id": 124912989,
-     "path": "/buildings/shanghai-museum",
-     "event": false,
-     "title": "Shanghai Museum by Xing Tonghe: photos, plans & key features",
-     "max": 2
-    },
-    {
-     "count": 2,
-     "path_id": 124896028,
-     "path": "/buildings/wukang-mansion",
-     "event": false,
-     "title": "Wukang Mansion by L\u00e1szl\u00f3 Hudec, 1924: photos & key features",
-     "max": 2
-    },
-    {
-     "count": 2,
-     "path_id": 124803507,
-     "path": "/buildings/independence-palace",
-     "event": false,
-     "title": "Independence Palace by Ngo Viet Thu: photos & key features",
-     "max": 2
+     "path_id": 125307296,
+     "path": "studio/click/q/cmode",
+     "event": true,
+     "title": "Studio \u00b7 click \u00b7 q \u00b7 cmode",
+     "max": 1
     }
    ],
-   "total": 2297,
+   "total": 2347,
    "more": true
   },
   "referrers": {
    "stats": [
     {
      "name": "",
-     "count": 2216,
+     "count": 2257,
      "ref_scheme": "o"
     },
     {
      "id": "chatgpt.com",
      "name": "chatgpt.com",
-     "count": 246,
+     "count": 252,
      "ref_scheme": "c"
     },
     {
@@ -832,13 +832,13 @@
     {
      "id": "Google",
      "name": "Google",
-     "count": 103,
+     "count": 105,
      "ref_scheme": "g"
     },
     {
      "id": "www.bing.com",
      "name": "www.bing.com",
-     "count": 66,
+     "count": 70,
      "ref_scheme": "h"
     },
     {
@@ -860,16 +860,22 @@
      "ref_scheme": "c"
     },
     {
+     "id": "duckduckgo.com",
+     "name": "duckduckgo.com",
+     "count": 9,
+     "ref_scheme": "h"
+    },
+    {
      "id": "www.facebook.com",
      "name": "www.facebook.com",
      "count": 9,
      "ref_scheme": "h"
     },
     {
-     "id": "duckduckgo.com",
-     "name": "duckduckgo.com",
-     "count": 8,
-     "ref_scheme": "h"
+     "id": "Yahoo",
+     "name": "Yahoo",
+     "count": 7,
+     "ref_scheme": "g"
     },
     {
      "id": "bing.com",
@@ -884,12 +890,6 @@
      "ref_scheme": "c"
     },
     {
-     "id": "Yahoo",
-     "name": "Yahoo",
-     "count": 6,
-     "ref_scheme": "g"
-    },
-    {
      "id": "l.instagram.com",
      "name": "l.instagram.com",
      "count": 6,
@@ -898,7 +898,7 @@
     {
      "id": "www.perplexity.ai",
      "name": "www.perplexity.ai",
-     "count": 5,
+     "count": 6,
      "ref_scheme": "h"
     },
     {
@@ -1059,12 +1059,12 @@
     {
      "id": "Chrome",
      "name": "Chrome",
-     "count": 2758
+     "count": 2826
     },
     {
      "id": "Safari",
      "name": "Safari",
-     "count": 482
+     "count": 492
     },
     {
      "id": "Firefox",
@@ -1083,27 +1083,27 @@
     {
      "id": "Windows",
      "name": "Windows",
-     "count": 2191
+     "count": 2249
     },
     {
      "id": "Android",
      "name": "Android",
-     "count": 371
+     "count": 377
     },
     {
      "id": "iOS",
      "name": "iOS",
-     "count": 358
+     "count": 367
     },
     {
      "id": "macOS",
      "name": "macOS",
-     "count": 270
+     "count": 272
     },
     {
      "id": "Linux",
      "name": "Linux",
-     "count": 96
+     "count": 99
     },
     {
      "id": "Chrome OS",
@@ -1122,12 +1122,12 @@
     {
      "id": "US",
      "name": "United States",
-     "count": 878
+     "count": 895
     },
     {
      "id": "IN",
      "name": "India",
-     "count": 624
+     "count": 625
     },
     {
      "id": "AR",
@@ -1137,32 +1137,32 @@
     {
      "id": "BR",
      "name": "Brazil",
-     "count": 131
+     "count": 133
     },
     {
      "id": "TR",
      "name": "Turkey",
-     "count": 108
+     "count": 109
     },
     {
      "id": "SG",
      "name": "Singapore",
-     "count": 97
+     "count": 102
     },
     {
      "id": "CO",
      "name": "Colombia",
-     "count": 87
+     "count": 90
     },
     {
      "id": "VN",
      "name": "Vietnam",
-     "count": 77
+     "count": 78
     },
     {
      "id": "DE",
      "name": "Germany",
-     "count": 76
+     "count": 77
     },
     {
      "id": "EG",
@@ -1170,14 +1170,14 @@
      "count": 57
     },
     {
-     "id": "PK",
-     "name": "Pakistan",
+     "id": "EC",
+     "name": "Ecuador",
      "count": 55
     },
     {
-     "id": "EC",
-     "name": "Ecuador",
-     "count": 53
+     "id": "PK",
+     "name": "Pakistan",
+     "count": 55
     },
     {
      "id": "TN",
@@ -1192,16 +1192,21 @@
     {
      "id": "GB",
      "name": "United Kingdom",
-     "count": 41
+     "count": 44
     },
     {
      "id": "ID",
      "name": "Indonesia",
-     "count": 39
+     "count": 40
     },
     {
      "id": "MX",
      "name": "Mexico",
+     "count": 35
+    },
+    {
+     "id": "VE",
+     "name": "Venezuela",
      "count": 34
     },
     {
@@ -1220,24 +1225,19 @@
      "count": 33
     },
     {
-     "id": "VE",
-     "name": "Venezuela",
-     "count": 33
+     "id": "IT",
+     "name": "Italy",
+     "count": 32
+    },
+    {
+     "id": "CA",
+     "name": "Canada",
+     "count": 31
     },
     {
      "id": "CH",
      "name": "Switzerland",
      "count": 31
-    },
-    {
-     "id": "IT",
-     "name": "Italy",
-     "count": 31
-    },
-    {
-     "id": "CA",
-     "name": "Canada",
-     "count": 30
     },
     {
      "id": "PH",
@@ -1265,24 +1265,29 @@
      "count": 23
     },
     {
-     "id": "JP",
-     "name": "Japan",
-     "count": 17
-    },
-    {
-     "id": "MY",
-     "name": "Malaysia",
-     "count": 17
-    },
-    {
-     "id": "ES",
-     "name": "Spain",
-     "count": 16
+     "id": "UZ",
+     "name": "Uzbekistan",
+     "count": 23
     },
     {
      "id": "NL",
      "name": "Netherlands",
-     "count": 15
+     "count": 21
+    },
+    {
+     "id": "MY",
+     "name": "Malaysia",
+     "count": 18
+    },
+    {
+     "id": "ES",
+     "name": "Spain",
+     "count": 17
+    },
+    {
+     "id": "JP",
+     "name": "Japan",
+     "count": 17
     },
     {
      "id": "SC",
@@ -1312,7 +1317,7 @@
     {
      "id": "NZ",
      "name": "New Zealand",
-     "count": 11
+     "count": 12
     },
     {
      "id": "AE",
@@ -1345,6 +1350,16 @@
      "count": 7
     },
     {
+     "id": "KH",
+     "name": "Cambodia",
+     "count": 7
+    },
+    {
+     "id": "SA",
+     "name": "Saudi Arabia",
+     "count": 7
+    },
+    {
      "id": "AL",
      "name": "Albania",
      "count": 6
@@ -1360,8 +1375,8 @@
      "count": 6
     },
     {
-     "id": "SA",
-     "name": "Saudi Arabia",
+     "id": "NI",
+     "name": "Nicaragua",
      "count": 6
     },
     {
@@ -1377,11 +1392,6 @@
     {
      "id": "KG",
      "name": "Kyrgyzstan",
-     "count": 5
-    },
-    {
-     "id": "KH",
-     "name": "Cambodia",
      "count": 5
     },
     {
@@ -1430,11 +1440,6 @@
      "count": 4
     },
     {
-     "id": "UZ",
-     "name": "Uzbekistan",
-     "count": 4
-    },
-    {
      "id": "AD",
      "name": "Andorra",
      "count": 3
@@ -1450,11 +1455,6 @@
      "count": 3
     },
     {
-     "id": "NI",
-     "name": "Nicaragua",
-     "count": 3
-    },
-    {
      "id": "SE",
      "name": "Sweden",
      "count": 3
@@ -1462,6 +1462,11 @@
     {
      "id": "BO",
      "name": "Bolivia",
+     "count": 2
+    },
+    {
+     "id": "GR",
+     "name": "Greece",
      "count": 2
     },
     {
@@ -1482,6 +1487,11 @@
     {
      "id": "MM",
      "name": "Myanmar",
+     "count": 2
+    },
+    {
+     "id": "NO",
+     "name": "Norway",
      "count": 2
     },
     {
@@ -1565,11 +1575,6 @@
      "count": 1
     },
     {
-     "id": "GR",
-     "name": "Greece",
-     "count": 1
-    },
-    {
      "id": "JM",
      "name": "Jamaica",
      "count": 1
@@ -1595,11 +1600,6 @@
      "count": 1
     },
     {
-     "id": "NO",
-     "name": "Norway",
-     "count": 1
-    },
-    {
      "id": "PA",
      "name": "Panama",
      "count": 1
@@ -1610,34 +1610,34 @@
      "count": 1
     },
     {
-     "id": "SK",
-     "name": "Slovakia",
+     "id": "QA",
+     "name": "Qatar",
      "count": 1
     },
     {
-     "id": "UY",
-     "name": "Uruguay",
+     "id": "SK",
+     "name": "Slovakia",
      "count": 1
     }
    ],
-   "more": false
+   "more": true
   },
   "sizes": {
    "stats": [
     {
      "id": "phone",
      "name": "",
-     "count": 679
+     "count": 694
     },
     {
      "id": "tablet",
      "name": "",
-     "count": 144
+     "count": 145
     },
     {
      "id": "desktop",
      "name": "",
-     "count": 2396
+     "count": 2458
     },
     {
      "id": "desktophd",
@@ -1657,7 +1657,7 @@
     {
      "id": "(unknown)",
      "name": "(unknown)",
-     "count": 3289
+     "count": 3367
     }
    ],
    "more": false
