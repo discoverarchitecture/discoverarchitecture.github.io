@@ -48,6 +48,8 @@ Practical guides for architecture students, written by an architect (CEPT Univer
 - [Fonts and colours for architecture presentation boards: a simple system that reads](https://findgreatarchitecture.com/studio/guides/architecture-presentation-fonts-and-colours/): Choose fonts and colours for an architecture board: one sans-serif family, four text sizes, two weights, a palette from your materials, one accent colour, and a print test.
 - [How to make an architecture portfolio for a master's or a job](https://findgreatarchitecture.com/studio/guides/how-to-make-an-architecture-portfolio/): What goes in an architecture portfolio, in what order, how many projects and pages, layout, PDF size, the short work sample, and the mistakes to avoid.
 - [How to develop an architecture concept, from brief to form](https://findgreatarchitecture.com/studio/guides/how-to-develop-an-architecture-concept/): How to find one strong architecture concept in the brief, site and programme, test it in sketches and models, and carry it through to the jury.
+- [How to write an architecture project statement (with examples)](https://findgreatarchitecture.com/studio/guides/how-to-write-an-architecture-project-statement/): What an architecture project statement must say, a five-sentence structure, what to cut, a before and after, and board, portfolio and competition versions.
+- [Architectural scales explained: 1:500 to 1:5, and 1/8" = 1'-0"](https://findgreatarchitecture.com/studio/guides/architectural-scales-explained/): What 1:500, 1:100, 1:50 and 1:5 are for, their US equivalents such as 1/4" = 1'-0", how to read a scale ruler, and how to print a drawing to scale.
 
 ## Browse buildings
 
