@@ -17,8 +17,8 @@ uses it straight away. Spread across states and kinds of college. Mark each row 
 | NIT Calicut, Department of Architecture | Kozhikode | department or library | 2026-11-19 (head of department) |
 | NIT Tiruchirappalli, Department of Architecture | Tiruchirappalli | department or library | 2026-11-20 (head of department, from the department page on nitt.edu) |
 | Chandigarh College of Architecture | Chandigarh | library | no verified address found 2026-11-20; try again later |
-| Faculty of Architecture, Dr. A.P.J. Abdul Kalam Technical University | Lucknow | library | |
-| Rachana Sansad Academy of Architecture | Mumbai | library | |
+| Faculty of Architecture, Dr. A.P.J. Abdul Kalam Technical University | Lucknow | library | 2026-11-24 (Dean and Principal, from foaaktu.ac.in; no library address published) |
+| Rachana Sansad Academy of Architecture | Mumbai | library | 2026-11-24 (principal, from aoamumbai.in; no library address published) |
 | Kamla Raheja Vidyanidhi Institute for Architecture | Mumbai | library | 2026-11-20 (institute office, from krvia.ac.in and its RTI page; no library address published) |
 | Faculty of Technology and Engineering (Architecture), M.S. University of Baroda | Vadodara | department | |
 | Sushant School of Art and Architecture | Gurugram | library | |
