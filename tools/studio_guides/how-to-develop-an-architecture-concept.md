@@ -5,7 +5,7 @@ seo_title: How to Develop an Architecture Concept: Brief to Form
 description: How to find one strong architecture concept in the brief, site and programme, test it in sketches and models, and carry it through to the jury.
 kicker: Drawings
 published: 2026-11-17
-related: architecture-concept-diagram-ideas, how-to-present-site-analysis, what-architecture-jurors-look-for, architecture-jury-presentation-tips
+related: architecture-concept-diagram-ideas, how-to-present-site-analysis, what-architecture-jurors-look-for, architecture-jury-presentation-tips, how-to-write-an-architecture-project-statement
 ---
 An architecture concept is the one idea that decides how your building answers its brief and its site, and you should be able to say it in a single sentence. You develop it by reading the brief, the site and the programme until you find the problem that matters most, choosing one clear response to it, and testing that response quickly in sketches and rough models. A concept is working when it starts making decisions for you, in the plan, the section and even the details. At the jury you say the sentence first, then show where the idea appears in every drawing.
 
