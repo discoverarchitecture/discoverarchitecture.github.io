@@ -1,13 +1,13 @@
 {
- "fetched_at": "2026-11-23T23:46:19+00:00",
+ "fetched_at": "2026-11-24T09:39:49+00:00",
  "site": "akshatpagaria.goatcounter.com",
  "window_days": 30,
- "visits_30d": 5040,
+ "visits_30d": 5070,
  "sections": {
   "pages": {
    "hits": [
     {
-     "count": 1000,
+     "count": 991,
      "path_id": 112020267,
      "path": "/",
      "event": false,
@@ -15,7 +15,7 @@
      "max": 29
     },
     {
-     "count": 159,
+     "count": 156,
      "path_id": 113691164,
      "path": "/studio",
      "event": false,
@@ -23,7 +23,7 @@
      "max": 3
     },
     {
-     "count": 140,
+     "count": 141,
      "path_id": 116720890,
      "path": "studio/screen/home",
      "event": true,
@@ -31,7 +31,7 @@
      "max": 3
     },
     {
-     "count": 65,
+     "count": 66,
      "path_id": 120621079,
      "path": "studio/flow/paywall",
      "event": true,
@@ -119,19 +119,11 @@
      "max": 3
     },
     {
-     "count": 25,
+     "count": 26,
      "path_id": 119289179,
      "path": "studio/click/home/hpick",
      "event": true,
      "title": "Studio \u00b7 click \u00b7 home \u00b7 hpick",
-     "max": 2
-    },
-    {
-     "count": 24,
-     "path_id": 113298212,
-     "path": "map/open",
-     "event": true,
-     "title": "Map opened",
      "max": 2
     },
     {
@@ -151,6 +143,14 @@
      "max": 2
     },
     {
+     "count": 22,
+     "path_id": 113298212,
+     "path": "map/open",
+     "event": true,
+     "title": "Map opened",
+     "max": 2
+    },
+    {
      "count": 21,
      "path_id": 118826722,
      "path": "studio/screen/price",
@@ -159,15 +159,7 @@
      "max": 1
     },
     {
-     "count": 19,
-     "path_id": 116802639,
-     "path": "studio/click/home/start",
-     "event": true,
-     "title": "Studio \u00b7 click \u00b7 home \u00b7 start",
-     "max": 1
-    },
-    {
-     "count": 18,
+     "count": 20,
      "path_id": 118234266,
      "path": "/guides/a1-presentation-board",
      "event": false,
@@ -175,12 +167,12 @@
      "max": 2
     },
     {
-     "count": 18,
-     "path_id": 112020274,
-     "path": "/play",
-     "event": false,
-     "title": "Daily five \u00b7 Guess the building? \u00b7 Find Great Architecture",
-     "max": 2
+     "count": 19,
+     "path_id": 116802639,
+     "path": "studio/click/home/start",
+     "event": true,
+     "title": "Studio \u00b7 click \u00b7 home \u00b7 start",
+     "max": 1
     },
     {
      "count": 17,
@@ -197,6 +189,14 @@
      "event": true,
      "title": "Studio \u00b7 click \u00b7 upload \u00b7 add",
      "max": 1
+    },
+    {
+     "count": 17,
+     "path_id": 112020274,
+     "path": "/play",
+     "event": false,
+     "title": "Daily five \u00b7 Guess the building? \u00b7 Find Great Architecture",
+     "max": 2
     },
     {
      "count": 14,
@@ -311,14 +311,6 @@
      "max": 1
     },
     {
-     "count": 9,
-     "path_id": 113751701,
-     "path": "/styles/postmodernism",
-     "event": false,
-     "title": "Postmodern architecture: 150 buildings with photos & plans",
-     "max": 2
-    },
-    {
      "count": 8,
      "path_id": 121730660,
      "path": "studio/click/q/chip",
@@ -332,14 +324,6 @@
      "path": "studio/click/upload/addBrief",
      "event": true,
      "title": "Studio \u00b7 click \u00b7 upload \u00b7 addBrief",
-     "max": 1
-    },
-    {
-     "count": 8,
-     "path_id": 114317607,
-     "path": "/ideas/adaptive-reuse",
-     "event": false,
-     "title": "Adaptive reuse architecture examples: 194 buildings & photos",
      "max": 1
     },
     {
@@ -375,6 +359,14 @@
      "max": 2
     },
     {
+     "count": 7,
+     "path_id": 113751701,
+     "path": "/styles/postmodernism",
+     "event": false,
+     "title": "Postmodern architecture: 150 buildings with photos & plans",
+     "max": 2
+    },
+    {
      "count": 6,
      "path_id": 121135577,
      "path": "/studio/guides/architecture-concept-diagram-ideas",
@@ -392,10 +384,10 @@
     },
     {
      "count": 6,
-     "path_id": 113996447,
-     "path": "studio/signup",
-     "event": true,
-     "title": "FGA Studio waitlist sign-up",
+     "path_id": 114317607,
+     "path": "/ideas/adaptive-reuse",
+     "event": false,
+     "title": "Adaptive reuse architecture examples: 194 buildings & photos",
      "max": 1
     },
     {
@@ -412,6 +404,22 @@
      "path": "building/versohnungskirche-ulm",
      "event": true,
      "title": "Vers\u00f6hnungskirche (Ulm)",
+     "max": 1
+    },
+    {
+     "count": 5,
+     "path_id": 121452711,
+     "path": "studio/checkout",
+     "event": true,
+     "title": "Studio: Pay pressed",
+     "max": 1
+    },
+    {
+     "count": 5,
+     "path_id": 121452684,
+     "path": "studio/click/price/pay",
+     "event": true,
+     "title": "Studio \u00b7 click \u00b7 price \u00b7 pay",
      "max": 1
     },
     {
@@ -479,6 +487,14 @@
      "max": 4
     },
     {
+     "count": 5,
+     "path_id": 113996447,
+     "path": "studio/signup",
+     "event": true,
+     "title": "FGA Studio waitlist sign-up",
+     "max": 1
+    },
+    {
      "count": 4,
      "path_id": 124896028,
      "path": "/buildings/wukang-mansion",
@@ -500,22 +516,6 @@
      "path": "studio/click/home/button",
      "event": true,
      "title": "Studio \u00b7 click \u00b7 home \u00b7 button",
-     "max": 1
-    },
-    {
-     "count": 4,
-     "path_id": 121452711,
-     "path": "studio/checkout",
-     "event": true,
-     "title": "Studio: Pay pressed",
-     "max": 1
-    },
-    {
-     "count": 4,
-     "path_id": 121452684,
-     "path": "studio/click/price/pay",
-     "event": true,
-     "title": "Studio \u00b7 click \u00b7 price \u00b7 pay",
      "max": 1
     },
     {
@@ -568,10 +568,10 @@
     },
     {
      "count": 4,
-     "path_id": 113996457,
-     "path": "studio/details",
-     "event": true,
-     "title": "FGA Studio waitlist: optional answers",
+     "path_id": 114386767,
+     "path": "/styles/modernism",
+     "event": false,
+     "title": "Modernist architecture: 934 buildings with photos & plans",
      "max": 1
     },
     {
@@ -597,6 +597,14 @@
      "event": false,
      "title": "All buildings A\u2013Z \u00b7 Find Great Architecture",
      "max": 3
+    },
+    {
+     "count": 3,
+     "path_id": 125308087,
+     "path": "studio/screen/making",
+     "event": true,
+     "title": "Studio \u00b7 screen \u00b7 making",
+     "max": 1
     },
     {
      "count": 3,
@@ -636,6 +644,14 @@
      "path": "studio/readcard/card",
      "event": true,
      "title": "Studio: title block read from the sheets",
+     "max": 1
+    },
+    {
+     "count": 3,
+     "path_id": 121744375,
+     "path": "studio/checkout/overlay-open",
+     "event": true,
+     "title": "Studio: checkout overlay opened",
      "max": 1
     },
     {
@@ -696,6 +712,14 @@
     },
     {
      "count": 3,
+     "path_id": 118018940,
+     "path": "/buildings/lloyds-building",
+     "event": false,
+     "title": "Lloyd's Building by Richard Rogers: photos & plans",
+     "max": 1
+    },
+    {
+     "count": 3,
      "path_id": 116370909,
      "path": "/types/libraries",
      "event": false,
@@ -728,18 +752,10 @@
     },
     {
      "count": 3,
-     "path_id": 114927406,
-     "path": "/buildings/federal-palace-of-switzerland",
-     "event": false,
-     "title": "Federal Palace of Switzerland by Hans Wilhelm Auer: photos",
-     "max": 1
-    },
-    {
-     "count": 3,
-     "path_id": 114386767,
-     "path": "/styles/modernism",
-     "event": false,
-     "title": "Modernist architecture: 934 buildings with photos & plans",
+     "path_id": 113996457,
+     "path": "studio/details",
+     "event": true,
+     "title": "FGA Studio waitlist: optional answers",
      "max": 1
     },
     {
@@ -757,14 +773,6 @@
      "event": false,
      "title": "Castello di Rivoli by Andrea Bruno: photos & key features",
      "max": 1
-    },
-    {
-     "count": 3,
-     "path_id": 112197919,
-     "path": "/buildings/reichstag",
-     "event": false,
-     "title": "Reichstag \u2014 Norman Foster, 1999: photos, plans & sections for a case study \u00b7 Find Great Architecture",
-     "max": 2
     },
     {
      "count": 2,
@@ -797,30 +805,22 @@
      "event": false,
      "title": "Wangjing SOHO by Zaha Hadid Architects: photos",
      "max": 2
-    },
-    {
-     "count": 2,
-     "path_id": 125307296,
-     "path": "studio/click/q/cmode",
-     "event": true,
-     "title": "Studio \u00b7 click \u00b7 q \u00b7 cmode",
-     "max": 1
     }
    ],
-   "total": 2347,
+   "total": 2335,
    "more": true
   },
   "referrers": {
    "stats": [
     {
      "name": "",
-     "count": 2257,
+     "count": 2250,
      "ref_scheme": "o"
     },
     {
      "id": "chatgpt.com",
      "name": "chatgpt.com",
-     "count": 252,
+     "count": 241,
      "ref_scheme": "c"
     },
     {
@@ -832,13 +832,13 @@
     {
      "id": "Google",
      "name": "Google",
-     "count": 105,
+     "count": 96,
      "ref_scheme": "g"
     },
     {
      "id": "www.bing.com",
      "name": "www.bing.com",
-     "count": 70,
+     "count": 72,
      "ref_scheme": "h"
     },
     {
@@ -862,7 +862,13 @@
     {
      "id": "duckduckgo.com",
      "name": "duckduckgo.com",
-     "count": 9,
+     "count": 10,
+     "ref_scheme": "h"
+    },
+    {
+     "id": "checkout.dodopayments.com",
+     "name": "checkout.dodopayments.com",
+     "count": 10,
      "ref_scheme": "h"
     },
     {
@@ -886,7 +892,7 @@
     {
      "id": "ig",
      "name": "ig",
-     "count": 7,
+     "count": 6,
      "ref_scheme": "c"
     },
     {
@@ -926,16 +932,16 @@
      "ref_scheme": "h"
     },
     {
-     "id": "checkout.dodopayments.com",
-     "name": "checkout.dodopayments.com",
-     "count": 4,
-     "ref_scheme": "h"
-    },
-    {
      "id": "gads",
      "name": "gads",
      "count": 3,
      "ref_scheme": "c"
+    },
+    {
+     "id": "www.qwant.com",
+     "name": "www.qwant.com",
+     "count": 3,
+     "ref_scheme": "h"
     },
     {
      "id": "wall-bar",
@@ -948,12 +954,6 @@
      "name": "YouTube",
      "count": 2,
      "ref_scheme": "c"
-    },
-    {
-     "id": "www.qwant.com",
-     "name": "www.qwant.com",
-     "count": 2,
-     "ref_scheme": "h"
     },
     {
      "id": "chatgpt.com",
@@ -982,12 +982,6 @@
     {
      "id": "t.co",
      "name": "t.co",
-     "count": 1,
-     "ref_scheme": "h"
-    },
-    {
-     "id": "gemini.google.com",
-     "name": "gemini.google.com",
      "count": 1,
      "ref_scheme": "h"
     },
@@ -1059,12 +1053,12 @@
     {
      "id": "Chrome",
      "name": "Chrome",
-     "count": 2826
+     "count": 2832
     },
     {
      "id": "Safari",
      "name": "Safari",
-     "count": 492
+     "count": 468
     },
     {
      "id": "Firefox",
@@ -1083,7 +1077,7 @@
     {
      "id": "Windows",
      "name": "Windows",
-     "count": 2249
+     "count": 2263
     },
     {
      "id": "Android",
@@ -1093,17 +1087,17 @@
     {
      "id": "iOS",
      "name": "iOS",
-     "count": 367
+     "count": 347
     },
     {
      "id": "macOS",
      "name": "macOS",
-     "count": 272
+     "count": 263
     },
     {
      "id": "Linux",
      "name": "Linux",
-     "count": 99
+     "count": 96
     },
     {
      "id": "Chrome OS",
@@ -1122,12 +1116,12 @@
     {
      "id": "US",
      "name": "United States",
-     "count": 895
+     "count": 889
     },
     {
      "id": "IN",
      "name": "India",
-     "count": 625
+     "count": 618
     },
     {
      "id": "AR",
@@ -1147,7 +1141,7 @@
     {
      "id": "SG",
      "name": "Singapore",
-     "count": 102
+     "count": 104
     },
     {
      "id": "CO",
@@ -1157,17 +1151,17 @@
     {
      "id": "VN",
      "name": "Vietnam",
-     "count": 78
+     "count": 79
     },
     {
      "id": "DE",
      "name": "Germany",
-     "count": 77
+     "count": 72
     },
     {
      "id": "EG",
      "name": "Egypt",
-     "count": 57
+     "count": 64
     },
     {
      "id": "EC",
@@ -1205,29 +1199,14 @@
      "count": 35
     },
     {
+     "id": "UZ",
+     "name": "Uzbekistan",
+     "count": 35
+    },
+    {
      "id": "VE",
      "name": "Venezuela",
      "count": 34
-    },
-    {
-     "id": "IR",
-     "name": "Iran",
-     "count": 33
-    },
-    {
-     "id": "KR",
-     "name": "South Korea",
-     "count": 33
-    },
-    {
-     "id": "KZ",
-     "name": "Kazakhstan",
-     "count": 33
-    },
-    {
-     "id": "IT",
-     "name": "Italy",
-     "count": 32
     },
     {
      "id": "CA",
@@ -1240,6 +1219,21 @@
      "count": 31
     },
     {
+     "id": "IR",
+     "name": "Iran",
+     "count": 31
+    },
+    {
+     "id": "KR",
+     "name": "South Korea",
+     "count": 31
+    },
+    {
+     "id": "IT",
+     "name": "Italy",
+     "count": 30
+    },
+    {
      "id": "PH",
      "name": "Philippines",
      "count": 30
@@ -1248,6 +1242,11 @@
      "id": "JO",
      "name": "Hashemite Kingdom of Jordan",
      "count": 29
+    },
+    {
+     "id": "KZ",
+     "name": "Kazakhstan",
+     "count": 28
     },
     {
      "id": "MA",
@@ -1265,14 +1264,9 @@
      "count": 23
     },
     {
-     "id": "UZ",
-     "name": "Uzbekistan",
-     "count": 23
-    },
-    {
      "id": "NL",
      "name": "Netherlands",
-     "count": 21
+     "count": 22
     },
     {
      "id": "MY",
@@ -1293,11 +1287,6 @@
      "id": "SC",
      "name": "Seychelles",
      "count": 15
-    },
-    {
-     "id": "BE",
-     "name": "Belgium",
-     "count": 14
     },
     {
      "id": "IQ",
@@ -1325,11 +1314,6 @@
      "count": 10
     },
     {
-     "id": "DO",
-     "name": "Dominican Republic",
-     "count": 10
-    },
-    {
      "id": "HK",
      "name": "Hong Kong",
      "count": 10
@@ -1340,9 +1324,14 @@
      "count": 9
     },
     {
-     "id": "UA",
-     "name": "Ukraine",
-     "count": 8
+     "id": "BE",
+     "name": "Belgium",
+     "count": 7
+    },
+    {
+     "id": "DO",
+     "name": "Dominican Republic",
+     "count": 7
     },
     {
      "id": "IL",
@@ -1357,6 +1346,11 @@
     {
      "id": "SA",
      "name": "Saudi Arabia",
+     "count": 7
+    },
+    {
+     "id": "UA",
+     "name": "Ukraine",
      "count": 7
     },
     {
@@ -1425,11 +1419,6 @@
      "count": 4
     },
     {
-     "id": "PE",
-     "name": "Peru",
-     "count": 4
-    },
-    {
      "id": "PL",
      "name": "Poland",
      "count": 4
@@ -1452,6 +1441,11 @@
     {
      "id": "MK",
      "name": "North Macedonia",
+     "count": 3
+    },
+    {
+     "id": "PE",
+     "name": "Peru",
      "count": 3
     },
     {
@@ -1512,6 +1506,11 @@
     {
      "id": "RU",
      "name": "Russia",
+     "count": 2
+    },
+    {
+     "id": "SK",
+     "name": "Slovakia",
      "count": 2
     },
     {
@@ -1605,39 +1604,34 @@
      "count": 1
     },
     {
-     "id": "PT",
-     "name": "Portugal",
-     "count": 1
-    },
-    {
      "id": "QA",
      "name": "Qatar",
      "count": 1
     },
     {
-     "id": "SK",
-     "name": "Slovakia",
+     "id": "UY",
+     "name": "Uruguay",
      "count": 1
     }
    ],
-   "more": true
+   "more": false
   },
   "sizes": {
    "stats": [
     {
      "id": "phone",
      "name": "",
-     "count": 694
+     "count": 673
     },
     {
      "id": "tablet",
      "name": "",
-     "count": 145
+     "count": 140
     },
     {
      "id": "desktop",
      "name": "",
-     "count": 2458
+     "count": 2466
     },
     {
      "id": "desktophd",
@@ -1657,7 +1651,7 @@
     {
      "id": "(unknown)",
      "name": "(unknown)",
-     "count": 3367
+     "count": 3349
     }
    ],
    "more": false
