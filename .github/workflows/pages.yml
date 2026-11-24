@@ -14,11 +14,10 @@ concurrency:
   group: pages
   cancel-in-progress: true
 jobs:
-  deploy:
+  # Build and deploy run as two jobs (24 Nov 2026): with both in one job, deploy-pages often could not find the artifact
+  # that had just been uploaded ("No artifacts named github-pages"), a known GitHub race; splitting them is the fix.
+  build:
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/configure-pages@v5
@@ -27,6 +26,13 @@ jobs:
       - uses: actions/upload-pages-artifact@v3
         with:
           path: site
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
       - id: deployment
         uses: actions/deploy-pages@v4
         # The site is close to 900 MB; on 7 Nov 2026 GitHub took over the default 10 minutes to copy it three times.
@@ -34,6 +40,7 @@ jobs:
           timeout: 1800000
       # Tell Bing (IndexNow) which pages changed, now that they are live. A manual run sends every page in the sitemap.
       # Never fails the deploy: the log says what happened.
+      - uses: actions/checkout@v4
       - name: Tell Bing about changed pages
         continue-on-error: true
         env:
