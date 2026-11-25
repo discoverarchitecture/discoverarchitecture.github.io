@@ -20,8 +20,8 @@ uses it straight away. Spread across states and kinds of college. Mark each row 
 | Faculty of Architecture, Dr. A.P.J. Abdul Kalam Technical University | Lucknow | library | 2026-11-24 (Dean and Principal, from foaaktu.ac.in; no library address published) |
 | Rachana Sansad Academy of Architecture | Mumbai | library | 2026-11-24 (principal, from aoamumbai.in; no library address published) |
 | Kamla Raheja Vidyanidhi Institute for Architecture | Mumbai | library | 2026-11-20 (institute office, from krvia.ac.in and its RTI page; no library address published) |
-| Faculty of Technology and Engineering (Architecture), M.S. University of Baroda | Vadodara | department | |
-| Sushant School of Art and Architecture | Gurugram | library | |
+| Faculty of Technology and Engineering (Architecture), M.S. University of Baroda | Vadodara | department | 2026-11-25 (head of department, from the department's page on msubaroda.ac.in) |
+| Sushant School of Art and Architecture | Gurugram | library | 2026-11-25 (Chief Librarian, from the university's Library & Resource Centre page) |
 | R.V. College of Architecture | Bengaluru | library | |
 | BMS College of Architecture | Bengaluru | library | |
 | Department of Architecture, Jadavpur University | Kolkata | department or library | |

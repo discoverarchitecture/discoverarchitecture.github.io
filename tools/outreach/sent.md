@@ -32,8 +32,8 @@ addresses here (the repository is public). Send about five a day; one short foll
 | 22 | Northeastern University | Architecture images guide | 2026-11-07 | 2026-11-09 | none by 23 Nov; followed up 2026-11-24 |
 | 23 | Hollins University | Architecture images guide | 2026-11-07 | 2026-11-09 | none by 23 Nov; followed up 2026-11-24 |
 | 24 | Utah State University | Landscape Architecture images guide | 2026-11-07 | 2026-11-09 | none by 23 Nov; followed up 2026-11-24 |
-| 25 | California State University, Sacramento | Architectural History guide | 2026-11-07 | 2026-11-09 | none by 23 Nov; followed up 2026-11-24 |
-| 26 | Louisiana State University | Landscape Architecture guide | 2026-11-07 | 2026-11-09 | none by 23 Nov; followed up 2026-11-24 |
+| 25 | California State University, Sacramento | Architectural History guide | 2026-11-07 | 2026-11-09 | none by 23 Nov; followed up 2026-11-24; auto-reply: on leave until 30 Nov (no more emails) |
+| 26 | Louisiana State University | Landscape Architecture guide | 2026-11-07 | 2026-11-09 | none by 23 Nov; followed up 2026-11-24; auto-reply: away until 1 Dec (no more emails) |
 | 27 | University of Minnesota | Landscape Architecture guide | 2026-11-07 | 2026-11-09 | none by 23 Nov; followed up 2026-11-24 |
 | 28 | Triton College | Architecture guide | 2026-11-07 | 2026-11-09 | none by 23 Nov; followed up 2026-11-24 |
 | 29 | North Dakota State University | Design, Architecture and Art guide | 2026-11-07 | 2026-11-09 | none by 23 Nov; followed up 2026-11-24 |
@@ -44,16 +44,16 @@ addresses here (the repository is public). Send about five a day; one short foll
 | 34 | Falmouth University and University of Exeter (FX Plus) | Architecture and Interiors guide | 2026-11-07 | 2026-11-09 | none by 23 Nov; followed up 2026-11-24 |
 | 35 | California State University, San Bernardino | Image Resources guide | 2026-11-07 | 2026-11-09 | none by 23 Nov; followed up 2026-11-24 |
 | 36 | Iowa State University | Architecture research guide | 2026-11-07 | 2026-11-09 | none by 23 Nov; followed up 2026-11-24 |
-| 37 | Texas A&M University | Architecture guide | 2026-11-07 | 2026-11-09 |  |
-| 38 | University of Texas at San Antonio | Images guide | 2026-11-07 | 2026-11-09 |  |
-| 39 | California State University Channel Islands | Art & Art History guide | 2026-11-07 | 2026-11-09 |  |
-| 40 | Middle Tennessee State University | Interior Design guide | 2026-11-07 | 2026-11-09 |  |
-| 41 | University of Massachusetts Amherst | Architecture guide | 2026-11-07 | 2026-11-09 |  |
+| 37 | Texas A&M University | Architecture guide | 2026-11-07 | 2026-11-09 | none by 23 Nov; followed up 2026-11-25 |
+| 38 | University of Texas at San Antonio | Images guide | 2026-11-07 | 2026-11-09 | none by 23 Nov; followed up 2026-11-25 |
+| 39 | California State University Channel Islands | Art & Art History guide | 2026-11-07 | 2026-11-09 | none by 23 Nov; followed up 2026-11-25 |
+| 40 | Middle Tennessee State University | Interior Design guide | 2026-11-07 | 2026-11-09 | none by 23 Nov; followed up 2026-11-25 |
+| 41 | University of Massachusetts Amherst | Architecture guide | 2026-11-07 | 2026-11-09 | none by 23 Nov; followed up 2026-11-25 |
 | 42 | Yorkville University | Interior Design guide | 2026-11-07 | 2026-11-09 | auto-reply: librarian has left; a business contact was named |
-| 43 | Effat University | Architecture and Urbanism guide | 2026-11-07 | 2026-11-09 |  |
-| 44 | University of Tennessee, Knoxville | Landscape Architecture guide | 2026-11-07 | 2026-11-09 |  |
-| 45 | Thomas Jefferson University | Landscape Architecture guide | 2026-11-07 | 2026-11-09 |  |
-| 46 | Oklahoma State University | Finding Images guide | 2026-11-07 | 2026-11-09 |  |
+| 43 | Effat University | Architecture and Urbanism guide | 2026-11-07 | 2026-11-09 | none by 23 Nov; followed up 2026-11-25 |
+| 44 | University of Tennessee, Knoxville | Landscape Architecture guide | 2026-11-07 | 2026-11-09 | none by 23 Nov; followed up 2026-11-25 |
+| 45 | Thomas Jefferson University | Landscape Architecture guide | 2026-11-07 | 2026-11-09 | none by 23 Nov; followed up 2026-11-25 |
+| 46 | Oklahoma State University | Finding Images guide | 2026-11-07 | 2026-11-09 | none by 23 Nov; followed up 2026-11-25 |
 | 47 | School of Planning and Architecture, Delhi (India) | Department of Architecture (head of department) | 2026-11-16 | 2026-11-16 | |
 | 48 | School of Planning and Architecture, Bhopal (India) | Library | 2026-11-16 | 2026-11-16 | |
 | 49 | University of California, Berkeley | American Architecture guide · Images (general library address) | 2026-11-16 | 2026-11-16 | |
@@ -73,11 +73,16 @@ addresses here (the repository is public). Send about five a day; one short foll
 | 63 | Marymount University | Interior Architecture & Design guide · Precedent studies (general library address) | 2026-11-20 | 2026-11-20 | auto-reply (general mailbox) 20 Nov |
 | 64 | NIT Tiruchirappalli (India) | Department of Architecture (head of department) | 2026-11-20 | 2026-11-20 | |
 | 65 | Kamla Raheja Vidyanidhi Institute for Architecture (India) | Institute office (to pass on to faculty and library) | 2026-11-20 | 2026-11-20 | |
-| 66 | Northampton Community College | Architecture (ARCH) guide (general library address) | 2026-11-24 | 2026-11-24 | |
+| 66 | Northampton Community College | Architecture (ARCH) guide (general library address) | 2026-11-24 | 2026-11-24 | auto-reply (general mailbox) 24 Nov |
 | 67 | Toronto Metropolitan University | MArch Graduate Guide · Drawings, Images and Videos · Image Collections on the Web (general reference address) | 2026-11-24 | 2026-11-24 | |
 | 68 | McMaster University | A Guide to Images · Websites · Art & Architecture (general library address) | 2026-11-24 | 2026-11-24 | |
 | 69 | Faculty of Architecture and Planning, AKTU, Lucknow (India) | Dean and Principal (from foaaktu.ac.in) | 2026-11-24 | 2026-11-24 | |
 | 70 | Rachana Sansad's Academy of Architecture, Mumbai (India) | Principal (from aoamumbai.in) | 2026-11-24 | 2026-11-24 | |
+| 71 | McGill University | Canadian and Montreal Architecture guide (named librarian) | 2026-11-25 | 2026-11-25 | |
+| 72 | Centennial College | Architectural Technology guide (general library address) | 2026-11-25 | 2026-11-25 | |
+| 73 | Durham College | Architectural Technology guide (named librarian) | 2026-11-25 | 2026-11-25 | |
+| 74 | Department of Architecture, M.S. University of Baroda (India) | Head of department (from the department's page on msubaroda.ac.in) | 2026-11-25 | 2026-11-25 | |
+| 75 | Sushant School of Art and Architecture, Sushant University (India) | Chief Librarian (from the university's Library & Resource Centre page) | 2026-11-25 | 2026-11-25 | |
 
 Follow-ups for 1–5 sent 16 Nov (no more emails to them). Skipped on 16 Nov: UCLA (only the guide software's admin address; no architecture librarian found), MIT (no address found; the architecture librarian has a profile but no public email). Queue positions 0–3 are done. 18 Nov: positions 4–9 read; Boston Architectural College and SCI-Arc have no address (skipped), Academy of Art University (general address) left for a later day; positions 0–9 done. 19 Nov: positions 10–15 read; Cincinnati, Roger Williams, Miami and College of DuPage have no address (skipped); queue positions 0–15 done. Tue 17 Nov's run arrived a day late and was skipped. Manitoba: out of office 9–16 Nov (auto-reply to the 16 Nov reminder).
 
@@ -94,3 +99,5 @@ Follow-ups: 6-20 done 20 Nov, 21-46 from 23 Nov (one short note, never a third).
 Test run of the fresh-session routine, 19 Nov 2026: repository, Gmail and push OK.
 
 24 Nov (Mon 23 Nov had no run): queue positions 22-28 read; 22-24 sent; McGill (25, named librarian), Centennial (26, general address) and Durham (27, named librarian) are next; UTS (28) has no address (skip). Queue positions 0-24 done. Follow-ups for 21-36 (except 33) sent 24 Nov; 37-41 and 43-46 are due next run (42 skipped: librarian left). Inbox since 20 Nov: UCL update (row 33), auto-replies from Yale (away until 30 Nov), Strathclyde, Marymount and Fordham; no complaints, no new yes or no.
+
+25 Nov: queue positions 25-31 read; 25-27 sent; UTS (28), Westminster (29) and Sheffield (30) have no address (skip); Sheffield Hallam (31, general help-desk address only) left for a later day. Queue positions 0-30 done. Follow-ups for 37-41 and 43-46 sent 25 Nov (all of 21-46 now done). Inbox since 24 Nov: auto-replies from CSU Sacramento (on leave until 30 Nov), LSU (away until 1 Dec) and Northampton (general mailbox); no complaints, no new yes or no. Next follow-ups due: 47-50 from 30 Nov; UCL guide check after 1 Dec.
