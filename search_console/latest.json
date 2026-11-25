@@ -1,15 +1,15 @@
 {
- "fetched_at": "2026-11-24T15:11:48+00:00",
+ "fetched_at": "2026-11-25T14:51:29+00:00",
  "site": "sc-domain:findgreatarchitecture.com",
  "window_days": 28,
- "start": "2026-10-28",
- "end": "2026-11-24",
+ "start": "2026-10-29",
+ "end": "2026-11-25",
  "web": {
   "total": {
-   "clicks": 7,
-   "impressions": 102,
-   "ctr": 0.0686,
-   "position": 39.0
+   "clicks": 9,
+   "impressions": 103,
+   "ctr": 0.0874,
+   "position": 38.0
   },
   "queries": [
    {
@@ -57,7 +57,7 @@
    {
     "query": "casa gaspar alberto campo baeza",
     "clicks": 0,
-    "impressions": 2,
+    "impressions": 1,
     "ctr": 0,
     "position": 8
    },
@@ -113,9 +113,9 @@
    {
     "query": "greatbuildings",
     "clicks": 0,
-    "impressions": 1,
+    "impressions": 2,
     "ctr": 0,
-    "position": 93
+    "position": 96
    },
    {
     "query": "house with chimaeras",
@@ -130,13 +130,6 @@
     "impressions": 1,
     "ctr": 0,
     "position": 94
-   },
-   {
-    "query": "philip johnson glass house new canaan",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 83
    },
    {
     "query": "rod robbie bridge toronto",
@@ -170,23 +163,16 @@
   "pages": [
    {
     "page": "https://findgreatarchitecture.com/",
-    "clicks": 6,
-    "impressions": 41,
-    "ctr": 0.1463,
-    "position": 36.5
+    "clicks": 8,
+    "impressions": 45,
+    "ctr": 0.1778,
+    "position": 35.6
    },
    {
     "page": "https://findgreatarchitecture.com/buildings/denver-art-museum-hamilton-building/",
     "clicks": 1,
     "impressions": 1,
     "ctr": 1,
-    "position": 1
-   },
-   {
-    "page": "https://findgreatarchitecture.com/?ref=reddit",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
     "position": 1
    },
    {
@@ -218,13 +204,6 @@
     "position": 20
    },
    {
-    "page": "https://findgreatarchitecture.com/buildings/alamillo-bridge/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 2
-   },
-   {
     "page": "https://findgreatarchitecture.com/buildings/alden-dow-house-and-studio/",
     "clicks": 0,
     "impressions": 1,
@@ -237,13 +216,6 @@
     "impressions": 1,
     "ctr": 0,
     "position": 8
-   },
-   {
-    "page": "https://findgreatarchitecture.com/buildings/aschanska-villa/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 4
    },
    {
     "page": "https://findgreatarchitecture.com/buildings/atakule/",
@@ -274,25 +246,11 @@
     "position": 2
    },
    {
-    "page": "https://findgreatarchitecture.com/buildings/bihar-museum/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 5
-   },
-   {
     "page": "https://findgreatarchitecture.com/buildings/biswa-bangla-gate/",
     "clicks": 0,
     "impressions": 1,
     "ctr": 0,
     "position": 74
-   },
-   {
-    "page": "https://findgreatarchitecture.com/buildings/blue-pavilion/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 6
    },
    {
     "page": "https://findgreatarchitecture.com/buildings/british-library/",
@@ -318,7 +276,7 @@
    {
     "page": "https://findgreatarchitecture.com/buildings/casa-gaspar/",
     "clicks": 0,
-    "impressions": 2,
+    "impressions": 1,
     "ctr": 0,
     "position": 8
    },
@@ -339,9 +297,9 @@
    {
     "page": "https://findgreatarchitecture.com/buildings/city-hochhaus-leipzig/",
     "clicks": 0,
-    "impressions": 2,
+    "impressions": 3,
     "ctr": 0,
-    "position": 54.5
+    "position": 38
    },
    {
     "page": "https://findgreatarchitecture.com/buildings/coltejer-building/",
@@ -365,13 +323,6 @@
     "position": 22.6
    },
    {
-    "page": "https://findgreatarchitecture.com/buildings/glass-house/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 83
-   },
-   {
     "page": "https://findgreatarchitecture.com/buildings/guggenheim-bilbao/",
     "clicks": 0,
     "impressions": 4,
@@ -386,13 +337,6 @@
     "position": 5.5
    },
    {
-    "page": "https://findgreatarchitecture.com/buildings/haskova-vila/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 7
-   },
-   {
     "page": "https://findgreatarchitecture.com/buildings/hotel-humboldt/",
     "clicks": 0,
     "impressions": 5,
@@ -405,13 +349,6 @@
     "impressions": 6,
     "ctr": 0,
     "position": 55.5
-   },
-   {
-    "page": "https://findgreatarchitecture.com/buildings/hunt-library/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 3
    },
    {
     "page": "https://findgreatarchitecture.com/buildings/ismailiyya-palace/",
@@ -512,6 +449,13 @@
     "position": 10
    },
    {
+    "page": "https://findgreatarchitecture.com/buildings/national-palace-museum-taipei/",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 2
+   },
+   {
     "page": "https://findgreatarchitecture.com/buildings/nebraska-state-capitol/",
     "clicks": 0,
     "impressions": 2,
@@ -610,13 +554,6 @@
     "position": 27
    },
    {
-    "page": "https://findgreatarchitecture.com/buildings/stockholm-public-library/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 73
-   },
-   {
     "page": "https://findgreatarchitecture.com/buildings/suzhou-museum/",
     "clicks": 0,
     "impressions": 1,
@@ -631,25 +568,11 @@
     "position": 1
    },
    {
-    "page": "https://findgreatarchitecture.com/buildings/triangle-building/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 1
-   },
-   {
     "page": "https://findgreatarchitecture.com/buildings/victoria-memorial-kolkata/",
     "clicks": 0,
     "impressions": 1,
     "ctr": 0,
     "position": 39
-   },
-   {
-    "page": "https://findgreatarchitecture.com/buildings/villa-neumark/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 10
    },
    {
     "page": "https://findgreatarchitecture.com/buildings/whitechapel-gallery-london/",
@@ -671,20 +594,6 @@
     "impressions": 1,
     "ctr": 0,
     "position": 62
-   },
-   {
-    "page": "https://findgreatarchitecture.com/buildings/z33-hasselt/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 8
-   },
-   {
-    "page": "https://findgreatarchitecture.com/buildings/zentralsparkasse-favoriten/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 9
    },
    {
     "page": "https://findgreatarchitecture.com/contact/",
@@ -710,18 +619,18 @@
   ],
   "countries": [
    {
+    "country": "egy",
+    "clicks": 3,
+    "impressions": 4,
+    "ctr": 0.75,
+    "position": 1
+   },
+   {
     "country": "ind",
     "clicks": 3,
     "impressions": 10,
     "ctr": 0.3,
     "position": 4.1
-   },
-   {
-    "country": "egy",
-    "clicks": 1,
-    "impressions": 1,
-    "ctr": 1,
-    "position": 1
    },
    {
     "country": "phl",
@@ -740,9 +649,9 @@
    {
     "country": "usa",
     "clicks": 1,
-    "impressions": 36,
-    "ctr": 0.0278,
-    "position": 31.0
+    "impressions": 35,
+    "ctr": 0.0286,
+    "position": 31.9
    },
    {
     "country": "alb",
@@ -780,11 +689,18 @@
     "position": 74.3
    },
    {
+    "country": "chn",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 5
+   },
+   {
     "country": "col",
     "clicks": 0,
-    "impressions": 2,
+    "impressions": 1,
     "ctr": 0,
-    "position": 73.5
+    "position": 74
    },
    {
     "country": "deu",
@@ -805,14 +721,14 @@
     "clicks": 0,
     "impressions": 5,
     "ctr": 0,
-    "position": 78.6
+    "position": 81.8
    },
    {
     "country": "grc",
     "clicks": 0,
-    "impressions": 3,
+    "impressions": 2,
     "ctr": 0,
-    "position": 12
+    "position": 14
    },
    {
     "country": "hkg",
@@ -909,10 +825,10 @@
   "devices": [
    {
     "device": "DESKTOP",
-    "clicks": 6,
-    "impressions": 89,
-    "ctr": 0.0674,
-    "position": 43.0
+    "clicks": 8,
+    "impressions": 88,
+    "ctr": 0.0909,
+    "position": 41.7
    },
    {
     "device": "TABLET",
@@ -924,9 +840,9 @@
    {
     "device": "MOBILE",
     "clicks": 0,
-    "impressions": 10,
+    "impressions": 12,
     "ctr": 0,
-    "position": 13.6
+    "position": 20.1
    }
   ],
   "query_pages": [
@@ -982,7 +898,7 @@
     "query": "casa gaspar alberto campo baeza",
     "page": "https://findgreatarchitecture.com/buildings/casa-gaspar/",
     "clicks": 0,
-    "impressions": 2,
+    "impressions": 1,
     "ctr": 0,
     "position": 8
    },
@@ -1046,9 +962,9 @@
     "query": "greatbuildings",
     "page": "https://findgreatarchitecture.com/",
     "clicks": 0,
-    "impressions": 1,
+    "impressions": 2,
     "ctr": 0,
-    "position": 93
+    "position": 96
    },
    {
     "query": "house with chimaeras",
@@ -1065,14 +981,6 @@
     "impressions": 1,
     "ctr": 0,
     "position": 94
-   },
-   {
-    "query": "philip johnson glass house new canaan",
-    "page": "https://findgreatarchitecture.com/buildings/glass-house/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 83
    },
    {
     "query": "rod robbie bridge toronto",
