@@ -1,13 +1,13 @@
 {
- "fetched_at": "2026-11-24T22:17:43+00:00",
+ "fetched_at": "2026-11-25T08:12:00+00:00",
  "site": "akshatpagaria.goatcounter.com",
  "window_days": 30,
- "visits_30d": 5116,
+ "visits_30d": 5140,
  "sections": {
   "pages": {
    "hits": [
     {
-     "count": 1001,
+     "count": 982,
      "path_id": 112020267,
      "path": "/",
      "event": false,
@@ -15,7 +15,7 @@
      "max": 29
     },
     {
-     "count": 159,
+     "count": 157,
      "path_id": 113691164,
      "path": "/studio",
      "event": false,
@@ -23,7 +23,7 @@
      "max": 3
     },
     {
-     "count": 142,
+     "count": 144,
      "path_id": 116720890,
      "path": "studio/screen/home",
      "event": true,
@@ -31,7 +31,7 @@
      "max": 3
     },
     {
-     "count": 68,
+     "count": 70,
      "path_id": 120621079,
      "path": "studio/flow/paywall",
      "event": true,
@@ -136,18 +136,10 @@
     },
     {
      "count": 22,
-     "path_id": 113702981,
-     "path": "studio/ai-button",
-     "event": true,
-     "title": "AI jury presentation generator",
-     "max": 2
-    },
-    {
-     "count": 22,
-     "path_id": 113298212,
-     "path": "map/open",
-     "event": true,
-     "title": "Map opened",
+     "path_id": 118234266,
+     "path": "/guides/a1-presentation-board",
+     "event": false,
+     "title": "How to Make an A1 Architecture Presentation Board (Guide)",
      "max": 2
     },
     {
@@ -159,11 +151,11 @@
      "max": 1
     },
     {
-     "count": 20,
-     "path_id": 118234266,
-     "path": "/guides/a1-presentation-board",
-     "event": false,
-     "title": "How to Make an A1 Architecture Presentation Board (Guide)",
+     "count": 21,
+     "path_id": 113702981,
+     "path": "studio/ai-button",
+     "event": true,
+     "title": "AI jury presentation generator",
      "max": 2
     },
     {
@@ -173,6 +165,14 @@
      "event": true,
      "title": "Studio \u00b7 click \u00b7 home \u00b7 start",
      "max": 1
+    },
+    {
+     "count": 18,
+     "path_id": 113298212,
+     "path": "map/open",
+     "event": true,
+     "title": "Map opened",
+     "max": 2
     },
     {
      "count": 17,
@@ -191,14 +191,6 @@
      "max": 1
     },
     {
-     "count": 17,
-     "path_id": 112020274,
-     "path": "/play",
-     "event": false,
-     "title": "Daily five \u00b7 Guess the building? \u00b7 Find Great Architecture",
-     "max": 2
-    },
-    {
      "count": 14,
      "path_id": 117212605,
      "path": "studio/click/home/sec",
@@ -207,19 +199,27 @@
      "max": 1
     },
     {
+     "count": 14,
+     "path_id": 112020274,
+     "path": "/play",
+     "event": false,
+     "title": "Daily five \u00b7 Guess the building? \u00b7 Find Great Architecture",
+     "max": 1
+    },
+    {
+     "count": 13,
+     "path_id": 121016913,
+     "path": "/studio/guides/how-to-present-site-analysis",
+     "event": false,
+     "title": "How to Do and Present an Architecture Site Analysis",
+     "max": 1
+    },
+    {
      "count": 12,
      "path_id": 121452455,
      "path": "studio/making/jury",
      "event": true,
      "title": "Studio: making jury",
-     "max": 1
-    },
-    {
-     "count": 12,
-     "path_id": 121016913,
-     "path": "/studio/guides/how-to-present-site-analysis",
-     "event": false,
-     "title": "How to Do and Present an Architecture Site Analysis",
      "max": 1
     },
     {
@@ -327,14 +327,6 @@
      "max": 1
     },
     {
-     "count": 8,
-     "path_id": 115515870,
-     "path": "/styles/parametric",
-     "event": false,
-     "title": "Parametric architecture: 52 buildings with photos & plans",
-     "max": 2
-    },
-    {
      "count": 7,
      "path_id": 120777597,
      "path": "/studio/guides/a1-sheet-layout-ideas",
@@ -357,6 +349,14 @@
      "event": true,
      "title": "Studio \u00b7 screen \u00b7 plan",
      "max": 1
+    },
+    {
+     "count": 7,
+     "path_id": 115515870,
+     "path": "/styles/parametric",
+     "event": false,
+     "title": "Parametric architecture: 52 buildings with photos & plans",
+     "max": 2
     },
     {
      "count": 7,
@@ -392,11 +392,11 @@
     },
     {
      "count": 6,
-     "path_id": 114317607,
-     "path": "/ideas/adaptive-reuse",
+     "path_id": 112475234,
+     "path": "/buildings/ningbo-history-museum",
      "event": false,
-     "title": "Adaptive reuse architecture examples: 194 buildings & photos",
-     "max": 1
+     "title": "Ningbo History Museum \u2014 Wang Shu, 2008: photos",
+     "max": 2
     },
     {
      "count": 5,
@@ -488,10 +488,10 @@
     },
     {
      "count": 5,
-     "path_id": 113996447,
-     "path": "studio/signup",
-     "event": true,
-     "title": "FGA Studio waitlist sign-up",
+     "path_id": 114317607,
+     "path": "/ideas/adaptive-reuse",
+     "event": false,
+     "title": "Adaptive reuse architecture examples: 194 buildings & photos",
      "max": 1
     },
     {
@@ -544,6 +544,14 @@
     },
     {
      "count": 4,
+     "path_id": 120478613,
+     "path": "/buildings/sendai-mediatheque",
+     "event": false,
+     "title": "Sendai Mediatheque by Toyo Ito: photos, plans & key features",
+     "max": 1
+    },
+    {
+     "count": 4,
      "path_id": 120361551,
      "path": "/buildings/fondation-louis-vuitton",
      "event": false,
@@ -584,19 +592,11 @@
     },
     {
      "count": 4,
-     "path_id": 113963357,
-     "path": "/types/housing",
-     "event": false,
-     "title": "Housing architecture: 248 buildings with photos & plans",
+     "path_id": 113996447,
+     "path": "studio/signup",
+     "event": true,
+     "title": "FGA Studio waitlist sign-up",
      "max": 1
-    },
-    {
-     "count": 4,
-     "path_id": 112475234,
-     "path": "/buildings/ningbo-history-museum",
-     "event": false,
-     "title": "Ningbo History Museum \u2014 Wang Shu, 2008: photos",
-     "max": 2
     },
     {
      "count": 4,
@@ -696,14 +696,6 @@
     },
     {
      "count": 3,
-     "path_id": 120478613,
-     "path": "/buildings/sendai-mediatheque",
-     "event": false,
-     "title": "Sendai Mediatheque by Toyo Ito: photos, plans & key features",
-     "max": 1
-    },
-    {
-     "count": 3,
      "path_id": 120236433,
      "path": "/buildings/uea-ziggurats",
      "event": false,
@@ -760,35 +752,11 @@
     },
     {
      "count": 3,
-     "path_id": 115466105,
-     "path": "/buildings/guggenheim-bilbao",
+     "path_id": 113963357,
+     "path": "/types/housing",
      "event": false,
-     "title": "Guggenheim Bilbao by Frank Gehry: photos & plans",
+     "title": "Housing architecture: 248 buildings with photos & plans",
      "max": 1
-    },
-    {
-     "count": 3,
-     "path_id": 115252595,
-     "path": "/buildings/antigone-montpellier",
-     "event": false,
-     "title": "Antigone by Ricardo Bofill, 2000: photos & key features",
-     "max": 1
-    },
-    {
-     "count": 3,
-     "path_id": 113996457,
-     "path": "studio/details",
-     "event": true,
-     "title": "FGA Studio waitlist: optional answers",
-     "max": 1
-    },
-    {
-     "count": 3,
-     "path_id": 113942033,
-     "path": "/pricing",
-     "event": false,
-     "title": "FGA Studio pricing \u00b7 Find Great Architecture",
-     "max": 2
     },
     {
      "count": 3,
@@ -800,27 +768,59 @@
     },
     {
      "count": 2,
+     "path_id": 126700125,
+     "path": "/buildings/seattle-central-library",
+     "event": false,
+     "title": "Seattle Central Library by OMA: photos, plans & key features",
+     "max": 2
+    },
+    {
+     "count": 2,
+     "path_id": 126612096,
+     "path": "/buildings/hua-lamphong-railway-station",
+     "event": false,
+     "title": "Hua Lamphong Railway Station by Mario Tamagno: photos",
+     "max": 2
+    },
+    {
+     "count": 2,
      "path_id": 126150921,
      "path": "building/guangzhou-opera-house",
      "event": true,
      "title": "Guangzhou Opera House",
      "max": 1
+    },
+    {
+     "count": 2,
+     "path_id": 126126055,
+     "path": "/buildings/museum-of-the-future",
+     "event": false,
+     "title": "Museum of the Future by Killa Design: photos & key features",
+     "max": 1
+    },
+    {
+     "count": 2,
+     "path_id": 126125999,
+     "path": "building/museum-of-the-future",
+     "event": true,
+     "title": "Museum of the Future",
+     "max": 1
     }
    ],
-   "total": 2360,
+   "total": 2333,
    "more": true
   },
   "referrers": {
    "stats": [
     {
      "name": "",
-     "count": 2263,
+     "count": 2216,
      "ref_scheme": "o"
     },
     {
      "id": "chatgpt.com",
      "name": "chatgpt.com",
-     "count": 246,
+     "count": 240,
      "ref_scheme": "c"
     },
     {
@@ -832,13 +832,13 @@
     {
      "id": "Google",
      "name": "Google",
-     "count": 100,
+     "count": 97,
      "ref_scheme": "g"
     },
     {
      "id": "www.bing.com",
      "name": "www.bing.com",
-     "count": 78,
+     "count": 79,
      "ref_scheme": "h"
     },
     {
@@ -862,7 +862,7 @@
     {
      "id": "duckduckgo.com",
      "name": "duckduckgo.com",
-     "count": 10,
+     "count": 11,
      "ref_scheme": "h"
     },
     {
@@ -878,6 +878,12 @@
      "ref_scheme": "h"
     },
     {
+     "id": "www.perplexity.ai",
+     "name": "www.perplexity.ai",
+     "count": 8,
+     "ref_scheme": "h"
+    },
+    {
      "id": "Yahoo",
      "name": "Yahoo",
      "count": 7,
@@ -890,22 +896,22 @@
      "ref_scheme": "h"
     },
     {
+     "id": "l.instagram.com",
+     "name": "l.instagram.com",
+     "count": 7,
+     "ref_scheme": "h"
+    },
+    {
      "id": "ig",
      "name": "ig",
-     "count": 6,
+     "count": 5,
      "ref_scheme": "c"
     },
     {
-     "id": "l.instagram.com",
-     "name": "l.instagram.com",
-     "count": 6,
-     "ref_scheme": "h"
-    },
-    {
-     "id": "www.perplexity.ai",
-     "name": "www.perplexity.ai",
-     "count": 6,
-     "ref_scheme": "h"
+     "id": "tab",
+     "name": "tab",
+     "count": 5,
+     "ref_scheme": "c"
     },
     {
      "id": "guides-top",
@@ -916,12 +922,6 @@
     {
      "id": "site",
      "name": "site",
-     "count": 4,
-     "ref_scheme": "c"
-    },
-    {
-     "id": "tab",
-     "name": "tab",
      "count": 4,
      "ref_scheme": "c"
     },
@@ -968,16 +968,16 @@
      "ref_scheme": "c"
     },
     {
+     "id": "guides-end",
+     "name": "guides-end",
+     "count": 2,
+     "ref_scheme": "c"
+    },
+    {
      "id": "cn.bing.com",
      "name": "cn.bing.com",
      "count": 1,
      "ref_scheme": "h"
-    },
-    {
-     "id": "reddit",
-     "name": "reddit",
-     "count": 1,
-     "ref_scheme": "c"
     },
     {
      "id": "t.co",
@@ -1034,12 +1034,6 @@
      "ref_scheme": "c"
     },
     {
-     "id": "guides-end",
-     "name": "guides-end",
-     "count": 1,
-     "ref_scheme": "c"
-    },
-    {
      "id": "guides-text",
      "name": "guides-text",
      "count": 1,
@@ -1053,17 +1047,17 @@
     {
      "id": "Chrome",
      "name": "Chrome",
-     "count": 2872
+     "count": 2857
     },
     {
      "id": "Safari",
      "name": "Safari",
-     "count": 474
+     "count": 434
     },
     {
      "id": "Firefox",
      "name": "Firefox",
-     "count": 47
+     "count": 46
     },
     {
      "name": "",
@@ -1077,22 +1071,22 @@
     {
      "id": "Windows",
      "name": "Windows",
-     "count": 2300
+     "count": 2293
     },
     {
      "id": "Android",
      "name": "Android",
-     "count": 379
+     "count": 376
     },
     {
      "id": "iOS",
      "name": "iOS",
-     "count": 352
+     "count": 316
     },
     {
      "id": "macOS",
      "name": "macOS",
-     "count": 264
+     "count": 255
     },
     {
      "id": "Linux",
@@ -1100,12 +1094,12 @@
      "count": 97
     },
     {
-     "id": "Chrome OS",
-     "name": "Chrome OS",
-     "count": 2
+     "name": "",
+     "count": 1
     },
     {
-     "name": "",
+     "id": "Chrome OS",
+     "name": "Chrome OS",
      "count": 1
     }
    ],
@@ -1116,12 +1110,12 @@
     {
      "id": "US",
      "name": "United States",
-     "count": 895
+     "count": 889
     },
     {
      "id": "IN",
      "name": "India",
-     "count": 620
+     "count": 612
     },
     {
      "id": "BR",
@@ -1134,14 +1128,14 @@
      "count": 133
     },
     {
-     "id": "TR",
-     "name": "Turkey",
-     "count": 109
-    },
-    {
      "id": "SG",
      "name": "Singapore",
-     "count": 104
+     "count": 103
+    },
+    {
+     "id": "TR",
+     "name": "Turkey",
+     "count": 100
     },
     {
      "id": "CO",
@@ -1156,12 +1150,12 @@
     {
      "id": "VN",
      "name": "Vietnam",
-     "count": 80
+     "count": 81
     },
     {
      "id": "DE",
      "name": "Germany",
-     "count": 72
+     "count": 69
     },
     {
      "id": "EC",
@@ -1174,24 +1168,24 @@
      "count": 55
     },
     {
-     "id": "TN",
-     "name": "Tunisia",
-     "count": 53
-    },
-    {
      "id": "FR",
      "name": "France",
-     "count": 47
+     "count": 46
+    },
+    {
+     "id": "TN",
+     "name": "Tunisia",
+     "count": 46
     },
     {
      "id": "GB",
      "name": "United Kingdom",
-     "count": 47
+     "count": 45
     },
     {
      "id": "ID",
      "name": "Indonesia",
-     "count": 41
+     "count": 42
     },
     {
      "id": "UZ",
@@ -1214,9 +1208,9 @@
      "count": 33
     },
     {
-     "id": "CH",
-     "name": "Switzerland",
-     "count": 31
+     "id": "KR",
+     "name": "South Korea",
+     "count": 32
     },
     {
      "id": "IR",
@@ -1224,23 +1218,18 @@
      "count": 31
     },
     {
-     "id": "KR",
-     "name": "South Korea",
-     "count": 31
-    },
-    {
-     "id": "PH",
-     "name": "Philippines",
-     "count": 31
-    },
-    {
-     "id": "IT",
-     "name": "Italy",
-     "count": 30
+     "id": "CH",
+     "name": "Switzerland",
+     "count": 29
     },
     {
      "id": "JO",
      "name": "Hashemite Kingdom of Jordan",
+     "count": 29
+    },
+    {
+     "id": "PH",
+     "name": "Philippines",
      "count": 29
     },
     {
@@ -1261,7 +1250,7 @@
     {
      "id": "DZ",
      "name": "Algeria",
-     "count": 23
+     "count": 22
     },
     {
      "id": "NL",
@@ -1271,7 +1260,7 @@
     {
      "id": "JP",
      "name": "Japan",
-     "count": 18
+     "count": 19
     },
     {
      "id": "MY",
@@ -1289,6 +1278,11 @@
      "count": 15
     },
     {
+     "id": "TH",
+     "name": "Thailand",
+     "count": 15
+    },
+    {
      "id": "IQ",
      "name": "Iraq",
      "count": 14
@@ -1299,9 +1293,9 @@
      "count": 14
     },
     {
-     "id": "TH",
-     "name": "Thailand",
-     "count": 13
+     "id": "IT",
+     "name": "Italy",
+     "count": 12
     },
     {
      "id": "NZ",
@@ -1309,14 +1303,9 @@
      "count": 12
     },
     {
-     "id": "AE",
-     "name": "United Arab Emirates",
-     "count": 10
-    },
-    {
      "id": "HK",
      "name": "Hong Kong",
-     "count": 10
+     "count": 11
     },
     {
      "id": "LY",
@@ -1324,13 +1313,13 @@
      "count": 9
     },
     {
-     "id": "BE",
-     "name": "Belgium",
-     "count": 7
+     "id": "AU",
+     "name": "Australia",
+     "count": 8
     },
     {
-     "id": "DO",
-     "name": "Dominican Republic",
+     "id": "BE",
+     "name": "Belgium",
      "count": 7
     },
     {
@@ -1354,13 +1343,18 @@
      "count": 7
     },
     {
+     "id": "AE",
+     "name": "United Arab Emirates",
+     "count": 6
+    },
+    {
      "id": "AL",
      "name": "Albania",
      "count": 6
     },
     {
-     "id": "AU",
-     "name": "Australia",
+     "id": "DO",
+     "name": "Dominican Republic",
      "count": 6
     },
     {
@@ -1371,6 +1365,11 @@
     {
      "id": "NI",
      "name": "Nicaragua",
+     "count": 6
+    },
+    {
+     "id": "TW",
+     "name": "Taiwan",
      "count": 6
     },
     {
@@ -1391,11 +1390,6 @@
     {
      "id": "PL",
      "name": "Poland",
-     "count": 5
-    },
-    {
-     "id": "TW",
-     "name": "Taiwan",
      "count": 5
     },
     {
@@ -1524,11 +1518,6 @@
      "count": 1
     },
     {
-     "id": "AO",
-     "name": "Angola",
-     "count": 1
-    },
-    {
      "id": "AT",
      "name": "Austria",
      "count": 1
@@ -1612,6 +1601,11 @@
      "id": "PT",
      "name": "Portugal",
      "count": 1
+    },
+    {
+     "id": "QA",
+     "name": "Qatar",
+     "count": 1
     }
    ],
    "more": true
@@ -1621,7 +1615,7 @@
     {
      "id": "phone",
      "name": "",
-     "count": 678
+     "count": 639
     },
     {
      "id": "tablet",
@@ -1631,12 +1625,12 @@
     {
      "id": "desktop",
      "name": "",
-     "count": 2501
+     "count": 2482
     },
     {
      "id": "desktophd",
      "name": "",
-     "count": 75
+     "count": 77
     },
     {
      "id": "unknown",
@@ -1651,7 +1645,7 @@
     {
      "id": "(unknown)",
      "name": "(unknown)",
-     "count": 3395
+     "count": 3339
     }
    ],
    "more": false
