@@ -1,13 +1,13 @@
 {
- "fetched_at": "2026-11-26T07:59:37+00:00",
+ "fetched_at": "2026-11-26T21:22:06+00:00",
  "site": "akshatpagaria.goatcounter.com",
  "window_days": 30,
- "visits_30d": 5205,
+ "visits_30d": 5244,
  "sections": {
   "pages": {
    "hits": [
     {
-     "count": 982,
+     "count": 992,
      "path_id": 112020267,
      "path": "/",
      "event": false,
@@ -15,7 +15,7 @@
      "max": 29
     },
     {
-     "count": 156,
+     "count": 158,
      "path_id": 113691164,
      "path": "/studio",
      "event": false,
@@ -23,7 +23,7 @@
      "max": 3
     },
     {
-     "count": 146,
+     "count": 149,
      "path_id": 116720890,
      "path": "studio/screen/home",
      "event": true,
@@ -31,7 +31,7 @@
      "max": 3
     },
     {
-     "count": 74,
+     "count": 76,
      "path_id": 120621079,
      "path": "studio/flow/paywall",
      "event": true,
@@ -39,7 +39,7 @@
      "max": 3
     },
     {
-     "count": 56,
+     "count": 57,
      "path_id": 116802573,
      "path": "studio/scroll/25",
      "event": true,
@@ -384,6 +384,14 @@
     },
     {
      "count": 6,
+     "path_id": 114317607,
+     "path": "/ideas/adaptive-reuse",
+     "event": false,
+     "title": "Adaptive reuse architecture examples: 194 buildings & photos",
+     "max": 1
+    },
+    {
+     "count": 6,
      "path_id": 113751701,
      "path": "/styles/postmodernism",
      "event": false,
@@ -487,14 +495,6 @@
      "max": 1
     },
     {
-     "count": 5,
-     "path_id": 114317607,
-     "path": "/ideas/adaptive-reuse",
-     "event": false,
-     "title": "Adaptive reuse architecture examples: 194 buildings & photos",
-     "max": 1
-    },
-    {
      "count": 4,
      "path_id": 125308087,
      "path": "studio/screen/making",
@@ -512,10 +512,26 @@
     },
     {
      "count": 4,
+     "path_id": 124846373,
+     "path": "/buildings/galaxy-soho",
+     "event": false,
+     "title": "Galaxy SOHO by Zaha Hadid Architects: photos & plans",
+     "max": 2
+    },
+    {
+     "count": 4,
      "path_id": 124168970,
      "path": "/buildings/nelum-pokuna-mahinda-rajapaksa-theatre",
      "event": false,
      "title": "Nelum Pokuna Mahinda Rajapaksa Theatre by Kahawita De Silva",
+     "max": 1
+    },
+    {
+     "count": 4,
+     "path_id": 123726865,
+     "path": "/types/pavilions",
+     "event": false,
+     "title": "Pavilion architecture: 58 buildings with photos & plans",
      "max": 1
     },
     {
@@ -624,14 +640,6 @@
     },
     {
      "count": 3,
-     "path_id": 124846373,
-     "path": "/buildings/galaxy-soho",
-     "event": false,
-     "title": "Galaxy SOHO by Zaha Hadid Architects: photos & plans",
-     "max": 2
-    },
-    {
-     "count": 3,
      "path_id": 124510330,
      "path": "/buildings/church-of-the-light",
      "event": false,
@@ -644,14 +652,6 @@
      "path": "/buildings/india-habitat-centre",
      "event": false,
      "title": "India Habitat Centre by Joseph Allen Stein: photos",
-     "max": 1
-    },
-    {
-     "count": 3,
-     "path_id": 123726865,
-     "path": "/types/pavilions",
-     "event": false,
-     "title": "Pavilion architecture: 58 buildings with photos & plans",
      "max": 1
     },
     {
@@ -696,10 +696,26 @@
     },
     {
      "count": 3,
+     "path_id": 121021380,
+     "path": "/studio/guides/architecture-jury-presentation-slides",
+     "event": false,
+     "title": "How to Structure a 10\u201315 Slide Architecture Jury Deck",
+     "max": 1
+    },
+    {
+     "count": 3,
      "path_id": 120998608,
      "path": "/studio/guides/how-to-present-architectural-plans-and-sections",
      "event": false,
      "title": "How to Present Architectural Plans and Sections \u00b7 Studio FGA",
+     "max": 1
+    },
+    {
+     "count": 3,
+     "path_id": 120773310,
+     "path": "/documentaries",
+     "event": false,
+     "title": "Architecture documentaries to watch \u00b7 Find Great Architecture",
      "max": 1
     },
     {
@@ -789,38 +805,22 @@
      "event": false,
      "title": "All buildings A\u2013Z \u00b7 Find Great Architecture",
      "max": 3
-    },
-    {
-     "count": 2,
-     "path_id": 126700125,
-     "path": "/buildings/seattle-central-library",
-     "event": false,
-     "title": "Seattle Central Library by OMA: photos, plans & key features",
-     "max": 2
-    },
-    {
-     "count": 2,
-     "path_id": 126612096,
-     "path": "/buildings/hua-lamphong-railway-station",
-     "event": false,
-     "title": "Hua Lamphong Railway Station by Mario Tamagno: photos",
-     "max": 2
     }
    ],
-   "total": 2341,
+   "total": 2364,
    "more": true
   },
   "referrers": {
    "stats": [
     {
      "name": "",
-     "count": 2214,
+     "count": 2242,
      "ref_scheme": "o"
     },
     {
      "id": "chatgpt.com",
      "name": "chatgpt.com",
-     "count": 234,
+     "count": 237,
      "ref_scheme": "c"
     },
     {
@@ -838,7 +838,7 @@
     {
      "id": "www.bing.com",
      "name": "www.bing.com",
-     "count": 85,
+     "count": 90,
      "ref_scheme": "h"
     },
     {
@@ -878,6 +878,12 @@
      "ref_scheme": "h"
     },
     {
+     "id": "Yahoo",
+     "name": "Yahoo",
+     "count": 8,
+     "ref_scheme": "g"
+    },
+    {
      "id": "l.instagram.com",
      "name": "l.instagram.com",
      "count": 8,
@@ -888,12 +894,6 @@
      "name": "www.perplexity.ai",
      "count": 8,
      "ref_scheme": "h"
-    },
-    {
-     "id": "Yahoo",
-     "name": "Yahoo",
-     "count": 7,
-     "ref_scheme": "g"
     },
     {
      "id": "bing.com",
@@ -944,6 +944,12 @@
      "ref_scheme": "h"
     },
     {
+     "id": "perplexity",
+     "name": "perplexity",
+     "count": 3,
+     "ref_scheme": "c"
+    },
+    {
      "id": "wall-bar",
      "name": "wall-bar",
      "count": 3,
@@ -962,10 +968,10 @@
      "ref_scheme": "h"
     },
     {
-     "id": "perplexity",
-     "name": "perplexity",
+     "id": "Yandex",
+     "name": "Yandex",
      "count": 2,
-     "ref_scheme": "c"
+     "ref_scheme": "g"
     },
     {
      "id": "guides-end",
@@ -984,12 +990,6 @@
      "name": "t.co",
      "count": 1,
      "ref_scheme": "h"
-    },
-    {
-     "id": "Yandex",
-     "name": "Yandex",
-     "count": 1,
-     "ref_scheme": "g"
     },
     {
      "id": "notebook.google.com",
@@ -1047,17 +1047,17 @@
     {
      "id": "Chrome",
      "name": "Chrome",
-     "count": 2898
+     "count": 2930
     },
     {
      "id": "Safari",
      "name": "Safari",
-     "count": 425
+     "count": 428
     },
     {
      "id": "Firefox",
      "name": "Firefox",
-     "count": 46
+     "count": 50
     },
     {
      "name": "",
@@ -1071,7 +1071,7 @@
     {
      "id": "Windows",
      "name": "Windows",
-     "count": 2336
+     "count": 2368
     },
     {
      "id": "Android",
@@ -1081,17 +1081,17 @@
     {
      "id": "iOS",
      "name": "iOS",
-     "count": 316
+     "count": 319
     },
     {
      "id": "macOS",
      "name": "macOS",
-     "count": 242
+     "count": 245
     },
     {
      "id": "Linux",
      "name": "Linux",
-     "count": 98
+     "count": 99
     },
     {
      "name": "",
@@ -1110,17 +1110,17 @@
     {
      "id": "US",
      "name": "United States",
-     "count": 889
+     "count": 893
     },
     {
      "id": "IN",
      "name": "India",
-     "count": 607
+     "count": 608
     },
     {
      "id": "BR",
      "name": "Brazil",
-     "count": 140
+     "count": 144
     },
     {
      "id": "AR",
@@ -1130,7 +1130,7 @@
     {
      "id": "SG",
      "name": "Singapore",
-     "count": 106
+     "count": 111
     },
     {
      "id": "TR",
@@ -1150,7 +1150,7 @@
     {
      "id": "VN",
      "name": "Vietnam",
-     "count": 81
+     "count": 82
     },
     {
      "id": "DE",
@@ -1178,13 +1178,13 @@
      "count": 52
     },
     {
-     "id": "FR",
-     "name": "France",
-     "count": 46
-    },
-    {
      "id": "GB",
      "name": "United Kingdom",
+     "count": 47
+    },
+    {
+     "id": "FR",
+     "name": "France",
      "count": 46
     },
     {
@@ -1198,9 +1198,19 @@
      "count": 42
     },
     {
+     "id": "KR",
+     "name": "South Korea",
+     "count": 35
+    },
+    {
      "id": "MX",
      "name": "Mexico",
      "count": 35
+    },
+    {
+     "id": "CA",
+     "name": "Canada",
+     "count": 34
     },
     {
      "id": "VE",
@@ -1208,18 +1218,8 @@
      "count": 34
     },
     {
-     "id": "CA",
-     "name": "Canada",
-     "count": 33
-    },
-    {
      "id": "IR",
      "name": "Iran",
-     "count": 31
-    },
-    {
-     "id": "KR",
-     "name": "South Korea",
      "count": 31
     },
     {
@@ -1248,19 +1248,19 @@
      "count": 25
     },
     {
+     "id": "NL",
+     "name": "Netherlands",
+     "count": 24
+    },
+    {
      "id": "DZ",
      "name": "Algeria",
      "count": 23
     },
     {
-     "id": "NL",
-     "name": "Netherlands",
-     "count": 23
-    },
-    {
      "id": "JP",
      "name": "Japan",
-     "count": 18
+     "count": 19
     },
     {
      "id": "MY",
@@ -1278,14 +1278,14 @@
      "count": 16
     },
     {
-     "id": "SC",
-     "name": "Seychelles",
+     "id": "IQ",
+     "name": "Iraq",
      "count": 15
     },
     {
-     "id": "IQ",
-     "name": "Iraq",
-     "count": 14
+     "id": "SC",
+     "name": "Seychelles",
+     "count": 15
     },
     {
      "id": "OM",
@@ -1293,9 +1293,14 @@
      "count": 14
     },
     {
+     "id": "CN",
+     "name": "China",
+     "count": 13
+    },
+    {
      "id": "IT",
      "name": "Italy",
-     "count": 12
+     "count": 13
     },
     {
      "id": "NZ",
@@ -1443,6 +1448,11 @@
      "count": 3
     },
     {
+     "id": "BH",
+     "name": "Bahrain",
+     "count": 2
+    },
+    {
      "id": "BO",
      "name": "Bolivia",
      "count": 2
@@ -1528,11 +1538,6 @@
      "count": 1
     },
     {
-     "id": "BH",
-     "name": "Bahrain",
-     "count": 1
-    },
-    {
      "id": "BY",
      "name": "Belarus",
      "count": 1
@@ -1601,11 +1606,6 @@
      "id": "PT",
      "name": "Portugal",
      "count": 1
-    },
-    {
-     "id": "QA",
-     "name": "Qatar",
-     "count": 1
     }
    ],
    "more": true
@@ -1615,7 +1615,7 @@
     {
      "id": "phone",
      "name": "",
-     "count": 639
+     "count": 642
     },
     {
      "id": "tablet",
@@ -1625,12 +1625,12 @@
     {
      "id": "desktop",
      "name": "",
-     "count": 2514
+     "count": 2549
     },
     {
      "id": "desktophd",
      "name": "",
-     "count": 77
+     "count": 78
     },
     {
      "id": "unknown",
@@ -1645,7 +1645,7 @@
     {
      "id": "(unknown)",
      "name": "(unknown)",
-     "count": 3371
+     "count": 3410
     }
    ],
    "more": false
