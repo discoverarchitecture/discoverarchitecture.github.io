@@ -1,13 +1,13 @@
 {
- "fetched_at": "2026-11-25T21:34:08+00:00",
+ "fetched_at": "2026-11-26T07:59:37+00:00",
  "site": "akshatpagaria.goatcounter.com",
  "window_days": 30,
- "visits_30d": 5186,
+ "visits_30d": 5205,
  "sections": {
   "pages": {
    "hits": [
     {
-     "count": 986,
+     "count": 982,
      "path_id": 112020267,
      "path": "/",
      "event": false,
@@ -15,7 +15,7 @@
      "max": 29
     },
     {
-     "count": 160,
+     "count": 156,
      "path_id": 113691164,
      "path": "/studio",
      "event": false,
@@ -31,7 +31,7 @@
      "max": 3
     },
     {
-     "count": 73,
+     "count": 74,
      "path_id": 120621079,
      "path": "studio/flow/paywall",
      "event": true,
@@ -143,20 +143,20 @@
      "max": 2
     },
     {
-     "count": 22,
-     "path_id": 113702981,
-     "path": "studio/ai-button",
-     "event": true,
-     "title": "AI jury presentation generator",
-     "max": 2
-    },
-    {
      "count": 21,
      "path_id": 118826722,
      "path": "studio/screen/price",
      "event": true,
      "title": "Studio \u00b7 screen \u00b7 price",
      "max": 1
+    },
+    {
+     "count": 21,
+     "path_id": 113702981,
+     "path": "studio/ai-button",
+     "event": true,
+     "title": "AI jury presentation generator",
+     "max": 2
     },
     {
      "count": 19,
@@ -167,7 +167,7 @@
      "max": 1
     },
     {
-     "count": 19,
+     "count": 18,
      "path_id": 113298212,
      "path": "map/open",
      "event": true,
@@ -191,19 +191,19 @@
      "max": 1
     },
     {
-     "count": 15,
-     "path_id": 112020274,
-     "path": "/play",
-     "event": false,
-     "title": "Daily five \u00b7 Guess the building? \u00b7 Find Great Architecture",
-     "max": 1
-    },
-    {
      "count": 14,
      "path_id": 117212605,
      "path": "studio/click/home/sec",
      "event": true,
      "title": "Studio \u00b7 click \u00b7 home \u00b7 sec",
+     "max": 1
+    },
+    {
+     "count": 14,
+     "path_id": 112020274,
+     "path": "/play",
+     "event": false,
+     "title": "Daily five \u00b7 Guess the building? \u00b7 Find Great Architecture",
      "max": 1
     },
     {
@@ -359,14 +359,6 @@
      "max": 2
     },
     {
-     "count": 7,
-     "path_id": 113751701,
-     "path": "/styles/postmodernism",
-     "event": false,
-     "title": "Postmodern architecture: 150 buildings with photos & plans",
-     "max": 2
-    },
-    {
      "count": 6,
      "path_id": 122267896,
      "path": "building/versohnungskirche-ulm",
@@ -388,6 +380,14 @@
      "path": "studio/click/q/qback",
      "event": true,
      "title": "Studio \u00b7 click \u00b7 q \u00b7 qback",
+     "max": 1
+    },
+    {
+     "count": 6,
+     "path_id": 113751701,
+     "path": "/styles/postmodernism",
+     "event": false,
+     "title": "Postmodern architecture: 150 buildings with photos & plans",
      "max": 1
     },
     {
@@ -485,14 +485,6 @@
      "event": true,
      "title": "Studio \u00b7 click \u00b7 home \u00b7 home",
      "max": 1
-    },
-    {
-     "count": 5,
-     "path_id": 115682236,
-     "path": "/buildings/the-egg-beirut",
-     "event": false,
-     "title": "The Egg (Beirut City Center) by Joseph Philippe Karam",
-     "max": 4
     },
     {
      "count": 5,
@@ -608,19 +600,11 @@
     },
     {
      "count": 4,
-     "path_id": 113996447,
-     "path": "studio/signup",
-     "event": true,
-     "title": "FGA Studio waitlist sign-up",
-     "max": 1
-    },
-    {
-     "count": 4,
-     "path_id": 112160373,
-     "path": "/buildings",
+     "path_id": 113963357,
+     "path": "/types/housing",
      "event": false,
-     "title": "All buildings A\u2013Z \u00b7 Find Great Architecture",
-     "max": 3
+     "title": "Housing architecture: 248 buildings with photos & plans",
+     "max": 1
     },
     {
      "count": 3,
@@ -629,6 +613,14 @@
      "event": false,
      "title": "King Abdullah Petroleum Studies and Research Center",
      "max": 3
+    },
+    {
+     "count": 3,
+     "path_id": 125605096,
+     "path": "studio/screen/result",
+     "event": true,
+     "title": "Studio \u00b7 screen \u00b7 result",
+     "max": 1
     },
     {
      "count": 3,
@@ -760,10 +752,10 @@
     },
     {
      "count": 3,
-     "path_id": 115569751,
-     "path": "/buildings/teatro-degli-arcimboldi",
-     "event": false,
-     "title": "Teatro degli Arcimboldi by Vittorio Gregotti: photos",
+     "path_id": 113996447,
+     "path": "studio/signup",
+     "event": true,
+     "title": "FGA Studio waitlist sign-up",
      "max": 1
     },
     {
@@ -772,14 +764,6 @@
      "path": "play/endless/over",
      "event": true,
      "title": "Endless run over",
-     "max": 1
-    },
-    {
-     "count": 3,
-     "path_id": 113963357,
-     "path": "/types/housing",
-     "event": false,
-     "title": "Housing architecture: 248 buildings with photos & plans",
      "max": 1
     },
     {
@@ -799,28 +783,44 @@
      "max": 1
     },
     {
+     "count": 3,
+     "path_id": 112160373,
+     "path": "/buildings",
+     "event": false,
+     "title": "All buildings A\u2013Z \u00b7 Find Great Architecture",
+     "max": 3
+    },
+    {
      "count": 2,
      "path_id": 126700125,
      "path": "/buildings/seattle-central-library",
      "event": false,
      "title": "Seattle Central Library by OMA: photos, plans & key features",
      "max": 2
+    },
+    {
+     "count": 2,
+     "path_id": 126612096,
+     "path": "/buildings/hua-lamphong-railway-station",
+     "event": false,
+     "title": "Hua Lamphong Railway Station by Mario Tamagno: photos",
+     "max": 2
     }
    ],
-   "total": 2356,
+   "total": 2341,
    "more": true
   },
   "referrers": {
    "stats": [
     {
      "name": "",
-     "count": 2228,
+     "count": 2214,
      "ref_scheme": "o"
     },
     {
      "id": "chatgpt.com",
      "name": "chatgpt.com",
-     "count": 245,
+     "count": 234,
      "ref_scheme": "c"
     },
     {
@@ -832,13 +832,13 @@
     {
      "id": "Google",
      "name": "Google",
-     "count": 100,
+     "count": 115,
      "ref_scheme": "g"
     },
     {
      "id": "www.bing.com",
      "name": "www.bing.com",
-     "count": 84,
+     "count": 85,
      "ref_scheme": "h"
     },
     {
@@ -854,16 +854,16 @@
      "ref_scheme": "c"
     },
     {
-     "id": "wall",
-     "name": "wall",
-     "count": 13,
-     "ref_scheme": "c"
-    },
-    {
      "id": "duckduckgo.com",
      "name": "duckduckgo.com",
      "count": 12,
      "ref_scheme": "h"
+    },
+    {
+     "id": "wall",
+     "name": "wall",
+     "count": 11,
+     "ref_scheme": "c"
     },
     {
      "id": "checkout.dodopayments.com",
@@ -1047,12 +1047,12 @@
     {
      "id": "Chrome",
      "name": "Chrome",
-     "count": 2895
+     "count": 2898
     },
     {
      "id": "Safari",
      "name": "Safari",
-     "count": 442
+     "count": 425
     },
     {
      "id": "Firefox",
@@ -1071,22 +1071,22 @@
     {
      "id": "Windows",
      "name": "Windows",
-     "count": 2326
+     "count": 2336
     },
     {
      "id": "Android",
      "name": "Android",
-     "count": 380
+     "count": 377
     },
     {
      "id": "iOS",
      "name": "iOS",
-     "count": 323
+     "count": 316
     },
     {
      "id": "macOS",
      "name": "macOS",
-     "count": 256
+     "count": 242
     },
     {
      "id": "Linux",
@@ -1110,12 +1110,12 @@
     {
      "id": "US",
      "name": "United States",
-     "count": 890
+     "count": 889
     },
     {
      "id": "IN",
      "name": "India",
-     "count": 619
+     "count": 607
     },
     {
      "id": "BR",
@@ -1125,7 +1125,7 @@
     {
      "id": "AR",
      "name": "Argentina",
-     "count": 133
+     "count": 131
     },
     {
      "id": "SG",
@@ -1135,17 +1135,17 @@
     {
      "id": "TR",
      "name": "Turkey",
-     "count": 100
+     "count": 97
     },
     {
      "id": "CO",
      "name": "Colombia",
-     "count": 90
+     "count": 89
     },
     {
      "id": "EG",
      "name": "Egypt",
-     "count": 82
+     "count": 83
     },
     {
      "id": "VN",
@@ -1156,6 +1156,11 @@
      "id": "DE",
      "name": "Germany",
      "count": 69
+    },
+    {
+     "id": "UZ",
+     "name": "Uzbekistan",
+     "count": 56
     },
     {
      "id": "EC",
@@ -1185,17 +1190,12 @@
     {
      "id": "TN",
      "name": "Tunisia",
-     "count": 46
+     "count": 45
     },
     {
      "id": "ID",
      "name": "Indonesia",
      "count": 42
-    },
-    {
-     "id": "UZ",
-     "name": "Uzbekistan",
-     "count": 41
     },
     {
      "id": "MX",
@@ -1213,13 +1213,13 @@
      "count": 33
     },
     {
-     "id": "KR",
-     "name": "South Korea",
-     "count": 32
-    },
-    {
      "id": "IR",
      "name": "Iran",
+     "count": 31
+    },
+    {
+     "id": "KR",
+     "name": "South Korea",
      "count": 31
     },
     {
@@ -1260,7 +1260,7 @@
     {
      "id": "JP",
      "name": "Japan",
-     "count": 19
+     "count": 18
     },
     {
      "id": "MY",
@@ -1270,16 +1270,16 @@
     {
      "id": "ES",
      "name": "Spain",
-     "count": 17
-    },
-    {
-     "id": "SC",
-     "name": "Seychelles",
-     "count": 15
+     "count": 16
     },
     {
      "id": "TH",
      "name": "Thailand",
+     "count": 16
+    },
+    {
+     "id": "SC",
+     "name": "Seychelles",
      "count": 15
     },
     {
@@ -1338,16 +1338,6 @@
      "count": 7
     },
     {
-     "id": "UA",
-     "name": "Ukraine",
-     "count": 7
-    },
-    {
-     "id": "AE",
-     "name": "United Arab Emirates",
-     "count": 6
-    },
-    {
      "id": "AL",
      "name": "Albania",
      "count": 6
@@ -1363,11 +1353,6 @@
      "count": 6
     },
     {
-     "id": "LB",
-     "name": "Lebanon",
-     "count": 6
-    },
-    {
      "id": "NI",
      "name": "Nicaragua",
      "count": 6
@@ -1376,6 +1361,11 @@
      "id": "TW",
      "name": "Taiwan",
      "count": 6
+    },
+    {
+     "id": "AE",
+     "name": "United Arab Emirates",
+     "count": 5
     },
     {
      "id": "CR",
@@ -1390,6 +1380,11 @@
     {
      "id": "PL",
      "name": "Poland",
+     "count": 5
+    },
+    {
+     "id": "UA",
+     "name": "Ukraine",
      "count": 5
     },
     {
@@ -1458,8 +1453,8 @@
      "count": 2
     },
     {
-     "id": "GT",
-     "name": "Guatemala",
+     "id": "LB",
+     "name": "Lebanon",
      "count": 2
     },
     {
@@ -1563,6 +1558,11 @@
      "count": 1
     },
     {
+     "id": "GT",
+     "name": "Guatemala",
+     "count": 1
+    },
+    {
      "id": "JM",
      "name": "Jamaica",
      "count": 1
@@ -1615,22 +1615,22 @@
     {
      "id": "phone",
      "name": "",
-     "count": 649
+     "count": 639
     },
     {
      "id": "tablet",
      "name": "",
-     "count": 143
+     "count": 141
     },
     {
      "id": "desktop",
      "name": "",
-     "count": 2515
+     "count": 2514
     },
     {
      "id": "desktophd",
      "name": "",
-     "count": 78
+     "count": 77
     },
     {
      "id": "unknown",
@@ -1645,7 +1645,7 @@
     {
      "id": "(unknown)",
      "name": "(unknown)",
-     "count": 3385
+     "count": 3371
     }
    ],
    "more": false
