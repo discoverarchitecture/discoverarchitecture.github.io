@@ -1,15 +1,15 @@
 {
- "fetched_at": "2026-11-25T14:51:29+00:00",
+ "fetched_at": "2026-11-26T14:17:30+00:00",
  "site": "sc-domain:findgreatarchitecture.com",
  "window_days": 28,
- "start": "2026-10-29",
- "end": "2026-11-25",
+ "start": "2026-10-30",
+ "end": "2026-11-26",
  "web": {
   "total": {
    "clicks": 9,
-   "impressions": 103,
-   "ctr": 0.0874,
-   "position": 38.0
+   "impressions": 104,
+   "ctr": 0.0865,
+   "position": 37.8
   },
   "queries": [
    {
@@ -53,13 +53,6 @@
     "impressions": 1,
     "ctr": 0,
     "position": 74
-   },
-   {
-    "query": "casa gaspar alberto campo baeza",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 8
    },
    {
     "query": "cocoon building",
@@ -225,13 +218,6 @@
     "position": 9
    },
    {
-    "page": "https://findgreatarchitecture.com/buildings/australian-national-maritime-museum/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 5
-   },
-   {
     "page": "https://findgreatarchitecture.com/buildings/beijing-railway-station/",
     "clicks": 0,
     "impressions": 1,
@@ -272,13 +258,6 @@
     "impressions": 2,
     "ctr": 0,
     "position": 10
-   },
-   {
-    "page": "https://findgreatarchitecture.com/buildings/casa-gaspar/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 8
    },
    {
     "page": "https://findgreatarchitecture.com/buildings/church-of-san-giovanni-battista/",
@@ -391,6 +370,13 @@
     "impressions": 1,
     "ctr": 0,
     "position": 19
+   },
+   {
+    "page": "https://findgreatarchitecture.com/buildings/langer-eugen/",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 8
    },
    {
     "page": "https://findgreatarchitecture.com/buildings/lentos-kunstmuseum-linz/",
@@ -528,16 +514,16 @@
    {
     "page": "https://findgreatarchitecture.com/buildings/shanghai-exhibition-centre/",
     "clicks": 0,
-    "impressions": 1,
+    "impressions": 2,
     "ctr": 0,
-    "position": 36
+    "position": 23
    },
    {
     "page": "https://findgreatarchitecture.com/buildings/siedlung-halen/",
     "clicks": 0,
-    "impressions": 1,
+    "impressions": 2,
     "ctr": 0,
-    "position": 2
+    "position": 3.5
    },
    {
     "page": "https://findgreatarchitecture.com/buildings/singha-durbar/",
@@ -649,9 +635,9 @@
    {
     "country": "usa",
     "clicks": 1,
-    "impressions": 35,
-    "ctr": 0.0286,
-    "position": 31.9
+    "impressions": 36,
+    "ctr": 0.0278,
+    "position": 31.2
    },
    {
     "country": "alb",
@@ -663,9 +649,9 @@
    {
     "country": "aus",
     "clicks": 0,
-    "impressions": 6,
+    "impressions": 5,
     "ctr": 0,
-    "position": 64.5
+    "position": 76.4
    },
    {
     "country": "bgd",
@@ -726,9 +712,9 @@
    {
     "country": "grc",
     "clicks": 0,
-    "impressions": 2,
+    "impressions": 1,
     "ctr": 0,
-    "position": 14
+    "position": 20
    },
    {
     "country": "hkg",
@@ -740,9 +726,9 @@
    {
     "country": "idn",
     "clicks": 0,
-    "impressions": 2,
+    "impressions": 3,
     "ctr": 0,
-    "position": 39.5
+    "position": 29
    },
    {
     "country": "irn",
@@ -794,6 +780,13 @@
     "position": 1
    },
    {
+    "country": "pol",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 5
+   },
+   {
     "country": "prt",
     "clicks": 0,
     "impressions": 1,
@@ -840,9 +833,9 @@
    {
     "device": "MOBILE",
     "clicks": 0,
-    "impressions": 12,
+    "impressions": 13,
     "ctr": 0,
-    "position": 20.1
+    "position": 19.3
    }
   ],
   "query_pages": [
@@ -893,14 +886,6 @@
     "impressions": 1,
     "ctr": 0,
     "position": 74
-   },
-   {
-    "query": "casa gaspar alberto campo baeza",
-    "page": "https://findgreatarchitecture.com/buildings/casa-gaspar/",
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 8
    },
    {
     "query": "cocoon building",
