@@ -51,9 +51,9 @@ addresses here (the repository is public). Send about five a day; one short foll
 | 41 | University of Massachusetts Amherst | Architecture guide | 2026-11-07 | 2026-11-09 | none by 23 Nov; followed up 2026-11-25 |
 | 42 | Yorkville University | Interior Design guide | 2026-11-07 | 2026-11-09 | auto-reply: librarian has left; a business contact was named |
 | 43 | Effat University | Architecture and Urbanism guide | 2026-11-07 | 2026-11-09 | none by 23 Nov; followed up 2026-11-25 |
-| 44 | University of Tennessee, Knoxville | Landscape Architecture guide | 2026-11-07 | 2026-11-09 | none by 23 Nov; followed up 2026-11-25 |
+| 44 | University of Tennessee, Knoxville | Landscape Architecture guide | 2026-11-07 | 2026-11-09 | none by 23 Nov; followed up 2026-11-25; auto-reply: Thanksgiving, back 30 Nov (no more emails) |
 | 45 | Thomas Jefferson University | Landscape Architecture guide | 2026-11-07 | 2026-11-09 | none by 23 Nov; followed up 2026-11-25 |
-| 46 | Oklahoma State University | Finding Images guide | 2026-11-07 | 2026-11-09 | none by 23 Nov; followed up 2026-11-25 |
+| 46 | Oklahoma State University | Finding Images guide | 2026-11-07 | 2026-11-09 | none by 23 Nov; followed up 2026-11-25; auto-reply: Thanksgiving closure (no more emails) |
 | 47 | School of Planning and Architecture, Delhi (India) | Department of Architecture (head of department) | 2026-11-16 | 2026-11-16 | |
 | 48 | School of Planning and Architecture, Bhopal (India) | Library | 2026-11-16 | 2026-11-16 | |
 | 49 | University of California, Berkeley | American Architecture guide · Images (general library address) | 2026-11-16 | 2026-11-16 | |
@@ -79,10 +79,15 @@ addresses here (the repository is public). Send about five a day; one short foll
 | 69 | Faculty of Architecture and Planning, AKTU, Lucknow (India) | Dean and Principal (from foaaktu.ac.in) | 2026-11-24 | 2026-11-24 | |
 | 70 | Rachana Sansad's Academy of Architecture, Mumbai (India) | Principal (from aoamumbai.in) | 2026-11-24 | 2026-11-24 | |
 | 71 | McGill University | Canadian and Montreal Architecture guide (named librarian) | 2026-11-25 | 2026-11-25 | |
-| 72 | Centennial College | Architectural Technology guide (general library address) | 2026-11-25 | 2026-11-25 | |
+| 72 | Centennial College | Architectural Technology guide (general library address) | 2026-11-25 | 2026-11-25 | auto-reply (general mailbox) 25 Nov |
 | 73 | Durham College | Architectural Technology guide (named librarian) | 2026-11-25 | 2026-11-25 | |
 | 74 | Department of Architecture, M.S. University of Baroda (India) | Head of department (from the department's page on msubaroda.ac.in) | 2026-11-25 | 2026-11-25 | |
 | 75 | Sushant School of Art and Architecture, Sushant University (India) | Chief Librarian (from the university's Library & Resource Centre page) | 2026-11-25 | 2026-11-25 | |
+| 76 | Department of Architecture, School of Architecture and Planning, Anna University (India) | Head of department (from the department's page and the university's telephone directory) | 2026-11-26 | 2026-11-26 | |
+| 77 | Department of Architecture, Jamia Millia Islamia (India) | Head of department (department address from a JMI notice on jmi.ac.in) | 2026-11-26 | 2026-11-26 | |
+| 78 | University of Portsmouth | Architecture and Interiors subject page (general library address) | 2026-11-26 | 2026-11-26 | |
+| 79 | University of Plymouth | Art History guide · Image Collections (general library address) | 2026-11-26 | 2026-11-26 | |
+| 80 | Mount Holyoke College | Art History and Architecture guide · Locating Images (research services address) | 2026-11-26 | 2026-11-26 | |
 
 Follow-ups for 1–5 sent 16 Nov (no more emails to them). Skipped on 16 Nov: UCLA (only the guide software's admin address; no architecture librarian found), MIT (no address found; the architecture librarian has a profile but no public email). Queue positions 0–3 are done. 18 Nov: positions 4–9 read; Boston Architectural College and SCI-Arc have no address (skipped), Academy of Art University (general address) left for a later day; positions 0–9 done. 19 Nov: positions 10–15 read; Cincinnati, Roger Williams, Miami and College of DuPage have no address (skipped); queue positions 0–15 done. Tue 17 Nov's run arrived a day late and was skipped. Manitoba: out of office 9–16 Nov (auto-reply to the 16 Nov reminder).
 
@@ -101,3 +106,5 @@ Test run of the fresh-session routine, 19 Nov 2026: repository, Gmail and push O
 24 Nov (Mon 23 Nov had no run): queue positions 22-28 read; 22-24 sent; McGill (25, named librarian), Centennial (26, general address) and Durham (27, named librarian) are next; UTS (28) has no address (skip). Queue positions 0-24 done. Follow-ups for 21-36 (except 33) sent 24 Nov; 37-41 and 43-46 are due next run (42 skipped: librarian left). Inbox since 20 Nov: UCL update (row 33), auto-replies from Yale (away until 30 Nov), Strathclyde, Marymount and Fordham; no complaints, no new yes or no.
 
 25 Nov: queue positions 25-31 read; 25-27 sent; UTS (28), Westminster (29) and Sheffield (30) have no address (skip); Sheffield Hallam (31, general help-desk address only) left for a later day. Queue positions 0-30 done. Follow-ups for 37-41 and 43-46 sent 25 Nov (all of 21-46 now done). Inbox since 24 Nov: auto-replies from CSU Sacramento (on leave until 30 Nov), LSU (away until 1 Dec) and Northampton (general mailbox); no complaints, no new yes or no. Next follow-ups due: 47-50 from 30 Nov; UCL guide check after 1 Dec.
+
+26 Nov: queue positions 31-37 read; Portsmouth (32), Plymouth (33) and Mount Holyoke (35) sent; RPI (34) and CSU Northridge (37) have no address (skip); Sheffield Hallam (31, university help desk only) and Santa Barbara City College (36, reference address) left for a later day. Queue positions 0-35 done except 31. No follow-ups or reminders due (47-50 due from 30 Nov; UCL guide check after 1 Dec). Inbox since 25 Nov: auto-replies from Oklahoma State and Tennessee (Thanksgiving) and Centennial (general mailbox); no complaints, no new yes or no. One bounce in the inbox was a test message to the owner's own address, not outreach.
