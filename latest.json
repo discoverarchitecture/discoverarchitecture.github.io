@@ -1,13 +1,13 @@
 {
- "fetched_at": "2026-11-27T08:01:01+00:00",
+ "fetched_at": "2026-11-27T21:02:20+00:00",
  "site": "akshatpagaria.goatcounter.com",
  "window_days": 30,
- "visits_30d": 5282,
+ "visits_30d": 5298,
  "sections": {
   "pages": {
    "hits": [
     {
-     "count": 988,
+     "count": 990,
      "path_id": 112020267,
      "path": "/",
      "event": false,
@@ -15,7 +15,7 @@
      "max": 29
     },
     {
-     "count": 156,
+     "count": 157,
      "path_id": 113691164,
      "path": "/studio",
      "event": false,
@@ -23,7 +23,7 @@
      "max": 3
     },
     {
-     "count": 151,
+     "count": 152,
      "path_id": 116720890,
      "path": "studio/screen/home",
      "event": true,
@@ -31,7 +31,7 @@
      "max": 3
     },
     {
-     "count": 78,
+     "count": 79,
      "path_id": 120621079,
      "path": "studio/flow/paywall",
      "event": true,
@@ -247,6 +247,14 @@
      "max": 2
     },
     {
+     "count": 11,
+     "path_id": 113703681,
+     "path": "/styles/brutalism",
+     "event": false,
+     "title": "Brutalist architecture: 249 buildings with photos & plans",
+     "max": 1
+    },
+    {
      "count": 10,
      "path_id": 121730585,
      "path": "studio/readcard/questions",
@@ -284,14 +292,6 @@
      "path": "studio/click/home/open-details",
      "event": true,
      "title": "Studio \u00b7 click \u00b7 home \u00b7 open-details",
-     "max": 1
-    },
-    {
-     "count": 10,
-     "path_id": 113703681,
-     "path": "/styles/brutalism",
-     "event": false,
-     "title": "Brutalist architecture: 249 buildings with photos & plans",
      "max": 1
     },
     {
@@ -359,6 +359,14 @@
      "max": 2
     },
     {
+     "count": 7,
+     "path_id": 113751701,
+     "path": "/styles/postmodernism",
+     "event": false,
+     "title": "Postmodern architecture: 150 buildings with photos & plans",
+     "max": 1
+    },
+    {
      "count": 6,
      "path_id": 122267896,
      "path": "building/versohnungskirche-ulm",
@@ -396,14 +404,6 @@
      "path": "studio/click/upload/dropUp",
      "event": true,
      "title": "Studio \u00b7 click \u00b7 upload \u00b7 dropUp",
-     "max": 1
-    },
-    {
-     "count": 6,
-     "path_id": 113751701,
-     "path": "/styles/postmodernism",
-     "event": false,
-     "title": "Postmodern architecture: 150 buildings with photos & plans",
      "max": 1
     },
     {
@@ -493,6 +493,14 @@
      "event": false,
      "title": "Adaptive reuse architecture examples: 194 buildings & photos",
      "max": 1
+    },
+    {
+     "count": 4,
+     "path_id": 128040962,
+     "path": "/buildings/daily-express-building-london",
+     "event": false,
+     "title": "Daily Express Building by Ellis, 1932: photos & key features",
+     "max": 2
     },
     {
      "count": 4,
@@ -797,30 +805,22 @@
      "event": false,
      "title": "Castello di Rivoli by Andrea Bruno: photos & key features",
      "max": 1
-    },
-    {
-     "count": 3,
-     "path_id": 112160373,
-     "path": "/buildings",
-     "event": false,
-     "title": "All buildings A\u2013Z \u00b7 Find Great Architecture",
-     "max": 3
     }
    ],
-   "total": 2373,
+   "total": 2381,
    "more": true
   },
   "referrers": {
    "stats": [
     {
      "name": "",
-     "count": 2260,
+     "count": 2270,
      "ref_scheme": "o"
     },
     {
      "id": "chatgpt.com",
      "name": "chatgpt.com",
-     "count": 226,
+     "count": 228,
      "ref_scheme": "c"
     },
     {
@@ -838,7 +838,7 @@
     {
      "id": "www.bing.com",
      "name": "www.bing.com",
-     "count": 99,
+     "count": 100,
      "ref_scheme": "h"
     },
     {
@@ -850,7 +850,7 @@
     {
      "id": "libguide",
      "name": "libguide",
-     "count": 22,
+     "count": 24,
      "ref_scheme": "c"
     },
     {
@@ -950,6 +950,12 @@
      "ref_scheme": "c"
     },
     {
+     "id": "Yandex",
+     "name": "Yandex",
+     "count": 3,
+     "ref_scheme": "g"
+    },
+    {
      "id": "wall-bar",
      "name": "wall-bar",
      "count": 3,
@@ -960,12 +966,6 @@
      "name": "YouTube",
      "count": 2,
      "ref_scheme": "c"
-    },
-    {
-     "id": "Yandex",
-     "name": "Yandex",
-     "count": 2,
-     "ref_scheme": "g"
     },
     {
      "id": "guides-end",
@@ -1029,12 +1029,12 @@
     {
      "id": "Chrome",
      "name": "Chrome",
-     "count": 2948
+     "count": 2958
     },
     {
      "id": "Safari",
      "name": "Safari",
-     "count": 424
+     "count": 430
     },
     {
      "id": "Firefox",
@@ -1053,7 +1053,7 @@
     {
      "id": "Windows",
      "name": "Windows",
-     "count": 2391
+     "count": 2400
     },
     {
      "id": "Android",
@@ -1063,7 +1063,7 @@
     {
      "id": "iOS",
      "name": "iOS",
-     "count": 313
+     "count": 319
     },
     {
      "id": "macOS",
@@ -1073,7 +1073,7 @@
     {
      "id": "Linux",
      "name": "Linux",
-     "count": 100
+     "count": 101
     },
     {
      "name": "",
@@ -1092,7 +1092,7 @@
     {
      "id": "US",
      "name": "United States",
-     "count": 895
+     "count": 899
     },
     {
      "id": "IN",
@@ -1112,7 +1112,7 @@
     {
      "id": "SG",
      "name": "Singapore",
-     "count": 121
+     "count": 125
     },
     {
      "id": "TR",
@@ -1125,13 +1125,13 @@
      "count": 89
     },
     {
-     "id": "EG",
-     "name": "Egypt",
-     "count": 82
-    },
-    {
      "id": "VN",
      "name": "Vietnam",
+     "count": 83
+    },
+    {
+     "id": "EG",
+     "name": "Egypt",
      "count": 82
     },
     {
@@ -1162,7 +1162,7 @@
     {
      "id": "GB",
      "name": "United Kingdom",
-     "count": 47
+     "count": 49
     },
     {
      "id": "FR",
@@ -1200,6 +1200,11 @@
      "count": 34
     },
     {
+     "id": "KZ",
+     "name": "Kazakhstan",
+     "count": 31
+    },
+    {
      "id": "CH",
      "name": "Switzerland",
      "count": 29
@@ -1208,11 +1213,6 @@
      "id": "JO",
      "name": "Hashemite Kingdom of Jordan",
      "count": 29
-    },
-    {
-     "id": "KZ",
-     "name": "Kazakhstan",
-     "count": 28
     },
     {
      "id": "MA",
@@ -1232,7 +1232,7 @@
     {
      "id": "DZ",
      "name": "Algeria",
-     "count": 23
+     "count": 24
     },
     {
      "id": "NL",
@@ -1475,6 +1475,11 @@
      "count": 2
     },
     {
+     "id": "RU",
+     "name": "Russia",
+     "count": 2
+    },
+    {
      "id": "SK",
      "name": "Slovakia",
      "count": 2
@@ -1580,11 +1585,6 @@
      "count": 1
     },
     {
-     "id": "RU",
-     "name": "Russia",
-     "count": 1
-    },
-    {
      "id": "SD",
      "name": "Sudan",
      "count": 1
@@ -1597,17 +1597,17 @@
     {
      "id": "phone",
      "name": "",
-     "count": 629
+     "count": 634
     },
     {
      "id": "tablet",
      "name": "",
-     "count": 143
+     "count": 144
     },
     {
      "id": "desktop",
      "name": "",
-     "count": 2571
+     "count": 2581
     },
     {
      "id": "desktophd",
@@ -1627,7 +1627,7 @@
     {
      "id": "(unknown)",
      "name": "(unknown)",
-     "count": 3421
+     "count": 3437
     }
    ],
    "more": false
