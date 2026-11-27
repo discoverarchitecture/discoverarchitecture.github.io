@@ -27,9 +27,9 @@ uses it straight away. Spread across states and kinds of college. Mark each row 
 | Department of Architecture, Jadavpur University | Kolkata | department or library | no address found 2026-11-26; try again later |
 | Department of Architecture, Anna University (School of Architecture and Planning) | Chennai | department or library | 2026-11-26 (head of department, from the department page and university directory) |
 | Department of Architecture, Jamia Millia Islamia | New Delhi | department or library | 2026-11-26 (head of department, address from a JMI notice) |
-| Department of Architecture and Planning, MANIT (NIT Bhopal) | Bhopal | department or library | |
-| Department of Architecture, NIT Patna | Patna | department or library | |
-| Department of Architecture, NIT Raipur | Raipur | department or library | |
+| Department of Architecture and Planning, MANIT (NIT Bhopal) | Bhopal | department or library | 2026-11-27 (head of department, department address from manit.ac.in's contact page) |
+| Department of Architecture, NIT Patna | Patna | department or library | no verified address 2026-11-27 (department address only on an unofficial mirror; official site lists the HoD without an email); try again later |
+| Department of Architecture, NIT Raipur | Raipur | department or library | 2026-11-27 (head of department, department address from an NIT Raipur notice on nitrr.ac.in) |
 | Department of Architecture, BIT Mesra | Ranchi | department or library | |
 | Department of Architecture, Aligarh Muslim University | Aligarh | department or library | |
 | Goa College of Architecture | Panaji | library | |
