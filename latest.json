@@ -1,13 +1,13 @@
 {
- "fetched_at": "2026-11-27T21:02:20+00:00",
+ "fetched_at": "2026-11-28T07:30:36+00:00",
  "site": "akshatpagaria.goatcounter.com",
  "window_days": 30,
- "visits_30d": 5298,
+ "visits_30d": 5333,
  "sections": {
   "pages": {
    "hits": [
     {
-     "count": 990,
+     "count": 987,
      "path_id": 112020267,
      "path": "/",
      "event": false,
@@ -23,7 +23,7 @@
      "max": 3
     },
     {
-     "count": 152,
+     "count": 154,
      "path_id": 116720890,
      "path": "studio/screen/home",
      "event": true,
@@ -31,7 +31,7 @@
      "max": 3
     },
     {
-     "count": 79,
+     "count": 81,
      "path_id": 120621079,
      "path": "studio/flow/paywall",
      "event": true,
@@ -39,7 +39,7 @@
      "max": 3
     },
     {
-     "count": 58,
+     "count": 59,
      "path_id": 116802573,
      "path": "studio/scroll/25",
      "event": true,
@@ -47,7 +47,7 @@
      "max": 2
     },
     {
-     "count": 47,
+     "count": 48,
      "path_id": 116837291,
      "path": "studio/scroll/50",
      "event": true,
@@ -55,7 +55,7 @@
      "max": 2
     },
     {
-     "count": 45,
+     "count": 46,
      "path_id": 116802640,
      "path": "studio/screen/upload",
      "event": true,
@@ -143,19 +143,19 @@
      "max": 2
     },
     {
+     "count": 22,
+     "path_id": 116802639,
+     "path": "studio/click/home/start",
+     "event": true,
+     "title": "Studio \u00b7 click \u00b7 home \u00b7 start",
+     "max": 1
+    },
+    {
      "count": 21,
      "path_id": 118826722,
      "path": "studio/screen/price",
      "event": true,
      "title": "Studio \u00b7 screen \u00b7 price",
-     "max": 1
-    },
-    {
-     "count": 21,
-     "path_id": 116802639,
-     "path": "studio/click/home/start",
-     "event": true,
-     "title": "Studio \u00b7 click \u00b7 home \u00b7 start",
      "max": 1
     },
     {
@@ -167,7 +167,7 @@
      "max": 2
     },
     {
-     "count": 18,
+     "count": 19,
      "path_id": 117976607,
      "path": "studio/files/upload",
      "event": true,
@@ -175,7 +175,7 @@
      "max": 2
     },
     {
-     "count": 18,
+     "count": 19,
      "path_id": 117976564,
      "path": "studio/click/upload/add",
      "event": true,
@@ -191,7 +191,7 @@
      "max": 2
     },
     {
-     "count": 15,
+     "count": 16,
      "path_id": 117212605,
      "path": "studio/click/home/sec",
      "event": true,
@@ -247,14 +247,6 @@
      "max": 2
     },
     {
-     "count": 11,
-     "path_id": 113703681,
-     "path": "/styles/brutalism",
-     "event": false,
-     "title": "Brutalist architecture: 249 buildings with photos & plans",
-     "max": 1
-    },
-    {
      "count": 10,
      "path_id": 121730585,
      "path": "studio/readcard/questions",
@@ -292,6 +284,14 @@
      "path": "studio/click/home/open-details",
      "event": true,
      "title": "Studio \u00b7 click \u00b7 home \u00b7 open-details",
+     "max": 1
+    },
+    {
+     "count": 10,
+     "path_id": 113703681,
+     "path": "/styles/brutalism",
+     "event": false,
+     "title": "Brutalist architecture: 249 buildings with photos & plans",
      "max": 1
     },
     {
@@ -768,14 +768,6 @@
     },
     {
      "count": 3,
-     "path_id": 116370909,
-     "path": "/types/libraries",
-     "event": false,
-     "title": "Library architecture: 144 buildings with photos & plans",
-     "max": 1
-    },
-    {
-     "count": 3,
      "path_id": 113976891,
      "path": "play/endless/over",
      "event": true,
@@ -805,22 +797,30 @@
      "event": false,
      "title": "Castello di Rivoli by Andrea Bruno: photos & key features",
      "max": 1
+    },
+    {
+     "count": 3,
+     "path_id": 112160373,
+     "path": "/buildings",
+     "event": false,
+     "title": "All buildings A\u2013Z \u00b7 Find Great Architecture",
+     "max": 3
     }
    ],
-   "total": 2381,
+   "total": 2388,
    "more": true
   },
   "referrers": {
    "stats": [
     {
      "name": "",
-     "count": 2270,
+     "count": 2286,
      "ref_scheme": "o"
     },
     {
      "id": "chatgpt.com",
      "name": "chatgpt.com",
-     "count": 228,
+     "count": 226,
      "ref_scheme": "c"
     },
     {
@@ -832,13 +832,13 @@
     {
      "id": "Google",
      "name": "Google",
-     "count": 115,
+     "count": 121,
      "ref_scheme": "g"
     },
     {
      "id": "www.bing.com",
      "name": "www.bing.com",
-     "count": 100,
+     "count": 101,
      "ref_scheme": "h"
     },
     {
@@ -850,7 +850,7 @@
     {
      "id": "libguide",
      "name": "libguide",
-     "count": 24,
+     "count": 25,
      "ref_scheme": "c"
     },
     {
@@ -880,12 +880,6 @@
     {
      "id": "www.facebook.com",
      "name": "www.facebook.com",
-     "count": 9,
-     "ref_scheme": "h"
-    },
-    {
-     "id": "l.instagram.com",
-     "name": "l.instagram.com",
      "count": 8,
      "ref_scheme": "h"
     },
@@ -902,15 +896,21 @@
      "ref_scheme": "h"
     },
     {
-     "id": "ig",
-     "name": "ig",
+     "id": "l.instagram.com",
+     "name": "l.instagram.com",
      "count": 6,
-     "ref_scheme": "c"
+     "ref_scheme": "h"
     },
     {
      "id": "tab",
      "name": "tab",
      "count": 6,
+     "ref_scheme": "c"
+    },
+    {
+     "id": "ig",
+     "name": "ig",
+     "count": 5,
      "ref_scheme": "c"
     },
     {
@@ -1029,12 +1029,12 @@
     {
      "id": "Chrome",
      "name": "Chrome",
-     "count": 2958
+     "count": 2962
     },
     {
      "id": "Safari",
      "name": "Safari",
-     "count": 430
+     "count": 445
     },
     {
      "id": "Firefox",
@@ -1053,17 +1053,17 @@
     {
      "id": "Windows",
      "name": "Windows",
-     "count": 2400
+     "count": 2408
     },
     {
      "id": "Android",
      "name": "Android",
-     "count": 369
+     "count": 365
     },
     {
      "id": "iOS",
      "name": "iOS",
-     "count": 319
+     "count": 334
     },
     {
      "id": "macOS",
@@ -1092,17 +1092,17 @@
     {
      "id": "US",
      "name": "United States",
-     "count": 899
+     "count": 907
     },
     {
      "id": "IN",
      "name": "India",
-     "count": 608
+     "count": 602
     },
     {
      "id": "BR",
      "name": "Brazil",
-     "count": 144
+     "count": 151
     },
     {
      "id": "AR",
@@ -1117,7 +1117,7 @@
     {
      "id": "TR",
      "name": "Turkey",
-     "count": 96
+     "count": 102
     },
     {
      "id": "CO",
@@ -1165,19 +1165,24 @@
      "count": 49
     },
     {
+     "id": "KR",
+     "name": "South Korea",
+     "count": 46
+    },
+    {
      "id": "FR",
      "name": "France",
+     "count": 45
+    },
+    {
+     "id": "MX",
+     "name": "Mexico",
      "count": 45
     },
     {
      "id": "TN",
      "name": "Tunisia",
      "count": 45
-    },
-    {
-     "id": "MX",
-     "name": "Mexico",
-     "count": 44
     },
     {
      "id": "ID",
@@ -1190,11 +1195,6 @@
      "count": 35
     },
     {
-     "id": "KR",
-     "name": "South Korea",
-     "count": 35
-    },
-    {
      "id": "VE",
      "name": "Venezuela",
      "count": 34
@@ -1202,7 +1202,7 @@
     {
      "id": "KZ",
      "name": "Kazakhstan",
-     "count": 31
+     "count": 32
     },
     {
      "id": "CH",
@@ -1225,13 +1225,13 @@
      "count": 25
     },
     {
-     "id": "IR",
-     "name": "Iran",
-     "count": 25
-    },
-    {
      "id": "DZ",
      "name": "Algeria",
+     "count": 24
+    },
+    {
+     "id": "IR",
+     "name": "Iran",
      "count": 24
     },
     {
@@ -1260,14 +1260,14 @@
      "count": 16
     },
     {
-     "id": "IQ",
-     "name": "Iraq",
-     "count": 15
-    },
-    {
      "id": "SC",
      "name": "Seychelles",
      "count": 15
+    },
+    {
+     "id": "IQ",
+     "name": "Iraq",
+     "count": 14
     },
     {
      "id": "OM",
@@ -1297,7 +1297,7 @@
     {
      "id": "HK",
      "name": "Hong Kong",
-     "count": 11
+     "count": 10
     },
     {
      "id": "AU",
@@ -1385,11 +1385,6 @@
      "count": 4
     },
     {
-     "id": "IE",
-     "name": "Ireland",
-     "count": 4
-    },
-    {
      "id": "KE",
      "name": "Kenya",
      "count": 4
@@ -1405,13 +1400,8 @@
      "count": 4
     },
     {
-     "id": "AD",
-     "name": "Andorra",
-     "count": 3
-    },
-    {
-     "id": "MK",
-     "name": "North Macedonia",
+     "id": "IE",
+     "name": "Ireland",
      "count": 3
     },
     {
@@ -1432,11 +1422,6 @@
     {
      "id": "BO",
      "name": "Bolivia",
-     "count": 2
-    },
-    {
-     "id": "GR",
-     "name": "Greece",
      "count": 2
     },
     {
@@ -1490,6 +1475,11 @@
      "count": 2
     },
     {
+     "id": "AD",
+     "name": "Andorra",
+     "count": 1
+    },
+    {
      "id": "AM",
      "name": "Armenia",
      "count": 1
@@ -1535,6 +1525,11 @@
      "count": 1
     },
     {
+     "id": "GR",
+     "name": "Greece",
+     "count": 1
+    },
+    {
      "id": "GT",
      "name": "Guatemala",
      "count": 1
@@ -1557,6 +1552,11 @@
     {
      "id": "LU",
      "name": "Luxembourg",
+     "count": 1
+    },
+    {
+     "id": "MK",
+     "name": "North Macedonia",
      "count": 1
     },
     {
@@ -1597,7 +1597,7 @@
     {
      "id": "phone",
      "name": "",
-     "count": 634
+     "count": 645
     },
     {
      "id": "tablet",
@@ -1607,12 +1607,12 @@
     {
      "id": "desktop",
      "name": "",
-     "count": 2581
+     "count": 2590
     },
     {
      "id": "desktophd",
      "name": "",
-     "count": 78
+     "count": 77
     },
     {
      "id": "unknown",
@@ -1627,7 +1627,7 @@
     {
      "id": "(unknown)",
      "name": "(unknown)",
-     "count": 3437
+     "count": 3456
     }
    ],
    "more": false
